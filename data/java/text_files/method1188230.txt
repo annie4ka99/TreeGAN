@@ -1,0 +1,1 @@
+ public ChartMaker type(ChartTypeMaker type) { this.type = type; return this; } 

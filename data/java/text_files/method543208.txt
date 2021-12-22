@@ -1,0 +1,1 @@
+ public void setUserFormat(ATKFormat format) { atkUserFormat = format; } 

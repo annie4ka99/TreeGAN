@@ -1,0 +1,1 @@
+ public void setOverwrite(boolean state) { fOverwrite= state; } 

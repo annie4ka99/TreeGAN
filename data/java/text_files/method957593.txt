@@ -1,0 +1,1 @@
+ public void setSeverity(String value) { this.severity = value; } 

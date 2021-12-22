@@ -1,0 +1,1 @@
+ public float getEstimatedBandwidth() { return estimatedBandwidth; } 

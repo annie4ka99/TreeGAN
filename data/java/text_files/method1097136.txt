@@ -1,0 +1,1 @@
+ protected long getScanInterval() { return mScanInterval; } 

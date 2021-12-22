@@ -1,0 +1,1 @@
+ public void setIsAuthorized(java.lang.Integer isAuthorized) { this.isAuthorized = isAuthorized; } 

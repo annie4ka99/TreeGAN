@@ -1,0 +1,1 @@
+ public MeasureType getHighestLocation() { return highestLocation; } 

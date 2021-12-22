@@ -1,0 +1,1 @@
+ public MultiCurvePropertyType createMultiCurvePropertyType() { return new MultiCurvePropertyType(); } 

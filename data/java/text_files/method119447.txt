@@ -1,0 +1,1 @@
+ public void setSelectionCell(Object cell) { getSelectionModel().setSelectionCell(cell); } 

@@ -1,0 +1,1 @@
+ public void set(URI value) { uri = value; uriField.setText(value.toString()); } 

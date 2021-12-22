@@ -1,0 +1,1 @@
+ public FormConfig getFormConfig(String key) { return (FormConfig) formConfigs.get(key); } 

@@ -1,0 +1,1 @@
+ public void setFileType(int fileType) { this.fileType = fileType; } 

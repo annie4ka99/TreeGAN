@@ -1,0 +1,1 @@
+ protected void prepare() { super.prepare(); calculateSteadyState(); } 

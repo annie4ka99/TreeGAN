@@ -1,0 +1,1 @@
+ public StringBuffer getTfcMap() { return tfcMap; } 

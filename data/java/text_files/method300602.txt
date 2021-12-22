@@ -1,0 +1,1 @@
+ public void setRowShow( int row, String show ) { this.setValueAt( show, row, 2 ); } 

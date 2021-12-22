@@ -1,0 +1,1 @@
+ public int getSeasonResult() { return seasonPoint; } 

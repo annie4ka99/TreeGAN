@@ -1,0 +1,1 @@
+public void setThreadCheckerTimeout(long newThreadCheckerTimeout) { threadCheckerTimeout = newThreadCheckerTimeout; } 

@@ -1,0 +1,1 @@
+ public void setSessionId(int sessionId) { binaryHeader.putInt(0, sessionId); } 

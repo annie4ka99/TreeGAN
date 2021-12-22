@@ -1,0 +1,1 @@
+ public void setMandatory(boolean mand) { this.mandatory = mand; } 

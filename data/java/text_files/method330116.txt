@@ -1,0 +1,1 @@
+ private int getWholeDegrees(double latLong) { return (int) Math.floor(Math.abs(latLong)); } 

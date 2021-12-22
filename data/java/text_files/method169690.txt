@@ -1,0 +1,1 @@
+ public int getExpectedProfitOrLoss() { return expectedProfitOrLoss; } 

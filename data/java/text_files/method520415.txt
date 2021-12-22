@@ -1,0 +1,1 @@
+ private void setSelectedFrame(MiceInternalFrame f) { _desktopPane.setSelectedFrame(f); } 

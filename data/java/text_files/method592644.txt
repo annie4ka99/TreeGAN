@@ -1,0 +1,1 @@
+ public ValidationMetadata minlength(Integer minlength) { this.minlength = minlength; return this; } 

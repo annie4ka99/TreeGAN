@@ -1,0 +1,1 @@
+ public Expression getMiddleExpression() { return m_middle; } 

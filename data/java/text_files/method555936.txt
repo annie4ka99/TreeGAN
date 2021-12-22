@@ -1,0 +1,1 @@
+ public void setDomain(final String domain) { this.domain = domain; } 

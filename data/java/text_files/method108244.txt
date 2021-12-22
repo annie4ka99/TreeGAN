@@ -1,0 +1,1 @@
+ private RowSpec getCursorRowSpec() { return getLayout().getRowSpec(getRow()); } 

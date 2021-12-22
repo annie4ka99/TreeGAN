@@ -1,0 +1,1 @@
+ public void redo() { super.redo(); characterizedObj.setIntCharacteristics(characteristic, set); } 

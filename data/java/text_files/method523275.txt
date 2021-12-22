@@ -1,0 +1,1 @@
+ public char getType() { return NOPENDING_STOP; } 

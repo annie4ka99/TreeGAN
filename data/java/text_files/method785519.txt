@@ -1,0 +1,1 @@
+ public int getEndStrokeColor(int row) { return getInt(row, VisualItem.ENDSTROKECOLOR); } 

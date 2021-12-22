@@ -1,0 +1,1 @@
+ public boolean isIntrinsic() { return type.equals("Intrinsic"); } 

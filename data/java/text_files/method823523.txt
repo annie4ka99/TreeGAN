@@ -1,0 +1,1 @@
+ public void setContentHandler(ContentHandler handler) { contentHandler = handler; } 

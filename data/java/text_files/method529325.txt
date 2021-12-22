@@ -1,0 +1,1 @@
+ public void JD_removeObject( JD_Objectable pObject ) throws JD_Exception { mChildren.removeObject( pObject ); return; } 

@@ -1,0 +1,1 @@
+ public boolean contains(T elem) { return set.contains(elem); } 

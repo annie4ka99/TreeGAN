@@ -1,0 +1,1 @@
+ public void markAsSaved() { getCommandStack().markSaveLocation(); checkDirty(); } 

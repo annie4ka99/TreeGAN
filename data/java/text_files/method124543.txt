@@ -1,0 +1,1 @@
+ public SymbolTable local() { return global(); } 

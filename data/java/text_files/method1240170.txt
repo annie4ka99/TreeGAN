@@ -1,0 +1,1 @@
+ public boolean isElement() { return _isElement; } 

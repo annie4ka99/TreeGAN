@@ -1,0 +1,1 @@
+ public PixmapPane(ImageIcon pixmap) { this(pixmap, new java.awt.FlowLayout()); } 

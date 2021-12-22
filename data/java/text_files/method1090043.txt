@@ -1,0 +1,1 @@
+ protected long fromKey(Object aKey) { return ((Number) aKey).longValue(); } 

@@ -1,0 +1,1 @@
+ public void setDefaultLimit(int limit) { this.defaultLimit = defaultLimit; } 

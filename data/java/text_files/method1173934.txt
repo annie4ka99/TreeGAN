@@ -1,0 +1,1 @@
+ public void clearCompy() { this.compy.clear(); } 

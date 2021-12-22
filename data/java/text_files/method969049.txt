@@ -1,0 +1,1 @@
+ public float proximity(MineState mineState, short playerId) { return 1.0f; } 

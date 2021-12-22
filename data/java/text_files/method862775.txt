@@ -1,0 +1,1 @@
+ public void closeConnection() { try { _socket.close(); } catch (IOException ioe) {} } 

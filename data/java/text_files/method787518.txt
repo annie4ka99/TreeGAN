@@ -1,0 +1,1 @@
+ public double getDefaultSize() { return m_defaultSize; } 

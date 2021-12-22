@@ -1,0 +1,1 @@
+ public void glutInitWindowPosition (int x, int y) { WindowX = x; WindowY = y; } 

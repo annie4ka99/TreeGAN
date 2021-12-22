@@ -1,0 +1,1 @@
+ public void setContent(String content) { m_content = unescape(content); } 

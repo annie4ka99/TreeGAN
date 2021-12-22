@@ -1,0 +1,1 @@
+ public boolean eof() { return peek() == EOF; } 

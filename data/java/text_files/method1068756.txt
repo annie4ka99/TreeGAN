@@ -1,0 +1,1 @@
+ public void notifyChanged(Notification notification) { super.notifyChanged(notification); refreshVisuals(); } 

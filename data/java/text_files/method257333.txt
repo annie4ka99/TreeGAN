@@ -1,0 +1,1 @@
+ protected void setOffer(Offer offer) { this.offer = offer; } 

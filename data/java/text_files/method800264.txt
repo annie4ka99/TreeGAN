@@ -1,0 +1,1 @@
+ public int getHorizontalSpacing() { return defaultLook.getCellSpacing().x; } 

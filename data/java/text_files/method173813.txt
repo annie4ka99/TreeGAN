@@ -1,0 +1,1 @@
+ public void setResult(List result) { this.result = result; this.queried = false; } 

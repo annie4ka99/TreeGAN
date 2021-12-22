@@ -1,0 +1,1 @@
+ public void unlockCommand() { if (commandLock != null) { commandLock.unlock(); } } 

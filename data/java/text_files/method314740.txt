@@ -1,0 +1,1 @@
+ public boolean isCatalogAtStart() throws SQLException { return true; } 

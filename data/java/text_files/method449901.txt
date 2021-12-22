@@ -1,0 +1,1 @@
+ private boolean isReady(MobRef m) { return m.hasQueuedActions(); } 

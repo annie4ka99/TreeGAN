@@ -1,0 +1,1 @@
+ public boolean isPaid() { return wrappedColor.isPaid(); } 

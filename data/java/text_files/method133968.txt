@@ -1,0 +1,1 @@
+ public void setTitleFont(Font titleFont) { this.titleFont = titleFont; } 

@@ -1,0 +1,1 @@
+ public void setVal(int newInt) { setInt(new Integer(newInt)); } 

@@ -1,0 +1,1 @@
+ public CharColor getDefaultTitleColors() { return getTheme().getColor(Theme.COLOR_WINDOW_TITLE); } 

@@ -1,0 +1,1 @@
+ public double getParallelError(int iSide) { return Double.NaN; } 

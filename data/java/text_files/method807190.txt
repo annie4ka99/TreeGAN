@@ -1,0 +1,1 @@
+ public MouseListener getPeakChartCompositeMouseListener() { return this.peakChartCompositeMouseListener; } 

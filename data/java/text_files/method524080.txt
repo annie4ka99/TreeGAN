@@ -1,0 +1,1 @@
+ public void setPaperWidth(int i) { paperWidth = i; } 

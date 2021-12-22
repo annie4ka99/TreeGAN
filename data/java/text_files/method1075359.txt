@@ -1,0 +1,1 @@
+ public void setModuleService(IModuleService moduleService) { this.moduleService = moduleService; } 

@@ -1,0 +1,1 @@
+ public Vector getSearchFields() { return searchfields; } 

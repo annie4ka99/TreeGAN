@@ -1,0 +1,1 @@
+ public ArrayList getColumns(){ return columns; } 

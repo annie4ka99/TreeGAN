@@ -1,0 +1,1 @@
+ public void setJobNumber(String newJobNumber) { jobNumber = newJobNumber; } 

@@ -1,0 +1,1 @@
+ public void render (Environment environment) { graphicView.render(environment); paintScreen(); } 

@@ -1,0 +1,1 @@
+ public void setFollowAfterWhere(String followAfterWhere) { this.followAfterWhere = followAfterWhere; } 

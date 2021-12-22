@@ -1,0 +1,1 @@
+ private Argument shiftArgs() { return (Argument)this.arguments.remove(0); } 

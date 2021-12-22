@@ -1,0 +1,1 @@
+ public Body getBody2() { return m_body2; } 

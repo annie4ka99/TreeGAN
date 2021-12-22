@@ -1,0 +1,1 @@
+ protected void installDefaults() { super.installDefaults(); installSpecialBorder(); } 

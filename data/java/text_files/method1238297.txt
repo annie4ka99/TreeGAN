@@ -1,0 +1,1 @@
+ public void setAllWanted(boolean all) { bGenerateAll = all; } 

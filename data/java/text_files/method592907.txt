@@ -1,0 +1,1 @@
+ public PropertyExpression getExpression() { return expression; } 

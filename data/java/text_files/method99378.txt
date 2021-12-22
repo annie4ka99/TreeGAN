@@ -1,0 +1,1 @@
+ public void setIdentifier(TridasIdentifier value) { this.identifier = value; } 

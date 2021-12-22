@@ -1,0 +1,1 @@
+ public void previousFile () { setIndex(this.index - 1); } 

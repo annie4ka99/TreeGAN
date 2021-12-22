@@ -1,0 +1,1 @@
+ public void extendRegion(SliceData oldSlice, int peakNumber) { addSlicePeak(oldSlice, peakNumber); } 

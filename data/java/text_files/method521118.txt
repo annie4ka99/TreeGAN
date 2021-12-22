@@ -1,0 +1,1 @@
+public GuiTrace getTrace() { return trace; } 

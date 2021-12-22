@@ -1,0 +1,1 @@
+ public GeneratorFactory getFactory() { return genFactory; } 

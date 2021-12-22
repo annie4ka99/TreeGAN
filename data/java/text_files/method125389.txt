@@ -1,0 +1,1 @@
+ public void setExtensionListInDescription(boolean b) { useExtensionsInDescription = b; fullDescription = null; } 

@@ -1,0 +1,1 @@
+ protected double fr(double x, double k) { double force = (k * k) / x; return force; } 

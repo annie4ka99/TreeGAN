@@ -1,0 +1,1 @@
+ public void clearBindParameters() { this.params.clear(); } 

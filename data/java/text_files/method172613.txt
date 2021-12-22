@@ -1,0 +1,1 @@
+ public InstructionHandle insert(CompoundInstruction c) { return insert(c.getInstructionList()); } 

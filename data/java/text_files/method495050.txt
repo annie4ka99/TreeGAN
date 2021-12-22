@@ -1,0 +1,1 @@
+ public String getStringForColor(Color c) { return (String)colorMap.get(c); } 

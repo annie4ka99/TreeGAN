@@ -1,0 +1,1 @@
+ public void visitLSUB(LSUB o){ stack().pop(); stack().pop(); stack().push(Type.LONG); } 

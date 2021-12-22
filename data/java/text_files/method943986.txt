@@ -1,0 +1,1 @@
+ public boolean isLoaded (String context) { return this.getLoadedContexts().contains(context); } 

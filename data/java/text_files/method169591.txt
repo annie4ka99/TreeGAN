@@ -1,0 +1,1 @@
+ public double getVersion() { return PLUGIN_VERSION; } 

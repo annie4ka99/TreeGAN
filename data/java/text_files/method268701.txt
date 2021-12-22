@@ -1,0 +1,1 @@
+ protected int getLength() { return packet.length; } 

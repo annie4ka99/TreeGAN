@@ -1,0 +1,1 @@
+ public void finished() { log.Applidebug("finishing workerSwing"); } 

@@ -1,0 +1,1 @@
+ public boolean restore(DatabaseNode dbNode, IProgressMonitor monitor) throws InterruptedException { return false; } 

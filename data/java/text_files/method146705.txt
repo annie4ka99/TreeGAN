@@ -1,0 +1,1 @@
+ public int getSNR() { return SNR; } 

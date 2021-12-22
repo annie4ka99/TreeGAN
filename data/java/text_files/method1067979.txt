@@ -1,0 +1,1 @@
+ public void removeFilter(UmlFilter filter) { this.filters.remove(filter); } 

@@ -1,0 +1,1 @@
+ public TreeModel getTreeModel() { return this.getHtmlModel().getTreeModel(); } 

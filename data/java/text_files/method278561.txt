@@ -1,0 +1,1 @@
+ public void setProtectedDb(boolean protectedDb) { this.protectedDb = protectedDb; } 

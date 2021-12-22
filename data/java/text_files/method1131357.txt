@@ -1,0 +1,1 @@
+ public void disableType() { types.setEnabled(false); } 

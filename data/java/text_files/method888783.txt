@@ -1,0 +1,1 @@
+ public boolean inUnitGroup(){ return integral && unit; } 

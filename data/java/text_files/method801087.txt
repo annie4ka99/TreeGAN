@@ -1,0 +1,1 @@
+ public void setIReaction(IReaction reaction) { this.reaction = reaction; } 

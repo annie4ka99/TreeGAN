@@ -1,8 +1,0 @@
-// UNREACHABLE NON-TERMINALS FROM 'start'
-set([
-NonTerminal(name='keyword'),
-NonTerminal(name='token')
-])
-
-// TO LOCATE LEFT RECURSIVE RULES
-^([a-z_]+)     :[^:]*\|? \1[^a-z_]

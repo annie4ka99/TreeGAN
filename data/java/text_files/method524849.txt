@@ -1,0 +1,1 @@
+ public ItemMessage getMessage() { return message; } 

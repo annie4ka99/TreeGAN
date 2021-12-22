@@ -1,0 +1,1 @@
+ protected void getResponseHeaders(org.apache.axis.client.Call call) throws AxisFault { } 

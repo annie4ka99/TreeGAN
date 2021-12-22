@@ -1,0 +1,1 @@
+ private String checkError(){ String errorString = null; return errorString; } 

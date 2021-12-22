@@ -1,0 +1,1 @@
+ public void addRow(byte[][] row) throws SQLException { notSupported(); } 

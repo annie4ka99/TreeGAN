@@ -1,0 +1,1 @@
+ public void setLinkSeries(SeriesLinksWithPreferred value) { this.linkSeries = value; } 

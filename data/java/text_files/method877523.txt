@@ -1,0 +1,1 @@
+ public XRDS getPartialXRDS() { return xrds; } 

@@ -1,0 +1,1 @@
+ public void setBorderVisible(boolean v) { this.borderVisble = v; } 

@@ -1,0 +1,1 @@
+ public MapFigure duplicate() { return new RoundRoom(figure, getMapLayer()); } 

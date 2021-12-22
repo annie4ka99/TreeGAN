@@ -1,0 +1,1 @@
+ public void setIs2DArea(boolean isArea) { m_is2DArea = isArea; } 

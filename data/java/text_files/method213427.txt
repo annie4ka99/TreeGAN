@@ -1,0 +1,1 @@
+ public void setPrompt(String nPrompt) { prompt = nPrompt; } 

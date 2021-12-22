@@ -1,0 +1,1 @@
+ public HTWeek copy() { return new HTWeek(season, week); } 

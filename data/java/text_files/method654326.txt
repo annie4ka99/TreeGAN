@@ -1,0 +1,1 @@
+ public void setEntityContext(EntityContext entityContext) throws EJBException { this.entityContext = entityContext; } 

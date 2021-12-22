@@ -1,0 +1,1 @@
+ public Adapter createPeakListBinaryTypeAdapter() { return null; } 

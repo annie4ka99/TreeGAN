@@ -1,0 +1,1 @@
+ public double getActualFrequencyResolution() { return this.actualFreqResolution; } 

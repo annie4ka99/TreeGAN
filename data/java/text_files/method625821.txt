@@ -1,0 +1,1 @@
+ public Map getServiceDescriptionMap() throws EveException { return SOAPLookup.mMap; } 

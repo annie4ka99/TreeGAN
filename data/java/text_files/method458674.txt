@@ -1,0 +1,1 @@
+ public void update(Collection pkts, long now) { mContent.update(pkts, now); } 

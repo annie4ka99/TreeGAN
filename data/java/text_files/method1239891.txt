@@ -1,0 +1,1 @@
+ public void setMessageContext(MessageContext msgContext) { this.msgContext = msgContext; } 

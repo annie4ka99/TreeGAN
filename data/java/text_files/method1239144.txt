@@ -1,0 +1,1 @@
+ public boolean isAttachment(Object value) { return AttachmentUtils.isAttachment(value); } 

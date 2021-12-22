@@ -1,0 +1,1 @@
+ public EdgeIterator getEdgesIterator() { return new EdgeItr(edges.iterator()); } 

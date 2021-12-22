@@ -1,0 +1,1 @@
+ public boolean isDeploy() { return isDeploy; } 

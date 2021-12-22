@@ -1,0 +1,1 @@
+ public ServerAddress getPOP3Server() { return POP3Server; } 

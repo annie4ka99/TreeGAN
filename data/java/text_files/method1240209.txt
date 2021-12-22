@@ -1,0 +1,1 @@
+ public Iterator getAllMimeHeaders() { return mimeHeaders.getAllHeaders(); } 

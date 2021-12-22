@@ -1,0 +1,1 @@
+ public void setCardWidthMax(int cardWidthMax) { this.cardWidthMax = cardWidthMax; } 

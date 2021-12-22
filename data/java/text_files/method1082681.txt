@@ -1,0 +1,1 @@
+ public void setMultiselect(boolean b) { multiselect = b; } 

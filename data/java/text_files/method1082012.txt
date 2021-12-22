@@ -1,0 +1,1 @@
+ public int getNParallel() { return nParallel; } 

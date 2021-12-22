@@ -1,0 +1,1 @@
+ public boolean isOutputStreamSet() { return this.outputStreamSet; } 

@@ -1,0 +1,1 @@
+ private boolean hasNoContentBorder() { return hasEmbeddedTabs() || Boolean.TRUE.equals(noContentBorder); } 

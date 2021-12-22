@@ -1,0 +1,1 @@
+ public boolean isBlocked(Card attacker) { return blocked.contains(attacker); } 

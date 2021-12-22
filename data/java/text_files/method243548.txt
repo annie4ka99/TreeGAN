@@ -1,0 +1,1 @@
+ public String getDead() { return m_dead; } 

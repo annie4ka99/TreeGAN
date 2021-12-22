@@ -1,0 +1,1 @@
+ public int intAt( int index ) { return intPool.get( index - 1 ); } 

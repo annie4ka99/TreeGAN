@@ -1,0 +1,1 @@
+ public SectionsType getSections() { return sections; } 

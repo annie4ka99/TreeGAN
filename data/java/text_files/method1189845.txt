@@ -1,0 +1,1 @@
+ public void close() { if (blk != null) { tx.unpin(blk); blk = null; } } 

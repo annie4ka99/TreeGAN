@@ -1,0 +1,1 @@
+ public void setWildCard(String value) { this.wildCard = value; } 

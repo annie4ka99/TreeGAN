@@ -1,0 +1,1 @@
+ public void setChildVendorId(int childVendorId) { this.childVendorId = childVendorId; } 

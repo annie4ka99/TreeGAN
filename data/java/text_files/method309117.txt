@@ -1,0 +1,1 @@
+ protected void setSubtitle(String subtitle) { lSubtitle.setText(subtitle); } 

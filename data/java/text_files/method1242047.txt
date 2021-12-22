@@ -1,0 +1,1 @@
+ public void setItems(LineTypeItem[] items) { this.items = items; } 

@@ -1,0 +1,1 @@
+ public boolean isHidden() { return((_flags & Database.HIDDEN_OBJECT_FLAG) != 0); } 

@@ -1,0 +1,1 @@
+ public int addNodeRow() { return getNodeTable().addRow(); } 

@@ -1,0 +1,1 @@
+ public void setImage(final Image image) { this.image = image; } 

@@ -1,0 +1,1 @@
+ public boolean isReadyPLCT () { if (readyPLCT) { readyPLCT = false; return true; } return false; } 

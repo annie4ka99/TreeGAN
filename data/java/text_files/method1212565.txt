@@ -1,0 +1,1 @@
+ public Pattern getOperatorGreaterEqual() { return operatorGreaterEqual; } 

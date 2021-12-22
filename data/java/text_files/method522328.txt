@@ -1,0 +1,1 @@
+public ServiceStatus getStatus() throws RemoteException { incHits(); return ServiceStatus.OK; } 

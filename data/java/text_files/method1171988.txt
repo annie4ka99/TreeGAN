@@ -1,0 +1,1 @@
+ public void setSpellWithChoices(boolean b) { SpellwithChoices = b; } 

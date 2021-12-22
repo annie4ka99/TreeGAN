@@ -1,0 +1,1 @@
+ public double getStdev() { computeStdev(); return this.stdev; } 

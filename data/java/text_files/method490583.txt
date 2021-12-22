@@ -1,0 +1,1 @@
+ public void setTestkitLocation(File locationDir) { testkit = locationDir; xt.setTestkit(locationDir); } 

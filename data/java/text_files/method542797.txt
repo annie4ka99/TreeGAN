@@ -1,0 +1,1 @@
+ public void setCancelButtonVisible(boolean v) { this.cancelButtonVisible = v; } 

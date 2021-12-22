@@ -1,0 +1,1 @@
+ public void setSender(IMailSender sender) { this.sender = sender; } 

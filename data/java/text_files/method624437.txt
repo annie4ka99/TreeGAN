@@ -1,0 +1,1 @@
+ public boolean includes(Scope scope) { return this.includes(scope.firstToken, scope.lastToken); } 

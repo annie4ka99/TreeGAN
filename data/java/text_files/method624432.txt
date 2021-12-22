@@ -1,0 +1,1 @@
+ public void reserve(Identifier id) throws AlreadyBoundException { this.bind(new Binding(id)); } 

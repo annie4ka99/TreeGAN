@@ -1,0 +1,1 @@
+ public String getNid() { return this.nid; } 

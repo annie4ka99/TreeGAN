@@ -1,0 +1,1 @@
+ public String getMetadata() { return this.metadata; } 

@@ -1,0 +1,1 @@
+ public String toString() { return DOM2Writer.nodeToString((Node) element); } 

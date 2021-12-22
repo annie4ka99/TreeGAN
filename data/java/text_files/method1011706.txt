@@ -1,0 +1,1 @@
+ public void clearitail() { type &= (~TAIL_TAG); } 

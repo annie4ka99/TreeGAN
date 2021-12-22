@@ -1,0 +1,1 @@
+ public void setErrorX(double errorX){ errors[0] = new Double(errorX); } 

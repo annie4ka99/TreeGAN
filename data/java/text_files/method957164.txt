@@ -1,0 +1,1 @@
+ public PersonQueryType createPersonQueryType() { return new PersonQueryType(); } 

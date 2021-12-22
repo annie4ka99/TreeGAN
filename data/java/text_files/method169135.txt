@@ -1,0 +1,1 @@
+ public double getMax() { return max; } 

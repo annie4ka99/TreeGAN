@@ -1,0 +1,1 @@
+ protected void deactivate() { _listenerManager.handleEvent(new WindowEvent(this, WindowEvent.DEACTIVATED)); } 

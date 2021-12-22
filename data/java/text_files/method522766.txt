@@ -1,0 +1,1 @@
+ public int getBsiTraceLevel() { return bsiTraceLevel; } 

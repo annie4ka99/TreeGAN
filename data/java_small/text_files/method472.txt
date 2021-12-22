@@ -1,0 +1,1 @@
+ protected String solutionByMeAt(Date date) { return Texts.getText("createdBy") + " " + creatorName() + " " + Utilities.dateString(date); } 

@@ -1,0 +1,1 @@
+ public void putProperty( Object key, Object value ) { config.put( key, value ); } 

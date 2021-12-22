@@ -1,0 +1,1 @@
+ protected ComboBoxEditor createEditor() { return new PlasticComboBoxEditor.UIResource(tableCellEditor); } 

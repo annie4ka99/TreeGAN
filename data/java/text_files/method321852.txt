@@ -1,0 +1,1 @@
+ public void gotoEvent(OfflineEventDataUnit event) { tabPanelControl.clickDisplayManager.gotoEvent(event); } 

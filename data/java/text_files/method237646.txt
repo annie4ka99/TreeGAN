@@ -1,0 +1,1 @@
+ public void removeUI(UIWindow uiw){ uiwm.removeOverlay(uiw); } 

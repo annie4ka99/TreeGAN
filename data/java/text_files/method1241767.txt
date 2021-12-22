@@ -1,0 +1,1 @@
+ public ServletContext getServletContext() { return getServletConfig().getServletContext(); } 

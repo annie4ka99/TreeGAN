@@ -1,0 +1,1 @@
+ public void setSkipWhitespace(boolean skipWhitespace) { this.skipWhitespace = skipWhitespace; } 

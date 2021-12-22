@@ -1,0 +1,1 @@
+ public TransactionManagementType getTransactionManagementType() { return transactionManagementType; } 

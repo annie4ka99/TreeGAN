@@ -1,0 +1,1 @@
+ public int getCheckedElementCount() { return fCheckedStateStore.size(); } 

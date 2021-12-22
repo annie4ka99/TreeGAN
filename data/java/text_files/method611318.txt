@@ -1,0 +1,1 @@
+ public Place getTargetPlace(){ return this.target; } 

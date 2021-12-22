@@ -1,0 +1,1 @@
+ public void repaintTotal() { btPlot.setTotalRepaint(); btPlot.repaint(minPaintTime); } 

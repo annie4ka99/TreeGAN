@@ -1,0 +1,1 @@
+ public PilotDBRecord getRecord() { return record; } 

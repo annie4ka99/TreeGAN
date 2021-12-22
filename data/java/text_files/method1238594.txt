@@ -1,0 +1,1 @@
+ public Parameters getParameters(Operation operation) { return (Parameters) parameters.get(operation); } 

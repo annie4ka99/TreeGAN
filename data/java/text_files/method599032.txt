@@ -1,0 +1,1 @@
+ public String lpad(String text, int len) { return StringUtils.leftPad(text, len); } 

@@ -1,0 +1,1 @@
+ public boolean equals (final Object o) { return o instanceof ColumnComparator && ((ColumnComparator)o).col == col; } 

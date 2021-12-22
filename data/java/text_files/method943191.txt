@@ -1,0 +1,1 @@
+ public List getUserTags() { if (userTags == null) userTags = new ArrayList(); return userTags; } 

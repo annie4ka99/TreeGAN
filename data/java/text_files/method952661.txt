@@ -1,0 +1,1 @@
+ public void setRegistryAddress(String registryAddress) { this.registryAddress = registryAddress; } 

@@ -1,0 +1,1 @@
+ public AEntityList getList() { return entities; } 

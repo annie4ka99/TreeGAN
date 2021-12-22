@@ -1,0 +1,1 @@
+ public Format setOmitEncoding(boolean omitEncoding) { this.omitEncoding = omitEncoding; return this; } 

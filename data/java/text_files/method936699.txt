@@ -1,0 +1,1 @@
+ public void unregisterConnection(RemoteFileSystem remoteFileSystem) { remoteFileSystems.remove(remoteFileSystem); } 

@@ -1,0 +1,1 @@
+ public long getIdleFor() { return ((com.mysql.jdbc.Connection) mc).getIdleFor(); } 

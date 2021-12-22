@@ -1,0 +1,1 @@
+ public boolean canTraverseForwards() { if (this.pathsIterator.hasNext()) return true; return false; } 

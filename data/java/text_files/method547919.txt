@@ -1,0 +1,1 @@
+ public void setTitleText(String titleText) { this.titleText = titleText; setTitle(titleText); } 

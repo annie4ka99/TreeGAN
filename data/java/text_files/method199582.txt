@@ -1,0 +1,1 @@
+ protected Properties getSGEProperties() { return (Properties) getProperties(); } 

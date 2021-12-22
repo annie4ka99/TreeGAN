@@ -1,0 +1,1 @@
+ public void begin3DRendering() throws GLException { beginRendering(false, 0, 0, false); } 

@@ -1,0 +1,1 @@
+ public boolean matchIntConstant() { return tok.ttype == StreamTokenizer.TT_NUMBER; } 

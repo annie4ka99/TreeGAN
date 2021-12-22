@@ -1,0 +1,1 @@
+ public void setChildrenSelectable(boolean flag) { childrenSelectable = flag; } 

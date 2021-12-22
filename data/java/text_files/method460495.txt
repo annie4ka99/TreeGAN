@@ -1,0 +1,1 @@
+ public void setDocument1(Object document1) { this.document1 = document1; } 

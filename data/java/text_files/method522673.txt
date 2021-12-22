@@ -1,0 +1,1 @@
+public char getConvName() { return HTML2PDF; } 

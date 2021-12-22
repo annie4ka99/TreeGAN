@@ -1,0 +1,1 @@
+ public ExternalIdentifierQueryType createExternalIdentifierQueryType() { return new ExternalIdentifierQueryType(); } 

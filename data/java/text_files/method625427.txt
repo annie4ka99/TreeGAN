@@ -1,0 +1,1 @@
+ private void registerService() throws EveException { this.mManager = new ServiceManager(); } 

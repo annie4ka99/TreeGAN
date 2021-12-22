@@ -1,0 +1,1 @@
+ public void setFillColor(int row, int color) { setInt(row, VisualItem.FILLCOLOR, color); } 

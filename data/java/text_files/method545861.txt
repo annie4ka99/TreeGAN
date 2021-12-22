@@ -1,0 +1,1 @@
+ public double getA2() { return A2; } 

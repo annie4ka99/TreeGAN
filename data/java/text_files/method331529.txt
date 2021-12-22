@@ -1,0 +1,1 @@
+ public double getStep() { return 1./histoScale; } 

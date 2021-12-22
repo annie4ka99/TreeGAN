@@ -1,0 +1,1 @@
+ public void setEditable(int row, boolean editable) { rowEditable.put("" + row, "" + editable); } 

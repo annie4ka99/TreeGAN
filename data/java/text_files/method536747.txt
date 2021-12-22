@@ -1,0 +1,1 @@
+ public void setStateFilter(Rating.State state) { this.state = state; } 

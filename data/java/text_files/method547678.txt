@@ -1,0 +1,1 @@
+ public boolean isEditable() { if (adapter != null) return adapter.isEditable(); return editable; } 

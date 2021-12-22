@@ -1,0 +1,1 @@
+ public Place getDP(String inQuery){ return (Place) this.dpMap.get(inQuery); } 

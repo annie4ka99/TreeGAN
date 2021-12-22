@@ -1,0 +1,1 @@
+ public int getSamples() { return samples; } 

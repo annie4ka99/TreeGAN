@@ -1,0 +1,1 @@
+ public String getTodayCaption() { return today.getText(); } 

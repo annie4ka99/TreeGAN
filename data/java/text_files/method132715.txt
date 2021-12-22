@@ -1,0 +1,1 @@
+ public void removeNeoPaintListener(NeoPaintListener pl) { paintListeners.remove(pl); } 

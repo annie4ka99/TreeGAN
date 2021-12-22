@@ -1,0 +1,1 @@
+ public Element addContent(int index, Collection c) { content.addAll(index, c); return this; } 

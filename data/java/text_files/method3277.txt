@@ -1,0 +1,1 @@
+ private void signalCtrlEnter() { firePropertyChangeChange(OK_REQUESTED, null, null); } 

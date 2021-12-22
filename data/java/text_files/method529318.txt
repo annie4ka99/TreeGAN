@@ -1,0 +1,1 @@
+ public void putData( JD_Taglist pTags ) { if (pTags!=null) { mHash.putAll( pTags.mHash ); } return; } 

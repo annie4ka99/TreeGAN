@@ -1,0 +1,1 @@
+ public int getTopicId() { return this.topicId; } 

@@ -1,0 +1,1 @@
+ protected void setAttachment(Object anAttachment) { attachment = anAttachment; } 

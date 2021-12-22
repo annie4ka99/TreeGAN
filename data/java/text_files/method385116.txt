@@ -1,0 +1,1 @@
+ private JProtocol(String className) { this(className, new PcapDLT[0]); } 

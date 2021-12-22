@@ -1,0 +1,1 @@
+ public int getQ() { return q; } 

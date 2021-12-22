@@ -1,0 +1,1 @@
+ public String getStringattr() { xlogger.entry(); xlogger.exit(); return stringattr; } 

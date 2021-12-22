@@ -1,0 +1,1 @@
+ public void populateShop(CardList shop, CardList owned) { deckDisplay.updateDisplay(shop, owned); } 

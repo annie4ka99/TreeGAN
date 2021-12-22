@@ -1,0 +1,1 @@
+ protected IAeCoordinationManagerInternal getDelegate() { return mDelegate; } 

@@ -1,0 +1,1 @@
+ public SecurityMgr getSecurityMgr() { logger.debug("entering getSecurityMgr"); return securityMgr; } 

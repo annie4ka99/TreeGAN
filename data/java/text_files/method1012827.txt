@@ -1,0 +1,1 @@
+ public float getCharWidth(char inChar) { return mGlyphProducer.getGlyphPixelWidth(inChar); } 

@@ -1,0 +1,1 @@
+ public Session (java.lang.Long _id) { super(_id); } 

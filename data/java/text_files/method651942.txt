@@ -1,0 +1,1 @@
+ public IPartitionTokenScanner getPartitionScanner() { return partitionScanner; } 

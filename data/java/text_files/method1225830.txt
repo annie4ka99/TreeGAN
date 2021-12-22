@@ -1,0 +1,1 @@
+ public void onGraphChangedEvent(EventObject evt) { this.canvas.updateAndPaint(); } 

@@ -1,0 +1,1 @@
+ public void setInitROCDLowMass(Integer lowMass) { Setter.set(this.ROCDLowMass, lowMass); } 

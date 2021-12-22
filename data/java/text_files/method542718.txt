@@ -1,0 +1,1 @@
+ public void setValue(String[] o) { setSpecified(true); oldValue = value; value = o; } 

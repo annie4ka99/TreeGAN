@@ -1,0 +1,1 @@
+ public Enumeration getCanceledCommands() { return taskgraphHandler.getCanceledNodes(); } 

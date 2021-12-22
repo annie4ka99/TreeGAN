@@ -1,0 +1,1 @@
+ public void removeUpdate(DocumentEvent e) { showButtons(fileNameField.getText()); } 

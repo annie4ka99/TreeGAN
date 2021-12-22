@@ -1,0 +1,1 @@
+ public ToTextResponse createToTextResponse() { return new ToTextResponse(); } 

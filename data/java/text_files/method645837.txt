@@ -1,0 +1,1 @@
+ public boolean contains(Alias alias) { return aliases.values().contains(alias); } 

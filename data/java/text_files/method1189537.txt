@@ -1,0 +1,1 @@
+ public void conjoinWith(Predicate pred) { terms.addAll(pred.terms); } 

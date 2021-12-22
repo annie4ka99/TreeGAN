@@ -1,0 +1,1 @@
+ public void setUseVertexArrays(boolean useVertexArrays) { this.useVertexArrays = useVertexArrays; } 

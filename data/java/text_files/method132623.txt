@@ -1,0 +1,1 @@
+ public TraceI getTraceData() { if (trace == null) { loadTrace(); } return trace; } 

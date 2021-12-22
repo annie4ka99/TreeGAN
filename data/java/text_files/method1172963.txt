@@ -1,0 +1,1 @@
+ public void setPayDiscard(boolean bSac) { payDiscard = bSac; } 

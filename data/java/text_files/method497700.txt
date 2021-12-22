@@ -1,0 +1,1 @@
+ public void setCpuType(String cpuType) { this.cpuType = cpuType; } 

@@ -1,0 +1,1 @@
+ protected ChromatogramListType getFixture() { return fixture; } 

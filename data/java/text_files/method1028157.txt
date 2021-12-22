@@ -1,0 +1,1 @@
+ public void setRMIBindName(String rmiBindName) { this.rmiBindName = rmiBindName; } 

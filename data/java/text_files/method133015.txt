@@ -1,0 +1,1 @@
+ public int indexOf (LegendGlyph lglyph) { return legend_glyphs.indexOf(lglyph); } 

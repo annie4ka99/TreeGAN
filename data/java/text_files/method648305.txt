@@ -1,0 +1,1 @@
+ public int read(byte b[]) throws IOException { return stream.read(b); } 

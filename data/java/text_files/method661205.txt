@@ -1,0 +1,1 @@
+ public void setTableId(int tableId) { this.tableId = tableId; } 

@@ -1,0 +1,1 @@
+ public int getListCommandMode() { return listcommandmode; } 

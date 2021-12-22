@@ -1,0 +1,1 @@
+ protected Long extractLong(Document doc) { return Long.parseLong(doc.getFirstChild().getTextContent()); } 

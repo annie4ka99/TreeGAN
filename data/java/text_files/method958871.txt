@@ -1,0 +1,1 @@
+ public Iterator tablero1Iterator() { return tablero1.iterator(); } 

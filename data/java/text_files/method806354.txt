@@ -1,0 +1,1 @@
+ public Range getRangeBounds(boolean includeInterval) { return this.range; } 

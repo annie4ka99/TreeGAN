@@ -1,0 +1,1 @@
+ public int getKeeperTrainerNumber() { return keeperTrainerNumber; } 

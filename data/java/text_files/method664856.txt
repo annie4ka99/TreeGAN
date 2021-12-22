@@ -1,0 +1,1 @@
+ public void logQuery() { logger.debug("Loaded Query: "+this.sqlString); } 

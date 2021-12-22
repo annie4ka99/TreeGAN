@@ -1,0 +1,1 @@
+ public XMLObject getXmlObject() { return xmlObject; } 

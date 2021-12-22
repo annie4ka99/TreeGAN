@@ -1,0 +1,1 @@
+ public String browserCommand() { return conf.getBrowsercommand(); } 

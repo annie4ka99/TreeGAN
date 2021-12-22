@@ -1,0 +1,1 @@
+ public boolean isIFicha1Empty() { return ficha1.isEmpty(); } 

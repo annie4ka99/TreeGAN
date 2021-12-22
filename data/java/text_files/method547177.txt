@@ -1,0 +1,1 @@
+ public void setErrorPanel(ErrorPanel p) { peerPanel = p; } 

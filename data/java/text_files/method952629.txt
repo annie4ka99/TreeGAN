@@ -1,0 +1,1 @@
+ public Group (String name, boolean member) { this.name = name; this.member = member; } 

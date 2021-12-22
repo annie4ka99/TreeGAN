@@ -1,0 +1,1 @@
+ public SimpleLiteral getType() { return type; } 

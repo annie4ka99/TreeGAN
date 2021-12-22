@@ -1,0 +1,1 @@
+ public void addComment(Comment aComment) { comments.add(aComment); } 

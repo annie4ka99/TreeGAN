@@ -1,0 +1,1 @@
+ public void setNumberOfDeferrableTriggers(int n){ numberOfDefferableTriggers = n; } 

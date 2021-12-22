@@ -1,0 +1,1 @@
+ public void setFirstPriority(Player p) { pFirstPriority = p; } 

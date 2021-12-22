@@ -1,0 +1,1 @@
+ public boolean hasAttachedCards() { return getAttachedCards().length != 0; } 

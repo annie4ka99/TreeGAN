@@ -1,0 +1,1 @@
+ public void setDimensions(BigInteger value) { this.dimensions = value; } 

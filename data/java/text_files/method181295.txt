@@ -1,0 +1,1 @@
+ public int getTransactionIsolation() { return Connection.TRANSACTION_NONE; } 

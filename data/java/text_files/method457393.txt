@@ -1,0 +1,1 @@
+ public XComponentContext getXComponentContext() { return xComponentContext; } 

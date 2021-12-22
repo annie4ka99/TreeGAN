@@ -1,0 +1,1 @@
+ public BoundedBy getBoundedBy() { return boundedBy; } 

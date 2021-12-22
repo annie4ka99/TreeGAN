@@ -1,0 +1,1 @@
+ public void invalidateCache(int start, int end ) { m_valid.clear(start, end+1); } 

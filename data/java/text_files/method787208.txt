@@ -1,0 +1,1 @@
+ public void setLabelText(String text) { m_searchL.setText(text); } 

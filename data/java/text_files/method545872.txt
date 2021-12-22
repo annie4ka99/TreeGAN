@@ -1,0 +1,1 @@
+ public void setCursor(JDObject nCursor) { cursor = nCursor; updateShape(); } 

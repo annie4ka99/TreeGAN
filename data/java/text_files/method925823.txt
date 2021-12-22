@@ -1,0 +1,1 @@
+ private boolean checkNullOrBlank(String item) { return (item == null || "".equals(item)); } 

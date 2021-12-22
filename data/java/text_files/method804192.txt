@@ -1,0 +1,1 @@
+ public Spectrum getSpectrum() { return jcampSpectrum; } 

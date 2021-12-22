@@ -1,0 +1,1 @@
+ public boolean masterlistContains(String arg0) { return masterlist.containsKey(arg0); } 

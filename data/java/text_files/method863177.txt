@@ -1,0 +1,1 @@
+ public void conversationChanged(final ConversationEvent evt) { } 

@@ -1,0 +1,1 @@
+ public StylableSpreadsheet extend(Spreadsheet spreadsheet) { return new StylableSpreadsheet(spreadsheet); } 

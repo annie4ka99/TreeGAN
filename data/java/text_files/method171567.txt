@@ -1,0 +1,1 @@
+ public int addClass(ObjectType type) { return addClass(type.getClassName()); } 

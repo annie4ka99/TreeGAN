@@ -1,0 +1,1 @@
+ public void setComment(String comment) { super.setText(comment); } 

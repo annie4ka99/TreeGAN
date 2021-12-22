@@ -1,0 +1,1 @@
+ public double getRoll() { return roll; } 

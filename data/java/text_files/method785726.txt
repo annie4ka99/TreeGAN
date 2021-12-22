@@ -1,0 +1,1 @@
+ public void setFont(int row, Font font) { set(row, VisualItem.FONT, font); } 

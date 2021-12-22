@@ -1,0 +1,1 @@
+ protected OutputStream doGetOutputStream() { throw new UnsupportedOperationException("Read only filesystem."); } 

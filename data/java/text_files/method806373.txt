@@ -1,0 +1,1 @@
+ public Logger getRootLogger() { return this.hierarchy.getRootLogger(); } 

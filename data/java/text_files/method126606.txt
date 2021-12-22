@@ -1,0 +1,1 @@
+ public boolean isBackgroundImageTileX() { return backgroundImageTileX; } 

@@ -1,0 +1,1 @@
+ public PolarisationModePropertyType getPolarisationMode() { return polarisationMode; } 

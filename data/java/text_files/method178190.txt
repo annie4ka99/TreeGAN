@@ -1,0 +1,1 @@
+ public void setConnectionPool(ConnectionPool pool) { this.pool = pool; } 

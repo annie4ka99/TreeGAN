@@ -1,0 +1,1 @@
+ public Iterator childEdges(Node n) { return super.outEdges(n); } 

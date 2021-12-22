@@ -1,0 +1,1 @@
+ public void setSmoothingExtrapolation(int extMode) { smoothExtrapolation = extMode; updateFilters(); } 

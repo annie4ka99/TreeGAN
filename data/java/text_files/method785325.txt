@@ -1,0 +1,1 @@
+ public boolean removeChildEdge(int edge) { return removeChild(getTargetNode(edge)); } 

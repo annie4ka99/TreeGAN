@@ -1,0 +1,1 @@
+ public void setBlogService(BlogService blogService) { this.blogService = blogService; } 

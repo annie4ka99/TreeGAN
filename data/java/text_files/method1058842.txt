@@ -1,0 +1,1 @@
+ protected void runActionUp(Object element) { selectedElementList.moveElementUp(element); } 

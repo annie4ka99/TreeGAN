@@ -1,0 +1,1 @@
+ public void setSformat(net.sourceforge.emboss.SequenceFormat sformat) { this.sformat = sformat; } 

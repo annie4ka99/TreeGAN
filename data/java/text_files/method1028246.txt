@@ -1,0 +1,1 @@
+ public void setValidatingSchema(boolean validatingSchema) { this.validatingSchema = validatingSchema; } 

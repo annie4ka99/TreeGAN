@@ -1,0 +1,1 @@
+ public String removeMain(int index) { return main.remove(index); } 

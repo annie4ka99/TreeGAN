@@ -1,0 +1,1 @@
+ public void setCrawlSubpagesOnly(boolean b) { this.obsolete = true; this.crawlSubpagesOnly = b; serialise(); } 

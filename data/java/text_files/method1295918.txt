@@ -1,0 +1,1 @@
+ public Adapter createTerminateAdapter() { return null; } 

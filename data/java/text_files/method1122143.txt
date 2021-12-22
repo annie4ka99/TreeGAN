@@ -1,0 +1,1 @@
+ public FunctionRunner getFunctionRunner(String name) { return functions.get(name); } 

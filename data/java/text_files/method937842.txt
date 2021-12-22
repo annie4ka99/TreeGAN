@@ -1,0 +1,1 @@
+ public boolean isWorking() { return this.working; } 

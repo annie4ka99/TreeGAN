@@ -1,0 +1,1 @@
+ public Tal getTalInfo() { if (isTal) { return talInfo; } else return null; } 

@@ -1,0 +1,1 @@
+ public int jugador2Size() { return jugador2.size(); } 

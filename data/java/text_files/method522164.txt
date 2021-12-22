@@ -1,0 +1,1 @@
+ public void setPosition(String newValue) { this.position = newValue; } 

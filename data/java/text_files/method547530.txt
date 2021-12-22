@@ -1,0 +1,1 @@
+ public void clearData() { theData = null; rowData = null; updateTables(0,0); } 

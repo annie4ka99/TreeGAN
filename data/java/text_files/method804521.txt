@@ -1,0 +1,1 @@
+ public void setCX(java.lang.String CX) { this.CX = CX; } 

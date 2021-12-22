@@ -1,0 +1,1 @@
+ public void addShutdownListener(ShutdownListener listener) { shutdowns.add(listener); } 

@@ -1,0 +1,1 @@
+ public ErrorManager getErrorManager() { LogManager.getLogManager().checkAccess(); return this.errorMan; } 

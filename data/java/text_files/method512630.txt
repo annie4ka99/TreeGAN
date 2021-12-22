@@ -1,0 +1,1 @@
+ private boolean isStatic(Field toCheck) { return Modifier.isStatic(toCheck.getModifiers()); } 

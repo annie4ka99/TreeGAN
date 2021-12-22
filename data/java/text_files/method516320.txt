@@ -1,0 +1,1 @@
+public void setDbMaxConnection(int newDbMaxConnection) { dbMaxConnection = newDbMaxConnection; } 

@@ -1,0 +1,1 @@
+ public void addPluginEvent(final PlugWorkEvent plugWorkEvent) { mPlugWorkEvents.add(plugWorkEvent); } 

@@ -1,0 +1,1 @@
+ protected Canvas getCanvas() { return canvas; } 

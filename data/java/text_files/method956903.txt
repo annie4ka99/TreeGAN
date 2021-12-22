@@ -1,0 +1,1 @@
+ public void setServiceQuery(ServiceQueryType value) { this.serviceQuery = value; } 

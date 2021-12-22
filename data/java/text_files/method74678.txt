@@ -1,0 +1,1 @@
+ protected CatalogInquiry getCatalogService(){ return catalogService; } 

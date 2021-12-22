@@ -1,0 +1,1 @@
+ public boolean isNeedToNextPhase() { return this.needToNextPhase; } 

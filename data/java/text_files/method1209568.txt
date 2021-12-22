@@ -1,0 +1,1 @@
+ public void setScope(Scriptable scope) { setScopeProvider(IProxy.newScopeProvider(scope)); } 

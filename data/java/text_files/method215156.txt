@@ -1,0 +1,1 @@
+ protected boolean isQuitInOSMenu() { return false; } 

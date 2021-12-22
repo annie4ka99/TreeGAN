@@ -1,0 +1,1 @@
+ public void setXMLVersion(String version) { this.version = version; } 

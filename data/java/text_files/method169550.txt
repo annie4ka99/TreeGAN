@@ -1,0 +1,1 @@
+ public FilterPanel getFilterPanel() { return filterPanel; } 

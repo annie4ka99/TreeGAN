@@ -1,0 +1,1 @@
+ public DocumentController getControllerSource() { return (DocumentController)getSource(); } 

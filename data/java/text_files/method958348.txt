@@ -1,0 +1,1 @@
+ public String getQueryLanguage() { return queryLanguage; } 

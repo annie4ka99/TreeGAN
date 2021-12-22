@@ -1,0 +1,1 @@
+ public void removeEditorListener(JDrawEditorListener l) { listeners.remove(l); } 

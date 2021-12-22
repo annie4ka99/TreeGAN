@@ -1,0 +1,1 @@
+ public DeviceProxy get_device(final int i) { synchronized (this) { return get_device_i(i); } } 

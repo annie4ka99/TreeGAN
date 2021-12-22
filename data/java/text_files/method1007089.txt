@@ -1,0 +1,1 @@
+ public boolean isIdentity() { return (state == APPLY_IDENTITY || (getType() == TYPE_IDENTITY)); } 

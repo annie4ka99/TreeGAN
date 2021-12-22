@@ -1,0 +1,1 @@
+ public void visitUnnumberedID(UnnumberedAnonymousID t) { stack.add(Constants.ANONYMOUS_ID_NOTATION); } 

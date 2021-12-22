@@ -1,0 +1,1 @@
+ public void addAttackingDamage(int n) { attackingDamage += n; } 

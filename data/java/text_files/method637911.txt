@@ -1,0 +1,1 @@
+ public Chromosome get(int index) { return (Chromosome) this.chromosomes.get(index); } 

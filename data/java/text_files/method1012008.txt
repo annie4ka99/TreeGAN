@@ -1,0 +1,1 @@
+ public void setOrientation(int orientation) { this.orientation = orientation; } 

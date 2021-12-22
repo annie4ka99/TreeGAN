@@ -1,0 +1,1 @@
+ public DirContext getSchema(String name) throws NamingException { throw new OperationNotSupportedException(); } 

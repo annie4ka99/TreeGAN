@@ -1,0 +1,1 @@
+ private void setParent(Catalog catalog) { this.parent = catalog; } 

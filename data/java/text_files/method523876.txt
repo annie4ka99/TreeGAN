@@ -1,0 +1,1 @@
+public void setLowerRightText(BPSOverlayText newLowerRightText) { lowerRightText = newLowerRightText; } 

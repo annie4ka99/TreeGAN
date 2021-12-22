@@ -1,0 +1,1 @@
+ public boolean isSilent() { return silent; } 

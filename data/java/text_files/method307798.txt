@@ -1,0 +1,1 @@
+ public int complement() { synchronized (lock_) { value_ = ~value_; return value_; } } 

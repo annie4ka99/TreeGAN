@@ -1,0 +1,1 @@
+ public Handler getHandler(QName qname) throws ConfigurationException { return deployment.getHandler(qname); } 

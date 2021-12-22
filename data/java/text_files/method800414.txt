@@ -1,0 +1,1 @@
+ protected void addListenerTo(MobyViewObject mobyObject) { mobyObject.addListener(this); } 

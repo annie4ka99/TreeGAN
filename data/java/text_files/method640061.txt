@@ -1,0 +1,1 @@
+ public double calculate(String formula)throws CalculateFormulaException{ return calculate(formula, false); } 

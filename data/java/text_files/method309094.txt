@@ -1,0 +1,1 @@
+ public void setTitlebarVisiblie(boolean b) { tiltePane.setVisible(b); } 

@@ -1,0 +1,1 @@
+ protected Container createContainer() { return new MultiLinedEditor.ModifiedEditorContainer(); } 

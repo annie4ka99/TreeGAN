@@ -1,0 +1,1 @@
+ public boolean addFinishedFile(OutputFile opFile){ return outputFinished.add(opFile); } 

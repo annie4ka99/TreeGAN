@@ -1,0 +1,1 @@
+ public SlotListType getRequestSlotList() { return requestSlotList; } 

@@ -1,0 +1,1 @@
+ public void sql(String msg) { log(Level.FINEST, "[SQL] " + msg); } 

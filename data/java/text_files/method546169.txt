@@ -1,0 +1,1 @@
+ public int getTickSpacing() { return tickSpacing; } 

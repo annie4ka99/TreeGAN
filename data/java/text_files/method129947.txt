@@ -1,0 +1,1 @@
+ public void remove(final VisualObject obj) { unarrangedPositions.remove(obj); objects.remove(obj); } 

@@ -1,0 +1,1 @@
+public BpsManager getBpsManager() { return bpsManager; } 

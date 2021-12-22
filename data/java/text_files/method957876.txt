@@ -1,0 +1,1 @@
+ public void setOnlineResource(OnlineResourceType value) { this.onlineResource = value; } 

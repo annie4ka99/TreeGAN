@@ -1,0 +1,1 @@
+public JPxiPolling getPoller() { return poller; } 

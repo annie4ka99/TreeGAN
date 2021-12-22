@@ -1,0 +1,1 @@
+ public void setInput(Reader in) throws ParseException { reset(); reader = in; } 

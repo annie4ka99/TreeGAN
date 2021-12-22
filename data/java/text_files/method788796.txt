@@ -1,0 +1,1 @@
+ public void setCasNumber(String casn) { casNumber = casn.trim(); } 

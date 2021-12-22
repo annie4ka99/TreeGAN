@@ -1,0 +1,1 @@
+ public void setTickWidth(int width) { tickLength = width; updateShape(); } 

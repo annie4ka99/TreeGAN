@@ -1,0 +1,1 @@
+ public Map cloneCells(Object[] cells) { return graphModel.cloneCells(cells); } 

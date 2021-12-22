@@ -1,0 +1,1 @@
+ public void setPuntos(String puntos) { this.puntos = puntos; } 

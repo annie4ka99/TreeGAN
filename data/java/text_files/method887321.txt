@@ -1,0 +1,1 @@
+ public void removeFile(String fileName) { filesToRemove.add(fileName); } 

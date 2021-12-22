@@ -1,0 +1,1 @@
+ public Logger getLogger() { if (ReadOnlyDB) return null; else return new FileLogger(this); } 

@@ -1,0 +1,1 @@
+ public void setPreventHotlinking(boolean preventHotlinking) { this.preventHotlinking = preventHotlinking; } 

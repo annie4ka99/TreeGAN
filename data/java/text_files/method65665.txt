@@ -1,0 +1,1 @@
+ public void setConverter(BeanConverter converter) { this.converter = converter; } 

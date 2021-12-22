@@ -1,0 +1,1 @@
+ protected String selectEncoding(ServletRequest request) { return (this.encoding); } 

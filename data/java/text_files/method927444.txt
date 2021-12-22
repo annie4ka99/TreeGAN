@@ -1,0 +1,1 @@
+ public int getRowCount() { if(m_Elements==null) { return 1; } return m_Elements.size()+1; } 

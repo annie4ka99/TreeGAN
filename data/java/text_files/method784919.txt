@@ -1,0 +1,1 @@
+ public void setClosePath(boolean closePath) { m_closed = closePath; } 

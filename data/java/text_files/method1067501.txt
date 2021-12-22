@@ -1,0 +1,1 @@
+ protected DefaultEditDomain getEditDomain() { return editDomain; } 

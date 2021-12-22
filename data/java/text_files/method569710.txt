@@ -1,0 +1,1 @@
+ public int hashCode() { if(cachedHash == 0) cachedHash = _hashCode(); return cachedHash; } 

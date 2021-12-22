@@ -1,0 +1,1 @@
+ public Mapping (String id) { this.id = id; } 

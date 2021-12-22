@@ -1,0 +1,1 @@
+ public void setTitleColor(Color titleColor) { this.titleColor = titleColor; } 

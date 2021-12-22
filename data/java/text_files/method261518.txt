@@ -1,0 +1,1 @@
+ public void setOxygen(Double oxygen) { this.oxygen = oxygen; } 

@@ -1,0 +1,1 @@
+ protected void init() { this.treeModel = null; this.nodes = new Hashtable(); } 

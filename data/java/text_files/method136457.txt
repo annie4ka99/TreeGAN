@@ -1,0 +1,1 @@
+ public int toDetail() { return getCurrentThresholdValue() + threshold_increment; } 

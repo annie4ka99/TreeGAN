@@ -1,0 +1,1 @@
+ protected ReferenceableParamGroupRefType getFixture() { return fixture; } 

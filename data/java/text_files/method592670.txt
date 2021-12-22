@@ -1,0 +1,1 @@
+ public ValidationMetadata maxvalue(Double maxvalue) { this.maxvalue = maxvalue; return this; } 

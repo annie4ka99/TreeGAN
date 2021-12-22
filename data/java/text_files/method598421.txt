@@ -1,0 +1,1 @@
+ synchronized public void nextBytes(byte[] randomData) { fortuna.nextBytes(randomData); } 

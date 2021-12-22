@@ -1,0 +1,1 @@
+ public double getSonar(String key) { return sonar.get(key).doubleValue(); } 

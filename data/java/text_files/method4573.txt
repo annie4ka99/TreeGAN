@@ -1,0 +1,1 @@
+ protected void init(){ send("(init " + this.m_teamname + " (version 8))"); } 

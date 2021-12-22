@@ -1,0 +1,1 @@
+ public SimRobot getParentRobot() { return robot; } 

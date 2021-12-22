@@ -1,0 +1,1 @@
+ public void setBeanType(IFlowComponentInterface beanType) { this.beanType = beanType; } 

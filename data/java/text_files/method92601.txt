@@ -1,0 +1,1 @@
+ public int getMaxStatementLength() { return 0; } 

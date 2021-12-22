@@ -1,0 +1,1 @@
+ public void unregisterEscAction() { this.getRootPane().unregisterKeyboardAction(escKeystroke); } 

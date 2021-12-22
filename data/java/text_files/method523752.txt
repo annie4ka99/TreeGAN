@@ -1,0 +1,1 @@
+public void setBpsAcknowledger(BpsAcknowledger newValue) { this.bpsAcknowledger = newValue; } 

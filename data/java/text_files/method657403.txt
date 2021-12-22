@@ -1,0 +1,1 @@
+ public String getSendAlert() { return sendAlert; } 

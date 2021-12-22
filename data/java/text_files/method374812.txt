@@ -1,0 +1,1 @@
+ public void setUInt(long sequence, long value) { this.storage.setUInt(map(sequence), value); } 

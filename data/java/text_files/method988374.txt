@@ -1,0 +1,1 @@
+ public void setBody(java.lang.String body) { this.body = body; } 

@@ -1,0 +1,1 @@
+private void setOriginatingOffice(char[] newOriginatingOffice) { originatingOffice = newOriginatingOffice; } 

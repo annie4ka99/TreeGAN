@@ -1,0 +1,1 @@
+ public void setOverwriteColors(boolean overwriteColors) { this.overwriteColors = overwriteColors; } 

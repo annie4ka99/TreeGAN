@@ -1,0 +1,1 @@
+ public E removeFirst() { return remove(header.next); } 

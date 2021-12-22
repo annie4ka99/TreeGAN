@@ -1,0 +1,1 @@
+ public int getTimeout() { ensureSession(); return rep.getMaxInactiveInterval(); } 

@@ -1,0 +1,1 @@
+ public Quiltspec get(int i) { return array[i]; } 

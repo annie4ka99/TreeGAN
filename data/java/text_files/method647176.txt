@@ -1,0 +1,1 @@
+ public int numNodes() { return numNodes(rootNode); } 

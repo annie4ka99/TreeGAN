@@ -1,0 +1,1 @@
+ public void setFadeQuad(Geometry f) { fadeQ = f; } 

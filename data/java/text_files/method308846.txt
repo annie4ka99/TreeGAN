@@ -1,0 +1,1 @@
+ public OverviewPage() { this(i18n.getLabel("OverviewPage.subtitle")); } 

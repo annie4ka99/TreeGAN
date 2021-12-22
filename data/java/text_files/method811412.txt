@@ -1,0 +1,1 @@
+ public void setUseCols(java.lang.String useCols) { this.useCols = useCols; } 

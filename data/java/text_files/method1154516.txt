@@ -1,0 +1,1 @@
+ public String randomlyGenerateDestination() { return Util.selectRandomlyFromList(getLocations()); } 

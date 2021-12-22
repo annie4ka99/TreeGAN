@@ -1,0 +1,1 @@
+ public void setUCharattrw(final byte uCharattrw) { xlogger.entry(); this.uCharattrw = uCharattrw; xlogger.exit(); } 

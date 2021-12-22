@@ -1,0 +1,1 @@
+ public void put_pixel (int x, int y, int color) { put_pixel (x, y, 0, color); } 

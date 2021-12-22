@@ -1,0 +1,1 @@
+ public void showNext() { if (m_iType<8) { m_iType++; updateChart(m_Display); } } 

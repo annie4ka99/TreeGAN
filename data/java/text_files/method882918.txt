@@ -1,0 +1,1 @@
+ public void setVModellDirectory(String vmDir) { this.vmDir = vmDir; } 

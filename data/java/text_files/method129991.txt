@@ -1,0 +1,1 @@
+ protected void setManager(final TaskManager manager) { this.manager = manager; } 

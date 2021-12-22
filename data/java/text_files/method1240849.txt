@@ -1,0 +1,1 @@
+ public QName getVerMismatchFaultCodeQName() { return Constants.FAULT_SOAP12_VERSIONMISMATCH; } 

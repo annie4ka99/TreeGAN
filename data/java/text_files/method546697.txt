@@ -1,0 +1,1 @@
+ public void setVerticalOffset(int y) { off_y = y; repaint(); } 

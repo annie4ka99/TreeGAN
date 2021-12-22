@@ -1,0 +1,1 @@
+ public void setStrikeout( boolean strikeout ) { style = style.strikeout( strikeout ); } 

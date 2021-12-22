@@ -1,0 +1,1 @@
+ public void setShirt(String string) { shirt = string; } 

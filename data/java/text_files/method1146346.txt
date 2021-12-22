@@ -1,0 +1,1 @@
+ public void setSelected(boolean state){ if (state) selectedCards.add(this); else selectedCards.remove(this); } 

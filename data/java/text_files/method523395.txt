@@ -1,0 +1,1 @@
+public String getDBPassword() { return getDbConnectionPool().getPoller().getDBPassword(); } 

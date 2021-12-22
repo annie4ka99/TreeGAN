@@ -1,0 +1,1 @@
+ protected AttributeMap createAttributeMap() { return AttributeMap.emptyAttributeMap; } 

@@ -1,0 +1,1 @@
+ public void reinitialize() { this.userID = -1; this.sessionID = null; this.name = null; } 

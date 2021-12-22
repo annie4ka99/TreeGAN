@@ -1,0 +1,1 @@
+ public void setLimit(int limit) { count = 0; this.limit = limit; return; } 

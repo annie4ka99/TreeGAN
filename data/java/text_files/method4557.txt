@@ -1,0 +1,1 @@
+ public void dash(double power){ send("(dash " + Double.toString(power) + ")"); } 

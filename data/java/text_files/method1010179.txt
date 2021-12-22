@@ -1,0 +1,1 @@
+ static public int getStringHeight(IGraphics g) { CurGraphics = g; return g.getStringHeight(); } 

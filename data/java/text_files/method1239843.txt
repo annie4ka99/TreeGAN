@@ -1,0 +1,1 @@
+ public Object get(int index) { return getEntry(index).getKey(); } 

@@ -1,0 +1,1 @@
+ public void setIsOpaque(boolean value) { this.isOpaque = value; } 

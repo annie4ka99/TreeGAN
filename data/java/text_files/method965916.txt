@@ -1,0 +1,1 @@
+ protected int calculateArrowHeight(int height, int width) { return (height + 1) / 4; } 

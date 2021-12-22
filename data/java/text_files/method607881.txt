@@ -1,0 +1,1 @@
+ public String getDefaultContentType() { return SRenderingConstants.CONTENT_TYPE_PLAIN_TEXT; } 

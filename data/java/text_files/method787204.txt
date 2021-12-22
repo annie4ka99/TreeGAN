@@ -1,0 +1,1 @@
+ public void finish() { m_bias = 0; m_out.flush(); } 

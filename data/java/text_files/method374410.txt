@@ -1,0 +1,1 @@
+ public void flags_ECE(final boolean value) { setFlag(value, FLAG_ECE); } 

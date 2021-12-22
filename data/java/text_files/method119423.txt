@@ -1,0 +1,1 @@
+ public GraphSelectionModel getSelectionModel() { return selectionModel; } 

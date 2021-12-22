@@ -1,0 +1,1 @@
+ public PortletConfig getPortletConfig() { return this.portletConfig; } 

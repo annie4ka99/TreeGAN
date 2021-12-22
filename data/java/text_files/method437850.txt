@@ -1,0 +1,1 @@
+ public boolean hasLocationInfo() { return (this.column != -1); } 

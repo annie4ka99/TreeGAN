@@ -1,0 +1,1 @@
+ public ModelAnimation getCurrentAnimation() { return currentAnimation; } 

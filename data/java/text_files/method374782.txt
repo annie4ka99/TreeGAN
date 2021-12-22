@@ -1,0 +1,1 @@
+ public int peer(JNumber number) { return super.peer(number); } 

@@ -1,0 +1,1 @@
+ public void setColorDither(boolean colorDither) { this.colorDither = colorDither; } 

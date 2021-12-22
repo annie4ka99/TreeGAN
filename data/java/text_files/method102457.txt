@@ -1,0 +1,1 @@
+ public Preview getPreview() { return new GridPreview(this); } 

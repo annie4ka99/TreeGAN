@@ -1,0 +1,1 @@
+ public String getMember() { return member; } 

@@ -1,0 +1,1 @@
+ protected void setOutcome(String outcome) { this.outcome = outcome; } 

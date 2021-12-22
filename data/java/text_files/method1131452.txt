@@ -1,0 +1,1 @@
+ public void setDest(long dest) { this.dest = dest; repaint(); } 

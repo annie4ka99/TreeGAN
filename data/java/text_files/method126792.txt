@@ -1,0 +1,1 @@
+ public void setAgentCookie(final String agentCookie) { this.agentCookie = agentCookie; saveCookie(); } 

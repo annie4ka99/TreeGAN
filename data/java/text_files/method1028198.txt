@@ -1,0 +1,1 @@
+ public String getJobSuccessMessage() { return jobSuccessMessage; } 

@@ -1,0 +1,1 @@
+ public void setdZ(double error) { setCoordinateError(2, error); } 

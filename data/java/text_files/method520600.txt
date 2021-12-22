@@ -1,0 +1,1 @@
+ public boolean closeBox() { if (_okAll == true) { return true; } return cancelAll(); } 

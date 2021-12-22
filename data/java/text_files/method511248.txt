@@ -1,0 +1,1 @@
+ public URL nextElement() { URL ret = this.nextResource; findNextResource(); return ret; } 

@@ -1,0 +1,1 @@
+ public double getDouble(Tuple t) { throw new UnsupportedOperationException(); } 

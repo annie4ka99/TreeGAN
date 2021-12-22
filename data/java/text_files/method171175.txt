@@ -1,0 +1,1 @@
+ public Type get(int i){ return locals[i]; } 

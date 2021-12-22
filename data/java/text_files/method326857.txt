@@ -1,0 +1,1 @@
+ public void interractiveCommand(Interractive interractive) { commandList.add(interractive); } 

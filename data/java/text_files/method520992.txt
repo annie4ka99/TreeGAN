@@ -1,0 +1,1 @@
+ public void setStatusColor(java.lang.String newStatusColor) { statusColor = newStatusColor; } 

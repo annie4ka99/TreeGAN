@@ -1,0 +1,1 @@
+ public void set( long millis ) { mark = millis; cal.setTimeInMillis(mark); } 

@@ -1,0 +1,1 @@
+ public int getHRFafterUpdate() { return this.hrfIdAfter; } 

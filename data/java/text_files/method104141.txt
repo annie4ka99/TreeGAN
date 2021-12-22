@@ -1,0 +1,1 @@
+ protected void setAssociatedResult(T associatedResult) { this.associatedResult = associatedResult; } 

@@ -1,0 +1,1 @@
+ public void pushnumber(Long l) { if ( l == null ) pushnil(); else pushnumber( l.doubleValue() ); } 

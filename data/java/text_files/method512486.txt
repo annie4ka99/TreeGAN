@@ -1,0 +1,1 @@
+ public void setJEjbEJB(final JEjbEJB jEjbEJB) { this.jEjbEJB = jEjbEJB; } 

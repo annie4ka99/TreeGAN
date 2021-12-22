@@ -1,0 +1,1 @@
+ public boolean isPort(Object port) { return port instanceof Port; } 

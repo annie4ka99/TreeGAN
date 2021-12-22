@@ -1,0 +1,1 @@
+ public void setRemembersCellViews(boolean rememberCellViews) { this.remembersCellViews = rememberCellViews; } 

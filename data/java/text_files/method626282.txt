@@ -1,0 +1,1 @@
+ public void setNumGen(Integer numGen) { this.numGen = numGen; } 

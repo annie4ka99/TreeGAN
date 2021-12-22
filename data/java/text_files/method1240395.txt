@@ -1,0 +1,1 @@
+ public void setHeaderElement(boolean value) { isHeaderElement = true; } 

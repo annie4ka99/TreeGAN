@@ -1,0 +1,1 @@
+ public void setShowEdgesOnShow(boolean showEdgesOnShow) { this.showEdgesOnShow = showEdgesOnShow; } 

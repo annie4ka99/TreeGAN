@@ -1,0 +1,1 @@
+ public boolean isEmblem() { return type.contains("Emblem"); } 

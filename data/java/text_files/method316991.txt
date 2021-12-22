@@ -1,0 +1,1 @@
+ public boolean supportsCoreSQLGrammar() throws SQLException { return true; } 

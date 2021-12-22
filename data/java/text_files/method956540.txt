@@ -1,0 +1,1 @@
+ public void setYaw(AngleType value) { this.yaw = value; } 

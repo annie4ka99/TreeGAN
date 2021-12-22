@@ -1,0 +1,1 @@
+ public int getHorizontalPageCount() { checkWidget(); return horizontalPageCount; } 

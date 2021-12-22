@@ -1,0 +1,1 @@
+ public boolean getIsDisabled() { logger.debug("entering getIsDisabled"); return isDisabled; } 

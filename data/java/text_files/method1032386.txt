@@ -1,0 +1,1 @@
+ public void logTrace(Object message) { logInternal(TRACE, message, null); } 

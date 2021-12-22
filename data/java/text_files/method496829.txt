@@ -1,0 +1,1 @@
+ public void setJavaVersion(java.lang.String javaVersion) { this.javaVersion = javaVersion; } 

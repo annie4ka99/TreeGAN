@@ -1,0 +1,1 @@
+ public int getRowCount( ) { try { return table.getRowCount( ); } catch ( Throwable th ) { } return 0; } 

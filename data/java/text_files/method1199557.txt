@@ -1,0 +1,1 @@
+ public int compareTo( Object o ) { return comparator.compare( this, o ); } 

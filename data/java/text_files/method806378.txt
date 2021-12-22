@@ -1,0 +1,1 @@
+ public Number getMaximumRangeValue() { return this.domainMax; } 

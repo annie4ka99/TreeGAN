@@ -1,0 +1,1 @@
+ private void closeNow() { super.setVisible(false); } 

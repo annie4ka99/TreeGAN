@@ -1,0 +1,1 @@
+ public int getExtendedParamNumber() { if( extParamValue == null ) return 0; else return extParamValue.length; } 

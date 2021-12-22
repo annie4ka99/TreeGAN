@@ -1,0 +1,1 @@
+ public void addDealtDamageToThisTurn(Card c, int damage) { dealtDamageToThisTurn.put(c, damage); } 

@@ -1,0 +1,1 @@
+ public void setDestinationFile(AbstractFile destinationFile) { this.destinationFile = null; } 

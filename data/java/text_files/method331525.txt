@@ -1,0 +1,1 @@
+ public double getScaleMaxVal() { if (binCentres) { return maxVal + getStep()/2.; } else { return maxVal; } } 

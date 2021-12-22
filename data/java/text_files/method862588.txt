@@ -1,0 +1,1 @@
+ public boolean getHTTPOnly() { return _httponly; } 

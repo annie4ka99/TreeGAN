@@ -1,0 +1,1 @@
+ public void setToSingleSelection( ) { table.setSelectionMode( ListSelectionModel.SINGLE_SELECTION ); } 

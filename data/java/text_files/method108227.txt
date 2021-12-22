@@ -1,0 +1,1 @@
+ public JComponent appendSeparator() { return appendSeparator(""); } 

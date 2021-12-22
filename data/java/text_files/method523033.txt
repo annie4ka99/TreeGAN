@@ -1,0 +1,1 @@
+private void setBpaSession(BpaSession newValue) { this.myBpaSession = newValue; } 

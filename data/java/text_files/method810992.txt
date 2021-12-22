@@ -1,0 +1,1 @@
+ protected ComponentListType getFixture() { return fixture; } 

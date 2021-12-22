@@ -1,0 +1,1 @@
+ public float getDirection(){ return this.m_direction; } 

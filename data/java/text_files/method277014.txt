@@ -1,0 +1,1 @@
+ public void setSchema(PilotDBSchema schema) { this.schema = schema; } 

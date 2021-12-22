@@ -1,0 +1,1 @@
+ public byte getCommandByte() { return commandByte; } 

@@ -1,0 +1,1 @@
+ public Service removeService(QName name) { return (Service) services.remove(name); } 

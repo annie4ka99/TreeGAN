@@ -1,0 +1,1 @@
+ public void setAlign(java.lang.Boolean align) { this.align = align; } 

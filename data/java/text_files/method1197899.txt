@@ -1,0 +1,1 @@
+ public Flap getRequestAnswerPacket() { return ( (Flap) getSource()); } 

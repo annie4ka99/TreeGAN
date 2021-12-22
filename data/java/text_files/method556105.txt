@@ -1,0 +1,1 @@
+ public double getThresholdInf() { return thresholdInf; } 

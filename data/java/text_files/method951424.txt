@@ -1,0 +1,1 @@
+ public boolean containsCustomer(String customerID) { return this.revocationList.contains(customerID); } 

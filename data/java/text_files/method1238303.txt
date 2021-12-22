@@ -1,0 +1,1 @@
+ public Namespaces getNamespaces() { return namespaces; } 

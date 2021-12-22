@@ -1,0 +1,1 @@
+ public void setArray(float[] array) { this.array = array; } 

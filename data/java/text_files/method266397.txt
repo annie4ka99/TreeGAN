@@ -1,0 +1,1 @@
+ public void setForeground(Color fg) { if (textField != null) { textField.setForeground(fg); } } 

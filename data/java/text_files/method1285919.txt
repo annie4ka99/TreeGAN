@@ -1,0 +1,1 @@
+ public Type getType() { return field.getGenericType(); } 

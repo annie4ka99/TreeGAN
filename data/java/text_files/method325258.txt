@@ -1,0 +1,1 @@
+ protected double getHorizonAngle(double height) { return Math.acos(earthRadius / (earthRadius + height)); } 

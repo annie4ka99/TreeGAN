@@ -1,0 +1,1 @@
+ public int getSwitchValue() { return m_switchVal; } 

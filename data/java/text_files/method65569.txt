@@ -1,0 +1,1 @@
+ public void setExtraItems(List extraItems) { this.extraItems = extraItems; } 

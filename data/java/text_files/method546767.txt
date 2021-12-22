@@ -1,0 +1,1 @@
+ public void sizeChanged(NetEditor src,Dimension d) { netView.revalidate(); repaint(); } 

@@ -1,0 +1,1 @@
+ public void setRefId(final String refId) { mRefId = refId; mRefId = mRefId.trim(); } 

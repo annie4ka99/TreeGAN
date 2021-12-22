@@ -1,0 +1,1 @@
+ protected void addPOJOPages() throws PartInitException { this.addPage(new EditPetrolStationPage(this)); } 

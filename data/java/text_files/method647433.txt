@@ -1,0 +1,1 @@
+ public void setChromosomes(List a_chromosomes) { m_chromosomes = a_chromosomes; setChanged(true); } 

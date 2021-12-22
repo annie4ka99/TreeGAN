@@ -1,0 +1,1 @@
+ public int getNumberColumns() { return row.length; } 

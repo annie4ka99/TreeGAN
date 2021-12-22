@@ -1,0 +1,1 @@
+ public int getlnInt() { int x = getInt(); emptyBuffer(); return x; } 

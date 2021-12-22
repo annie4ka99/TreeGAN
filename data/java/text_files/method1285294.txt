@@ -1,0 +1,1 @@
+ public void pause() { getAnimator().pause(); animatorState = PAUSED; } 

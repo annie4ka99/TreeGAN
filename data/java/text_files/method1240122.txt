@@ -1,0 +1,1 @@
+ public void setContentId(String newCid){ setMimeHeader(HTTPConstants.HEADER_CONTENT_ID,newCid); } 

@@ -1,0 +1,1 @@
+ public void draw() { System.out.println("VirtualNode:draw:" + properties.get("name")); } 

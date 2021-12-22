@@ -1,0 +1,1 @@
+ public void setRangeModel(ValuedRangeModel model) { m_model = model; } 

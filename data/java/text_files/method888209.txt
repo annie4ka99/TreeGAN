@@ -1,0 +1,1 @@
+ public void addNode(FreeNode f){ add(f, defaultConstraints()); doTreeLayout(); } 

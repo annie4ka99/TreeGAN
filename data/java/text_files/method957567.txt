@@ -1,0 +1,1 @@
+ public RegistryError createRegistryError() { return new RegistryError(); } 

@@ -1,0 +1,1 @@
+ public void setWinMethod(int gameNumber, String method) { winMethods[gameNumber] = method; } 

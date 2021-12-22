@@ -1,0 +1,1 @@
+ public OBB getOBB() { return m_obb.clone(); } 

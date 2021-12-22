@@ -1,0 +1,1 @@
+ public JSCSArray getSelectedFiles() { return selectedFiles; } 

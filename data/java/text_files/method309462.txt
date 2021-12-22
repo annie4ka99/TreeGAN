@@ -1,0 +1,1 @@
+ public void setPressedDialPixmap(ImageIcon pixmap) { pressedPixmap = pixmap; } 

@@ -1,0 +1,1 @@
+public void setNbSelectedPage(int newNbSelectedPage) { nbSelectedPage = newNbSelectedPage; } 

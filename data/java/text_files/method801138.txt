@@ -1,0 +1,1 @@
+ protected void addListenerTo(BioResource BioResource) { BioResource.addListener(this); } 

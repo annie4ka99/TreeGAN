@@ -1,0 +1,1 @@
+ protected String getDestinationValue() { return destinationNameField.getText().trim(); } 

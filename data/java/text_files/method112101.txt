@@ -1,0 +1,1 @@
+ public void setMode(String iMode) { this.mode = iMode; string = null; } 

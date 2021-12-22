@@ -1,0 +1,1 @@
+ public void visitLOOKUPSWITCH(LOOKUPSWITCH o){ stack().pop(); } 

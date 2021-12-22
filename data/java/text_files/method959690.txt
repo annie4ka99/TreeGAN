@@ -1,0 +1,1 @@
+ public void setSql_insertRaum(String sql_insertRaum) { this.sql_insertRaum = sql_insertRaum; } 

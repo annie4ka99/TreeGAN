@@ -1,0 +1,1 @@
+ public void setDossier(java.lang.String newDossier) { iDossier = newDossier; } 

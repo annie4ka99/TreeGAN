@@ -1,0 +1,1 @@
+ public void visitL2D(L2D o){ stack().pop(); stack().push(Type.DOUBLE); } 

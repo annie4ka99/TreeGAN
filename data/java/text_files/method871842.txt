@@ -1,0 +1,1 @@
+ public void setMembername(java.lang.String membername) { this.membername = membername; } 

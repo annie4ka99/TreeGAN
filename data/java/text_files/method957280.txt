@@ -1,0 +1,1 @@
+ public TimeInstantPropertyType createTimeInstantPropertyType() { return new TimeInstantPropertyType(); } 

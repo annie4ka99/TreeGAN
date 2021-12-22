@@ -1,0 +1,1 @@
+ public void removeException(String c) { throws_vec.remove(c); } 

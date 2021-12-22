@@ -1,0 +1,1 @@
+ protected boolean isInState(ZrtpStateClass.ZrtpStates state) { return (state == inState); } 

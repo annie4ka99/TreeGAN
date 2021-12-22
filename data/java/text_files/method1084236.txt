@@ -1,0 +1,1 @@
+ protected String getPreferenceKey(String prefix) { return prefix + portletName; } 

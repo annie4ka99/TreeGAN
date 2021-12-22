@@ -1,0 +1,1 @@
+ public void testGetTimestamp() { assertNotNull(conflict.getTimestamp()); } 

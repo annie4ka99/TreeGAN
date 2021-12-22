@@ -1,0 +1,1 @@
+ public void setGainTransform(double gain) { atGain = gain; parent.computeScale(); } 

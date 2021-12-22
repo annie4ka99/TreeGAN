@@ -1,0 +1,1 @@
+ public boolean isCommentEnabled() { return commentEnabled; } 

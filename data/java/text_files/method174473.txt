@@ -1,0 +1,1 @@
+ public int remainingCapacity() { lock.lock(); try { return capacity - count; } finally { lock.unlock(); } } 

@@ -1,0 +1,1 @@
+ public Object getValue(JHeader header) { return value.objectMethod(header, name); } 

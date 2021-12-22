@@ -1,0 +1,1 @@
+ public int getWindowX() { return getConfDocument().getConfiguration().getGui().getWindow() .getX(); } 

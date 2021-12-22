@@ -1,0 +1,1 @@
+ public void setField9(long field9) { binaryHeader.putLong(40, field9); } 

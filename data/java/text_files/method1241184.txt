@@ -1,0 +1,1 @@
+ public String getStrProp(String propName) { return (String) getProperty(propName); } 

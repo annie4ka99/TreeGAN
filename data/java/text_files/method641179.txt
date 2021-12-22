@@ -1,0 +1,1 @@
+ public void move(Object toMove[], int dx, int dy) { move(toMove, dx, dy, null, false); } 

@@ -1,0 +1,1 @@
+ public JLabel getLabel (String label) { JLabel jl = new JLabel(label); return jl; } 

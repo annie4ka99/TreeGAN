@@ -1,0 +1,1 @@
+ public void setNameAndCode(String name) { setName(name); setCode(createCode(name)); } 

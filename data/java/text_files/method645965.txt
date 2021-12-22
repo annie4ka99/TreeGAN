@@ -1,0 +1,1 @@
+ public boolean isPooled() { return user.isInPool(this); } 

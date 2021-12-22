@@ -1,0 +1,1 @@
+ public void setUpperRight(XmlPageSubTag newValue) { this.upperRight = newValue; } 

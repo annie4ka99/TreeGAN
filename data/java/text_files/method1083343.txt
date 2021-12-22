@@ -1,0 +1,1 @@
+ protected String translate(String key) { return getTranslator().translate(key); } 

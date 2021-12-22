@@ -1,0 +1,1 @@
+ public GraphicsDevice getDefaultScreenDevice() { return getScreenDevices()[0]; } 

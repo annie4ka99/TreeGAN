@@ -1,0 +1,1 @@
+ protected void setPluginId(final PluginId pluginId) { mPluginId = pluginId; } 

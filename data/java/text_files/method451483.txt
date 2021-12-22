@@ -1,0 +1,1 @@
+ public void addMythSessionListener(MythSessionListener observer) { sessionListeners.addElement(observer); } 

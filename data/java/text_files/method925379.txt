@@ -1,0 +1,1 @@
+ public void setDefinitionsTree(BSTree tree) { defTree = tree; } 

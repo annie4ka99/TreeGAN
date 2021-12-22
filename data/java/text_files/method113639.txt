@@ -1,0 +1,1 @@
+ public void removeServerMessageInterceptor(String name) { synchronized (this) { serverMsgInterceptor = null; } } 

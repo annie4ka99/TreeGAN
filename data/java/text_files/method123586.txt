@@ -1,0 +1,1 @@
+ public void parse(Reader reader) throws IOException, SAXException { _pullParser.setInput(reader); parseAll(); } 

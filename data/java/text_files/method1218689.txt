@@ -1,0 +1,1 @@
+ private boolean removeEldestEntries() { return delegate.size() > MAX_ENTRIES; } 

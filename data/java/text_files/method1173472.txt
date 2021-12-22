@@ -1,0 +1,1 @@
+ public Counters getCounterType() { return counterType; } 

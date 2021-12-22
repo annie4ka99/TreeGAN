@@ -1,0 +1,1 @@
+ public void label() { instructions.append( OP_label ); } 

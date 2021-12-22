@@ -1,0 +1,1 @@
+ public void setDone(boolean b) { isDone = true; } 

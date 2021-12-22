@@ -1,0 +1,1 @@
+ public void setNillable(boolean nillable) { this.nillable = nillable; } 

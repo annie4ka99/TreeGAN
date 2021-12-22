@@ -1,0 +1,1 @@
+ public String getVersion() { return System.getProperty( VERSION_PROPERTY); } 

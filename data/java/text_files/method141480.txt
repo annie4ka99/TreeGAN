@@ -1,0 +1,1 @@
+ public int setMode(int mode, int range) { return __setMode(__handle, mode, range); } 

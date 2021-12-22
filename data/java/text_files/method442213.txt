@@ -1,0 +1,1 @@
+ public String getViewSequence() { return sequence.seqString(); } 

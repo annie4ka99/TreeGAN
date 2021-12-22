@@ -1,0 +1,1 @@
+ static public boolean isShowingEnlargedCard() { synchronized (enlargeLock) { return enlargedAnimationPanel != null; } } 

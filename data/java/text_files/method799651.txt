@@ -1,0 +1,1 @@
+ public PageNumberFormat getFormat() { return format; } 

@@ -1,0 +1,1 @@
+ public void setSpecific(IFlowMap specific) { this.specific = specific; } 

@@ -1,0 +1,1 @@
+ public void addmethodContainer(ContainerFigure methodContent){ this.methodContent=methodContent; } 

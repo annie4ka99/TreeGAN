@@ -1,0 +1,1 @@
+ public void setPeriodType(PeriodType periodType) { this.periodType = periodType; } 

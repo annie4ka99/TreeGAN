@@ -1,0 +1,1 @@
+ public void setFooterGap( int footerGap ) { this.footerGap = footerGap; } 

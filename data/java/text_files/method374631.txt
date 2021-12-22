@@ -1,0 +1,1 @@
+ public void reserved(final int value) { setUByte(12, value & 0x0F); } 

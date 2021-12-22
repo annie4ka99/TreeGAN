@@ -1,0 +1,1 @@
+ public void setJarLocation(IPath jarLocation) { fJarLocation= jarLocation; } 

@@ -1,0 +1,1 @@
+ public double chooseOpacity () { if (Math.random() < opaqueOdds) { return 1.0; } return Math.random(); } 

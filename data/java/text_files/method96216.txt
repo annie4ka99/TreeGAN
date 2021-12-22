@@ -1,0 +1,1 @@
+ public boolean isAutoincAlways(){ return (columnDefaultInfo == null) && isAutoincrement(); } 

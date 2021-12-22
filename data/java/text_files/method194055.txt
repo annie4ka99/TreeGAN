@@ -1,0 +1,1 @@
+ public boolean mark(int x, int y) { return data.mark(x, y); } 

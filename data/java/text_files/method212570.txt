@@ -1,0 +1,1 @@
+ public void register(GridFace connection) { myGridFace.register(connection); } 

@@ -1,0 +1,1 @@
+ public String getSessionRunTimeAsString() { return numberFormat.format(this.sessionRunTime / 1000.0); } 

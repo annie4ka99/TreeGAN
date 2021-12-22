@@ -1,0 +1,1 @@
+ public void setPrototype(Scriptable m) { prototype = m; } 

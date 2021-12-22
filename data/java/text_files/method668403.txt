@@ -1,0 +1,1 @@
+ public void putln(Object x) { logger.info("X : " + x); } 

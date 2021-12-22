@@ -1,0 +1,1 @@
+ public Long getCRC32() { return delegator.getCRC32(header) & 0X00000000ffffffffL; } 

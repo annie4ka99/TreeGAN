@@ -1,0 +1,1 @@
+ public void setValueOffsets(int x, int y) { off_x = x; off_y = y; repaint(); } 

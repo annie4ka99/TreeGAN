@@ -1,0 +1,1 @@
+ public int getLastPostId() { return this.lastPostId; } 

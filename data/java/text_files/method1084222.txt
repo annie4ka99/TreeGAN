@@ -1,0 +1,1 @@
+ public PortletToolController getPortletToolsController() { return portletToolsController; } 

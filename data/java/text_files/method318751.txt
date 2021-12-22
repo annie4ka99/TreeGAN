@@ -1,0 +1,1 @@
+ public void setExtractionFinished(boolean isExtractionFinished) { this.isExtractionFinished = isExtractionFinished; } 

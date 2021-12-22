@@ -1,0 +1,1 @@
+ public double getMinY() { return clip[1]; } 

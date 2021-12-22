@@ -1,0 +1,1 @@
+ public int getPrec() { return getPrecision().getIntNumber(); } 

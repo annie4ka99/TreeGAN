@@ -1,0 +1,1 @@
+ public void disableStreamLogger() { writeLogger.close(); writeLogger = null; } 

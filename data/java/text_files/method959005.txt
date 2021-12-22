@@ -1,0 +1,1 @@
+ public boolean containsMazo(Mazo mazo) { return this.mazo.contains(mazo); } 

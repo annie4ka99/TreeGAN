@@ -1,0 +1,1 @@
+ public boolean isSuccessful() { return successful; } 

@@ -1,0 +1,1 @@
+ public int length(){ if(next==null) return 0; else return 1+next.length(); } 

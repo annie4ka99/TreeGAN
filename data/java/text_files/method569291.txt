@@ -1,0 +1,1 @@
+ protected Control createContents(Composite parent) { return parent; } 

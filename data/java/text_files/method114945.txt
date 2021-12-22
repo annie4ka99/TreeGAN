@@ -1,0 +1,1 @@
+ public void setID3v1Tag(AbstractMP3Tag mp3tag) { id3v1tag = new ID3v1_1(mp3tag); } 

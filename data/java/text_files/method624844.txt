@@ -1,0 +1,1 @@
+ public ModelElement getBehaviour() { return feature; } 

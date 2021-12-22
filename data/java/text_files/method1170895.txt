@@ -1,0 +1,1 @@
+ public int getDeclaredAttackers() { return attackerToDefender.size(); } 

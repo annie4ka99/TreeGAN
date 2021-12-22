@@ -1,0 +1,1 @@
+ public void setEndFont(int row, Font font) { set(row, VisualItem.ENDFONT, font); } 

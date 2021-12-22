@@ -1,0 +1,1 @@
+ public void setHighQuality(boolean on) { if ( m_highQuality != on ) damageReport(); m_highQuality = on; } 

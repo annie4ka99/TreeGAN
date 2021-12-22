@@ -1,0 +1,1 @@
+ public void debug(Object message) { log(Level.FINE, String.valueOf(message), null); } 

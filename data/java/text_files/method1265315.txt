@@ -1,0 +1,1 @@
+ public Adapter createTFromAdapter() { return null; } 

@@ -1,0 +1,1 @@
+ public void setCommunicationMode(CommunicationMode mode) { this.communicationMode = mode; } 

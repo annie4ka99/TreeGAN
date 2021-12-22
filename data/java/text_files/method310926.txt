@@ -1,0 +1,1 @@
+ public Pointing getAngle(int ind) { return dataAngle[ind]; } 

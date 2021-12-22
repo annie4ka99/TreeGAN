@@ -1,0 +1,1 @@
+ public String getNextRoleURI() { return Constants.URI_SOAP11_NEXT_ACTOR; } 

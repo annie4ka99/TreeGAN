@@ -1,0 +1,1 @@
+ public int getDefaultPort() { return AmtpsURLConnection.DEFAULT_PORT; } 

@@ -1,0 +1,1 @@
+ public int getEntryNumber() { return tableMap.size(); } 

@@ -1,0 +1,1 @@
+ public void setAttribute(Attribute attribute) { this.attribute = attribute; } 

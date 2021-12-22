@@ -1,0 +1,1 @@
+ public void setMin(final Point newMin) { this.min = (Point) newMin.clone(); } 

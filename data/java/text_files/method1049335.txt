@@ -1,0 +1,1 @@
+ public void exportToImageFile(String filename) { exportToImageFile(new File(filename)); } 

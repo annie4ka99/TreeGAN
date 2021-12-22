@@ -1,0 +1,1 @@
+ public void setAutoUpdate(java.lang.Integer autoUpdate) { this.autoUpdate = autoUpdate; } 

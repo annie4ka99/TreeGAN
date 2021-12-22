@@ -1,0 +1,1 @@
+ public void undo() { super.undo(); characterizedObj.setIntCharacteristics(characteristic, !set); } 

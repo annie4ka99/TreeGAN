@@ -1,0 +1,1 @@
+ public void setSenderName(boolean senderName) { this.senderName = senderName; } 

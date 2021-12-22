@@ -1,0 +1,1 @@
+ public Short toJavaBoxedShort() { return new Short(toJavaShort()); } 

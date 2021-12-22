@@ -1,0 +1,1 @@
+ public void setNameFormat(String nameFormat) { this.nameFormat = nameFormat; } 

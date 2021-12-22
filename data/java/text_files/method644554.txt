@@ -1,0 +1,1 @@
+ public TIniFile gettIniFile() { return tIniFile; } 

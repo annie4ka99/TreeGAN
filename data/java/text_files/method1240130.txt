@@ -1,0 +1,1 @@
+ public void setOmittable(boolean omittable) { this.omittable = omittable; } 

@@ -1,0 +1,1 @@
+ public Complex conjugate() { return new Complex(this.x, -this.y); } 

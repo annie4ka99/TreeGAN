@@ -1,0 +1,1 @@
+ public void setTupleManager(TupleManager tm) { m_tuples.invalidateAll(); m_tuples = tm; } 

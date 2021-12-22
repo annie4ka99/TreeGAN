@@ -1,0 +1,1 @@
+ public double binsToSeconds(int nTimeBins) { return (double) nTimeBins * fftHop / getSampleRate(); } 

@@ -1,0 +1,1 @@
+ public void reverse() { Node temp = to; to = from; from = temp; } 

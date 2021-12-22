@@ -1,0 +1,1 @@
+ public int getNumRow() { return crSpec[R].length; } 

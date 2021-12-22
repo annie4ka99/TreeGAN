@@ -1,0 +1,1 @@
+ public void addObject(JDObject o) { objects.add(o); o.setParent(this); } 

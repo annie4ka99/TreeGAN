@@ -1,0 +1,1 @@
+ public void add_class(final String name) { class_name_list.addElement(name); } 

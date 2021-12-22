@@ -1,0 +1,1 @@
+ public void setRestrictions(SpellAbility_Restriction restrict) { restrictions = restrict; } 

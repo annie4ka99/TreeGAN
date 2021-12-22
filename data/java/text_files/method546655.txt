@@ -1,0 +1,1 @@
+ public boolean isParentOf(NetObject o) { return children.contains(o); } 

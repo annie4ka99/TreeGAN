@@ -1,0 +1,1 @@
+ protected void missingParams() { throw new IllegalStateException( "Function is missing parameters: " + getName()); } 

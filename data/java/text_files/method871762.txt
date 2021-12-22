@@ -1,0 +1,1 @@
+ public void setSessions(java.lang.Integer sessions) { this.sessions = sessions; } 

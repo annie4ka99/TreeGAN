@@ -1,0 +1,1 @@
+ protected void doExit() { System.exit(0); } 

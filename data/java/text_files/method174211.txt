@@ -1,0 +1,1 @@
+ public Content detach() { if (parent != null) { parent.removeContent(this); } return this; } 

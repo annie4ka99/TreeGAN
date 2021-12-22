@@ -1,0 +1,1 @@
+ public void updateImage(TextureData data) throws GLException { updateImage(data, 0); } 

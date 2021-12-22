@@ -1,0 +1,1 @@
+ protected Label getNameLabel(){ StateFigure fig = (StateFigure)getFigure(); return fig.getNameLabel(); } 

@@ -1,0 +1,1 @@
+ protected float getSpringLength(EdgeItem e) { return -1.f; } 

@@ -1,0 +1,1 @@
+ public boolean remove(Object name) { return (zones.remove(name) != null); } 

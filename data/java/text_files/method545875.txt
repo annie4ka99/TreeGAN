@@ -1,0 +1,1 @@
+ public void setA1(double d) { A1 = d; } 

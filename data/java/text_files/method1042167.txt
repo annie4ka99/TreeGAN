@@ -1,0 +1,1 @@
+ public Vector3f mult(Vector3f v) { return mult(v, null); } 

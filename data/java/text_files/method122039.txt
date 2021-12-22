@@ -1,0 +1,1 @@
+ private InputChar getShortCut() { return _shortCut; } 

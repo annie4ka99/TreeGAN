@@ -1,0 +1,1 @@
+ public BSimOctreeField getsubNode(int i){ return this.subNodes[i]; } 

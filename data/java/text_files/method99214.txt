@@ -1,0 +1,1 @@
+ public void setIsActive(boolean value) { this.isActive = value; } 

@@ -1,0 +1,1 @@
+ public void setSmoothingGaussSigma(double sigma) { smoothSigma = sigma; updateSmoothCoefs(); commitChange(); } 

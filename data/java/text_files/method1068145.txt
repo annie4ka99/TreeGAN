@@ -1,0 +1,1 @@
+ public Button getCloseButton() { return closeButton; } 

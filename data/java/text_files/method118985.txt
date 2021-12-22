@@ -1,0 +1,1 @@
+ public void setStartPoint(Point startPoint) { this.startPoint = startPoint; } 

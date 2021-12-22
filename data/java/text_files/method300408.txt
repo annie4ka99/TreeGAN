@@ -1,0 +1,1 @@
+ public void setSearchInitially(Boolean val) { this.searchInitially = val; } 

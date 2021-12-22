@@ -1,0 +1,1 @@
+ public ResultSet getTypeInfo() throws SQLException { return getSimpleQuery("getTypeInfo"); } 

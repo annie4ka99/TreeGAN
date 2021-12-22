@@ -1,0 +1,1 @@
+ public void startCDATA() throws SAXException { if (log.isDebugEnabled()) log.debug("startCDATA"); } 

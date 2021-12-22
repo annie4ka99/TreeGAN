@@ -1,0 +1,1 @@
+private void setTabInfos(TabInfo[] newTabInfos) { tabInfos = newTabInfos; } 

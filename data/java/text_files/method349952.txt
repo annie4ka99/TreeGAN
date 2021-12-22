@@ -1,0 +1,1 @@
+ private PamSymbol getPlotSymbol(PamDataUnit pamDataUnit) { return standardSymbol; } 

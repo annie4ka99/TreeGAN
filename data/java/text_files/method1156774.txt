@@ -1,0 +1,1 @@
+ public void receiveErrorsomme(java.lang.Exception e) { } 

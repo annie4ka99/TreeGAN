@@ -1,0 +1,1 @@
+ public void setXmi(String sf) throws Exception { sourceFile = sf; } 

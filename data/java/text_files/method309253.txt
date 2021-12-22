@@ -1,0 +1,1 @@
+ public void setCancelled(boolean b) { cancelled = b; } 

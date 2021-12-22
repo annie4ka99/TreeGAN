@@ -1,0 +1,1 @@
+ public void setSearchResults(SearchResultsType value) { this.searchResults = value; } 

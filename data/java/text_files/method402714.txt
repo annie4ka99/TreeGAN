@@ -1,0 +1,1 @@
+ public void setHosts(final String value) { hosts = value; } 

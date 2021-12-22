@@ -1,0 +1,1 @@
+ public void clearObjects() { objects.clear(); if(mode==MODE_PLAY) return; selObjects.clear(); } 

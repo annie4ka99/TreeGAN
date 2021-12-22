@@ -1,0 +1,1 @@
+ public boolean next() { return leaf.next(); } 

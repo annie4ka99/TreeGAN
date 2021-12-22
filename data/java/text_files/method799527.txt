@@ -1,0 +1,1 @@
+ public void setLazyPageLayout( boolean lazy ) { checkWidget(); this.lazy = lazy; } 

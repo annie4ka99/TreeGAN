@@ -1,0 +1,1 @@
+ public MessageResources getInternal() { return (this.internal); } 

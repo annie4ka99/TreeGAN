@@ -1,0 +1,1 @@
+ public void enableLastButton(boolean enabled) { bottomPane.lastButton().setEnabled(enabled); } 

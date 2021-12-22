@@ -1,0 +1,1 @@
+ public PositionRadians getLongitude() { return PositionRadians.CreateFromDegrees(lon); } 

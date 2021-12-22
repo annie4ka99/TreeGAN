@@ -1,0 +1,1 @@
+ public Vec2 getWorldCenter(){ return m_sweep.c.clone(); } 

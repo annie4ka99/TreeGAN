@@ -1,0 +1,1 @@
+ public String getOutTypeDescription() { return getStringProperty("out_type_desc"); } 

@@ -1,0 +1,1 @@
+ public void setReturnType(String value) { this.returnType = value; } 

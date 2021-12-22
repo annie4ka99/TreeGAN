@@ -1,0 +1,1 @@
+ public boolean isSpeed() { return !isSize() && !isNoOptimization(); } 

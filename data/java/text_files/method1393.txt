@@ -1,0 +1,1 @@
+ final public void removePlayer() { playerPosition = NO_PLAYER; } 

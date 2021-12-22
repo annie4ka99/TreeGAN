@@ -1,0 +1,1 @@
+ public void setLibtool(boolean libtool) { compilerDef.setLibtool(libtool); linkerDef.setLibtool(libtool); } 

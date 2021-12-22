@@ -1,0 +1,1 @@
+ public void close() { hide(); _closed = true; WindowManager.removeWindow(this); } 

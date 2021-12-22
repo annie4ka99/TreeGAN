@@ -1,0 +1,1 @@
+ private ExtensionTriggerModel getFixture() { return fixture; } 

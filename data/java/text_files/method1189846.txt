@@ -1,0 +1,1 @@
+ public int getNumRecs() { return tx.getInt(currentblk, INT_SIZE); } 

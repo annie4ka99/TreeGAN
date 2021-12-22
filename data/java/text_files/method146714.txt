@@ -1,0 +1,1 @@
+ public GPS_SatelliteData get(int PRN) { return satellites[PRN - 1]; } 

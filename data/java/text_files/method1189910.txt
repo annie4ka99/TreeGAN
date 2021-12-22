@@ -1,0 +1,1 @@
+ public RID currentRid() { int id = rp.currentId(); return new RID(currentblknum, id); } 

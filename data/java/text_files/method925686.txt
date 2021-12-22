@@ -1,0 +1,1 @@
+ public Alpha3CountryCode getAlpha3CountryCode(){ return this.countryCodeRecord.getAlpha3CountryCode(); } 

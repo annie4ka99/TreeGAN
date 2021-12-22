@@ -1,0 +1,1 @@
+ public void start() { this.run = true; new Thread(this).start(); } 

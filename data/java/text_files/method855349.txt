@@ -1,0 +1,1 @@
+ protected Map getApplicationMap() { return new PortletApplicationMap(getPortletContext()); } 

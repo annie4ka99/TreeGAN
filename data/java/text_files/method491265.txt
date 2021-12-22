@@ -1,0 +1,1 @@
+ public JSONWriter value(long l) throws JSONException { return this.append(Long.toString(l)); } 

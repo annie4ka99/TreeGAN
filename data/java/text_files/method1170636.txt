@@ -1,0 +1,1 @@
+ public int getAbilityUsed() { return abilityUsed; } 

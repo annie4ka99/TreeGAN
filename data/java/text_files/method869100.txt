@@ -1,0 +1,1 @@
+ private String getAllFactsQuery() throws XBRLException { return "#roots#[@fact and @uri='" + this.getURI() + "']"; } 

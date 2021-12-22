@@ -1,0 +1,1 @@
+ public int getDisplayCount() { return m_displays.size(); } 

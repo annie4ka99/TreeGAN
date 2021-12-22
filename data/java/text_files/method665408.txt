@@ -1,0 +1,1 @@
+ public void addEndPoint( String name, EndPoint endpoint ) { endpoints.put( name, endpoint ); } 

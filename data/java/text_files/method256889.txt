@@ -1,0 +1,1 @@
+ public void setDebugHint(final String pHint) { this.hint = pHint; } 

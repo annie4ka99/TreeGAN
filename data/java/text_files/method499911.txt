@@ -1,0 +1,1 @@
+ public String getMediumDate() { return this.getFormattedDate(DateFormat.MEDIUM); } 

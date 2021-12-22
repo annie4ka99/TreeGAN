@@ -1,0 +1,1 @@
+ public boolean getAutoPlayBack() { return autoPlayBack; } 

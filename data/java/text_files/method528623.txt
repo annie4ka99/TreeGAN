@@ -1,0 +1,1 @@
+private void setSessionInitDate(long newSessionInitDate) { sessionInitDate = newSessionInitDate; } 

@@ -1,0 +1,1 @@
+ public int getOutDegree() { return (null == outEdges) ? 0 : outEdges.size(); } 

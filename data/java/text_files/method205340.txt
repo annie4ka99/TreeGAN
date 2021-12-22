@@ -1,0 +1,1 @@
+ public Object fromXML(String xml) { return fromXML(new StringReader(xml)); } 

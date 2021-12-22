@@ -1,0 +1,1 @@
+ public void setAdministrativeArea(String value) { this.administrativeArea = value; } 

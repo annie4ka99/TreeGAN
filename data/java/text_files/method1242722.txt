@@ -1,0 +1,1 @@
+ private ImageRegistry getImageRegistry() { return plugin.getImageRegistry(); } 

@@ -1,0 +1,1 @@
+ protected EditorKit createDefaultEditorKit() { return new ExtendedHTMLEditorKit(imageProvider); } 

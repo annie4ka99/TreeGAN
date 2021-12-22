@@ -1,0 +1,1 @@
+ public void ping(String user, String arg) { server.sendPong(user, arg); } 

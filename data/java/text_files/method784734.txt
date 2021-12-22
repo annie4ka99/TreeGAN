@@ -1,0 +1,1 @@
+ public boolean insertOption(Option option) { return options.add(option); } 

@@ -1,0 +1,1 @@
+ public boolean acceptsURL(String url) throws SQLException { return (parseURL(url, null) != null); } 

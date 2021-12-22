@@ -1,0 +1,1 @@
+ public Card resetLastDrawnCard() { Card old = lastDrawnCard; lastDrawnCard = null; return old; } 

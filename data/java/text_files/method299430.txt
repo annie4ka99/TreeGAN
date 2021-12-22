@@ -1,0 +1,1 @@
+ private INoteFigure figure() { return (INoteFigure) getFigure(); } 

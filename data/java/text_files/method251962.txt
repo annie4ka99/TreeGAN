@@ -1,0 +1,1 @@
+ public void setResultSetName(String rsn) { this.rsn = rsn; } 

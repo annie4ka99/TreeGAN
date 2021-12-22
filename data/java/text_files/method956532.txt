@@ -1,0 +1,1 @@
+ public UpdateType createUpdateType() { return new UpdateType(); } 

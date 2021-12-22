@@ -1,0 +1,1 @@
+ public Adapter createSpectrumType1Adapter() { return null; } 

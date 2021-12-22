@@ -1,0 +1,1 @@
+ public void addListener(IVisibilityChangedListener listener) { _listeners.add(listener); } 

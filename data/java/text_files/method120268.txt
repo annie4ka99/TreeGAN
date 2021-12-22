@@ -1,0 +1,1 @@
+ public JToggleButton getButtonSplit() { return buttonSplit; } 

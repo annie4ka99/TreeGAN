@@ -1,0 +1,1 @@
+ private void removeDependent(Cell cell) { dependents.remove(cell); fireDependentsChanged(); } 

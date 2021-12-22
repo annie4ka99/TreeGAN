@@ -1,0 +1,1 @@
+ public Adapter createSolidConnAdapter() { return null; } 

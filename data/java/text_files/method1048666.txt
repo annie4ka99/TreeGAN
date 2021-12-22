@@ -1,0 +1,1 @@
+ public CakisClientService_PortType getService() { return service; } 

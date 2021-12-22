@@ -1,0 +1,1 @@
+ public int getViews() { return views; } 

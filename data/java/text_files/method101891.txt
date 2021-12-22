@@ -1,0 +1,1 @@
+ protected void setNewObject(OBJT obj) { this.newObject = obj; } 

@@ -1,0 +1,1 @@
+ public boolean isUnblocked(Card att) { return unblockedMap.containsKey(att); } 

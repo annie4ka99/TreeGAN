@@ -1,0 +1,1 @@
+ public boolean endOfRow(Year y) { return y.equals(end) || y.column() == 9; } 

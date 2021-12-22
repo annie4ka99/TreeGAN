@@ -1,0 +1,1 @@
+ public void dispose(GL gl) throws GLException { destroy(gl); } 

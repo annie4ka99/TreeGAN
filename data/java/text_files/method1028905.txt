@@ -1,0 +1,1 @@
+ public double getMeanValue() { return this.meanValue; } 

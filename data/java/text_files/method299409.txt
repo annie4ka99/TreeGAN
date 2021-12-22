@@ -1,0 +1,1 @@
+ private RelationshipModel model() { return (RelationshipModel) getModel(); } 

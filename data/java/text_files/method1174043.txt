@@ -1,0 +1,1 @@
+ public void setReflectedLand(boolean b) { reflectedLand = b; } 

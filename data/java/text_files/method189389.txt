@@ -1,0 +1,1 @@
+ public boolean timeExists(String key){ return timeTable.containsKey(key); } 

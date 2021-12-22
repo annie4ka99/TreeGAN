@@ -1,0 +1,1 @@
+ public void removeURL(URL url) { this.initial.remove(url); obsolete = true; serialise(); } 

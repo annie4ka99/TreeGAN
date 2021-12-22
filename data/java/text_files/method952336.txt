@@ -1,0 +1,1 @@
+ public void setMirror(boolean mirror) { this.mirror = mirror; } 

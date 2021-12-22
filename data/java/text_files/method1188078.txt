@@ -1,0 +1,1 @@
+ public QRCodeChartMaker iso88591Encoding() { this.choe = "ISO-8859-1"; return this; } 

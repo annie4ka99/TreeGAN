@@ -1,0 +1,1 @@
+ public void setMaximumItems(int items) { this.maximumItems = items; } 

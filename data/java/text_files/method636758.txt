@@ -1,0 +1,1 @@
+ public void launch() { s_searchWindow.show(); } 

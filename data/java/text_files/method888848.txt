@@ -1,0 +1,1 @@
+ public boolean addNewVariable(String rhs){ return addNewVariable(getAutoName(), rhs); } 

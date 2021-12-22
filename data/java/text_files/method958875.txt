@@ -1,0 +1,1 @@
+ public boolean containsTablero1(Tablero tablero) { return tablero1.contains(tablero); } 

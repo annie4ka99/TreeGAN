@@ -1,0 +1,1 @@
+ public void write(char c) { if (c == '\n') { flush(); } else if (c != '\r') { buffer.append(c); } } 

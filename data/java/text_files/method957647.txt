@@ -1,0 +1,1 @@
+ public void setGeometryOperands(GeometryOperandsType value) { this.geometryOperands = value; } 

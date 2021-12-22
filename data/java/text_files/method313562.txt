@@ -1,0 +1,1 @@
+ public int getMaxStatementLength() throws SQLException { return Integer.MAX_VALUE; } 

@@ -1,0 +1,1 @@
+ public Extension getExtension(String name) { return extensionMap.get(name); } 

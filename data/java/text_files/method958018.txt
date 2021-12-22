@@ -1,0 +1,1 @@
+ public void setProviderSite(OnlineResourceType value) { this.providerSite = value; } 

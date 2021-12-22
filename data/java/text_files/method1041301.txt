@@ -1,0 +1,1 @@
+ public void setFaultTolerance(FaultTolerance faultTolerance) { this.faultTolerance = faultTolerance; } 

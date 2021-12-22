@@ -1,0 +1,1 @@
+ private void openCurrentPlayer() throws Exception { QTSession.open(); } 

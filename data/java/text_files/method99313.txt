@@ -1,0 +1,1 @@
+ public WSISecurityUserDictionary createWSISecurityUserDictionary() { return new WSISecurityUserDictionary(); } 

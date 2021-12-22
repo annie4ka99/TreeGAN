@@ -1,0 +1,1 @@
+ public PlatformType getPlatform() { return platform; } 

@@ -1,0 +1,1 @@
+ public void setOptional_properties(final String optionalProperties) { this.optionalProperties = optionalProperties; } 

@@ -1,0 +1,1 @@
+ protected CellEditorLocator getCellEditorLocator() { return new LabelLocator((ILabeledFigure) getFigure()); } 

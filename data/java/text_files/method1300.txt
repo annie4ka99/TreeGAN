@@ -1,0 +1,1 @@
+ final public void removeBox(int x, int y) { boxesArray[x + width * y] = false; } 

@@ -1,0 +1,1 @@
+private void setValue(boolean newValue) { value = newValue; } 

@@ -1,0 +1,1 @@
+ public Integer getNumReplace() { return numReplace; } 

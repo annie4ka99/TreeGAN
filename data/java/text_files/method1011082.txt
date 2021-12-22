@@ -1,0 +1,1 @@
+ public void setHardwareAccelerated(boolean onOrOff) { hardwareAccelerated = onOrOff; } 

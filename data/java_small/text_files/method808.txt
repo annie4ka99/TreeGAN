@@ -1,0 +1,1 @@
+ public void setLevelToDisplay(Level levelToBeDisplayed) { board = new Board(application); try { board.setBoardFromString(levelToBeDisplayed.getBoardDataAsString()); } catch (Exception e) { Utilities.showExceptionError(this, e); } graphicStatus = new byte[board.height * board.width]; isRecalculationNecessary = true; repaint(); } 

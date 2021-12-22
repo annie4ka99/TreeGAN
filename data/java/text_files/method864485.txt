@@ -1,0 +1,1 @@
+ public void equals() { instructions.append( OP_equals ); } 

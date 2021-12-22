@@ -1,0 +1,1 @@
+ public void setArgument(String s) { argument = PageAssembler.EMPTY.equals(s) ? null : s; } 

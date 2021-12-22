@@ -1,0 +1,1 @@
+ public Mode getCurrentMode() { return currentMode; } 

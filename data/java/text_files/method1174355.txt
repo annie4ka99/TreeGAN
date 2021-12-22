@@ -1,0 +1,1 @@
+ public void setWrap(boolean wrap) { this.wrap = wrap; } 

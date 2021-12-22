@@ -1,0 +1,1 @@
+ protected void redraw() { if (display != null) display.redraw(); } 

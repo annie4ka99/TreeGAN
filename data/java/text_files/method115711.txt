@@ -1,0 +1,1 @@
+ public Class getId3v2FrameBodyClass() { return id3v2FrameBodyClass; } 

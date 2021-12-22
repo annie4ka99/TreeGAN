@@ -1,0 +1,1 @@
+ public ExtrinsicObjectType createExtrinsicObjectType() { return new ExtrinsicObjectType(); } 

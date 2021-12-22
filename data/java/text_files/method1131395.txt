@@ -1,0 +1,1 @@
+ public void add(SimObject o) { synchronized (display) { display.add(o.obj); } } 

@@ -1,0 +1,1 @@
+ public String toString() { if (den == 1) return num + ""; else return num + "/" + den; } 

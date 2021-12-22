@@ -1,0 +1,1 @@
+ public void testResolvingProperties() throws Exception { this.evaluate("resolving_props.ocl"); } 

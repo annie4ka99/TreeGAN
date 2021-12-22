@@ -1,0 +1,1 @@
+ public boolean containsAgent(String agentID) { return this.revocationList.containsKey(agentID); } 

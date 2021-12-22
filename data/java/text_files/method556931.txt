@@ -1,0 +1,1 @@
+ public void setCtrl_sys(String ctrl_sys) { this.ctrl_sys = ctrl_sys; } 

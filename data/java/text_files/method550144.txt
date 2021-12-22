@@ -1,0 +1,1 @@
+ public void setTrend(Trend trend) { globalTrend = trend; } 

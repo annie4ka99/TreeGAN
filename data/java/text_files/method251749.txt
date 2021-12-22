@@ -1,0 +1,1 @@
+ public void setAcceptableHandler(AcceptableHandler handler) { acceptableHandler = handler; } 

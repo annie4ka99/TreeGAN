@@ -1,0 +1,1 @@
+ public Adapter createRectangleAdapter() { return null; } 

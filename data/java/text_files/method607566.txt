@@ -1,0 +1,1 @@
+ public void setConstructed(boolean constructed) { this.constructed = constructed; } 

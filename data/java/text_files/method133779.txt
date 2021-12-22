@@ -1,0 +1,1 @@
+ public void highlightBases(int start, int end) { base_glyph.select(start,end); updateWidget(); } 

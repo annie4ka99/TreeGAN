@@ -1,0 +1,1 @@
+ public void setNeedCacheDetails(boolean how) { this.needCacheDetails = how; } 

@@ -1,0 +1,1 @@
+ private JTextField getMap() { if (map == null) { map = new JTextField(); } return map; } 

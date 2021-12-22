@@ -1,0 +1,1 @@
+ public boolean lowerCaseTableNames() { return this.lowerCaseTableNames; } 

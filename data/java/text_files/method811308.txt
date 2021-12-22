@@ -1,0 +1,1 @@
+ public void setSreverse(java.lang.Boolean sreverse) { this.sreverse = sreverse; } 

@@ -1,0 +1,1 @@
+ public Sample getFixed() { return fixed; } 

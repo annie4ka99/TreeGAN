@@ -1,0 +1,1 @@
+ protected void init() { setTraversalVisitor(new AeTraversalVisitor(new AeDefTraverser(), this)); } 

@@ -1,0 +1,1 @@
+ public int countSideboard() { return sideboard.size(); } 

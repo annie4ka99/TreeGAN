@@ -1,0 +1,1 @@
+ public RecordIdType createRecordIdType() { return new RecordIdType(); } 

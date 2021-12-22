@@ -1,0 +1,1 @@
+ public void setPreferences(Preferences preferences) { this.preferences = preferences; } 

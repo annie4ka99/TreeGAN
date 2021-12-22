@@ -1,0 +1,1 @@
+ public void setTodate(String todate){ this.todate = todate; } 

@@ -1,0 +1,1 @@
+ public boolean removeTableItem(PamTableItem item) { return pamTableItems.remove(item); } 

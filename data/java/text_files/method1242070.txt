@@ -1,0 +1,1 @@
+ private void checkSequence(String dxf,String[] sequence) { checkSequence(dxf,sequence,-1); } 

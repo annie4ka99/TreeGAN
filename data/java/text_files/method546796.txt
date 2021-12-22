@@ -1,0 +1,1 @@
+ public void setMargin(Insets i) { margin = i; } 

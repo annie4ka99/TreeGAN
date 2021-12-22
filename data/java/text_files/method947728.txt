@@ -1,0 +1,1 @@
+ protected void startApp() throws MIDletStateChangeException { display.setCurrent(welcome.getMainForm()); } 

@@ -1,0 +1,1 @@
+ public boolean isDataReady () { if (readyPcdata) { readyPcdata = false; return true; } return false; } 

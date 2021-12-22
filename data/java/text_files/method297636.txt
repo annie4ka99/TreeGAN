@@ -1,0 +1,1 @@
+ public void okPressed() { sendError(); super.okPressed(); } 

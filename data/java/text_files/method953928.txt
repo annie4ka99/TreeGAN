@@ -1,0 +1,1 @@
+ public long getVanaMsecs() { return vNow; } 

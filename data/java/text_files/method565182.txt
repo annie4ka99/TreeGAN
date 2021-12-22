@@ -1,0 +1,1 @@
+ public short getShortattrwithw() { xlogger.entry(); xlogger.exit(); return 44; } 

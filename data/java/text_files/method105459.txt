@@ -1,0 +1,1 @@
+ public void setProjectCategory(TridasVocabulary.ProjectCategory value) { this.projectCategory = value; } 

@@ -1,0 +1,1 @@
+ public void setController(ImageController v) { } 

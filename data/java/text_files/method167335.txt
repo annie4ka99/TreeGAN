@@ -1,0 +1,1 @@
+ public void setEncoding(String encoding) { source.setEncoding(encoding); } 

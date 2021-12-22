@@ -1,0 +1,1 @@
+ public boolean isGlobalEnchantment() { return typeContains("Enchantment") && (!isAura()); } 

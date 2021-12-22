@@ -1,0 +1,1 @@
+ public int compareTo(Object obj) { return type.compareTo(((ClassName)obj).type); } 

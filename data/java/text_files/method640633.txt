@@ -1,0 +1,1 @@
+ public void setOutputMessage(String outputMessage){ Output_Message = outputMessage; } 

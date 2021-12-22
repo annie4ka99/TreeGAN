@@ -1,0 +1,1 @@
+ public void onDispatcherFinish(DispatcherFinishEvent evt) { getSuspendIndicator().setValue(false); } 

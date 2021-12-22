@@ -1,0 +1,1 @@
+ public boolean isMaximizeWindow() { return getConfDocument().getConfiguration().getGui().getWindow() .getMaximize(); } 

@@ -1,0 +1,1 @@
+ public void setItemLink( String link ){ this.strItemLink = new String( link ); } 

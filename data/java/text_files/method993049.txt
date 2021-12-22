@@ -1,0 +1,1 @@
+ public void setBlur(float blur) { this.blur = blur; } 

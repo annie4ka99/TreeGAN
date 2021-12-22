@@ -1,0 +1,1 @@
+ public String getAttributeValue() { return RadiusUtil.getHexString(getAttributeData()); } 

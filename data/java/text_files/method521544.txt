@@ -1,0 +1,1 @@
+public void setBpsId(String newValue) { this.bpsId = newValue; } 

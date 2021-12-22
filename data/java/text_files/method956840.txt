@@ -1,0 +1,1 @@
+ public void setClassificationNodeQuery(ClassificationNodeQueryType value) { this.classificationNodeQuery = value; } 

@@ -1,0 +1,1 @@
+ public void addRobot(SimRobot r) { gc.add(r); env.addRobot(r); } 

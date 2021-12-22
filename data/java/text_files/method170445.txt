@@ -1,0 +1,1 @@
+ public OutputPanel getOutput() { return output; } 

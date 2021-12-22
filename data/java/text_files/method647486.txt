@@ -1,0 +1,1 @@
+ public String getEventName() { return m_eventName; } 

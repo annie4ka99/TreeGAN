@@ -1,0 +1,1 @@
+ public void setPrimaryMember( String value ) { primaryMember = value ; } 

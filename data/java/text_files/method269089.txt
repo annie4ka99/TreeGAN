@@ -1,0 +1,1 @@
+ public PositionRadians getLatitude() { return PositionRadians.CreateFromDegrees(lat); } 

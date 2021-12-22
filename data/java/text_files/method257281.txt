@@ -1,0 +1,1 @@
+ public void setOwner(Offer owner) { this.owner = owner; } 

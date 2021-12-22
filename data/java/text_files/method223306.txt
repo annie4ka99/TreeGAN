@@ -1,0 +1,1 @@
+ public void printUserInfo() { print("user.dir", "user.home", "user.name"); } 

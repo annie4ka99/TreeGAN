@@ -1,0 +1,1 @@
+ public void setImageList(ImageList imageList) { this.imageList = imageList; } 

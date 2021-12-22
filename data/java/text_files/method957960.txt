@@ -1,0 +1,1 @@
+ public void setServiceIdentification(ServiceIdentification value) { this.serviceIdentification = value; } 

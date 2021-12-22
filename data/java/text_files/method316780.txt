@@ -1,0 +1,1 @@
+ public void removeModel(AdvancedModel3D model) { childs.remove(model); } 

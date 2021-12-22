@@ -1,0 +1,1 @@
+ public void scale(double sx, double sy) { transform.scale(sx, sy); invalidateTransform(); } 

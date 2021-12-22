@@ -1,0 +1,1 @@
+ private void error (String s) { System.out.println (s); System.exit (1); } 

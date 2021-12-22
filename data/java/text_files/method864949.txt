@@ -1,0 +1,1 @@
+ public void constructSuper( int argCount ) { instructions.append( OP_constructsuper, argCount ); } 

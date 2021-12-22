@@ -1,0 +1,1 @@
+ public SortByType getSortBy() { return sortBy; } 

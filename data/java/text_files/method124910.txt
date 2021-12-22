@@ -1,0 +1,1 @@
+ public FArg add(double arg) { return add(new Double(arg)); } 

@@ -1,0 +1,1 @@
+ public void showPrev() { if (m_iType>1) { m_iType--; updateChart(m_Display); } } 

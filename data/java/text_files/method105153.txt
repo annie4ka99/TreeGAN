@@ -1,0 +1,1 @@
+ public TridasInterpretation createTridasInterpretation() { return new TridasInterpretation(); } 

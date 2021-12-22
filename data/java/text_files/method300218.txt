@@ -1,0 +1,1 @@
+ public void setType(String val) { this.shortcutType = ShortcutType.findByName(val); } 

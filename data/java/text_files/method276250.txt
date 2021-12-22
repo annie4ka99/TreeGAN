@@ -1,0 +1,1 @@
+ public void setCRLF(String xcrlf) { crlf = xcrlf.getBytes(); } 

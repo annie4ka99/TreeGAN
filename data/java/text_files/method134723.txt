@@ -1,0 +1,1 @@
+ public boolean isCheckMinimumWindowSize() { return false; } 

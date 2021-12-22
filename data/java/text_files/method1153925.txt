@@ -1,0 +1,1 @@
+ public void setFrame(AgentAppFrame frame) { this.frame = frame; } 

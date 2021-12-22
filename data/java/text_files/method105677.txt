@@ -1,0 +1,1 @@
+ public Double getAverageRingWidth() { return averageRingWidth; } 

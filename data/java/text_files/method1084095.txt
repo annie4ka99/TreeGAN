@@ -1,0 +1,1 @@
+ protected void logWarn(String logMsg, Throwable cause) { getLogger().warn(logMsg, cause); } 

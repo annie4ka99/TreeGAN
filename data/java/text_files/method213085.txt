@@ -1,0 +1,1 @@
+ private void println(String msg) { out.println(msg); } 

@@ -1,0 +1,1 @@
+ public SQLEditorToolBar getEditorToolBar() { return toolBar; } 

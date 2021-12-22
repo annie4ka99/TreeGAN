@@ -1,0 +1,1 @@
+ public boolean isCurrentWelcome(Path path) { return currentWelcomes.containsValue(path); } 

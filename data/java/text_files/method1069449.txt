@@ -1,0 +1,1 @@
+ public IFigure getInvibleContainer(){ return invisibleContainer; } 

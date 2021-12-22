@@ -1,0 +1,1 @@
+ public void setEditSessionCode(Integer value) { this.editSessionCode = value; } 

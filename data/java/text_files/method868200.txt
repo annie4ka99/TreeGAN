@@ -1,0 +1,1 @@
+ public Expression instance() { return subExpressionAt( 0 ); } 

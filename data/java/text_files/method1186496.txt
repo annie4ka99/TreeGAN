@@ -1,0 +1,1 @@
+ public void setTotalViews(int totalViews) { this.totalViews = totalViews; } 

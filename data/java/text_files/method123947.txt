@@ -1,0 +1,1 @@
+ public void setAttribute(String name, int value) { newAttribute(name).append(value); } 

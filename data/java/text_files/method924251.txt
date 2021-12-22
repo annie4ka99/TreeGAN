@@ -1,0 +1,1 @@
+ public void setCountCallback(ICountCallback countCallback) { this.countCallback = countCallback; } 

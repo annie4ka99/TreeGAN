@@ -1,0 +1,1 @@
+ public IntIterator nodeRows() { return getNodeTable().rows(); } 

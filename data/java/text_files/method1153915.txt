@@ -1,0 +1,1 @@
+ protected int x(Point2D xyW) { return x(xyW.getX()); } 

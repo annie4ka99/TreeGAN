@@ -1,0 +1,1 @@
+ public boolean isName(String name) { return toString().equals(name); } 

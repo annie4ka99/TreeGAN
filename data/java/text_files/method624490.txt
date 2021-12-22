@@ -1,0 +1,1 @@
+ public void addResult(ContextSummary result) { contextResults.add(result); } 

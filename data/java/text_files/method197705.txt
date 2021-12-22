@@ -1,0 +1,1 @@
+ public String toString() { return figure.toString() + " on Layer: " + getMapLayer(); } 

@@ -1,0 +1,1 @@
+ public void refresh() { for (int i = 0; i < months.length; i++) { months[i].refresh(); } } 

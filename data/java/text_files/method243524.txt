@@ -1,0 +1,1 @@
+ public int getPlayers() { return m_playersNum; } 

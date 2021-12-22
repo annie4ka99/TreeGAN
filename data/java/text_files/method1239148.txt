@@ -1,0 +1,1 @@
+ public Part createAttachmentPart() throws org.apache.axis.AxisFault { return new AttachmentPart(); } 

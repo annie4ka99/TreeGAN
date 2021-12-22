@@ -1,0 +1,1 @@
+ public void pushnumber(Float f) { if ( f == null ) pushnil(); else pushnumber( f.doubleValue() ); } 

@@ -1,0 +1,1 @@
+ public void setCancelCommand(Command cancelCommand) { this.cancelCommand = cancelCommand; } 

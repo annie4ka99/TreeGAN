@@ -1,0 +1,1 @@
+ public boolean isSubsystemGUI() { String value = subsystem.getValue(); return value.equals("gui"); } 

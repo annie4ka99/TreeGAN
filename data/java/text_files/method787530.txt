@@ -1,0 +1,1 @@
+ public void add(Predicate p, ShapeAction f) { super.add(p, f); } 

@@ -1,0 +1,1 @@
+ public Object extractValue() { return tf.getText(); } 

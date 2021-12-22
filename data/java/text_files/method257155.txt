@@ -1,0 +1,1 @@
+ public String getDbURL(int reqSet) { return rsDbURLTextField[reqSet].getText(); } 

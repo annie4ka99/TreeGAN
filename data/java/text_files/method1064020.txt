@@ -1,0 +1,1 @@
+ public boolean namespace(){ return ! hasStereotype("cNoNamespace") && ! hasStereotype("cRoot"); } 

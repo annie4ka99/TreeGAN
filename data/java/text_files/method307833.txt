@@ -1,0 +1,1 @@
+ public boolean or(boolean b) { synchronized (lock_) { value_ = value_ | b; return value_; } } 

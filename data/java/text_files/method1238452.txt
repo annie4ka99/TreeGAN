@@ -1,0 +1,1 @@
+ public boolean isVerbose() { return verbose; } 

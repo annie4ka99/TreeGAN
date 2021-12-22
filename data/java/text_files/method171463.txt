@@ -1,0 +1,1 @@
+ public void visitI2B(I2B o){ stack().pop(); stack().push(Type.INT); } 

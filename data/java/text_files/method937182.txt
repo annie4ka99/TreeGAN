@@ -1,0 +1,1 @@
+ public void setHistoryPersister(HistoryPersister historyPersister) { this.historyPersister = historyPersister; } 

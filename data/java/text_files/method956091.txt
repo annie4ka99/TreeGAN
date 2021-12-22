@@ -1,0 +1,1 @@
+ public PlatformPropertyType createPlatformPropertyType() { return new PlatformPropertyType(); } 

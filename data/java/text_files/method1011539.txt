@@ -1,0 +1,1 @@
+ public int getPackRowLength() { return this.packRowLength; } 

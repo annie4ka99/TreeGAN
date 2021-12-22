@@ -1,0 +1,1 @@
+ public boolean nullsAreSortedAtEnd() throws SQLException { return false; } 

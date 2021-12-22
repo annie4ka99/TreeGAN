@@ -1,0 +1,1 @@
+ public void showLog(boolean show) { setVisible(show); } 

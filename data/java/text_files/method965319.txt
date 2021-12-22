@@ -1,0 +1,1 @@
+ public Dimension getPreferredSize(JComponent c) { return getMinimumSize(c); } 

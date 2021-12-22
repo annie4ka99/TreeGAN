@@ -1,0 +1,1 @@
+ public void setFromLogged(String fromLogged) { this.fromLogged = Convert.toBoolean(fromLogged); } 

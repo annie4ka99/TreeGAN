@@ -1,0 +1,1 @@
+ public void setHelpAvailable(boolean b) { isHelpAvailable = b; } 

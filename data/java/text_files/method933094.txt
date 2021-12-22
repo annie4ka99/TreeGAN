@@ -1,0 +1,1 @@
+ public void setApplication(ServletContext application) { this.application = application; } 

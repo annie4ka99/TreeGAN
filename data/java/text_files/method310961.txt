@@ -1,0 +1,1 @@
+ public Dimension getPreferredSize() { return new Dimension(800, 350); } 

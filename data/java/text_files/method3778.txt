@@ -1,0 +1,1 @@
+ static public String getExtension(File f) { return getExtension(f.getPath()); } 

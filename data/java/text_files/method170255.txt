@@ -1,0 +1,1 @@
+ private void fillPanel(JPanel panel, MatchLineupPlayer mlp) { fillPanel(panel, mlp, false); } 

@@ -1,0 +1,1 @@
+ public PamSidePanel getSidePanel() { return sidePanel; } 

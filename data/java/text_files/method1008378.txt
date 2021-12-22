@@ -1,0 +1,1 @@
+ public PrinterJob getPrinterJob() { new Exception().printStackTrace(); return null; } 

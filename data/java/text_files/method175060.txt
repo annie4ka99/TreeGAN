@@ -1,0 +1,1 @@
+ public boolean tryAcquire() { return sync.attempt(); } 

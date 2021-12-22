@@ -1,0 +1,1 @@
+ public void addNewEndTime(long utcMillis) { setEndTime(utcMillis); setNDatas(getNDatas()+1); } 

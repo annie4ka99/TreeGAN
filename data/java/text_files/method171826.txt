@@ -1,0 +1,1 @@
+ public void visitIREM(IREM o){ stack().pop(); stack().pop(); stack().push(Type.INT); } 

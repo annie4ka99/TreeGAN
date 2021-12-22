@@ -1,0 +1,1 @@
+ public void setMember(boolean member) { this.member = member; } 

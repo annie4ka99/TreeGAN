@@ -1,0 +1,1 @@
+ protected boolean isBoxInactive(int boxNo) { return isBoxInactive[boxNo]; } 

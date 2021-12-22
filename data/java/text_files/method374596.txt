@@ -1,0 +1,1 @@
+ public int destinationToInt() { return getInt(16); } 

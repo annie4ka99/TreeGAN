@@ -1,0 +1,1 @@
+ public void setFixedHorizontalLabel(final boolean horizontal) { fixedHorizontalLabel = horizontal; } 

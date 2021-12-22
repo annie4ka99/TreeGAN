@@ -1,0 +1,1 @@
+ public int getDriverMajorVersion() { return Driver.getMajorVersionInternal(); } 

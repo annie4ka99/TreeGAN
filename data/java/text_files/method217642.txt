@@ -1,0 +1,1 @@
+ public void resetTree() { this.getRoot().removeAllChildren(); this.treeModelChanged(this.getRoot()); } 

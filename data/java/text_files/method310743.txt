@@ -1,0 +1,1 @@
+ private void pushv(long v) { ensureCapacity(sz+1); r[sz++]=v; } 

@@ -1,0 +1,1 @@
+ public void setStandardizingMethod(String value) { this.standardizingMethod = value; } 

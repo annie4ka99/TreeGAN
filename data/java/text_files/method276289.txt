@@ -1,0 +1,1 @@
+ public void insertLine(int l, boolean scrollDown) { insertLine(l, 1, scrollDown); } 

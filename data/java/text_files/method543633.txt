@@ -1,0 +1,1 @@
+ public int getImageXCoord(int x) { return x - imagePanel.getXOrigin(); } 

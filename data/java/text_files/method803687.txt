@@ -1,0 +1,1 @@
+ public Lexer getLexer() { return new Lexer(tokens, regexes); } 

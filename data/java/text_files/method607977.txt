@@ -1,0 +1,1 @@
+ public String getName() { return this.permission_name_; } 

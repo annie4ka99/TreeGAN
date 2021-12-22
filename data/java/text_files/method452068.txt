@@ -1,0 +1,1 @@
+ public void setHijos(es.agp.monitor.webservices.client.NodoArbolBean[] hijos) { this.hijos = hijos; } 

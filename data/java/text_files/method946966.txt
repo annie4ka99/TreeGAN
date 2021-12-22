@@ -1,0 +1,1 @@
+ protected boolean isInputAllowed(String text) { return text.matches(NumberUtil.ENGLISH_DECIMAL_PATTERN); } 

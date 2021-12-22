@@ -1,0 +1,1 @@
+ public boolean isEditorModeActivated() { return gameMode == GameMode.EDITOR; } 

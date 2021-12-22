@@ -1,0 +1,1 @@
+ public void setLanguage(String string) { interfaceLanguage = string; } 

@@ -1,0 +1,1 @@
+ public void setTextField(String textField) { m_labelName = textField; } 

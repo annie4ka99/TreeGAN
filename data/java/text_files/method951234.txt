@@ -1,0 +1,1 @@
+ public void setNodes(NodeList nodes) { this.nodes = nodes; } 

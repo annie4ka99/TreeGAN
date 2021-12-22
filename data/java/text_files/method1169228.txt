@@ -1,0 +1,1 @@
+ protected void justUpdatedUI() { this.lastUIUpdateTime = new Date().getTime()/1000; } 

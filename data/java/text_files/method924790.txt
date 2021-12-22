@@ -1,0 +1,1 @@
+ public void compress() throws IOException { compress(input, output); } 

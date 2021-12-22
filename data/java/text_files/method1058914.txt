@@ -1,0 +1,1 @@
+ public void addChangeListener(IListViewer viewer) { changeListeners.add(viewer); } 

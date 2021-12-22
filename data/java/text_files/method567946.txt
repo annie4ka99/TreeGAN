@@ -1,0 +1,1 @@
+ public void setBeanId(String beanId) { m_strBeanId = beanId; } 

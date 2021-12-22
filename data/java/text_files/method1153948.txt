@@ -1,0 +1,1 @@
+ public void setStatus(String status) { statusLabel.setText(status); } 

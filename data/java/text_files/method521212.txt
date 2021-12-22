@@ -1,0 +1,1 @@
+private void setMaxValue(int newMaxValue) { maxValue = newMaxValue; } 

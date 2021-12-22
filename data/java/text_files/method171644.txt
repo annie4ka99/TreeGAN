@@ -1,0 +1,1 @@
+ public void visitIFLT(IFLT o){ stack().pop(); } 

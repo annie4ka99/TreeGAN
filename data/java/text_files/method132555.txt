@@ -1,0 +1,1 @@
+ public void removeSequenceListener( SequenceListener l ) { listeners.remove( l ); } 

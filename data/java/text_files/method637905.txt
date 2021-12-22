@@ -1,0 +1,1 @@
+ public void add(Chromosome chromosome) { this.chromosomes.add(chromosome); } 

@@ -1,0 +1,1 @@
+ public Adapter createTOnMsgCommonAdapter() { return null; } 

@@ -1,0 +1,1 @@
+ public void visitFNEG(FNEG o){ stack().pop(); stack().push(Type.FLOAT); } 

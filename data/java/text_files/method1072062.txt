@@ -1,0 +1,1 @@
+ public IPreferenceStore getPreferenceStore() { return PapyrusParsersPlugin.getDefault().getPreferenceStore(); } 

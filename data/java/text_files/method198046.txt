@@ -1,0 +1,1 @@
+ public int sizeOfListFor(Object key) { return ((List) mapToList.get(key)).size(); } 

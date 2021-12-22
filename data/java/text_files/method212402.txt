@@ -1,0 +1,1 @@
+ public Enumeration getFailedCommands() { return taskgraphHandler.getFailedNodes(); } 

@@ -1,0 +1,1 @@
+ public void setKi (float newKi) { this.ki = newKi; } 

@@ -1,0 +1,1 @@
+ public void setRightDefence(double i) { rightDefence = i; } 

@@ -1,0 +1,1 @@
+ public void setLocation(Point p) { this.setLocation(p.x, p.y); } 

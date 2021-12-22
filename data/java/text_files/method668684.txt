@@ -1,0 +1,1 @@
+ public String getDate() { String str = readDateString(); return str; } 

@@ -1,0 +1,1 @@
+ public void setEmail(String value) { this.email = value; } 

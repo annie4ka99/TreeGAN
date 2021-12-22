@@ -1,0 +1,1 @@
+ public void setConc(int i, int j, int k, double c) { quantity[i][j][k] = c*boxVolume; } 

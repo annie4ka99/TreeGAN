@@ -1,0 +1,1 @@
+ public void setRadiusPlaceholder(TridasRadiusPlaceholder value) { this.radiusPlaceholder = value; } 

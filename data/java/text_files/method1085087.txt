@@ -1,0 +1,1 @@
+ public void copyValues(MetaInfo fromMeta) { author = fromMeta.author; comment = fromMeta.comment; } 

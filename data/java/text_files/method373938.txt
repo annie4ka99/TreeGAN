@@ -1,0 +1,1 @@
+ public void code(int value) { setUByte(0, value); } 

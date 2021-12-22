@@ -1,0 +1,1 @@
+ public void not() { mv.visitInsn(Opcodes.ICONST_1); mv.visitInsn(Opcodes.IXOR); } 

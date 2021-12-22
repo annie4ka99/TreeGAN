@@ -1,0 +1,1 @@
+ public MessageResourcesFactory getFactory() { return (this.factory); } 

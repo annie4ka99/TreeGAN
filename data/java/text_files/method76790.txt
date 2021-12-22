@@ -1,0 +1,1 @@
+ protected void visit(Node node) { node.apply(this); } 

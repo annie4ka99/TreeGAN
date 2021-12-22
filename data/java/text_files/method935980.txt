@@ -1,0 +1,1 @@
+ public void addCancelActionListener( ActionListener listener ) { this.cancel.addActionListener( listener ); } 

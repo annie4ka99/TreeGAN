@@ -1,0 +1,1 @@
+ public void setText(String txt) { if (txt == null) text = ""; else text = txt; repaint(); } 

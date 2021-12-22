@@ -1,0 +1,1 @@
+ public void setFitness(Integer fitness) { this.fitness = fitness; } 

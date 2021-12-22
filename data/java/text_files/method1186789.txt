@@ -1,0 +1,1 @@
+ public void setTotalTopics(int totalTopics) { this.totalTopics = totalTopics; } 

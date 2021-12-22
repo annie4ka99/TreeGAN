@@ -1,0 +1,1 @@
+ public void init(IWorkbenchWindow window) { this.window = window; } 

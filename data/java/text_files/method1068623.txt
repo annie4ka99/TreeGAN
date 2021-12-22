@@ -1,0 +1,1 @@
+ protected RectangleFigure getAnchorFigure(){ return (RectangleFigure)createFigure() ; } 

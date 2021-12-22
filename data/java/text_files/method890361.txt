@@ -1,0 +1,1 @@
+ public void setUseParamTypesInId(boolean useParamTypesInId) { this.useParamTypesInId = useParamTypesInId; } 

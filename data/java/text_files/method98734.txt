@@ -1,0 +1,1 @@
+ public MultiPointType createMultiPointType() { return new MultiPointType(); } 

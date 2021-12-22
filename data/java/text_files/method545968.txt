@@ -1,0 +1,1 @@
+ public void setShadowWidth(int w) { shadowThickness = w; updateShape(); } 

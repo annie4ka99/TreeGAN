@@ -1,0 +1,1 @@
+ private Bug getBug(UIBug uibug) { return uibug.getBug(); } 

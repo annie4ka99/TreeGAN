@@ -1,0 +1,1 @@
+ public int getRowCount() { return m_sInputAttributes.length; } 

@@ -1,0 +1,1 @@
+ public String GetImage() { return new String(buffer, 0, read); } 

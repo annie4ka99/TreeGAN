@@ -1,0 +1,1 @@
+ public boolean isChildOfComponent() { LayoutTag parent = getLayoutParent(); return parent instanceof LayoutComponentTag; } 

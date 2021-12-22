@@ -1,0 +1,1 @@
+ public void flushNow(int position) { buf.position(position); flushNow(); } 

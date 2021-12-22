@@ -1,0 +1,1 @@
+ public TypeEntry getRefType() { return refType; } 

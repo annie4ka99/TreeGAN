@@ -1,0 +1,1 @@
+ protected void die(KeeperException killerException) { die(new ZkCagesException(killerException)); } 

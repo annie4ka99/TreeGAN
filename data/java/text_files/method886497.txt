@@ -1,0 +1,1 @@
+ protected boolean isHTMLSupported() { return getMimeType().startsWith("text/html"); } 

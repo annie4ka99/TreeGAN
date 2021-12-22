@@ -1,0 +1,1 @@
+ public void setCompileClassPath(String classPath) { compileClassPath = classPath; } 

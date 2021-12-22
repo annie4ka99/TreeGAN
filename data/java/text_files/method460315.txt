@@ -1,0 +1,1 @@
+ public void setEvidence(Object evidence) { this.evidence = evidence; } 

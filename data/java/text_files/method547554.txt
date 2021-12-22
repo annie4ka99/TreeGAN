@@ -1,0 +1,1 @@
+ public void setSelectionColor (Color selectionColor) { this.selectionColor = selectionColor; repaint(); } 

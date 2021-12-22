@@ -1,0 +1,1 @@
+ public ModuleConfig getModuleConfig() { return (this.moduleConfig); } 

@@ -1,0 +1,1 @@
+ public long checklong(int narg) { return checknumber(narg).toJavaLong(); } 

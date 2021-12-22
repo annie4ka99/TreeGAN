@@ -1,0 +1,1 @@
+ protected void setMenubar(JMenuBar mb) { setJMenuBar(mb); } 

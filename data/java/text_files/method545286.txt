@@ -1,0 +1,1 @@
+ public double getYValue() { return searchResult.value.y; } 

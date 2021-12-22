@@ -1,0 +1,1 @@
+private void setPlatForm(int newValue) { platForm = newValue; } 

@@ -1,0 +1,1 @@
+ public boolean isGettable(long txTimestamp) { return freshTimestamp < txTimestamp; } 

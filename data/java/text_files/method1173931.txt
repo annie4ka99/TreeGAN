@@ -1,0 +1,1 @@
+ public void addCompy(String s) { this.compy.add(s); } 

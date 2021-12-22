@@ -1,0 +1,1 @@
+ public void run() { execute(createPasteCommand(getSelectedObjects())); } 

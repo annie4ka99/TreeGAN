@@ -1,0 +1,1 @@
+ public String contentType() { return fieldValue(Fields.Content_Type); } 

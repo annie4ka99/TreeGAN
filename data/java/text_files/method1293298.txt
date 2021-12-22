@@ -1,0 +1,1 @@
+ public PortType removePortType(QName name) { return (PortType) portTypes.remove(name); } 

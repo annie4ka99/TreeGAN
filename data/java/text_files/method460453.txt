@@ -1,0 +1,1 @@
+ public void setWitnessAddress(AddressType value) { this.witnessAddress = value; } 

@@ -1,0 +1,1 @@
+ public void setTopdiags(java.lang.Integer topdiags) { this.topdiags = topdiags; } 

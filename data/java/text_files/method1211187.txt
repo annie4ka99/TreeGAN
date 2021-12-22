@@ -1,0 +1,1 @@
+ public void setN_rif(int n_rif) { this.n_rif = n_rif; } 

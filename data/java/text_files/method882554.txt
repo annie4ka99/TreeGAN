@@ -1,0 +1,1 @@
+ public void testGetInstance() { assertTrue(conflict.getInstance().equals(instance)); } 

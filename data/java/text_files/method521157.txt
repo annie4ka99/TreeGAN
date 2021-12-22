@@ -1,0 +1,1 @@
+public int size() { if (tabInfos==null) return 0; else return tabInfos.length; } 

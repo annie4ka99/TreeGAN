@@ -1,0 +1,1 @@
+ public Iterator iterator() { synchronized (lock) { return new Itr(q.iterator()); } } 

@@ -1,0 +1,1 @@
+ public void setShareable(final boolean shareable) { this.shareable = shareable; } 

@@ -1,0 +1,1 @@
+ public void setLayout(final int theLayout) { this.layout = theLayout; } 

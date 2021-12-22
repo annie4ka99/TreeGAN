@@ -1,0 +1,1 @@
+ public void setRadiusIncrement(double inc) { m_radiusInc = inc; } 

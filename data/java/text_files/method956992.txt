@@ -1,0 +1,1 @@
+ public PersonQueryType getPrimaryContactQuery() { return primaryContactQuery; } 

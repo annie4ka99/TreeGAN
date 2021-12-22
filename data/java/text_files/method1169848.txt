@@ -1,0 +1,1 @@
+ public JList getJList() { return jList; } 

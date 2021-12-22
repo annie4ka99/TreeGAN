@@ -1,0 +1,1 @@
+ public int isCulled() { if (mapdesc.isCulling()) { return 0; } else { return Subdivider.CULL_ACCEPT; } } 

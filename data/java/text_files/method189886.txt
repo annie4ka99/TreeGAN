@@ -1,0 +1,1 @@
+ public boolean containsPageNumber(int pageNumber) { return _handler.containsPageNumber(pageNumber); } 

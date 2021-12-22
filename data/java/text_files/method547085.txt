@@ -1,0 +1,1 @@
+ public void autoScaleCamera() { j3dView.autoScaleCameraRequest(); j3dView.display(); } 

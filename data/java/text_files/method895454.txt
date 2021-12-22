@@ -1,0 +1,1 @@
+ public SelectionModel getSelectionModel() { return this.editor.getSelectionModel(); } 

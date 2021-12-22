@@ -1,0 +1,1 @@
+ protected void setInterface(boolean isInterface) { _isInterface = isInterface; } 

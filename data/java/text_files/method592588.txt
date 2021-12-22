@@ -1,0 +1,1 @@
+ public void resetBuffer() { throw new IllegalStateException("reset() is not supported"); } 

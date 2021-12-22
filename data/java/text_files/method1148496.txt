@@ -1,0 +1,1 @@
+ public int syncGeocache(GeocacheData cache) { return SYNC_ERROR; } 

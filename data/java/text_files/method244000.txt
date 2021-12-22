@@ -1,0 +1,1 @@
+ public String getValue(String _attributeName) { return (String) attributes.get(_attributeName); } 

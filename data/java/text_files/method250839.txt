@@ -1,0 +1,1 @@
+ public void setFedoraInterface(FedoraInterface fedI){ this.fedoraInterface = fedI; } 

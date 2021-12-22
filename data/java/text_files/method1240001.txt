@@ -1,0 +1,1 @@
+ public void addAttachmentPart( Object attachment){ attachmentParts.add(attachment); } 

@@ -1,0 +1,1 @@
+ public float getFriction() { return m_friction; } 

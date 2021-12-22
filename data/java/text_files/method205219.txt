@@ -1,0 +1,1 @@
+ public void pause (int i) { storedTime[i] = get(i) * 1000; running[i] = false; } 

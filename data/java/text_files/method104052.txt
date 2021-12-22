@@ -1,0 +1,1 @@
+ public void clearSites() { this.siteCodes.clear(); this.siteTitles.clear(); } 

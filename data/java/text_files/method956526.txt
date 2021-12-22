@@ -1,0 +1,1 @@
+ public void setDistributedSearch(DistributedSearchType value) { this.distributedSearch = value; } 

@@ -1,0 +1,1 @@
+ public boolean hasAuthority(String auth) { return root.containsKey(auth); } 

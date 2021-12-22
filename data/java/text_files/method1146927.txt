@@ -1,0 +1,1 @@
+ public void setIconHeight(double height) { this.height = height; } 

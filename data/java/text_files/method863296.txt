@@ -1,0 +1,1 @@
+ public void finish() { System.err.println( "finish " + clip.avm2Class.name ); clip.finish(); } 

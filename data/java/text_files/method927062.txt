@@ -1,0 +1,1 @@
+ public double getTcq() { return getTc() * getQty(); } 

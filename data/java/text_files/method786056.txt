@@ -1,0 +1,1 @@
+ public int getColumnRow(int row, int col) { return this.isValidRow(row) ? row : -1; } 

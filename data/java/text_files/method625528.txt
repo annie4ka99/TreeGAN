@@ -1,0 +1,1 @@
+ public RefPackage getJMIObject() { return representedObject; } 

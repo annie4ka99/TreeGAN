@@ -1,0 +1,1 @@
+ public void setKredit(java.lang.Double kredit) { this.kredit = kredit; } 

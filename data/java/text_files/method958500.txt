@@ -1,0 +1,1 @@
+ public AuditableEventType createAuditableEventType() { return new AuditableEventType(); } 

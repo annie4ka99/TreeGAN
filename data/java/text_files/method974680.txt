@@ -1,0 +1,1 @@
+ public String getSelectedItem() { return (String) getApplicationStateManager().get(SELECTED_MENU_ITEM); } 

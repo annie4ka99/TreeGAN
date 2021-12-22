@@ -1,0 +1,1 @@
+ public void setPrimaryFilter(FilterType value) { this.primaryFilter = value; } 

@@ -1,0 +1,1 @@
+ public void setShowEntry(boolean show){ showEntry = show; } 

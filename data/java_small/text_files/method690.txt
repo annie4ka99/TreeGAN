@@ -1,0 +1,1 @@
+ private void setTo( boolean forStart ) { String textkey = (forStart ? startkey : stopkey ); String action = (forStart ? startActionCommand : stopActionCommand); setText(Texts.getText( textkey )); setActionCommand( action ); setupBorder(forStart); setupBgColor(forStart); } 

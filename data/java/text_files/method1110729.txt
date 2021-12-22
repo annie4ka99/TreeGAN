@@ -1,0 +1,1 @@
+ public void childUpdated() { if (parent != null) parent.childUpdated(); groupBounds = null; } 

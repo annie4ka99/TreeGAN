@@ -1,0 +1,1 @@
+ public boolean allCanWrite() { return worldPermissions.getWrite(); } 

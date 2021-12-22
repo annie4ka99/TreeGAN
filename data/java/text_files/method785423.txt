@@ -1,0 +1,1 @@
+ public JComboBox createComboBox() { return new JComboBox(m_model); } 

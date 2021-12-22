@@ -1,0 +1,1 @@
+ public int getMissCountExpired() throws IllegalStateException { checkStatus(); return missCountExpired; } 

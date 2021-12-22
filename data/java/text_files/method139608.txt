@@ -1,0 +1,1 @@
+ public int getLength() { return (end > start ? end-start : start-end); } 

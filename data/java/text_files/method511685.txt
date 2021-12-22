@@ -1,0 +1,1 @@
+ public void setAktienliste(java.lang.String aktienliste) { this.aktienliste = aktienliste; } 

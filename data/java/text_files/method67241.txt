@@ -1,0 +1,1 @@
+ public boolean isRowSelected(int row) { return (m_Selection.get(new Integer(row)) != null); } 

@@ -1,0 +1,1 @@
+ private void signalNotEmpty() { synchronized (takeLock) { takeLock.notify(); } } 

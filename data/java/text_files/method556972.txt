@@ -1,0 +1,1 @@
+ public String getAuthor_name() { return author_name; } 

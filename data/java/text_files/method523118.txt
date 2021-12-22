@@ -1,0 +1,1 @@
+public void sendEvtQuiescingStop() { manipulateEvtList(EVT_ADD_FIRST, new MgEvtQuiescingStop()); } 

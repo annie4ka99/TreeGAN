@@ -1,0 +1,1 @@
+ public boolean isStartCut() { return Start_Cut; } 

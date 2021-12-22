@@ -1,0 +1,1 @@
+ final public boolean isBoxActive(int boxNo) { return isBoxInactive[boxNo] == false; } 

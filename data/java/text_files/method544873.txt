@@ -1,0 +1,1 @@
+ public void setHorizontalZoom(int zoom) { synchronized (this) { zoomScroll=0; hZoom=zoom; } } 

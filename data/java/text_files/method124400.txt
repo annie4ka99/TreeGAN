@@ -1,0 +1,1 @@
+ public JSCInt getExitDialog() { return exitDialog; } 

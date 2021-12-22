@@ -1,0 +1,1 @@
+ protected MzMLType getFixture() { return fixture; } 

@@ -1,0 +1,1 @@
+ public Hashtable getAllElements() { return this.elementsAll; } 

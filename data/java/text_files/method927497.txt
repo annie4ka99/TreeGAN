@@ -1,0 +1,1 @@
+ public BufferedImage getImageFromJAR(int id) { return m_NetworkIO.getBufferedImageFromJAR(id); } 

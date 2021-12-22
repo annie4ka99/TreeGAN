@@ -1,0 +1,1 @@
+ public BlendingMode getMode() { return mode; } 

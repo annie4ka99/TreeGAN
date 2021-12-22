@@ -1,0 +1,1 @@
+ public void setOperatorSubtraction(Pattern operatorSubtraction) { this.operatorSubtraction = operatorSubtraction; } 

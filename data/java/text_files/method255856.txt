@@ -1,0 +1,1 @@
+ protected void init( ImageLibrary imageLib ) { super.init(imageLib); tick(); } 

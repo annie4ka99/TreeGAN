@@ -1,0 +1,1 @@
+ public Class getColumnClass( int aColumn ) { return model.getColumnClass( aColumn ); } 

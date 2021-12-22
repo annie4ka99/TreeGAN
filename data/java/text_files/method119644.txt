@@ -1,0 +1,1 @@
+ public void setEscButton(JButton button){ registerEscAction(new GPEscAction(button)); } 

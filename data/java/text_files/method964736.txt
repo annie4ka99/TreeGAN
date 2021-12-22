@@ -1,0 +1,1 @@
+ public RowSpec getRowSpec(int rowIndex) { return (RowSpec) rowSpecs.get(rowIndex - 1); } 

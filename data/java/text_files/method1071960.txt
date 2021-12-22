@@ -1,0 +1,1 @@
+ public Adapter createWhiteboardDiagramAdapter() { return null; } 

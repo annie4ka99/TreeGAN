@@ -1,0 +1,1 @@
+ protected Shape getFixture() { return fixture; } 

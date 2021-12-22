@@ -1,0 +1,1 @@
+ public Validator getValidator(int columnIndex){ return manager.getValidator(columnIndex); } 

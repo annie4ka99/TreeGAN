@@ -1,0 +1,1 @@
+ public void setAdhocQuery(AdhocQueryType value) { this.adhocQuery = value; } 

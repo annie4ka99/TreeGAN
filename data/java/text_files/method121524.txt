@@ -1,0 +1,1 @@
+ public LogoList butFirst() { LogoList out = duplicate(); out.butFirstF(); return out; } 

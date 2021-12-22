@@ -1,0 +1,1 @@
+ public double getScore(User user, Track track) { return getCookedRate(user, track).rating; } 

@@ -1,0 +1,1 @@
+ public void setRingCount(Integer value) { this.ringCount = value; } 

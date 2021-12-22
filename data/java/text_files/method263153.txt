@@ -1,0 +1,1 @@
+ public Double getComplete_duration() { return complete_duration; } 

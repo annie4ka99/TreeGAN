@@ -1,0 +1,1 @@
+ public boolean getQualityEnabled () { return qualityEnabled; } 

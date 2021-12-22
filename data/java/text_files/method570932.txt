@@ -1,0 +1,1 @@
+ public void setSpinnerDateModel(SpinnerDateModel model) { _spinner.setModel(model); } 

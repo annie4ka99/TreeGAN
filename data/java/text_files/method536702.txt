@@ -1,0 +1,1 @@
+ private long getTime(Date date) { if (date == null) return 0; return date.getTime(); } 

@@ -1,0 +1,1 @@
+ protected Component makeMultiColourIcon(int iconStyle) { return makeMultiColourIcon(iconStyle, null); } 

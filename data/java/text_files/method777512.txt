@@ -1,0 +1,1 @@
+ public void setResponse( String response ) { synchronized ( this.response ) { this.response = response; } } 

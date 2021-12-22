@@ -1,0 +1,1 @@
+ public void initProperty( AVM2Name name ) { instructions.append( OP_initproperty, name ); } 

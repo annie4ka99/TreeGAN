@@ -1,0 +1,1 @@
+ public int getNumFrames() { return Math.max(1, frameList.size()); } 

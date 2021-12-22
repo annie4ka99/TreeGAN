@@ -1,0 +1,1 @@
+ public void setOdds(Double odd) { this.odds = odd; } 

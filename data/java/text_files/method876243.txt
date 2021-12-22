@@ -1,0 +1,1 @@
+ public void setP2PDest(String dest) { headers.setProperty(KEY_P2P_DEST, dest); } 

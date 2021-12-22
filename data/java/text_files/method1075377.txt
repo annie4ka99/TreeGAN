@@ -1,0 +1,1 @@
+ public AddNoteForm getAddNoteForm() { return addNoteForm; } 

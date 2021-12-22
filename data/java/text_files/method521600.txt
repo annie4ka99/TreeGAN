@@ -1,0 +1,1 @@
+public void setNbMaxAttr(int newValue) { this.nbMaxAttr = newValue; } 

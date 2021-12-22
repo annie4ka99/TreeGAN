@@ -1,0 +1,1 @@
+ public String getLinkCompany(){ return this.linkCompany; } 

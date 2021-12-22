@@ -1,0 +1,1 @@
+ public boolean containsIFicha1(IFicha ficha) { return ficha1.contains(ficha); } 

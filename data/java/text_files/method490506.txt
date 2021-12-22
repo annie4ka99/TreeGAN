@@ -1,0 +1,1 @@
+ public String getEndpoint() { return getTransactionSectionValue("Endpoint"); } 

@@ -1,0 +1,1 @@
+ public void setColourIDNodesMode(boolean colourMode) { colourIDNodesDifferently = colourMode; } 

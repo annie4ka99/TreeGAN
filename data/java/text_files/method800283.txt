@@ -1,0 +1,1 @@
+ public void load(String _file) throws Throwable { this.load(new File(_file)); } 

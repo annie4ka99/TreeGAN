@@ -1,0 +1,1 @@
+ public void setEmptyGraphText(String emptyGraphText) { this.emptyGraphText = emptyGraphText; } 

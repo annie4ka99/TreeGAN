@@ -1,0 +1,1 @@
+ public void removeForward(ActionForward forward) { forwards.remove(forward.getName()); } 

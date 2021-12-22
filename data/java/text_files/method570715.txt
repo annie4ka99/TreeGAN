@@ -1,0 +1,1 @@
+ public boolean getSafetySwitch() { return userSettings.SafetySwitch; } 

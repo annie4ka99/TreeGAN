@@ -1,0 +1,1 @@
+ public void setImplCls(Class implCls) { this.implCls = implCls; } 

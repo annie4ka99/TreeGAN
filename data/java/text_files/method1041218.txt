@@ -1,0 +1,1 @@
+ public String getFilePattern() { return this.filePattern; } 

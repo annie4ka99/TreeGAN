@@ -1,0 +1,1 @@
+ protected Point getDefaultImageDPI() { return new Point( 300, 300 ); } 

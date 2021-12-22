@@ -1,0 +1,1 @@
+ public XYSeries toXYSeries() { XYSeries xySeries = new XYSeries(mTitle); return xySeries; } 

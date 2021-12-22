@@ -1,0 +1,1 @@
+ public void pushboolean(boolean b) { pushlvalue( LBoolean.valueOf(b) ); } 

@@ -1,0 +1,1 @@
+ public void setProxy(JBpaServiceProxy proxy) { this.proxy = proxy; } 

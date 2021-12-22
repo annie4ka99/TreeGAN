@@ -1,0 +1,1 @@
+ public void addChild(NetObject o) { children.add(o); o.parents.add(this); } 

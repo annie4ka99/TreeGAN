@@ -1,0 +1,1 @@
+ protected Icon getDownIcon() { return iconDown; } 

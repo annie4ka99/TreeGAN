@@ -1,0 +1,1 @@
+ public int getTotalSize() { return super.size() + state.size() + header.size(); } 

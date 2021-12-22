@@ -1,0 +1,1 @@
+ public int getPopulationSize() { return m_populationSize; } 

@@ -1,0 +1,1 @@
+ public void removeGarminListener(GarminListener l) { while (GarminListeners.removeElement(l)) { } } 

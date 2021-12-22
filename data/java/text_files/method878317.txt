@@ -1,0 +1,1 @@
+ private void stopProgram() { keepRunning = false; } 

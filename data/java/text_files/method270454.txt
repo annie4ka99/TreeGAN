@@ -1,0 +1,1 @@
+ public boolean containsHeader() { return this.headerIndex != null; } 

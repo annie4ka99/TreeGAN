@@ -1,0 +1,1 @@
+ public void setColumn(boolean column) { this.column = column; } 

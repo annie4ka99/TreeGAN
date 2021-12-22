@@ -1,0 +1,1 @@
+ public TimeInstantType createTimeInstantType() { return new TimeInstantType(); } 

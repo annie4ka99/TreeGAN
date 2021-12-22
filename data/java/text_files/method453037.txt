@@ -1,0 +1,1 @@
+ protected void jMenuItemSenalSIGINTActionPerformed(ActionEvent evt) { enviarSenal(2); } 

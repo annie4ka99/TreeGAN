@@ -1,0 +1,1 @@
+ public long getLong(int offset) { boundsCheck(offset, 8); return super.getLong(offset); } 

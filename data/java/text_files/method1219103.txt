@@ -1,0 +1,1 @@
+ public void setTotal(int total) { setTotalAux(total); fireChangeEvent(); } 

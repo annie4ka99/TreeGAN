@@ -1,0 +1,1 @@
+ public void setCardDeck(Deck cardDeck) { this.cardDeck = cardDeck; } 

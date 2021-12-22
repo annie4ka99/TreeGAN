@@ -1,0 +1,1 @@
+ public boolean inHitRegion(Point2D pt) { return handle.contains(pt.getX(), pt.getY()); } 

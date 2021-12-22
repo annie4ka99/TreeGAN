@@ -1,0 +1,1 @@
+ public void setGridSize( int width, int height ) { gridSize = new Dimension( width, height ); } 

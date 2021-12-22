@@ -1,0 +1,1 @@
+ public void setServiceInterval(long serviceInterval) { this.serviceInterval = serviceInterval; } 

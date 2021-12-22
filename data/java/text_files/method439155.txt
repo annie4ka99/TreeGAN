@@ -1,0 +1,1 @@
+ public int update(Sprite sprite, int time) { sprite.setLocation(xLoc, yLoc); return time; } 

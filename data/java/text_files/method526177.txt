@@ -1,0 +1,1 @@
+ public ItemPublicType getPublicType() { return publicType; } 

@@ -1,0 +1,1 @@
+ public void option(){ OptionDTDNode on = new OptionDTDNode(cn); cn=on; } 

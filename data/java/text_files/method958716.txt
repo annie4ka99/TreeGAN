@@ -1,0 +1,1 @@
+ public SlotType createSlotType1() { return new SlotType(); } 

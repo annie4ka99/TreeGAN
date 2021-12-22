@@ -1,0 +1,1 @@
+ public void setAge(int i) { age = i; } 

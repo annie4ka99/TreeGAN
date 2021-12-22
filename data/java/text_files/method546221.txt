@@ -1,0 +1,1 @@
+ public void setCornerWidth(int w) { cornerWidth = w; updateShape(); } 

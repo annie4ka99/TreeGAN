@@ -1,0 +1,1 @@
+ public void setData(String dat) { this.data = dat; } 

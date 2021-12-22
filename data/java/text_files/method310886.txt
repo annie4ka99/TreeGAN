@@ -1,0 +1,1 @@
+ public long ang2pix(Pointing ptg) throws Exception { return loc2pix(new Hploc(ptg)); } 

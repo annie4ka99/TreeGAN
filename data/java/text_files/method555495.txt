@@ -1,0 +1,1 @@
+ public int getOrientation() { return pageFormat.getOrientation(); } 

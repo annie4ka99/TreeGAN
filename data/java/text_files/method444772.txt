@@ -1,0 +1,1 @@
+ public String getSerializedObject() { return stack.remove(0).toString(); } 

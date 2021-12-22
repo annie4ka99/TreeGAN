@@ -1,0 +1,1 @@
+ public long getFellowNoteCount() { return fellowNoteCount; } 

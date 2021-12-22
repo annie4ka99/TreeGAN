@@ -1,0 +1,1 @@
+ public void setHeight(int newValue) { this.height = newValue; } 

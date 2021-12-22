@@ -1,0 +1,1 @@
+ public ProductInformationType createProductInformationType() { return new ProductInformationType(); } 

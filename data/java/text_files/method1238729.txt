@@ -1,0 +1,1 @@
+ public void setMIMEInfo(MimeInfo mimeInfo) { this.mimeInfo = mimeInfo; } 

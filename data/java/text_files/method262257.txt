@@ -1,0 +1,1 @@
+ private String getCommPort() { return String.valueOf(getPortList().getSelectedItem()); } 

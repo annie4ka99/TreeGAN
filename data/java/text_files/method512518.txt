@@ -1,0 +1,1 @@
+ public void addBusinessLocal(final String businessLocal) { businessLocalList.add(businessLocal); } 

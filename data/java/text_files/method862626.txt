@@ -1,0 +1,1 @@
+ public HttpUrl getURL() { return _url; } 

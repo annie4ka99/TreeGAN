@@ -1,0 +1,1 @@
+ public boolean canRun() { boolean can = getDataBlock() != null; return can; } 

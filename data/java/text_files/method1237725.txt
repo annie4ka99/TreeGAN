@@ -1,0 +1,1 @@
+ public void addVertex(Object vertex, Point2D point) { verticesToPoints.put(vertex, point.clone()); } 

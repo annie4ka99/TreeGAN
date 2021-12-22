@@ -1,0 +1,1 @@
+ public int removeHashAlgo(ZrtpConstants.SupportedHashes algo) { return hashes.removeAlgo(algo); } 

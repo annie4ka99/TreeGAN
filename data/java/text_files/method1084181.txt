@@ -1,0 +1,1 @@
+ public PortletToolController getTools(UserRequest ureq, WindowControl wControl) { return null; } 

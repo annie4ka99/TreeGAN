@@ -1,0 +1,1 @@
+ public Element getContentNode() { return XMLUtilities.getElem(content, NODE_DOCUMENT_CONTENT); } 

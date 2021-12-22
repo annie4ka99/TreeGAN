@@ -1,0 +1,1 @@
+ public void setConverter(StringConverter converter) { this.converter = converter; } 

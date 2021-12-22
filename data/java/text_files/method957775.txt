@@ -1,0 +1,1 @@
+ public UpperBoundaryType getUpperBoundary() { return upperBoundary; } 

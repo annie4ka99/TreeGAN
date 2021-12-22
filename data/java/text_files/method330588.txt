@@ -1,0 +1,1 @@
+ public void addControl(JComponent component) { controlPanel.add(component); } 

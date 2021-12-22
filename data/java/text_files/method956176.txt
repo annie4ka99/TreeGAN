@@ -1,0 +1,1 @@
+ public BrowseInformationArrayPropertyType getBrowse() { return browse; } 

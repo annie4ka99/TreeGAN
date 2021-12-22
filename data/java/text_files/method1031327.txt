@@ -1,0 +1,1 @@
+ public void setServerName(String serverName) { this.hostName = serverName; } 

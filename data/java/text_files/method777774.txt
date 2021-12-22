@@ -1,0 +1,1 @@
+ public void setUnitTestNewlinesNormalized( boolean normalize ) { unitTestNewlinesNormalized = normalize; } 

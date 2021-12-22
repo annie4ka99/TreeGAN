@@ -1,0 +1,1 @@
+ public void testNow() { Date now = new Clock().getNow(); assertNotNull(now); } 

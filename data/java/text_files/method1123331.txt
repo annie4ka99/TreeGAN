@@ -1,0 +1,1 @@
+ public boolean isSubset(Sofic sofic) { return presentation.isSubset(sofic.getPresentation()); } 

@@ -1,0 +1,1 @@
+ public void appendText(String s) { _textArea.append(s); } 

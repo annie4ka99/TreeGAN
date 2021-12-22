@@ -1,0 +1,1 @@
+ public boolean containsRequest(int requestId) { return containsKey(new Integer(requestId)); } 

@@ -1,0 +1,1 @@
+ public ResultSetFactory getResultSetFactory() { return rsFactory; } 

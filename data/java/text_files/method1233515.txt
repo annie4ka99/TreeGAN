@@ -1,0 +1,1 @@
+ public void setBookType(BookCompareEnum type) { bookType = type; } 

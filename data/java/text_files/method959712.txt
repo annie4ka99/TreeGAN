@@ -1,0 +1,1 @@
+ public void setSql_deleteRaum(String sql_deleteRaum) { this.sql_deleteRaum = sql_deleteRaum; } 

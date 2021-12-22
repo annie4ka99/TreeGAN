@@ -1,0 +1,1 @@
+ public void removeMouseListener(JDMouseListener l) { if(mouseListener!=null) mouseListener.remove(l); } 

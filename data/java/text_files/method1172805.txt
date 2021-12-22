@@ -1,0 +1,1 @@
+ public int getMultiKickerMagnitude() { return multiKickerMagnitude; } 

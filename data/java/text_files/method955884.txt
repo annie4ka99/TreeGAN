@@ -1,0 +1,1 @@
+ public UndeprecateObjectsRequest createUndeprecateObjectsRequest() { return new UndeprecateObjectsRequest(); } 

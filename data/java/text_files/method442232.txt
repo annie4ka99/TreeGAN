@@ -1,0 +1,1 @@
+ public int getRowCount() { if (modeldb == null) { return defaultRowCount; } return modeldb.size(); } 

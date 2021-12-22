@@ -1,0 +1,1 @@
+ public int findIndexOfKey(double key, boolean wraparound) { return _keys.findIndexOfKey(key, wraparound); } 

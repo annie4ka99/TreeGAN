@@ -1,0 +1,1 @@
+ public int getItemCount () { return items.length; } 

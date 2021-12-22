@@ -1,0 +1,1 @@
+ public void setPatientId(java.lang.String patientId) { this.patientId = patientId; } 

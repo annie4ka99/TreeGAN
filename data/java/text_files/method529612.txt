@@ -1,0 +1,1 @@
+ private void setZoomToolTip(double width) { zoomSlider.setToolTipText(zoomFormatter.format(width) + " km"); } 

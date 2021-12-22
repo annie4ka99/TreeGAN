@@ -1,0 +1,1 @@
+ public String getConfigPath() { return configPath; } 

@@ -1,0 +1,1 @@
+ public void setDepthSpacing(double d) { m_dspace = d; } 

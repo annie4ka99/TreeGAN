@@ -1,0 +1,1 @@
+ public void setPrimaryMemberType(String s) { PrimaryMemberType = s; } 

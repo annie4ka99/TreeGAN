@@ -1,0 +1,1 @@
+ public double score() { return (parameters.dotProduct(subtreeFeatures)).sum(); } 

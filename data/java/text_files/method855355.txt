@@ -1,0 +1,1 @@
+ protected Map getRequestMap(PortletRequest request) { return new PortletRequestMap(request); } 

@@ -1,0 +1,1 @@
+ public FixedPointNumber getBalance() { return getBalance(new Date()); } 

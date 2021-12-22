@@ -1,0 +1,1 @@
+ public void hide() { _visible = false; WindowManager.doWindowVisibilityChange(this); } 

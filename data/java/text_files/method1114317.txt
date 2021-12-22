@@ -1,0 +1,1 @@
+ private Object narrow(Object ref, Class c) { return PortableRemoteObject.narrow(ref, c); } 

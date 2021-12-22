@@ -1,0 +1,1 @@
+ public void setAverageRingWidth(Double value) { this.averageRingWidth = value; } 

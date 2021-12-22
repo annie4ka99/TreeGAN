@@ -1,0 +1,1 @@
+ protected Iterator getColumns() { return m_columns.iterator(); } 

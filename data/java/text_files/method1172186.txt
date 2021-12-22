@@ -1,0 +1,1 @@
+ public void removeDestroyCommand(Command c) { removeTrigger(c, ZCTrigger.DESTROY); } 

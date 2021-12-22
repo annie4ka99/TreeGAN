@@ -1,0 +1,1 @@
+ public ImageIcon getPressedDialPixmap() { return pressedPixmap; } 

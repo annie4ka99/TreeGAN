@@ -1,0 +1,1 @@
+ public void transform(Point2D point) { transform(point.getX(), point.getY()); } 

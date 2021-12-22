@@ -1,0 +1,1 @@
+ public void setColumns(int v) { this.columns = v; } 

@@ -1,0 +1,1 @@
+ public Integer getFlags() { return flags; } 

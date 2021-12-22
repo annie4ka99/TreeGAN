@@ -1,0 +1,1 @@
+ public Mat22 abs() { return new Mat22(col1.abs(), col2.abs()); } 

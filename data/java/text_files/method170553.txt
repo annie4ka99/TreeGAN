@@ -1,0 +1,1 @@
+ public void setTeam2System(double value) { this.Team2System.setText(this.generateText(value)); } 

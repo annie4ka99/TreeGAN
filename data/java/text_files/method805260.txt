@@ -1,0 +1,1 @@
+ public boolean delete(){ logger.debug("Cannot delete root folder. Delete failed."); return false; } 

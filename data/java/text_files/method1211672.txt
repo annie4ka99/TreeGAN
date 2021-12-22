@@ -1,0 +1,1 @@
+ public Object getRoot() { if (debugger == null) { return null; } return root; } 

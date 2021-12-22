@@ -1,0 +1,1 @@
+ public ProductHandle getOwner() { return this.owner; } 

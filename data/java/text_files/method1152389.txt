@@ -1,0 +1,1 @@
+ public EdgeShape getNextEdge() { return m_nextEdge; } 

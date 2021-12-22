@@ -1,0 +1,1 @@
+ protected int getGammaRampLength() { return 0; } 

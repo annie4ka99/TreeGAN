@@ -1,0 +1,1 @@
+ public Rectangle getPaintBounds(EdgeView view) { setView(view); return view.getShape().getBounds(); } 

@@ -1,0 +1,1 @@
+ public void setChecked(Object checked) { this.checked = checked; } 

@@ -1,0 +1,1 @@
+ public boolean isApplet() { return (applet != null); } 

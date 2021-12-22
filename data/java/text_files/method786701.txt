@@ -1,0 +1,1 @@
+ protected int chooseLowWaterMark(int capacity, double minLoad) { return (int) (capacity * minLoad); } 

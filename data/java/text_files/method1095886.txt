@@ -1,0 +1,1 @@
+ public int getDetailSize() { if (mDetails == null) { return 0; } return mDetails.size(); } 

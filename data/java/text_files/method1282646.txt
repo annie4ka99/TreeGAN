@@ -1,0 +1,1 @@
+ public ScreenManager getScreenManager() { return this.screen; } 

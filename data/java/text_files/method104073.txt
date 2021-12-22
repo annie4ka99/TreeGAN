@@ -1,0 +1,1 @@
+ public boolean isTopLevelObject() { return (parentObject == null); } 

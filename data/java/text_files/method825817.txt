@@ -1,0 +1,1 @@
+ public TimeSlot getTimeslot() { return timeslot; } 

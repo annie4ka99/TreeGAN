@@ -1,0 +1,1 @@
+ public String getBuffer_TN() { return buffer_TN; } 

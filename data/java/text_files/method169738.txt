@@ -1,0 +1,1 @@
+ public void setTemporaryIncome(int temporaryIncome) { this.temporaryIncome = temporaryIncome; } 

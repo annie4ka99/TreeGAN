@@ -1,0 +1,1 @@
+ public NGServer getNGServer() { return (server); } 

@@ -1,0 +1,1 @@
+ public void complete() { if( owner == null ) complete_internal(); } 

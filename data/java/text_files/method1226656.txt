@@ -1,0 +1,1 @@
+ protected boolean hasChooseToGoInHand() { return hand.hasHighestTrumpCard(this.dealerTrumpCard); } 

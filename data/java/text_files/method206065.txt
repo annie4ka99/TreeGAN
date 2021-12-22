@@ -1,0 +1,1 @@
+ public Rectangle getVisibleArea() { return sp.getViewport().getViewRect(); } 

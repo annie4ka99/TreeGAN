@@ -1,0 +1,1 @@
+ private boolean inUse(String id) { return inUseMap.containsKey(id); } 

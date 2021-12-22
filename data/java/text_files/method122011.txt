@@ -1,0 +1,1 @@
+ public void setText(String aText) { _label = aText; if (_label == null) { _label = ""; } } 

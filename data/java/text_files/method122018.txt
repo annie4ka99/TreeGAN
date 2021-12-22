@@ -1,0 +1,1 @@
+ private boolean isShortCut(InputChar inp) { return (_shortCutsList.indexOf(inp) != -1); } 

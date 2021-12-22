@@ -1,0 +1,1 @@
+ public TableInfo getTableInfo() { return ti; } 

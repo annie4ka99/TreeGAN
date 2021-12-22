@@ -1,0 +1,1 @@
+ public boolean clearCache() { return getDb().clearData(); } 

@@ -1,0 +1,1 @@
+ public boolean isConstantSampling() { return (sampling_method == NurbsConsts.N_FIXEDRATE) ? true : false; } 

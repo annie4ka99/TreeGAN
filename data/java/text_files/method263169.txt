@@ -1,0 +1,1 @@
+ public void setAdd_dive_time(Integer add_dive_time) { this.add_dive_time = add_dive_time; } 

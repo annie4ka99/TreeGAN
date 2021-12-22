@@ -1,0 +1,1 @@
+ public JSONNumber isNumber() { return null; } 

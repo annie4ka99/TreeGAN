@@ -1,0 +1,1 @@
+ public URI getDocumentURI() { return this.documentURI; } 

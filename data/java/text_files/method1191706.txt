@@ -1,0 +1,1 @@
+ public boolean removeContextualInformation(String contName) { return data.removeContextualInformation(contName); } 

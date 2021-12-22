@@ -1,0 +1,1 @@
+ public void addException(String class_name) { throws_vec.add(class_name); } 

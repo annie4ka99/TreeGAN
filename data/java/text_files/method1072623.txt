@@ -1,0 +1,1 @@
+ public void setBody(String body) { super.setText(body); } 

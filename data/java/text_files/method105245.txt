@@ -1,0 +1,1 @@
+ public void setDiameter(BigDecimal value) { this.diameter = value; } 

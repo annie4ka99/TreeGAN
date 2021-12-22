@@ -1,0 +1,1 @@
+ public float getAngularVelocity(){ return m_angularVelocity; } 

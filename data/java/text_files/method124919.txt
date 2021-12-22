@@ -1,0 +1,1 @@
+ public int getMaximumVisibleRows() { return maximumVisibleRows; } 

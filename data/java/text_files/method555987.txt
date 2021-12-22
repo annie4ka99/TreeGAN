@@ -1,0 +1,1 @@
+ public void setMember(final String member) { this.member = member; } 

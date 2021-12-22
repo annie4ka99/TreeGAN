@@ -1,0 +1,1 @@
+ public boolean isIn(BBox r) { return this.r.intersects(r); } 

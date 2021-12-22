@@ -1,0 +1,1 @@
+ protected OclCollection _reject(OclExpression expr) { return elect(expr, BooleanInstance.FALSE); } 

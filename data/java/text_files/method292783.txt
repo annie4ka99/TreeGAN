@@ -1,0 +1,1 @@
+ public void addTag(Tag tag) { if (tag == null) { return; } getTags().add(tag); } 

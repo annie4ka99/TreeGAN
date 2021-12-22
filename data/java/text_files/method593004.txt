@@ -1,0 +1,1 @@
+ public boolean isMultipart() { return this.multipart != null; } 

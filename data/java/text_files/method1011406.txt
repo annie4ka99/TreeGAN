@@ -1,0 +1,1 @@
+ protected Buffer getGammaRamp() { return null; } 

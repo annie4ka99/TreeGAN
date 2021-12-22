@@ -1,0 +1,1 @@
+ public ChainedOptionStrategy getStrategy(Object command) { return chainedOption.getStrategy(command); } 

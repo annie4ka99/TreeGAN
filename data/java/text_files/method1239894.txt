@@ -1,0 +1,1 @@
+ public void addFaultDetail(Element detail) { initFaultDetails(); faultDetails.add(detail); } 

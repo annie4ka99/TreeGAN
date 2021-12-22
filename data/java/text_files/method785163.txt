@@ -1,0 +1,1 @@
+ public TupleSet getSourceData(String group) { return (TupleSet)m_source.get(group); } 

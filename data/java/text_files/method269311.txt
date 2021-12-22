@@ -1,0 +1,1 @@
+ public boolean supportsMultipleTransactions() throws java.sql.SQLException { return true; } 

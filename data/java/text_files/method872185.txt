@@ -1,0 +1,1 @@
+ public void setVerwendung(java.lang.String verwendung) { this.verwendung = verwendung; } 

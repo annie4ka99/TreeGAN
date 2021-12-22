@@ -1,0 +1,1 @@
+ public Adapter createCategoryAdapter() { return null; } 

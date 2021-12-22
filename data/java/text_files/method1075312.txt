@@ -1,0 +1,1 @@
+ public RegistForm getRegistForm() { return registForm; } 

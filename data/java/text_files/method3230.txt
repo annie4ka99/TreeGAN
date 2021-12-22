@@ -1,0 +1,1 @@
+ public void setTimeout(int timeout) { this.communicationsTimeout = Math.max(0, timeout); } 

@@ -1,0 +1,1 @@
+ public void executeQueuedAction() { if (type().aiScript == null) { return; } type().aiScript.actInCombat(this); } 

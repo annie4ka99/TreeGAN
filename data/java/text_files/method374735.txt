@@ -1,0 +1,1 @@
+ public char getUTF8Char(long sequence) { return this.storage.getUTF8Char(map(sequence)); } 

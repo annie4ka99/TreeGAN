@@ -1,0 +1,1 @@
+ public int getSeqCount() { return id2seq.size(); } 

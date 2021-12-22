@@ -1,0 +1,1 @@
+ public boolean getShowInTimeSlots() { return showInTimeSlots; } 

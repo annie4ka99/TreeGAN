@@ -1,0 +1,1 @@
+ public boolean getShowEntry(){ return showEntry; } 

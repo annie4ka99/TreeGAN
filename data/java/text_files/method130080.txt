@@ -1,0 +1,1 @@
+ public Document getDocument() { return document; } 

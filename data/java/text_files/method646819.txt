@@ -1,0 +1,1 @@
+ public AbstractResultsTable getResults() { return results; } 

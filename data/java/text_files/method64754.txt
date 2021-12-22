@@ -1,0 +1,1 @@
+ public void cellDoubleClicked(int col, int row, int statemask) { } 

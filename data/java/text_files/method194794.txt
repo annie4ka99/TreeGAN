@@ -1,0 +1,1 @@
+ public void setStrict(boolean strict){ this.strict = strict; } 

@@ -1,0 +1,1 @@
+ public void removeAttribute(Object key) { if(attributes != null) attributes.remove(key); } 

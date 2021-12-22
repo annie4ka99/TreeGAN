@@ -1,0 +1,1 @@
+ public void setStatementComment(String comment) { this.statementComment = comment; } 

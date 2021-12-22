@@ -1,0 +1,1 @@
+ public double probability(double X) { return 0.5*gamma.probability(0.5*X); } 

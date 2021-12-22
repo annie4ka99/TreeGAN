@@ -1,0 +1,1 @@
+ public EditProcessDataOutputMsgType createEditProcessDataOutputMsgType() { return new EditProcessDataOutputMsgType(); } 

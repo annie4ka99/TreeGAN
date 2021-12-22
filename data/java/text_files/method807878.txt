@@ -1,0 +1,1 @@
+ public IService getService(String service_jid) { return new Service(cs, service_jid); } 

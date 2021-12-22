@@ -1,0 +1,1 @@
+ public XMLGregorianCalendar getTimestamp() { return timestamp; } 

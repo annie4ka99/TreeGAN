@@ -1,0 +1,1 @@
+ public boolean isColumnAbsolute() { return columnAbsolute; } 

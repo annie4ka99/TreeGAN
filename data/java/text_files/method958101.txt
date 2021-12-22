@@ -1,0 +1,1 @@
+ public ContactType getContactInfo() { return contactInfo; } 

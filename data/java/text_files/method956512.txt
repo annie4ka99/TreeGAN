@@ -1,0 +1,1 @@
+ public ListOfValuesType createListOfValuesType() { return new ListOfValuesType(); } 

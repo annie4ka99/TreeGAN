@@ -1,0 +1,1 @@
+ public void setSynopsis(String synopsis) { this.synopsis = synopsis; } 

@@ -1,0 +1,1 @@
+ public Handler getGlobalResponse() throws ConfigurationException { return this.deployment.getGlobalResponse(); } 

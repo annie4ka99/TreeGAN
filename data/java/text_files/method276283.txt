@@ -1,0 +1,1 @@
+ public void insertLine(int l) { insertLine(l, 1, SCROLL_UP); } 

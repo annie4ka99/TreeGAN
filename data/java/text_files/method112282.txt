@@ -1,0 +1,1 @@
+ public ContentHandler getContentHandler() { return this.ch; } 

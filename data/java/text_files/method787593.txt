@@ -1,0 +1,1 @@
+ public void setYDistortionFactor(double d) { dy = d; m_distortY = dy > 0; } 

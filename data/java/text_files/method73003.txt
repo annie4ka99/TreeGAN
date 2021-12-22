@@ -1,0 +1,1 @@
+ public void pause(boolean pause) { paused = pause; } 

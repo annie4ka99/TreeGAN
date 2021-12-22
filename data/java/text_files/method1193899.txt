@@ -1,0 +1,1 @@
+ public void reset() { this.currentTick = 0; this.setPaused(false); } 

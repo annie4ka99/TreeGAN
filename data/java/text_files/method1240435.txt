@@ -1,0 +1,1 @@
+ public void setFaultString(String faultString) throws SOAPException { fault.setFaultString(faultString); } 

@@ -1,0 +1,1 @@
+ public boolean isInfo() { return getInfoCheckBox().isSelected(); } 

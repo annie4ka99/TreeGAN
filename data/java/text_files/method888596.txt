@@ -1,0 +1,1 @@
+ public Response eval(String varName){ return tell(varName + END); } 

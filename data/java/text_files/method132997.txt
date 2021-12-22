@@ -1,0 +1,1 @@
+ public boolean hit(Rectangle2D.Double coord_hitbox, ViewI view) { return false; } 

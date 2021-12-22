@@ -1,0 +1,1 @@
+ public String getProperty() { return (property != null) ? property : error.getKey(); } 

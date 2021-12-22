@@ -1,0 +1,1 @@
+ public boolean hasHeader() { return !hasStereotype("cRoot") && !hasStereotype("nocode"); } 

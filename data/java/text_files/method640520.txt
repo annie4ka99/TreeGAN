@@ -1,0 +1,1 @@
+ public void disablePlayButtons() { ExpertView.disablePlayButtons(); simulatorBar.disablePlayButtons(); } 

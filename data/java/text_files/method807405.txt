@@ -1,0 +1,1 @@
+ public void selectionChanged(SelectionChangedEvent event) { this.reactOnSelection( event.getSelection() ); } 

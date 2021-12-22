@@ -1,0 +1,1 @@
+ private Token firstToken(LinkedList nodeList) { return firstToken((Node) nodeList.getFirst()); } 

@@ -1,0 +1,1 @@
+ public boolean isfunction(int index) { return type(index) == Lua.LUA_TFUNCTION; } 

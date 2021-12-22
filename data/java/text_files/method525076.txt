@@ -1,0 +1,1 @@
+ public void setForm(org.epoline.phoenix.dossiernotepad.shared.ItemDocument newForm) { form = newForm; } 

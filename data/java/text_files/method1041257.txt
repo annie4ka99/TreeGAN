@@ -1,0 +1,1 @@
+ public PipelineValidator getValidator() { return this.validator; } 

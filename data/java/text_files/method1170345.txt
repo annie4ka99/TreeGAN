@@ -1,0 +1,1 @@
+ public boolean shouldPlantBeUsed() { return usePlant; } 

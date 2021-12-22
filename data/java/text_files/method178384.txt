@@ -1,0 +1,1 @@
+ public Collection generateSSMappings(){ return null; } 

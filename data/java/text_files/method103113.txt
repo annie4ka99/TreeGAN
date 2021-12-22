@@ -1,0 +1,1 @@
+ public Range redateBy(int dy) { return new Range(start.add(dy), end.add(dy)); } 

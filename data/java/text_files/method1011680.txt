@@ -1,0 +1,1 @@
+ public void setRelative(int i, Arc value) { array[pointer + i] = value; } 

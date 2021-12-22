@@ -1,0 +1,1 @@
+ public void setCountSmsSend(java.lang.Integer countSmsSend) { this.countSmsSend = countSmsSend; } 

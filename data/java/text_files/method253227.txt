@@ -1,0 +1,1 @@
+ public void setSchemaValidator(SchemaValidator validator) { schemaPanel.setSchemaValidator(validator); } 

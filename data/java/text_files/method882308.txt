@@ -1,0 +1,1 @@
+ public void setBeanName(String idToSet) { assert (idToSet != null); id = idToSet; } 

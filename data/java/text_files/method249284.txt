@@ -1,0 +1,1 @@
+ public void testTitle() throws Exception { assertEquals("createCollection", response.getTitle()); } 

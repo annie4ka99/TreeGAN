@@ -1,0 +1,1 @@
+ public TridasVocabulary getVocabulary() { return vocabulary; } 

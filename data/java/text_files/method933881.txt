@@ -1,0 +1,1 @@
+ public void putAttribute(String key, Object value) { attributes.put(key, value); } 

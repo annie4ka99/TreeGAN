@@ -1,0 +1,1 @@
+ public boolean areJavaFilesExported() { return fExportJavaFiles; } 

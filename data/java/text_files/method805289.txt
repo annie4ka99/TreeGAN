@@ -1,0 +1,1 @@
+ public boolean writeResourceStringToResourceObject() { setResourceObject(getString()); return true; } 

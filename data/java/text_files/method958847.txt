@@ -1,0 +1,1 @@
+ public int getNMazo() { return mazo; } 

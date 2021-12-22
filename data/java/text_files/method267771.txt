@@ -1,0 +1,1 @@
+ public int getMinorVersion() { return getMinorVersionInternal(); } 

@@ -1,0 +1,1 @@
+ public boolean hasBindings() { return this.bindingsList.isEmpty() == false; } 

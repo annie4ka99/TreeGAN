@@ -1,0 +1,1 @@
+ public String getLinkDbName() { return linkDbName; } 

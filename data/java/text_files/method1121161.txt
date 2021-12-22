@@ -1,0 +1,1 @@
+ public void setLastTradeAmount(java.math.BigDecimal lastTradeAmount) { this.lastTradeAmount = lastTradeAmount; } 

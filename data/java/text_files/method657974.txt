@@ -1,0 +1,1 @@
+ public void setLiteratureID(int literatureID) { this.literatureID = literatureID; } 

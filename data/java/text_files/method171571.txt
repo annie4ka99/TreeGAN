@@ -1,0 +1,1 @@
+ public void visitIDIV(IDIV o){ stack().pop(); stack().pop(); stack().push(Type.INT); } 

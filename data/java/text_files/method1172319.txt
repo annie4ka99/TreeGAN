@@ -1,0 +1,1 @@
+ public void addChangeControllerCommand(Command c) { changeControllerCommandList.add(c); } 

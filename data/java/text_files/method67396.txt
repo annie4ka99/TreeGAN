@@ -1,0 +1,1 @@
+ public KTableModel getModel() { return m_Model; } 

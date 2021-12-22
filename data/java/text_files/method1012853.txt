@@ -1,0 +1,1 @@
+ public int getRedBits() { return redBits; } 

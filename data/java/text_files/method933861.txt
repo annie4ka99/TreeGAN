@@ -1,0 +1,1 @@
+ public void setTemplate(String template) { path = template; } 

@@ -1,0 +1,1 @@
+ public int getOnCount(boolean isQueryRestricted) { return isQueryRestricted ? onCount : totalCount; } 

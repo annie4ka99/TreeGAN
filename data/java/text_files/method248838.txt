@@ -1,0 +1,1 @@
+ public String getNextLink(String url) { return "<a href=\"" + url + "\">>></a>"; } 

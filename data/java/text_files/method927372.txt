@@ -1,0 +1,1 @@
+ public int getTil() { return getIcs() + getIss(); } 

@@ -1,0 +1,1 @@
+ public boolean isGuest() { return getPermissions() == GUEST; } 

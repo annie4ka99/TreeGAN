@@ -1,0 +1,1 @@
+ public void setRestitution(float r) { m_restitution = r; } 

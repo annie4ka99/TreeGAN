@@ -1,0 +1,1 @@
+ public boolean isPBuffer() { return pbuffer; } 

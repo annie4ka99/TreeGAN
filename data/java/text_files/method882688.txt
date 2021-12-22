@@ -1,0 +1,1 @@
+ public void testGetType() { assertSame(h.getType(), om.getTypeByName(HTMLType.TYPE_NAME)); } 

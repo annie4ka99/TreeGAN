@@ -1,0 +1,1 @@
+ public int countFiles() { return fileNames == null ? 0 : fileNames.length; } 

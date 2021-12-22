@@ -1,0 +1,1 @@
+ public boolean mustUpdate() { return (activeComponents.size() > 0); } 

@@ -1,0 +1,1 @@
+ public void setActivation(double activation) { this.activation = activation*weight; } 

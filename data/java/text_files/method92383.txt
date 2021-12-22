@@ -1,0 +1,1 @@
+ public int getDriverMinorVersion() { return getEmbedConnection().getLocalDriver().getMinorVersion(); } 

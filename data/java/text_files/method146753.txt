@@ -1,0 +1,1 @@
+ public BigDecimal getLongitude() { return this.longitude; } 

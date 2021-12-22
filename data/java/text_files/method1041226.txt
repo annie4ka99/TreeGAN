@@ -1,0 +1,1 @@
+ public void setIgnoringBlankLines(boolean ignoringBlankLines) { this.ignoringBlankLines = ignoringBlankLines; } 

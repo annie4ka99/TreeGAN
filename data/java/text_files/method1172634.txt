@@ -1,0 +1,1 @@
+ public void addType(String a) { type.add(a); this.updateObservers(); } 

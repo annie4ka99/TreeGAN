@@ -1,0 +1,1 @@
+ public void orderProposalsAlphabetically(boolean order) { fComparator.setOrderAlphabetically(order); } 

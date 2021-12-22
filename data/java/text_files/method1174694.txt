@@ -1,0 +1,1 @@
+ public boolean isBirthday() { return BusinessCoreUtils.isSameMonthAndDay(this.date, new DateTime()); } 

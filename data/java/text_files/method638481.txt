@@ -1,0 +1,1 @@
+ public void resetSpanWidgetHighlight() { instanceDisplay.resetSpanWidgetHighlight(); } 

@@ -1,0 +1,1 @@
+ public void setPrintHeader(boolean printHeader) { m_printHeader = printHeader; } 

@@ -1,0 +1,1 @@
+ public void storeArg(final int arg) { storeInsn(argumentTypes[arg], getArgIndex(arg)); } 

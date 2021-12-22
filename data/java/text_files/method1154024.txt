@@ -1,0 +1,1 @@
+ public int getValue(String selector) { return selIndices.get(selectors.indexOf(selector)); } 

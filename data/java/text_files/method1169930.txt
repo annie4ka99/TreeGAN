@@ -1,0 +1,1 @@
+ public void resetInput(boolean update) { input = null; if (update) updateObservers(); } 

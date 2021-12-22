@@ -1,0 +1,1 @@
+ public void discardRandom(SpellAbility sa) { discardRandom(1, sa); } 

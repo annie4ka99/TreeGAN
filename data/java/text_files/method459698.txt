@@ -1,0 +1,1 @@
+ public void setRestHost(String restHost) { this.restHost = restHost; } 

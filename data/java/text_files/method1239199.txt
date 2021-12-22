@@ -1,0 +1,1 @@
+ public void setNext(TypeMappingDelegate next) { if (next == this) { return; } this.next = next; } 

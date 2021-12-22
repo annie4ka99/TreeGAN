@@ -1,0 +1,1 @@
+ public void cancel() { synchronized(lock) { theJob.cancel(); restartNeeded = false; } } 

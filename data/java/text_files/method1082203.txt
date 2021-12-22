@@ -1,0 +1,1 @@
+ public void setDiagramHorizontalMaxText(java.lang.String arg1) { getDiagram().setHorizontalMaxText(arg1); } 

@@ -1,0 +1,1 @@
+ public String getFileSeparator() { return (remoteEnvironment.getProperty("NAILGUN_FILESEPARATOR")); } 

@@ -1,0 +1,1 @@
+ public void SetEffect(String effectKey){ effect = effectKey; } 

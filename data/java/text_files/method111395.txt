@@ -1,0 +1,1 @@
+ public void setOrderLogStatus(String iLog) { orderLogStatus = iLog; } 

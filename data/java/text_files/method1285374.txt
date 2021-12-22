@@ -1,0 +1,1 @@
+ public boolean isAllowTimeoutInterrupt() { return allowTimeoutInterrupt; } 

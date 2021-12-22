@@ -1,0 +1,1 @@
+ public void setMorphAnalyzer(IMorphAnalyzer newMorphAnalyzer) { fMorphAnalyzer = newMorphAnalyzer; } 

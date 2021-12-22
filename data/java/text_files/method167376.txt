@@ -1,0 +1,1 @@
+ public boolean isPrefixed(String prefix) { return name.startsWith(prefix); } 

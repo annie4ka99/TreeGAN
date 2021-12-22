@@ -1,0 +1,1 @@
+ public int getViewMode() { return viewmode; } 

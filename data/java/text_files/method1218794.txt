@@ -1,0 +1,1 @@
+ private void ensureOpen() throws IOException { if (str == null) { throw new IOException("Stream closed"); } } 

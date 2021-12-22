@@ -1,0 +1,1 @@
+ protected void activateOnItem(ItemRef affected) { } 

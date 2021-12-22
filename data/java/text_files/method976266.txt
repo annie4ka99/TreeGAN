@@ -1,0 +1,1 @@
+ public String getLonMin(int format) { return getDMS(getLonDec(), 1, format); } 

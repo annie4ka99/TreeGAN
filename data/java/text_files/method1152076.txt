@@ -1,0 +1,1 @@
+ public void applyTorque(float torque){ if (isSleeping()) wakeUp(); m_torque += torque; } 

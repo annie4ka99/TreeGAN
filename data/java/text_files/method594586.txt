@@ -1,0 +1,1 @@
+ public JTabbedPane getTabbedPane() { return tabbedPane; } 

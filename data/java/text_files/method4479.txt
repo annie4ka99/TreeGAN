@@ -1,0 +1,1 @@
+ public boolean isOutOfBounds(){ return this.m_outOfBounds; } 

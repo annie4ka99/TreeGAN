@@ -1,0 +1,1 @@
+ public void setSymbolEditable(boolean editable) { getJSCNArrayTable().setEditable(editable); } 

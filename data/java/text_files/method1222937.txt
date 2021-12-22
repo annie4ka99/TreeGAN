@@ -1,0 +1,1 @@
+ public Color getnodeColor(){ return this.nodeColor; } 

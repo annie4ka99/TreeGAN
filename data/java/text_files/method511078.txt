@@ -1,0 +1,1 @@
+ protected void runFailed(String message) { Log.error(message); } 

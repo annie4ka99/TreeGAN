@@ -1,0 +1,1 @@
+ public boolean supportsGroupByBeyondSelect() throws SQLException { return true; } 

@@ -1,0 +1,1 @@
+ public User leave(String id) throws WeiboException { return disableNotification(id); } 

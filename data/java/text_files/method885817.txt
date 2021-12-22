@@ -1,0 +1,1 @@
+ public GenericController createController() { return new ControllerImpl(); } 

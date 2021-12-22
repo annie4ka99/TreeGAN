@@ -1,0 +1,1 @@
+ public int jsGet_counter() { return counter++; } 

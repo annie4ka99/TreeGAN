@@ -1,0 +1,1 @@
+ public void sub(Vec3f b) { sub(this, b); } 

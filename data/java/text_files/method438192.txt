@@ -1,0 +1,1 @@
+ public void addWorkbookListener(WorkbookListener listener) { listeners.add(listener); } 

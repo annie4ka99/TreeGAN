@@ -1,0 +1,1 @@
+ public void removeExceptionConfig(ExceptionConfig config) { exceptions.remove(config.getType()); } 

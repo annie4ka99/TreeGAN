@@ -1,0 +1,1 @@
+ public void setNotificationOption(String value) { this.notificationOption = value; } 

@@ -1,0 +1,1 @@
+ private boolean loadNormalSettings() { loadPSFSettings(); return true; } 

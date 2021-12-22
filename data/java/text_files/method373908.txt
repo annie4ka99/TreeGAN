@@ -1,0 +1,1 @@
+ public String getHeaderClassName() { return this.className; } 

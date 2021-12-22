@@ -1,0 +1,1 @@
+ public void setExtern(boolean value){ this.extern =value; this.repaint(); } 

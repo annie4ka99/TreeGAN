@@ -1,0 +1,1 @@
+ public int transferStateAndDataFrom(JMemoryPacket packet) { return packet.transferTo(this); } 

@@ -1,0 +1,1 @@
+ public int addChildEdge(int parent, int child) { return super.addEdge(parent, child); } 

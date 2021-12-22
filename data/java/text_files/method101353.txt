@@ -1,0 +1,1 @@
+ public void close() { if (!popped) return; popped = false; notifyClosed(); } 

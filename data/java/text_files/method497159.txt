@@ -1,0 +1,1 @@
+ private JTable getJTable() { if (jTable == null) { jTable = new JTable(td); } return jTable; } 

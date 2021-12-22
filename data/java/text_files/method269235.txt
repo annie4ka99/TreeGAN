@@ -1,0 +1,1 @@
+ public void start() { Thread t = this.threadVar.get(); if (t != null) { t.start(); } } 

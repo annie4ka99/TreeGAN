@@ -1,0 +1,1 @@
+ public void setMinor(int minor) { this.minor = minor; } 

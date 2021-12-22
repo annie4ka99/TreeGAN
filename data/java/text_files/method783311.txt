@@ -1,0 +1,1 @@
+ public void setResourceBundleName(String resourceBundleName) { this.resourceBundleName = resourceBundleName; } 

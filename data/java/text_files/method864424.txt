@@ -1,0 +1,1 @@
+ private void dropLabel( JumpLabel label ) { labels.remove( label.label ); } 

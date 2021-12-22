@@ -1,0 +1,1 @@
+ public void setDecoderMaxObjectSize(int maxObjectSize) { decoder.setMaxObjectSize(maxObjectSize); } 

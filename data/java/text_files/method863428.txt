@@ -1,0 +1,1 @@
+ public Writer getWrappedWriter() { return super.out; } 

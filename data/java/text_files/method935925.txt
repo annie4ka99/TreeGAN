@@ -1,0 +1,1 @@
+ public void setGraph( Graph g ) { this.gpanel.setGraph( g, this ); } 

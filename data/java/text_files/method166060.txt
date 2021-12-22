@@ -1,0 +1,1 @@
+ public PageInfo getPageInfo(Path path) { return pageMap.get(getPathInMenu(path)); } 

@@ -1,0 +1,1 @@
+ public void setRarity(Rarity rarity) { this.rarity = rarity; } 

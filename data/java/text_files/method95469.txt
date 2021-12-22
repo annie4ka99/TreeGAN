@@ -1,0 +1,1 @@
+ public int getScale(int column) throws SQLException { throw new SQLException("getScale"); } 

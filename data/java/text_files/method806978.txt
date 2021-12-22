@@ -1,0 +1,1 @@
+ public void setSelectedSubstructure(IAtomContainer ac) { this.ac = ac; } 

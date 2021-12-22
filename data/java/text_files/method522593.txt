@@ -1,0 +1,1 @@
+ public void setIsNT(boolean newValue) { this.isNT = newValue; } 

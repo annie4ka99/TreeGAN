@@ -1,0 +1,1 @@
+ public void setOrganisationName(String value) { this.organisationName = value; } 

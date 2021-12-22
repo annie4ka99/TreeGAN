@@ -1,0 +1,1 @@
+ public void setCloudCoverPercentage(MeasureType value) { this.cloudCoverPercentage = value; } 

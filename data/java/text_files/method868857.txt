@@ -1,0 +1,1 @@
+ public Networks getNetworks() throws XBRLException { return getStore().getNetworks(this.getCustomURI()); } 

@@ -1,0 +1,1 @@
+ public void setBeanPackage(IFlowBeanPackage beanPackage) { this.beanPackage = beanPackage; } 

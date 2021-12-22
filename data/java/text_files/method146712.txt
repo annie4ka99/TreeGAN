@@ -1,0 +1,1 @@
+ public void add(int PRN, GPS_SatelliteData satellite) { satellites[PRN - 1] = satellite; } 

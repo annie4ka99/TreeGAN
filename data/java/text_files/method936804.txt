@@ -1,0 +1,1 @@
+ public void setParent(SimplePath parent) { this.parent = parent; } 

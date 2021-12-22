@@ -1,0 +1,1 @@
+ public void removeRow(int rowNum) { super.removeRow(rowNum); links.remove(rowNum); } 

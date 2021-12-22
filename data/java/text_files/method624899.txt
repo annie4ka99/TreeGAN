@@ -1,0 +1,1 @@
+ public Double stockprice() { return new Double(Math.random() * 100000000.0); } 

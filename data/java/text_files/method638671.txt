@@ -1,0 +1,1 @@
+ public String getText() throws TextSourceAccessException { return text; } 

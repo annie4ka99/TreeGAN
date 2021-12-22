@@ -1,0 +1,1 @@
+ public void setResource(Resource resource) { assert (resource != null); this.resource = resource; } 

@@ -1,0 +1,1 @@
+ public void setMeasuringDate(Date value) { this.measuringDate = value; } 

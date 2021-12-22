@@ -1,0 +1,1 @@
+ protected GnucashFileWritingImpl getWritingFile() { return (GnucashFileWritingImpl) getFile(); } 

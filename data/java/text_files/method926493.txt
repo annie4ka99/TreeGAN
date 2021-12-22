@@ -1,0 +1,1 @@
+ public long getCrc() { return fileHeader.fileCRC; } 

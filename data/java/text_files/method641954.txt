@@ -1,0 +1,1 @@
+ public boolean isShowingTStar() { return editorPanel.isShowingTStar(); } 

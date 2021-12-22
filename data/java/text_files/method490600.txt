@@ -1,0 +1,1 @@
+ public void setWssec(boolean isWssec) { xt.setWssec(isWssec); } 

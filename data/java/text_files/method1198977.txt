@@ -1,0 +1,1 @@
+ public void setExtendedFooter( boolean extend ) { extended = extend; } 

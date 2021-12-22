@@ -1,0 +1,1 @@
+ static private double KL0(double c) { return c * log2; } 

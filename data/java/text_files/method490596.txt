@@ -1,0 +1,1 @@
+ public void setSite(Site site) { xt.setSite(site); this.site = site; } 

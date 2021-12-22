@@ -1,0 +1,1 @@
+ protected void setFrame(MapView3d frame) { this.frame = frame; } 

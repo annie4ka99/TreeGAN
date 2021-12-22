@@ -1,0 +1,1 @@
+ public void removeAgent (AgentData agent) { this.members.remove(agent); } 

@@ -1,0 +1,1 @@
+ public Wall getEasternWall() { return this.easternWall; } 

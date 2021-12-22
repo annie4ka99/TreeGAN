@@ -1,0 +1,1 @@
+ public boolean within(Range that) { return (this.beg >= that.beg && this.end <= that.end); } 

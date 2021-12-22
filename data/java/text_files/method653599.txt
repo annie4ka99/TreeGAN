@@ -1,0 +1,1 @@
+ public void setCheckforbidden(boolean s) { checkforbidden = s; } 

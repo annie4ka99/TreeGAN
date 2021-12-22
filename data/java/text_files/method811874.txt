@@ -1,0 +1,1 @@
+ public void setSeperator(String seperator) { this.seperator = seperator; } 

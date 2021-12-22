@@ -1,0 +1,1 @@
+ public void add2ViewMenu(JComponent item) { item.setFont(getFont()); view.add(item); } 

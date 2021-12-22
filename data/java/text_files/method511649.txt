@@ -1,0 +1,1 @@
+ public IMySessionBean getSessionBean() { return this.mySessionBean; } 

@@ -1,0 +1,1 @@
+ public void endResource(String namespaceURI, String sName, String qName) throws XLinkException { ; } 

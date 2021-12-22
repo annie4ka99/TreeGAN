@@ -1,0 +1,1 @@
+ public StructuralFeature getResult(){ return definingSF; } 

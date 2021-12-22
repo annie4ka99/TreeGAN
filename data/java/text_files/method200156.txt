@@ -1,0 +1,1 @@
+ public void setAbsolutePathName(String name) { this.absolutePathName = name; } 

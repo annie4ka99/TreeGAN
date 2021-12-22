@@ -1,0 +1,1 @@
+ public void zoomIn() { zoomFactor++; invalidate(); fireSizeChanged(); focusZoomSelection(); } 

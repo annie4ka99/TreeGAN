@@ -1,0 +1,1 @@
+ public void flush(){ p1v = null; p2v = null; p3avs.clear(); p3bvs.clear(); } 

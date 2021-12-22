@@ -1,0 +1,1 @@
+ public HTMLTreeModel getModel() { return model; } 

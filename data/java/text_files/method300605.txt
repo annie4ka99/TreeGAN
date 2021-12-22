@@ -1,0 +1,1 @@
+ public void setRowLink( int row, String link ) { this.setValueAt( link, row, 4 ); } 

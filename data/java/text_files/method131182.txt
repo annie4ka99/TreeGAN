@@ -1,0 +1,1 @@
+ public boolean isReadyPDDI () { if (readyPDDI) { readyPDDI = false; return true; } return false; } 

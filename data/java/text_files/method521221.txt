@@ -1,0 +1,1 @@
+private void setTabFlag(boolean newTabFlag) { tabFlag = newTabFlag; } 

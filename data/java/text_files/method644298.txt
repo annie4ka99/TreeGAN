@@ -1,0 +1,1 @@
+ public ResultType createResultType() { return new ResultType(); } 

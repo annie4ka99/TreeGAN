@@ -1,0 +1,1 @@
+ public void setSelectionEnabled(boolean b) { imagePanel.setSelectionEnabled(b); } 

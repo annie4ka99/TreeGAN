@@ -1,0 +1,1 @@
+ public void removePicture(Picture picture) { pictures.remove(picture); } 

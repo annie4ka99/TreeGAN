@@ -1,0 +1,1 @@
+ public void setParmFinderPainter(paint.Painter arg1) { getParmFinder().setPainter(arg1); } 

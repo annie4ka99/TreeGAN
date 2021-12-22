@@ -1,0 +1,1 @@
+ public void setCharAt(int index, char ch) { this.buffer.setCharAt(index, ch); } 

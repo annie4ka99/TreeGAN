@@ -1,0 +1,1 @@
+ public SettingsInfoBean getSettingsInfoBean() { return _settingsInfoBean; } 

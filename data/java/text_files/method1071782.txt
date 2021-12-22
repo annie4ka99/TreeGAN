@@ -1,0 +1,1 @@
+ protected Image getImage() { return WhiteboardPlugin.getImageDescriptor("icons/ellipse16.gif").createImage(); } 

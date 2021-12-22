@@ -1,0 +1,1 @@
+ public EList getBody() { return uml2OpaqueAction.getBodies(); } 

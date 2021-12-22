@@ -1,0 +1,1 @@
+ public void setDE(java.lang.String DE) { this.DE = DE; } 

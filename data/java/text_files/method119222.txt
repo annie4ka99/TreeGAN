@@ -1,0 +1,1 @@
+ public Color getHandleColor() { return handleColor; } 

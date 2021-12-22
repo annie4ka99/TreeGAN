@@ -1,0 +1,1 @@
+ public int pushStack() { return stack.pushGame(mCells); } 

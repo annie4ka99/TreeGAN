@@ -1,0 +1,1 @@
+ public void setType(CorinaRequestType value) { this.type = value; } 

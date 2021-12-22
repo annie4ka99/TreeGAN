@@ -1,0 +1,1 @@
+ public void getCurrentModelView(GL10 gl) { getMatrix(gl, GL10.GL_MODELVIEW, mModelView); } 

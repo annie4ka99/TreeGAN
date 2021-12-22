@@ -1,0 +1,1 @@
+ public ImageDescriptor getImageDescriptor() { return this._textAction.getImageDescriptor(); } 

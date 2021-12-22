@@ -1,0 +1,1 @@
+ public Class getAttributeClass() { return attributeClass; } 

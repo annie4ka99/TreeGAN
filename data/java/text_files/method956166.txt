@@ -1,0 +1,1 @@
+ public void setOrbitType(String value) { this.orbitType = value; } 

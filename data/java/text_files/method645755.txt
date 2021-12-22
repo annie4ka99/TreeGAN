@@ -1,0 +1,1 @@
+ public String getUniqueIdentifier() { return getParent().getQualifiedName() + "." + getQualifiedName(); } 

@@ -1,0 +1,1 @@
+ public void addEvent(EventDetails aEvent) { synchronized (mLock) { mPendingEvents.add(aEvent); } } 

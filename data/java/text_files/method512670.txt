@@ -1,0 +1,1 @@
+ public boolean isEmbeddedClass() { return isEmbeddedClass; } 

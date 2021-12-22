@@ -1,0 +1,1 @@
+ public void setStartX(int row, double x) { setDouble(row, VisualItem.STARTX, x); } 

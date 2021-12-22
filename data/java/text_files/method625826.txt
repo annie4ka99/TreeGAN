@@ -1,0 +1,1 @@
+ public void setSource(IModel src) throws EveException { this.mSrc = src; } 

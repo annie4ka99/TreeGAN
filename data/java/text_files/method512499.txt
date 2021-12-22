@@ -1,0 +1,1 @@
+ public void setEjbClass(final String ejbClass) { this.ejbClass = ejbClass; } 

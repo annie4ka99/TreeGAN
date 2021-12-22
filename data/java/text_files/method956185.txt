@@ -1,0 +1,1 @@
+ public MaskInformationArrayPropertyType getMask() { return mask; } 

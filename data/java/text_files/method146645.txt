@@ -1,0 +1,1 @@
+ public GPSSatelliteArray getSatellites() { return satellites; } 

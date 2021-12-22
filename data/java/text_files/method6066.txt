@@ -1,0 +1,1 @@
+ public JPanel getContentPane() { return contentPane; } 

@@ -1,0 +1,1 @@
+ public Vector2f divide(float scalar) { return new Vector2f(x / scalar, y / scalar); } 

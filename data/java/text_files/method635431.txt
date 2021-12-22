@@ -1,0 +1,1 @@
+ public boolean hasTextBody() { return StringUtils.isNotEmpty(textBody); } 

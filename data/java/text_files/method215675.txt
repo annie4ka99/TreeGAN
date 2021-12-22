@@ -1,0 +1,1 @@
+ public void setContents(EdgeT Contents) { this.contents = Contents; } 

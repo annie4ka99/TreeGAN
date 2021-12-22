@@ -1,0 +1,1 @@
+ public long getMinimumValue() { return minimumValue; } 

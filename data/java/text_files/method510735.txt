@@ -1,0 +1,1 @@
+ public double getEnding() { return ending; } 

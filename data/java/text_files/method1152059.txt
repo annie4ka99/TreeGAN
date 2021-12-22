@@ -1,0 +1,1 @@
+ public float getMotorForce() { return m_motorForce; } 

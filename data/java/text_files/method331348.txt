@@ -1,0 +1,1 @@
+ public double getActualTimeResolution() { return this.actualTimeResolution; } 

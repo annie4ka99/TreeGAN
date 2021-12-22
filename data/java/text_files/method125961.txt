@@ -1,0 +1,1 @@
+ public Map getObjectMap(){ return map; } 

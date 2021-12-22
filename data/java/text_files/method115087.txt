@@ -1,0 +1,1 @@
+ public int getId3v2PaddingSize() { return id3v2PaddingSize; } 

@@ -1,0 +1,1 @@
+ public void setI18nConfigDir(String configDir) { i18nConfigDir = configDir; } 

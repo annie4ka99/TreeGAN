@@ -1,0 +1,1 @@
+ public void findPropStrict( AVM2Name name ) { instructions.append( OP_findpropstrict, name ); } 

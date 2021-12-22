@@ -1,0 +1,1 @@
+ public void storeObject( Object pObject ) { mStore.add( pObject ); return; } 

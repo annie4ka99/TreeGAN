@@ -1,0 +1,1 @@
+ public FortunaGenerator getFortuna() { return fortuna; } 

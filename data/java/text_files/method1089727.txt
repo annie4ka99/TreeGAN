@@ -1,0 +1,1 @@
+ protected Date getNextDay(Date aDate) { return AeDate.getStartOfNextDay(aDate); } 

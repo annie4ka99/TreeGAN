@@ -1,0 +1,1 @@
+ public void setGreenBits(int greenBits) { this.greenBits = greenBits; } 

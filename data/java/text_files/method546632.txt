@@ -1,0 +1,1 @@
+ public void setAntialiasFont(boolean b) { useAAFont = b; repaint(); } 

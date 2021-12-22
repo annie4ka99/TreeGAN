@@ -1,0 +1,1 @@
+ public void setIp(java.lang.String ip) { this.ip = ip; } 

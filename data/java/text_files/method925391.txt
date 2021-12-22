@@ -1,0 +1,1 @@
+ protected void setCounter(int c) { counter = c; } 

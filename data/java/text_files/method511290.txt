@@ -1,0 +1,1 @@
+ public void setProcessOutputStream(InputStream is) { createProcessOutputPump(is, out); } 

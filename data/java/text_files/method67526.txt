@@ -1,0 +1,1 @@
+ protected int getFixedRowCount() { return m_Model.getFixedHeaderRowCount()+m_Model.getFixedSelectableRowCount(); } 

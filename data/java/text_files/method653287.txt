@@ -1,0 +1,1 @@
+ public CancelableDownload getCancelableDownload() { return cancelable; } 

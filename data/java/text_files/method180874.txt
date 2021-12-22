@@ -1,0 +1,1 @@
+public void setCellSeparator(char separator) { this.separator = separator; } 

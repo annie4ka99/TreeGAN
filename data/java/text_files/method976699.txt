@@ -1,0 +1,1 @@
+ public boolean contains(String waypoint) { return cacheList.getIndex(waypoint) >= 0; } 

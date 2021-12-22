@@ -1,0 +1,1 @@
+ public String getKey() { return getClass().toString(); } 

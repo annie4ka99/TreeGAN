@@ -1,0 +1,1 @@
+ protected Parser createParser() { return new Emitter(); } 

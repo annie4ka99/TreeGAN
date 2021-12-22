@@ -1,0 +1,1 @@
+ public UserLevelEnum getUserLevel() { return userLevel; } 

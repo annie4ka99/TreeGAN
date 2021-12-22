@@ -1,0 +1,1 @@
+ public void setValue(double cellVal) { this.val = cellVal; } 

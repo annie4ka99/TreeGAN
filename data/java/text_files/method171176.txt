@@ -1,0 +1,1 @@
+ public LocalVariables getClone(){ return (LocalVariables) this.clone(); } 

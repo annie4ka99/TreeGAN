@@ -1,0 +1,1 @@
+ public void setScannerMethod(final AnnotatedScannerMethod method) { this.scannerMethod = method; } 

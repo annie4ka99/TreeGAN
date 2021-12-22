@@ -1,0 +1,1 @@
+ public TreePath getSelectedItemsTreePath() { return dbtree.getSelectionPath(); } 

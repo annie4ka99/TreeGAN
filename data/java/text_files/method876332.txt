@@ -1,0 +1,1 @@
+ public void setCurrentLength(int currentLength) { binaryHeader.putInt(24, currentLength); } 

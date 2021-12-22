@@ -1,0 +1,1 @@
+ public ProcessingInformationPropertyType getProcessing() { return processing; } 

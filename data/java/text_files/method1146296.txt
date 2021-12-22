@@ -1,0 +1,1 @@
+ public void setVertical(String vertical) { this.vertical = vertical; } 

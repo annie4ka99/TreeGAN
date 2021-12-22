@@ -1,0 +1,1 @@
+ public void pushinteger(Character c) { if ( c == null ) pushnil(); else pushinteger( c.charValue() ); } 

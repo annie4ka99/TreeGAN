@@ -1,0 +1,1 @@
+ public void setDoubleStrike(boolean doubleStrike) { this.doubleStrike = doubleStrike; } 

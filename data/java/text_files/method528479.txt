@@ -1,0 +1,1 @@
+private void setPageSeqNumber(int newPageSeqNumber) { pageSeqNumber = newPageSeqNumber; } 

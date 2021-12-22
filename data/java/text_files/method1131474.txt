@@ -1,0 +1,1 @@
+ public String toString() { return getClass().getName() + "[hgap=" + hgap + ",vgap=" + vgap + "]"; } 

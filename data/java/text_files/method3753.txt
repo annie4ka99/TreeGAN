@@ -1,0 +1,1 @@
+ public String getDefaultTarget() { return configProps.getProperty("defaultTarget", ""); } 

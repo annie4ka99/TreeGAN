@@ -1,0 +1,1 @@
+ public void setStockVolume(int stockVolume) { this.stockVolume = stockVolume; } 

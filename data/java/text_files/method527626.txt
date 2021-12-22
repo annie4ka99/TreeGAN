@@ -1,0 +1,1 @@
+private void setCurrentPage(int newCurrentPage) { currentPage = newCurrentPage; } 

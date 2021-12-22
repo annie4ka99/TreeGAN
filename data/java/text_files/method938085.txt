@@ -1,0 +1,1 @@
+ public DataModel getModel() { return months[0].getModel(); } 

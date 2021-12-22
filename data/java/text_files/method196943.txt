@@ -1,0 +1,1 @@
+ public void setDistanceToSupermarket(int supermarket) { this.supermarket = supermarket; } 

@@ -1,0 +1,1 @@
+ public Type lookupType(String typeName) { return (Type) types.get(typeName); } 

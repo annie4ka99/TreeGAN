@@ -1,0 +1,1 @@
+ public ConcreteMarker getMarker(IMarker toFind) { return (ConcreteMarker) getMarkerMap().get(toFind); } 

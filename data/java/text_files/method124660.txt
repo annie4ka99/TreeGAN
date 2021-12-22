@@ -1,0 +1,1 @@
+ public void setVal(Matrix mat) { setVal(mat.getArray()); } 

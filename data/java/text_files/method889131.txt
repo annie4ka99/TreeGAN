@@ -1,0 +1,1 @@
+ protected void tellKASH(String cmd){ kash.tell(cmd); } 

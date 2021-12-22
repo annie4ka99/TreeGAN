@@ -1,0 +1,1 @@
+ public boolean isHaveSecondWitnessSignature() { return haveSecondWitnessSignature; } 

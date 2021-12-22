@@ -1,0 +1,1 @@
+ public int getNumberAverages() { return this.numberAverages[0]; } 

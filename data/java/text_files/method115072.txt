@@ -1,0 +1,1 @@
+ public void setId3v2PaddingMultiplier(float mult) { if (mult > 1) { id3v2PaddingMultiplier = mult; } } 

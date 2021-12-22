@@ -1,0 +1,1 @@
+ public void print(Object toPrint) { output.addText(toPrint.toString()); } 

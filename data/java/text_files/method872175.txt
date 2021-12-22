@@ -1,0 +1,1 @@
+ public void setAppClassName(java.lang.String appClassName) { this.appClassName = appClassName; } 

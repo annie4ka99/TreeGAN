@@ -1,0 +1,1 @@
+ public int hashCode() { return (Discrimination.this.hashCode() << 8) + pos; } 

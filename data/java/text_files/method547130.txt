@@ -1,0 +1,1 @@
+ public void setOffsetTransform(double offset) { atOffset = offset; parent.computeScale(); } 

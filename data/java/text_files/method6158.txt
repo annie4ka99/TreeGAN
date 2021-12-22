@@ -1,0 +1,1 @@
+ public JLabel getAmount() { return amount; } 

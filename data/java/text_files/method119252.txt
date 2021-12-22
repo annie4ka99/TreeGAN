@@ -1,0 +1,1 @@
+ public boolean shouldSelectCell(EventObject event) { return realEditor.shouldSelectCell(event); } 

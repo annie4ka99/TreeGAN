@@ -1,0 +1,1 @@
+ public int blocksAccessed() { return p.blocksAccessed(); } 

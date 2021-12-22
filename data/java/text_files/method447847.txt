@@ -1,0 +1,1 @@
+ public void setExpectedToken(String token){ this.expectedToken=token; } 

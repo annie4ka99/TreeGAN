@@ -1,0 +1,1 @@
+ public void setAuthContextClassRef(String value) { this.authContextClassRef = value; } 

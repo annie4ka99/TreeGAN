@@ -1,0 +1,1 @@
+ public void setPassword(String pass) { password = pass; } 

@@ -1,0 +1,1 @@
+ public void translate(double tx, double ty) { transform.translate(tx, ty); invalidateTransform(); } 

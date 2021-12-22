@@ -1,0 +1,1 @@
+ final public int getGoalNo(int position) { return goalsNumbers[position]; } 

@@ -1,0 +1,1 @@
+ public long getFileStartTime(File file) { return fileDate.getTimeFromFile(file); } 

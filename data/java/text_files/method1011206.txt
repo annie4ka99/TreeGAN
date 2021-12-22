@@ -1,0 +1,1 @@
+ public void scale(float val) { x *= val; y *= val; z *= val; } 

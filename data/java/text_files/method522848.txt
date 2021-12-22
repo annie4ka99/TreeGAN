@@ -1,0 +1,1 @@
+public void fail(Exception theException, String theMessage) { System.exit(1); } 

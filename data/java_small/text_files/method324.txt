@@ -1,0 +1,1 @@
+ public void play() { if(currentSoundFilename.equals("")) return; String settingsFileName = Settings.get(soundSettingsKey); if(!currentSoundFilename.equals(settingsFileName)) { loadClip(settingsFileName); } if (clip.isRunning()) { clip.stop(); } clip.setFramePosition(0); clip.start(); } 

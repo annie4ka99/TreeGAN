@@ -1,0 +1,1 @@
+ public void setGraph(Graph graph) { this.graphscrollpane.getVisualGraph().setGraph(graph); } 

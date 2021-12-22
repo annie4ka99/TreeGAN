@@ -1,0 +1,1 @@
+ public void extend(int letter) { root.extend(letter); longest++; } 

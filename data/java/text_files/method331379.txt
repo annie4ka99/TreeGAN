@@ -1,0 +1,1 @@
+ public void setAcquisitionSettings( AcquisitionSettings settings ) { this.acquisitionSettings = settings; } 

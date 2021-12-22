@@ -1,0 +1,1 @@
+ public boolean finish() { if (!canFinish()) { return false; } return verify(); } 

@@ -1,0 +1,1 @@
+ public void setMarqueeColor(Color newColor) { marqueeColor = newColor; } 

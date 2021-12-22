@@ -1,0 +1,1 @@
+ public Request getRequest(int id) { return getRequest(new ConversationID(id)); } 

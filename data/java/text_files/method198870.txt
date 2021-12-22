@@ -1,0 +1,1 @@
+ public PathIterator getPathIterator(AffineTransform xform, double flatness) { return getPathIterator(xform); } 

@@ -1,0 +1,1 @@
+ public AddressType getAddress() { return address; } 

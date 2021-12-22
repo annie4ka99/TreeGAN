@@ -1,0 +1,1 @@
+ public void setType(EntityType value) { this.type = value; } 

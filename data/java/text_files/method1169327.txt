@@ -1,0 +1,1 @@
+ static public boolean canPayCost(SpellAbility sa) { return canPayCost(sa, AllZone.getComputerPlayer()); } 

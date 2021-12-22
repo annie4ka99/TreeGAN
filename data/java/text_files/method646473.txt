@@ -1,0 +1,1 @@
+ public String getSingleLineText() { return _singleLineText; } 

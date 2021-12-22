@@ -1,0 +1,1 @@
+ public void visitIADD(IADD o){ stack().pop(); stack().pop(); stack().push(Type.INT); } 

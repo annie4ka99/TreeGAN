@@ -1,0 +1,1 @@
+ public void putString(String str) { putInt32(str.length()); putBytes(str.getBytes()); } 

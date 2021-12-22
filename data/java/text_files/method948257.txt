@@ -1,0 +1,1 @@
+ public RuleBasedScanner getCSSCommentScanner() { return cssCommentScanner; } 

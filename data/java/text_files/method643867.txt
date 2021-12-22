@@ -1,0 +1,1 @@
+ public void setProcessSummary(ProcessSummaryType value) { this.processSummary = value; } 

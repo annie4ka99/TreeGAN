@@ -1,0 +1,1 @@
+ public void addChild(NoteModel model) { addChild(model, null); } 

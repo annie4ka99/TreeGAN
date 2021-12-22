@@ -1,0 +1,1 @@
+ public void setAttachmentId(long aAttachmentId) { mAttachmentId = aAttachmentId; } 

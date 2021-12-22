@@ -1,0 +1,1 @@
+ protected double deltaE () { return (currE - lastE); } 

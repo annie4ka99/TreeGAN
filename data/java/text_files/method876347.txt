@@ -1,0 +1,1 @@
+ public void setFlag(int flag) { binaryHeader.putInt(28, flag); } 

@@ -1,0 +1,1 @@
+ public void setTotalPosts(int totalPosts) { this.totalPosts = totalPosts; } 

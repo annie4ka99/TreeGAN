@@ -1,0 +1,1 @@
+ public void setProxyPort(int proxyPort) { this.proxyPort = Configuration.getProxyPort(proxyPort); } 

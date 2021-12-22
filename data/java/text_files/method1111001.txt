@@ -1,0 +1,1 @@
+ protected VertexView createVertexView(Object cell) { return new VertexView(cell); } 

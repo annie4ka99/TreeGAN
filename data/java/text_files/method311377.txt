@@ -1,0 +1,1 @@
+ public void normalized() { double d = length(); x /= d; y /= d; z /= d; } 

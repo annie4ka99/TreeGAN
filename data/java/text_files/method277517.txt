@@ -1,0 +1,1 @@
+ public SchemaEditModel getTableMakerModel() { return tableMakerModel; } 

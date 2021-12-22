@@ -1,0 +1,1 @@
+ public void setSearchStrategy(String val) { this.searchStrategy = val; } 

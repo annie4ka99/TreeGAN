@@ -1,0 +1,1 @@
+ public void setOccurrences(Interval occurrences) { this.occurrences=occurrences; } 

@@ -1,0 +1,1 @@
+ public void setField (int field, String value) { data[field] = value; } 

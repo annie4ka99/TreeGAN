@@ -1,0 +1,1 @@
+ public Iterator tuples() { return m_tuples.iterator(rows()); } 

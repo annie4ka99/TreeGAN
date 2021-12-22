@@ -1,0 +1,1 @@
+ public void setCatalogViewURI(String catalogViewURI) { this.catalogViewURI = catalogViewURI; } 

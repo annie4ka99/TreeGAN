@@ -1,0 +1,1 @@
+ public BugTreeViewer getBugTreeViewer() { return bugTreeViewer; } 

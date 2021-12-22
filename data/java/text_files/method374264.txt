@@ -1,0 +1,1 @@
+ public boolean hasAVP(String name) { return hasField(name); } 

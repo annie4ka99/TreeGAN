@@ -1,0 +1,1 @@
+ public void setReadValue(final AttributeValue readValue) { this.readValue = readValue; } 

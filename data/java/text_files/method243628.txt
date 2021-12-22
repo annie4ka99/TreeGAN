@@ -1,0 +1,1 @@
+ public void setPlayers(int players) { m_players = players; } 

@@ -1,0 +1,1 @@
+ public QueryType createQueryType() { return new QueryType(); } 

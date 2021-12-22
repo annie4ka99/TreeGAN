@@ -1,0 +1,1 @@
+ public void setBridge(Application bridge) { this.bridge = bridge; } 

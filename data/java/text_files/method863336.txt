@@ -1,0 +1,1 @@
+ public boolean hasAttribute( String name ) { return request.getSession().getAttribute( name ) != null; } 

@@ -1,0 +1,1 @@
+ final public boolean isBoxOnGoal(int position) { return boxesArray[position] && goalsArray[position]; } 

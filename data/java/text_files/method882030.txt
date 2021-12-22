@@ -1,0 +1,1 @@
+ public HTMLTab getTabAt(int indx) { return (HTMLTab)tabs.get(indx); } 

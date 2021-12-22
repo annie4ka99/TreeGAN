@@ -1,0 +1,1 @@
+ public String toString() { return "Name: " + fileName + " Class: " + className + " Type: " + type; } 

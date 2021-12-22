@@ -1,0 +1,1 @@
+ public Object getObject(int i) { return m_objects[i]; } 

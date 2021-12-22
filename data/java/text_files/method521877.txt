@@ -1,0 +1,1 @@
+public void setSystemParam(JBpaSystemParam newSystemParam) { systemParam = newSystemParam; } 

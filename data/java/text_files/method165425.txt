@@ -1,0 +1,1 @@
+ public void setStatsLength(int statsLength) { this.statsLength = Math.max(statsLength, 1); } 

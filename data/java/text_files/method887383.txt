@@ -1,0 +1,1 @@
+ public Element getDocumentMeta() { return XMLUtilities.getElem(meta, NODE_DOCUMENT_META); } 

@@ -1,0 +1,1 @@
+ public ProcessSummariesType createProcessSummariesType() { return new ProcessSummariesType(); } 

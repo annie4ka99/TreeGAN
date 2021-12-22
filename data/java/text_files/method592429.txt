@@ -1,0 +1,1 @@
+ public void addInitParameter(String name, String value) { this.initParameters.put(name, value); } 

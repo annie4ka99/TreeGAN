@@ -1,0 +1,1 @@
+ public boolean isHtmlEnabled() { return this.htmlEnabled; } 

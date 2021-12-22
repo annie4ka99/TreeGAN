@@ -1,0 +1,1 @@
+ public boolean isRegular() { return getDeckType().equals(Constant.GameType.Constructed); } 

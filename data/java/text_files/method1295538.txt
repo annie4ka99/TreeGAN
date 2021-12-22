@@ -1,0 +1,1 @@
+ public Adapter createLinkAdapter() { return null; } 

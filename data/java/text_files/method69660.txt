@@ -1,0 +1,1 @@
+ public void addWhere(String name, Object val) { addWhere(name, EQ, val); } 

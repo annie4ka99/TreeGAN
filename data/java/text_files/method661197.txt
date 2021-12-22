@@ -1,0 +1,1 @@
+ public String getCriteriaValue() { return criteriaValue; } 

@@ -1,0 +1,1 @@
+ public void setResolution(short newValue) { this.resolution = newValue; } 

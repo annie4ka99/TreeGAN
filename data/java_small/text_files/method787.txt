@@ -1,0 +1,1 @@
+ public void setSkinAnimationDelay(int delay) { Settings.set("skinAnimationDelay", "" + delay); if (animationTimer != null && animationTimer.isRunning()) { animationTimer.setDelay(delay); } } 

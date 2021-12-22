@@ -1,0 +1,1 @@
+ public Property getProperty(int index) { return (Property) properties.get(index); } 

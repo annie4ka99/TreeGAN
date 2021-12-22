@@ -1,0 +1,1 @@
+ public void addEnchanting(Card c) { enchanting.add(c); this.updateObservers(); } 

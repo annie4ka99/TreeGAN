@@ -1,0 +1,1 @@
+ public void setIdCapabilities(IdCapabilitiesType value) { this.idCapabilities = value; } 

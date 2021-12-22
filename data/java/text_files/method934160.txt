@@ -1,0 +1,1 @@
+ public boolean getFast() { return (forwards.getFast()); } 

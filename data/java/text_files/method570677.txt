@@ -1,0 +1,1 @@
+ public int getEscapeMode() { return userSettings.EscapeMode; } 

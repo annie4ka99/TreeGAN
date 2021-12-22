@@ -1,0 +1,1 @@
+ final private void init() { if (runThread == null) runThread = new Thread(this); runThread.start(); } 

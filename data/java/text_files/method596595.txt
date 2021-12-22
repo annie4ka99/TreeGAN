@@ -1,0 +1,1 @@
+ public void setNamespaceAware(boolean b){ namespaceAware=b; } 

@@ -1,0 +1,1 @@
+ public boolean isEmpty() { synchronized (presentation) { return presentation.isEmpty(); } } 

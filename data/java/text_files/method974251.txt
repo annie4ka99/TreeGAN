@@ -1,0 +1,1 @@
+ private void hideDialog(Dialog dialog){ dialog.hide(); updateComponents(dialog.getId()); } 

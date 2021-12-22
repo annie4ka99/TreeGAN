@@ -1,0 +1,1 @@
+ public int getChildCount(Object parent) { TreeNode tn = (TreeNode) parent; return tn.getChildCount(); } 

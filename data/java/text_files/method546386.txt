@@ -1,0 +1,1 @@
+ public String getDefaultMapping() { return getStrValue(defaultValue); } 

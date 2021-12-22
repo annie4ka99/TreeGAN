@@ -1,0 +1,1 @@
+ public void setWitnessName(PersonNameType value) { this.witnessName = value; } 

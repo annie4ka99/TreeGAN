@@ -1,0 +1,1 @@
+ public void setCenter(Vector3f center) { this.center = center; } 

@@ -1,0 +1,1 @@
+ public void add(ImageInfo img) { display = null; vector.add(img); } 

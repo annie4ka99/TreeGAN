@@ -1,0 +1,1 @@
+ protected void setUp() throws Exception { setFixture(EmfFactory.eINSTANCE.createScriptingLanguage()); } 

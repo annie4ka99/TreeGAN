@@ -1,0 +1,1 @@
+ public void setSnap_date(java.sql.Timestamp snap_date) { this.snap_date = snap_date; } 

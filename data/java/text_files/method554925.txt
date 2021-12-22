@@ -1,0 +1,1 @@
+ public void setModified(final boolean b) { if (writeValue == null) { return; } writeValue.setModified(b); } 

@@ -1,0 +1,1 @@
+ public int getSelectionCount() { return (selection == null) ? 0 : selection.size(); } 

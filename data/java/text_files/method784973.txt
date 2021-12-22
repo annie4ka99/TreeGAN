@@ -1,0 +1,1 @@
+ public void setDefaultEdgeRenderer(Renderer r) { m_edgeRenderer = r; } 

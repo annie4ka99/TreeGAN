@@ -1,0 +1,1 @@
+ public void setJobId(String job_id) throws WorkFileException { this.job_id = job_id; this.log(); } 

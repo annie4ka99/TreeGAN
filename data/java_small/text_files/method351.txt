@@ -1,0 +1,1 @@
+ public void setPositions(int[] positions){ this.positions = positions; } 

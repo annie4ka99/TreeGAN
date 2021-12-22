@@ -1,0 +1,1 @@
+ protected Object initialValue() { return null; } 

@@ -1,0 +1,1 @@
+ public String getReNuovaPassword() { return re_nuova_password; } 

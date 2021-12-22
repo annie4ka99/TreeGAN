@@ -1,0 +1,1 @@
+ public void processFile() throws Exception { processFile(QUARTZ_XML_FILE_NAME); } 

@@ -1,0 +1,1 @@
+ protected void setMatcher(Matcher matcher) { this.matcher = matcher; } 

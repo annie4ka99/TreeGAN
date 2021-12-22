@@ -1,0 +1,1 @@
+ public Adapter createHIVPredRTOutputTypeAdapter() { return null; } 

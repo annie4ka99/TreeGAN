@@ -1,0 +1,1 @@
+ private LocalVariables locals(){ return frame.getLocals(); } 

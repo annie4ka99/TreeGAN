@@ -1,0 +1,1 @@
+ public boolean shouldIgnoreNulls() { return getIndexData().shouldIgnoreNulls(); } 

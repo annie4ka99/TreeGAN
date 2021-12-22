@@ -1,0 +1,1 @@
+ public boolean isSelection() { return type == SELECT; } 

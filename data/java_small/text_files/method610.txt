@@ -1,0 +1,1 @@
+ private int getBoxConfigurationIndex(int boardPositionIndex) { return table.get(boardPositionIndex+BOX_CONFIGURATION_OFFSET)&(~LOCKED); } 

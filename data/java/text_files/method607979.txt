@@ -1,0 +1,1 @@
+ public void setRead(boolean read) { this.allow_read_ = read; } 

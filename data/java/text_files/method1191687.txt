@@ -1,0 +1,1 @@
+ public void addContextualInformation(ContextualInformation ci) { data.addContextualInformation(ci); } 

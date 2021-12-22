@@ -1,0 +1,1 @@
+ public int getIntProp(String pName) { return Integer.parseInt(getProp(pName)); } 

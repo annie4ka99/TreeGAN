@@ -1,0 +1,1 @@
+ public boolean isVerboseResponse() { if (verboseResponse == null) { return false; } else { return verboseResponse; } } 

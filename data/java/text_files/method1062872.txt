@@ -1,0 +1,1 @@
+ public void setModelManager(ModelManager modelManager){ this.modelManager=modelManager; } 

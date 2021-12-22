@@ -1,0 +1,1 @@
+ public void setMembersInterval(Interval members) { this.members=members; } 

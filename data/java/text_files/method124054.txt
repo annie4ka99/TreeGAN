@@ -1,0 +1,1 @@
+public Insets getBorderInsets(Component c) { return insets; } 

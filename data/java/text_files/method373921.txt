@@ -1,0 +1,1 @@
+ public String fieldValue(final Sip.Response field) { return super.fieldValue(String.class, field); } 

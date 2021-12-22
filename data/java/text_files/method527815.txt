@@ -1,0 +1,1 @@
+public int getSignetType() { return signetType; } 

@@ -1,0 +1,1 @@
+ public void setConditionId(int conditionId) { this.conditionId = conditionId; } 

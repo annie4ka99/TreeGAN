@@ -1,0 +1,1 @@
+ public void setMarqueeBounds(Rectangle marqueeBounds) { this.marqueeBounds = marqueeBounds; } 

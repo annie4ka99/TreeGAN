@@ -1,0 +1,1 @@
+ public boolean isToggleSelectionEvent(MouseEvent event) { return (event.isControlDown()); } 

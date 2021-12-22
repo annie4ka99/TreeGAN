@@ -1,0 +1,1 @@
+ public Player getDefendingPlayer() { return defendingPlayer; } 

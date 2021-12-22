@@ -1,0 +1,1 @@
+ public Department getDepartment2() { return department2; } 

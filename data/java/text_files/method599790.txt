@@ -1,0 +1,1 @@
+ public StringBuffer getNsAlienWin() { return nsAlienWin; } 

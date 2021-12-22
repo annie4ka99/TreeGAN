@@ -1,0 +1,1 @@
+ public Vec2 getCMPosition(Body b) { return worldToScreen(b.getWorldCenter()); } 

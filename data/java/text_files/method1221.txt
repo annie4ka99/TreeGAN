@@ -1,0 +1,1 @@
+ final public void setBoxActive(int boxNo) { isBoxInactive[boxNo] = false; } 

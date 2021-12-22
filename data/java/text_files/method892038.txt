@@ -1,0 +1,1 @@
+ public void setFooterReached(boolean footerReached) { this.footerReached = footerReached; } 

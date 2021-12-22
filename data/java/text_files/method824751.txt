@@ -1,0 +1,1 @@
+ public CStringBuilder append(float fnum) { return append(Float.toString(fnum)); } 

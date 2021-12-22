@@ -1,0 +1,1 @@
+ public boolean isCellChanged() { return cell != prevCell; } 

@@ -1,0 +1,1 @@
+ public Object getTaskAttribute(String key) { return taskAttributes.get(key.toLowerCase()); } 

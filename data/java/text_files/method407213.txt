@@ -1,0 +1,1 @@
+ public int analyze(int count) { return analyze(count, null, null); } 

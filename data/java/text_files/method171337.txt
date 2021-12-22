@@ -1,0 +1,1 @@
+ public void visitFDIV(FDIV o){ stack().pop(); stack().pop(); stack().push(Type.FLOAT); } 

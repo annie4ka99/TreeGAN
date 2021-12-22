@@ -1,0 +1,1 @@
+ private boolean isObjectSpaceParaSampling() { return sampling_method == NurbsConsts.N_OBJECTSPACE_PARA; } 

@@ -1,0 +1,1 @@
+ public StringBuffer getFaPointCaptured() { return faPointCaptured; } 

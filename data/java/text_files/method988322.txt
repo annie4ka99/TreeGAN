@@ -1,0 +1,1 @@
+ public void setRemainingHours(double remainingHours) { this.remainingHours = remainingHours; } 

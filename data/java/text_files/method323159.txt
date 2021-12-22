@@ -1,0 +1,1 @@
+ public Complex minus(Complex b) { return new Complex(real - b.real, imag - b.imag); } 

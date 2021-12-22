@@ -1,0 +1,1 @@
+ public void removeEnchanting(Card c) { enchanting.remove(c); this.updateObservers(); } 

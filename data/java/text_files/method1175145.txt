@@ -1,0 +1,1 @@
+ public void addMaxLandsToPlay(int n) { maxLandsToPlay += n; } 

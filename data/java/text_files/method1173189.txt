@@ -1,0 +1,1 @@
+ public boolean isWall() { return type.contains("Wall"); } 

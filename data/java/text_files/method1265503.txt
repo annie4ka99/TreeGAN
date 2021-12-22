@@ -1,0 +1,1 @@
+ public Adapter createTVariablesAdapter() { return null; } 

@@ -1,0 +1,1 @@
+ public void write(byte[] output){ try{ outputStream.write(output); } catch(Exception e){ e.printStackTrace(); } } 

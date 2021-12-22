@@ -1,0 +1,1 @@
+ public NavigationPaneUI getUI() { return (NavigationPaneUI)ui; } 

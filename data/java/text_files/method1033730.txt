@@ -1,0 +1,1 @@
+ public boolean argumentsUseNIO() { computeSignatureProperties(); return argumentsUseNIO; } 

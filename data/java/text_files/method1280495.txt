@@ -1,0 +1,1 @@
+ public int GetFontHeight() { return imgHeight; } 

@@ -1,0 +1,1 @@
+ public boolean isSnapshotDetailsVisible() { return snapshotDetailsVisible; } 

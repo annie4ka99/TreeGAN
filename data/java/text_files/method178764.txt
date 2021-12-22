@@ -1,0 +1,1 @@
+ public boolean isSelfLoop() { if (source == target) return true; return false; } 

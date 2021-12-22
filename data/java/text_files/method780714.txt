@@ -1,0 +1,1 @@
+ public Timestamp getStartTime() { return ((ComplexEvent) getModel().getRoot()).getStartTime(); } 

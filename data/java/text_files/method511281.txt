@@ -1,0 +1,1 @@
+ public boolean killedProcess() { return this.killedProcess; } 

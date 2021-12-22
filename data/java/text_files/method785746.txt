@@ -1,0 +1,1 @@
+ public Table getNodeTable() { return (Table)getSet(NODES); } 

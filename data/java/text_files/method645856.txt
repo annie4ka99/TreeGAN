@@ -1,0 +1,1 @@
+ public User createCopy() { User copy = new User(userName, password); return copy; } 

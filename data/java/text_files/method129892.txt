@@ -1,0 +1,1 @@
+ public boolean isViewportZoomable() { return viewportZoomable; } 

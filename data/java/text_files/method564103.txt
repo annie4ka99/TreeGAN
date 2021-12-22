@@ -1,0 +1,1 @@
+ public void setTangoExporter(final IExporter tangoExporter) { this.tangoExporter = tangoExporter; } 

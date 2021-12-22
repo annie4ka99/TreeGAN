@@ -1,0 +1,1 @@
+ public SearchParameterName getName() { return name; } 

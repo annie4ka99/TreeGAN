@@ -1,0 +1,1 @@
+ public boolean addMazo(Mazo mazo) { return this.mazo.add(mazo); } 

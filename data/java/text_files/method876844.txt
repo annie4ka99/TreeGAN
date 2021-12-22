@@ -1,0 +1,1 @@
+ public Log getSAXLogger() { return saxLog; } 

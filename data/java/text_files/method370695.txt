@@ -1,0 +1,1 @@
+ public void setPackagesToUnseal(IPackageFragment[] packagesToUnseal) { fPackagesToUnseal= packagesToUnseal; } 

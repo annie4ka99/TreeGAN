@@ -1,0 +1,1 @@
+ public Scan open() { return new TableScan(ti, tx); } 

@@ -1,0 +1,1 @@
+ public String getBandId() { return bandId; } 

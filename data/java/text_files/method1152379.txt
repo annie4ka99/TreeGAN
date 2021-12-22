@@ -1,0 +1,1 @@
+ public Vec2 getCoreVertex1() { return m_coreV1; } 

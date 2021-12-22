@@ -1,0 +1,1 @@
+ public void setPasswd(String value) { this.passwd = value; } 

@@ -1,0 +1,1 @@
+ public int getPriority() { return this.priority_value_; } 

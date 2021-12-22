@@ -1,0 +1,1 @@
+private void setTrace(org.epo.gui.jphoenix.generic.GuiTrace newTrace) { trace = newTrace; } 

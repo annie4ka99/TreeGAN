@@ -1,0 +1,1 @@
+ public void error (SAXParseException e) throws SAXException {} 

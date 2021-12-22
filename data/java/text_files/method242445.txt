@@ -1,0 +1,1 @@
+ protected void setVATAmount(tax VAT, BigDecimal amount) { VATAmounts.put(VAT.getID(), amount); } 

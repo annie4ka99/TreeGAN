@@ -1,0 +1,1 @@
+ public ResponsiblePartySubsetType getServiceContact() { return serviceContact; } 

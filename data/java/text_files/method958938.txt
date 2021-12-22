@@ -1,0 +1,1 @@
+ public Iterator iFicha1Iterator() { return ficha1.iterator(); } 

@@ -1,0 +1,1 @@
+ public int getPushesCount() { int pushesCount = 0; for (BoardPosition currentBoardPosition = this; currentBoardPosition .getPrecedingBoardPosition() != null; currentBoardPosition = (BoardPosition) currentBoardPosition .getPrecedingBoardPosition()) { if (currentBoardPosition.getBoxNo() != NO_BOX_PUSHED) { pushesCount++; } } return pushesCount; } 

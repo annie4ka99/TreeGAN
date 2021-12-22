@@ -1,0 +1,1 @@
+ public GnucashFileWritingImpl getWritingFile() { return (GnucashFileWritingImpl) getGnucashFile(); } 

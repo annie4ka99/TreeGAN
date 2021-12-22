@@ -1,0 +1,1 @@
+ public void setMaxCoverage(float maxCoverage) { this.maxCoverage = maxCoverage; } 

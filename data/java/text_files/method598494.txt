@@ -1,0 +1,1 @@
+ public int getNumConfiguredHashes() { return hashes.getNumConfiguredAlgos(); } 

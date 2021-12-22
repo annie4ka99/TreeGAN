@@ -1,0 +1,1 @@
+ public void setPathName(String pathname) { this.pathname = pathname; } 

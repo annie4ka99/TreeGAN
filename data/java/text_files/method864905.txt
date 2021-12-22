@@ -1,0 +1,1 @@
+ public void newClass( AVM2Class clazz ) { instructions.append( OP_newclass, clazz.name ); } 

@@ -1,0 +1,1 @@
+ public void setPageNumber(int newPageNumber) { pageNumber = newPageNumber; } 

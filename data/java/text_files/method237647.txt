@@ -1,0 +1,1 @@
+ public UIEventAdapter getUIEventAdapter() { return evtAdapter; } 

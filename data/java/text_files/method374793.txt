@@ -1,0 +1,1 @@
+ public void setFloat(long sequence, float value) { this.storage.setFloat(map(sequence), value); } 

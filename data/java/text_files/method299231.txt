@@ -1,0 +1,1 @@
+ public void setRecursive(IFigure recursiveAnchor) { _anchor = recursiveAnchor; } 

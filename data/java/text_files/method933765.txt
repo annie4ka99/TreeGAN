@@ -1,0 +1,1 @@
+ public void addObject(Object value) { list.add(value); } 

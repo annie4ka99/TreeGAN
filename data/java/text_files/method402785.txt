@@ -1,0 +1,1 @@
+ public void addFileset(ConditionalFileSet srcSet) { compilerDef.addFileset(srcSet); } 

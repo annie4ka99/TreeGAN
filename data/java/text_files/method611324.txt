@@ -1,0 +1,1 @@
+ public ArrayList getRegions(){ return this.regions; } 

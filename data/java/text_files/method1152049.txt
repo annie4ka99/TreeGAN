@@ -1,0 +1,1 @@
+ public void enableMotor(boolean flag) { m_enableMotor = flag; } 

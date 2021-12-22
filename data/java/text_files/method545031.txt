@@ -1,0 +1,1 @@
+ public void setXAxisAffineTransform(double a0,double a1) { A0 = a0; A1 = a1; } 

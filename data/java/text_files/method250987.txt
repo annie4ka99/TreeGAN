@@ -1,0 +1,1 @@
+ public void setEmail(String e) { logger.debug("entering setEmail"); this.email = e; } 

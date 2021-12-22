@@ -1,0 +1,1 @@
+ public Tree getSpanningTree() { return m_spanning==null ? this : m_spanning; } 

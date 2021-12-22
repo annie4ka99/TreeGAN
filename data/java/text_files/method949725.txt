@@ -1,0 +1,1 @@
+ public void setSleepTime(int sleepTime) { this.sleepTime = sleepTime; } 

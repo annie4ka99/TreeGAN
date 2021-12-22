@@ -1,0 +1,1 @@
+ public boolean delete( String key, Date expiry ) { return delete( key, null, expiry ); } 

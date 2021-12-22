@@ -1,0 +1,1 @@
+ public String getLangcode() { return langcode; } 

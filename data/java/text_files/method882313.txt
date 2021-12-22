@@ -1,0 +1,1 @@
+ public void setParams(Properties paramsToSet) { assert (paramsToSet != null); params = paramsToSet; } 

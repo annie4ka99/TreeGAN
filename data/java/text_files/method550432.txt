@@ -1,0 +1,1 @@
+ public void statusChange(StatusEvent evt) { status.setText(evt.getStatus()); } 

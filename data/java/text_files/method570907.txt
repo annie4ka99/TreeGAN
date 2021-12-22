@@ -1,0 +1,1 @@
+ public void addChangeListener(ChangeListener listener) { _changeListener.add(listener); } 

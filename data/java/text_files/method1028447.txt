@@ -1,0 +1,1 @@
+ public String getStringProperty(String name) { return getStringProperty(name, null); } 

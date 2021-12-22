@@ -1,0 +1,1 @@
+ public boolean matchesPage(String page_name) { return this.page_matcher_.reset(page_name).matches(); } 

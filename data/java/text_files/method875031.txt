@@ -1,0 +1,1 @@
+ public void setNameSupplier(java.lang.String nameSupplier) { this.nameSupplier = nameSupplier; } 

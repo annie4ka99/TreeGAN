@@ -1,0 +1,1 @@
+ public void addResult(ConstraintSummary newResult) { constraintResults.add(newResult); } 

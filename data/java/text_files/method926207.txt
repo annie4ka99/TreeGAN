@@ -1,0 +1,1 @@
+ public void setArchiveComment(String archiveComment) { this.archiveComment = archiveComment; } 

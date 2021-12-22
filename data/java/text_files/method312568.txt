@@ -1,0 +1,1 @@
+ public String getDatabaseProductVersion() throws SQLException { return this.conn.getServerVersion(); } 

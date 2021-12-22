@@ -1,0 +1,1 @@
+ public void setRootContext(Pattern c) { this.rootContext = c; } 

@@ -1,0 +1,1 @@
+private int getNbReqPrinted() { return nbReqPrinted; } 

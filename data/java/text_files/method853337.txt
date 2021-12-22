@@ -1,0 +1,1 @@
+ public void setHitCount(int hitCount) { this.hitCount = hitCount; } 

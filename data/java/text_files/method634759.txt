@@ -1,0 +1,1 @@
+ public boolean isDeformEnabled() { return deformEnabled; } 

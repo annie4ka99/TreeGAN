@@ -1,0 +1,1 @@
+ final protected Processor6502 getProcessor() { return processor; } 

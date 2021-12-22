@@ -1,0 +1,1 @@
+ public void setColumnNames(Object[] columnNames) { this.columnNames = columnNames; } 

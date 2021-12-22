@@ -1,0 +1,1 @@
+ public void dump(OutputStream file) throws IOException { dump(new DataOutputStream(file)); } 

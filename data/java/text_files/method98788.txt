@@ -1,0 +1,1 @@
+ public void setRole(String value) { this.role = value; } 

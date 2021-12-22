@@ -1,0 +1,1 @@
+ public int getMaxObjectSize() { return maxObjectSize; } 

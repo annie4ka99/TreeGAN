@@ -1,0 +1,1 @@
+ public Node addNode() { int nrow = addNodeRow(); return (Node)m_nodeTuples.getTuple(nrow); } 

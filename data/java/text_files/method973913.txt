@@ -1,0 +1,1 @@
+ public void setUserCount(int userCount) { this.userCount = userCount; } 

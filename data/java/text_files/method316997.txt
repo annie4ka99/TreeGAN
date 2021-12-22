@@ -1,0 +1,1 @@
+ public boolean isIntersect(Vertex3dNormal ray) { return isIntersect(rootSpace, ray); } 

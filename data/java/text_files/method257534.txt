@@ -1,0 +1,1 @@
+ public CatalogManager getCatalogManager() { return catalogManager; } 

@@ -1,0 +1,1 @@
+ public Quaternion mult(Quaternion q) { return mult(q, null); } 

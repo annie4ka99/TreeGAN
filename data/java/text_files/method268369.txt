@@ -1,0 +1,1 @@
+ public boolean nullsAreSortedLow() throws java.sql.SQLException { return !nullsAreSortedHigh(); } 

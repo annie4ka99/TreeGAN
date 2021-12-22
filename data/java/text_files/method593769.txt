@@ -1,0 +1,1 @@
+ public String getFormatPattern() { return formatPattern; } 

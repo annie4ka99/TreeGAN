@@ -1,0 +1,1 @@
+ public void setSnowCoverPercentageQuotationMode(String value) { this.snowCoverPercentageQuotationMode = value; } 

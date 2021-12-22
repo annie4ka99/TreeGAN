@@ -1,0 +1,1 @@
+ public int getLongattr() { xlogger.entry(); xlogger.exit(); return longattr; } 

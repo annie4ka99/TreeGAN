@@ -1,0 +1,1 @@
+ public void setExtension(final String ext) { this.extension = ext; } 

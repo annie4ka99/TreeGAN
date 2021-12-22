@@ -1,0 +1,1 @@
+ public void setTable( JTable_ newTable ) { table = newTable; } 

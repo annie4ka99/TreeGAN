@@ -1,0 +1,1 @@
+ public void setBackground( RGB background ) { Util.notNull( background ); this.background = background; } 

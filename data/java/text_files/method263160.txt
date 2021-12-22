@@ -1,0 +1,1 @@
+ public Double getComplete_up_dive_duration() { return complete_up_dive_duration; } 

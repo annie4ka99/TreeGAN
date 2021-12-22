@@ -1,0 +1,1 @@
+ public void JD_reportError( Throwable pThrow ) { JD_reportError( pThrow, null ); return; } 

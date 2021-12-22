@@ -1,0 +1,1 @@
+ public void setBoardToDisplay(String boardAsString) { board = new Board(application); try { board.setBoardFromString(boardAsString); } catch (Exception e) { e.printStackTrace(); } graphicStatus = new byte[board.height * board.width]; isRecalculationNecessary = true; repaint(); } 

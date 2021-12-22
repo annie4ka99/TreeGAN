@@ -1,0 +1,1 @@
+ public int getFloatingPointMode() throws GLException { throw new GLException("Not supported on non-pbuffer contexts"); } 

@@ -1,0 +1,1 @@
+private void setValues(java.util.LinkedList newValues) { values = newValues; } 

@@ -1,0 +1,1 @@
+ public void setAdditionalManaCost(String cost) { additionalManaCost = cost; } 

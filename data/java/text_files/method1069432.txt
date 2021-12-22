@@ -1,0 +1,1 @@
+ public String getText() { return this.textFlow.getText(); } 

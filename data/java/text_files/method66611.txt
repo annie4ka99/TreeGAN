@@ -1,0 +1,1 @@
+ public void setBaseAnimation(ModelAnimation baseAnimation) { this.baseAnimation = baseAnimation; } 

@@ -1,0 +1,1 @@
+ public void setRight(BSNode r) { this.right = r; } 

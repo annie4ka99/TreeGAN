@@ -1,0 +1,1 @@
+ public boolean contains(int i) { return indexOf(i) >= 0; } 

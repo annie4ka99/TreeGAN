@@ -1,0 +1,1 @@
+ public void setModeA(final ModeAbsolu ma) { absoluteMode = ma; } 

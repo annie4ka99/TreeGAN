@@ -1,0 +1,1 @@
+ private CompartmentModel model() { return (CompartmentModel) getModel(); } 

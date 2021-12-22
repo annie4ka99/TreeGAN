@@ -1,0 +1,1 @@
+ public MetadataType createMetadataType() { return new MetadataType(); } 

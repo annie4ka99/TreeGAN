@@ -1,0 +1,1 @@
+ public Integer getCumulativeFitness() { return this.cumulativeFitness; } 

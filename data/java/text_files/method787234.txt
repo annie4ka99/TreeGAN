@@ -1,0 +1,1 @@
+ public void setThreshold(double threshold) { m_threshold = (float)threshold; } 

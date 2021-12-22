@@ -1,0 +1,1 @@
+public void setCreationDate(java.sql.Timestamp newCreationDate) { creationDate = newCreationDate; } 

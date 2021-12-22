@@ -1,0 +1,1 @@
+ public void setParsed(java.lang.String parsed) { this.parsed = parsed; } 

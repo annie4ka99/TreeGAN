@@ -1,0 +1,1 @@
+ public void setEchoCost(String s) { echoCost = s; } 

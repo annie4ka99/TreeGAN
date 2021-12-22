@@ -1,0 +1,1 @@
+ public int consumeStack(ConstantPoolGen cpg) { return Constants.CONSUME_STACK[opcode]; } 

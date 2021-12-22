@@ -1,0 +1,1 @@
+ public PortletDescriptorService getPortletDescriptorService() { return portletDescriptorService; } 

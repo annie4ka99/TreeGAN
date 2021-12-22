@@ -1,0 +1,1 @@
+ public void greaterThan() { instructions.append( OP_greaterthan ); } 

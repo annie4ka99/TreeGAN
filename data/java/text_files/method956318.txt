@@ -1,0 +1,1 @@
+ public void setHighestLocation(MeasureType value) { this.highestLocation = value; } 

@@ -1,0 +1,1 @@
+ public void setTossgaps(java.lang.Boolean tossgaps) { this.tossgaps = tossgaps; } 

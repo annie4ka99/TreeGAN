@@ -1,0 +1,1 @@
+ public void addView(ViewI view) { views.add(view); } 

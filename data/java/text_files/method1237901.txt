@@ -1,0 +1,1 @@
+ public String getXsiURI() { return Constants.URI_2000_SCHEMA_XSI; } 

@@ -1,0 +1,1 @@
+ public AbstractRingPropertyType createAbstractRingPropertyType() { return new AbstractRingPropertyType(); } 

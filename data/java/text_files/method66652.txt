@@ -1,0 +1,1 @@
+ public void setText(String text) { text2D.setText(text); } 

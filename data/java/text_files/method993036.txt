@@ -1,0 +1,1 @@
+ public void setTransform( AffineTransform transform ) { this.transform = transform; } 

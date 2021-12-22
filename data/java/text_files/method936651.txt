@@ -1,0 +1,1 @@
+ public void putChildren(AbstractFile af, List children) { getChildrenCache().put(af, children); } 

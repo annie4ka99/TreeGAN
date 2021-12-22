@@ -1,0 +1,1 @@
+ public CursorBuilder setEndRow(Object[] endRow) { _endRow = endRow; return this; } 

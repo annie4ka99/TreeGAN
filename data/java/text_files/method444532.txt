@@ -1,0 +1,1 @@
+ protected void visitInstance(Instance instance) { super.visitInstance(instance); } 

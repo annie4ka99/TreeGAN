@@ -1,0 +1,1 @@
+ public void resetFilters() { pass_filter_hash = null; fail_filter_hash = null; } 

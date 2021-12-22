@@ -1,0 +1,1 @@
+ public Log getLog(int i) { return logList.get(i); } 

@@ -1,0 +1,1 @@
+ public void clear() { m_trie = new Trie(m_trie.isCaseSensitive()); super.clear(); } 

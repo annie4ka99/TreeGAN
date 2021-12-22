@@ -1,0 +1,1 @@
+ public IDeviceApplication getApplication() { return application; } 

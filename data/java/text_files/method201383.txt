@@ -1,0 +1,1 @@
+ public boolean exists(String filename) throws FileResourceException { return resolve(filename).exists(); } 

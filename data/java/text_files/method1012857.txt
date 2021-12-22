@@ -1,0 +1,1 @@
+ public int getGreenBits() { return greenBits; } 

@@ -1,0 +1,1 @@
+ public Entity (String stValue) throws IllegalArgumentException { super(stValue); } 

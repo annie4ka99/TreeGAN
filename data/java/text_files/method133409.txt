@@ -1,0 +1,1 @@
+ public void setRangeScroller(JScrollBar nscroll) { setScroller(X, nscroll); } 

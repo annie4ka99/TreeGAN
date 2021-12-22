@@ -1,0 +1,1 @@
+ public String getAbout() { return about; } 

@@ -1,0 +1,1 @@
+ public void setPlain(java.lang.String plain) { this.plain = plain; } 

@@ -1,0 +1,1 @@
+ public void setState(String value) { this.state = value; } 

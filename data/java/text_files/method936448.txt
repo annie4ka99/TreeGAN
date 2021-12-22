@@ -1,0 +1,1 @@
+ public int getPluginCount() { return getPlugins().size(); } 

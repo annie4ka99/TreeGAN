@@ -1,0 +1,1 @@
+ public void setCumulativeFitness(Integer cumulativeFitness) { this.cumulativeFitness = cumulativeFitness; } 

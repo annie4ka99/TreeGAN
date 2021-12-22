@@ -1,0 +1,1 @@
+ public Integer getZeroHour() { return zeroHours.get(calculated_depth_higher); } 

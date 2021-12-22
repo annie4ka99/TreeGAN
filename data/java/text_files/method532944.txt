@@ -1,0 +1,1 @@
+ public QualifiedCoordinates getQualifiedCoordinates() { return qualifiedCoordinates; } 

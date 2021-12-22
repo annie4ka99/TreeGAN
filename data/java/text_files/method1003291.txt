@@ -1,0 +1,1 @@
+ public void load(InputStream input) throws IOException, UnsupportedAudioFileException { loadInfo(input); } 

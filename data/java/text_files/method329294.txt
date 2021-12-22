@@ -1,0 +1,1 @@
+ public void setDiscardSmallOnes(boolean discardSmallOnes) { this.discardSmallOnes = discardSmallOnes; } 

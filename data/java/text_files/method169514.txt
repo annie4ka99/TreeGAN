@@ -1,0 +1,1 @@
+ public void setMiddleDefence(double i) { middleDefence = i; } 

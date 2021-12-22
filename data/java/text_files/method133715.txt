@@ -1,0 +1,1 @@
+ public void setHitable(boolean h) { hitable = h; } 

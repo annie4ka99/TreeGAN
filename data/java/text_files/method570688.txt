@@ -1,0 +1,1 @@
+ public int getColumnCount( ) { try { return columnNames.length; } catch ( Throwable e ) { } return 0; } 

@@ -1,0 +1,1 @@
+ public void add(float new_vm[],float new_aux[]){ CbList.add(new CodeWord(new_vm,new_aux)); } 

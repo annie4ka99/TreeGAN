@@ -1,0 +1,1 @@
+ public void setEditableShape(boolean b) { editableShape=b; } 

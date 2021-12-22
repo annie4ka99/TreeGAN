@@ -1,0 +1,1 @@
+ public Element getXMLSettings() { return xmlSettings; } 

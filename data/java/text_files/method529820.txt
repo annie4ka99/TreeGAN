@@ -1,0 +1,1 @@
+ public double getEquatorialRadiusInMeters() { return 6378137.0; } 

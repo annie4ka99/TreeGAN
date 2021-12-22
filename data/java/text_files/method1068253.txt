@@ -1,0 +1,1 @@
+ public ChangeEvent getResult(){ return changeEvent; } 

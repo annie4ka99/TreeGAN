@@ -1,0 +1,1 @@
+ public TridasShape createTridasShape() { return new TridasShape(); } 

@@ -1,0 +1,1 @@
+ public void setCellBorder( Border border ) { this.cellBorder = border; } 

@@ -1,0 +1,1 @@
+ public void setLabel(String label) { uriInputLabel.setText(label); } 

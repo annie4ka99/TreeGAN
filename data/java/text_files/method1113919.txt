@@ -1,0 +1,1 @@
+ private void calLST(){ LSTh = fixTo24(GSTh + (longi_d / 15.0)); } 

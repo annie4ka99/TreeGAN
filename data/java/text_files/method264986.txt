@@ -1,0 +1,1 @@
+ public boolean getSortTable() { return sortTable; } 

@@ -1,0 +1,1 @@
+ public void setValueFail() { try { s.setValue("Schnitzelsemmel"); } catch (IllegalValueException e) { return; } fail(); } 

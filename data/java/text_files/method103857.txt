@@ -1,0 +1,1 @@
+ private String wjForIndex(int index) { return incr.get(index) + "/" + decr.get(index); } 

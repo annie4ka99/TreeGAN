@@ -1,0 +1,1 @@
+ public void setPackagesToSeal(IPackageFragment[] packagesToSeal) { fPackagesToSeal= packagesToSeal; } 

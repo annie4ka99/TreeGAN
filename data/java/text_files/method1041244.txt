@@ -1,0 +1,1 @@
+ public void setTerminalFeeder(Feeder terminalFeeder) { this.terminalFeeder = terminalFeeder; } 

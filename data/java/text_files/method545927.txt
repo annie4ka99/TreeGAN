@@ -1,0 +1,1 @@
+ public int getLineStyle() { return lineStyle; } 

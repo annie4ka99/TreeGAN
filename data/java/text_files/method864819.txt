@@ -1,0 +1,1 @@
+ public void popScope() { instructions.append( OP_popscope ); } 

@@ -1,0 +1,1 @@
+ public HistogramType createHistogramType() { return new HistogramType(); } 

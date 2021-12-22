@@ -1,0 +1,1 @@
+ public void moveRelative(GlyphI glyph, double diffx, double diffy) { glyph.moveRelative(diffx, diffy); } 

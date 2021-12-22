@@ -1,0 +1,1 @@
+ public void setModerated(boolean moderated) { this.moderated = moderated; } 

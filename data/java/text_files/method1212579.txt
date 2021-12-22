@@ -1,0 +1,1 @@
+ public ScriptCommand getScriptCommand() { return scriptCommand; } 

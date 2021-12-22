@@ -1,0 +1,1 @@
+ public Object getValue(JMappedHeader mappedHeader) { return value; } 

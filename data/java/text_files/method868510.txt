@@ -1,0 +1,1 @@
+ public int referenceCount() { return references.size(); } 

@@ -1,0 +1,1 @@
+ public void setCoalescing(boolean b) { coalescing=b; } 

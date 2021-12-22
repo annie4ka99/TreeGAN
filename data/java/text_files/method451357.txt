@@ -1,0 +1,1 @@
+ public boolean isOpen() { if (mythSocket == null) { return false; } return !(mythSocket.isClosed()); } 

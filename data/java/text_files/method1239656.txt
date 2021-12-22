@@ -1,0 +1,1 @@
+ public Object getLastValue() { return sentinel.prev.getValue(); } 

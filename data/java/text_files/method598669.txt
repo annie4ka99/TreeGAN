@@ -1,0 +1,1 @@
+ protected ZrtpPacketHello prepareHello() { return zrtpHello; } 

@@ -1,0 +1,1 @@
+ public boolean isFilterActive() { return filter != null && filter.isActive; } 

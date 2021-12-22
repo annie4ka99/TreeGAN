@@ -1,0 +1,1 @@
+ protected void applyStyle(StylableCell cell) { cell.setHorizontalAlignment(SwingConstants.LEFT); } 

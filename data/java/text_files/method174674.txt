@@ -1,0 +1,1 @@
+ public boolean hasWaiters(Condition condition) { return asCondVar(condition).hasWaiters(); } 

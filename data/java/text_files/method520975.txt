@@ -1,0 +1,1 @@
+ public void setCommands(java.lang.String[][] newCommands) { commands = newCommands; } 

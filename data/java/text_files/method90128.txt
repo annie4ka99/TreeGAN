@@ -1,0 +1,1 @@
+ public NodeFactory getNodeFactory() { return lcf.getNodeFactory(); } 

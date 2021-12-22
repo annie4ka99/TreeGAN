@@ -1,0 +1,1 @@
+ public void setSafetySwitch(boolean safetySwitch) { userSettings.SafetySwitch = safetySwitch; } 

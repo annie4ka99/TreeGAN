@@ -1,0 +1,1 @@
+ public void setVersions(List versions) { this.versions = versions; } 

@@ -1,0 +1,1 @@
+ public void setOpenAmount(java.math.BigDecimal openAmount) { this.openAmount = openAmount; } 

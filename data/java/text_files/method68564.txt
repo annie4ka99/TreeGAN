@@ -1,0 +1,1 @@
+ public boolean isSparseData() { return sparse; } 

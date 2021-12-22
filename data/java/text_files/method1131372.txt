@@ -1,0 +1,1 @@
+ public void setZoom(int newZoom) { zoom = newZoom; resize(); repaint(); } 

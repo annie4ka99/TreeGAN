@@ -1,0 +1,1 @@
+ public SAX2EventRecorder getRecorder() { return recorder; } 

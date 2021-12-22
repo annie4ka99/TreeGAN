@@ -1,0 +1,1 @@
+ public boolean willReadBlock() { return (state == STATE_STARTED && queue.isEmpty()); } 

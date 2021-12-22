@@ -1,0 +1,1 @@
+ public IEntity getEntityAt(int row) { return ((EntityAdapter) adapters.get(row)).getEntity(); } 

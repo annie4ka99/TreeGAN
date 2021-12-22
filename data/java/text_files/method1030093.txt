@@ -1,0 +1,1 @@
+ protected int getInstanceNumber() { return this.myInstanceNumber; } 

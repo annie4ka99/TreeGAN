@@ -1,0 +1,1 @@
+ public Object get( String key, Integer hashCode ) { return get( key, hashCode, false ); } 

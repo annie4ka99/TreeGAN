@@ -1,0 +1,1 @@
+ public void deleteRecord(Record r) { this.records.remove(r); appInfo.invalidate(); } 

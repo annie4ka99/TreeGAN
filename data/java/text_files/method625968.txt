@@ -1,0 +1,1 @@
+ public URI getTargetUri() { return targetUri; } 

@@ -1,0 +1,1 @@
+ public void setPackSwapBytes(boolean packSwapBytes) { this.packSwapBytes = packSwapBytes; } 

@@ -1,0 +1,1 @@
+ public void readPollingHistory(boolean readPolling) { readPollingHistory = readPolling; } 

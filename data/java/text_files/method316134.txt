@@ -1,0 +1,1 @@
+ public int getRowCount() { if (data == null) return 0; else return data.size(); } 

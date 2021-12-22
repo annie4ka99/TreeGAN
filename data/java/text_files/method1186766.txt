@@ -1,0 +1,1 @@
+ public boolean isActive(){ return this.active == 1; } 

@@ -1,0 +1,1 @@
+ protected File getScanDir() { return mScanDir; } 

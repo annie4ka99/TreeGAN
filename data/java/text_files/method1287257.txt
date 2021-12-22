@@ -1,0 +1,1 @@
+ protected void cacheAttribute(Attribute attr) { attrBuff.put(attr.getName(), attr); } 

@@ -1,0 +1,1 @@
+ public void testGetPatron() { assertEquals(joueur1, ouvrier1.getPatron()); } 

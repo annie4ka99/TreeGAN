@@ -1,0 +1,1 @@
+ protected void setFixture(ExtensionTriggerModel fixture) { this.fixture = fixture; } 

@@ -1,0 +1,1 @@
+ public void setXMLReader(XMLReader reader) { this.createXMLReader(reader); } 

@@ -1,0 +1,1 @@
+ final protected boolean isHeadRendered() { return getFlag(FLAG_HEAD_RENDERED); } 

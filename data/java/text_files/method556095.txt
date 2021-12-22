@@ -1,0 +1,1 @@
+ public void setPercentSup(final double sup) { percentSup = Math.abs(sup); } 

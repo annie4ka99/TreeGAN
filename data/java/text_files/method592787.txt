@@ -1,0 +1,1 @@
+ public String format(Number input) { return this.format.format(input); } 

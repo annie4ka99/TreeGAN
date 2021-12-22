@@ -1,0 +1,1 @@
+ public void rotateCurveColor() { colorIndex = getDefaultNextColorIndex(colorIndex) % defaultColor.length; } 

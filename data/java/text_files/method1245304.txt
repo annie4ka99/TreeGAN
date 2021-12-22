@@ -1,0 +1,1 @@
+ public void setCompressThreshold( long compressThreshold ) { this.compressThreshold = compressThreshold; } 

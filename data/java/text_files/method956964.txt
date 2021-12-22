@@ -1,0 +1,1 @@
+ public void setSpecificationObjectQuery(RegistryObjectQueryType value) { this.specificationObjectQuery = value; } 

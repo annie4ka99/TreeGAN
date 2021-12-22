@@ -1,0 +1,1 @@
+ public void setAutoScale(boolean s) { m_autoScale = s; } 

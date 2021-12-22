@@ -1,0 +1,1 @@
+ public boolean canSupport(Properties startParams) { return true; } 

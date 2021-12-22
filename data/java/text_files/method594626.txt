@@ -1,0 +1,1 @@
+ public void setBrowsercommand(String _browsercommand) { this._browsercommand = _browsercommand; } 

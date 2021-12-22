@@ -1,0 +1,1 @@
+ public void setJustLogging(boolean justLogging) { this.justLogging = justLogging; } 

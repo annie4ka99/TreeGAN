@@ -1,0 +1,1 @@
+ public void setTransition( float transition ) { this.transition = transition; } 

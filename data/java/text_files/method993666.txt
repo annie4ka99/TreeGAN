@@ -1,0 +1,1 @@
+ public float getExposure() { return exposure; } 

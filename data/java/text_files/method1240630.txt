@@ -1,0 +1,1 @@
+ public void setOwnerDocument(Document doc) { document = doc; } 

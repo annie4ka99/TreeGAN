@@ -1,0 +1,1 @@
+ protected TestResult createTestResult() { return new TestResult(); } 

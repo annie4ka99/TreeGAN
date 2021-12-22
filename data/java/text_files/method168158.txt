@@ -1,0 +1,1 @@
+ protected void calculate(double t) { calculateRateConstants(Vm.getValue()); super.calculate(t); } 

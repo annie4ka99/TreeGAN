@@ -1,0 +1,1 @@
+ protected Document read(URI url) throws Exception { return DOMFactory.instance().read(url.getPath()); } 

@@ -1,0 +1,1 @@
+ public boolean removeEdge(int edge) { return getEdgeTable().removeRow(edge); } 

@@ -1,0 +1,1 @@
+ public Object getValueAt(int row, int col) { return getValue(getModelIndex(row), col); } 

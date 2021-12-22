@@ -1,0 +1,1 @@
+ public void setID(String id) { element.setAttributeNS(WSU_NS, WSU_PREFIX + ":Id", id); } 

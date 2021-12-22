@@ -1,0 +1,1 @@
+ public boolean containsEntity(IEntity e) { return entities.contains(e); } 

@@ -1,0 +1,1 @@
+ public FilterData getFilterData() { return m_filter; } 

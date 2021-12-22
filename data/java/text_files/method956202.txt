@@ -1,0 +1,1 @@
+ public DownlinkInformationType createDownlinkInformationType() { return new DownlinkInformationType(); } 

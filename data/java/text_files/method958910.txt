@@ -1,0 +1,1 @@
+ public void clearTablero1() { tablero1.clear(); } 

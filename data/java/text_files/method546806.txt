@@ -1,0 +1,1 @@
+ public void setSelectionModel(int selectionModel) { tree.getSelectionModel().setSelectionMode(selectionModel); } 

@@ -1,0 +1,1 @@
+ public StylableCell extend(Cell cell) { return new StylableCell(cell); } 

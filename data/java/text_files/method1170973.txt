@@ -1,0 +1,1 @@
+ public void setHumanCut(Card humanCut) { HumanCut = humanCut; } 

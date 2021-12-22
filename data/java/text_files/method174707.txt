@@ -1,0 +1,1 @@
+ public Condition newCondition() { throw new UnsupportedOperationException(); } 

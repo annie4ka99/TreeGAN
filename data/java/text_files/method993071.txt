@@ -1,0 +1,1 @@
+ public void setXAmplitude(float xAmplitude) { this.xAmplitude = xAmplitude; } 

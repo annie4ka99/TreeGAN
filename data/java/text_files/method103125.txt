@@ -1,0 +1,1 @@
+ public boolean contains(Range r) { return contains(r.start) && contains(r.end); } 

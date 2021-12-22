@@ -1,0 +1,1 @@
+ protected void endOnItem(ItemRef affected) { } 

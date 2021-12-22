@@ -1,0 +1,1 @@
+ public void setColumnModel(TableColumnModel model) { columnModel = model; initColumns(); } 

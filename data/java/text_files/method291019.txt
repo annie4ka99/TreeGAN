@@ -1,0 +1,1 @@
+ protected String getCommand(Row row) { return row.getCells().get(0).getValue(); } 

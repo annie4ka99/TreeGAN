@@ -1,0 +1,1 @@
+ public void stopEditing(PilotDBRecord record, int fieldIndex) throws Exception { } 

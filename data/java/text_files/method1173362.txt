@@ -1,0 +1,1 @@
+ public boolean getExileFromHandCost() { return exileFromHandCost; } 

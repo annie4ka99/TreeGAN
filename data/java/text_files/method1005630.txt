@@ -1,0 +1,1 @@
+ public double getCenterX() { return getX() + getWidth() / 2.0; } 

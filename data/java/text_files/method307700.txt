@@ -1,0 +1,1 @@
+ public int getThrowableCount() { return ExceptionUtils.getThrowableCount(this.nestable); } 

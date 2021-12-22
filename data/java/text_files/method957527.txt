@@ -1,0 +1,1 @@
+ public BoundingShapeType createBoundingShapeType() { return new BoundingShapeType(); } 

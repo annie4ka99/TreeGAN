@@ -1,0 +1,1 @@
+ public void setDiskStorePath(String diskStorePath) { this.diskStorePath = diskStorePath; } 

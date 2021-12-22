@@ -1,0 +1,1 @@
+ public CCD getFrameCD(int frame,int sub){ return cds[Frames[frame][sub]]; } 

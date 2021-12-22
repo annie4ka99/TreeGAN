@@ -1,0 +1,1 @@
+ public void strictEquals() { instructions.append( OP_strictequals ); } 

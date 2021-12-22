@@ -1,0 +1,1 @@
+ public void setAccessConsentPolicy(String value) { this.accessConsentPolicy = value; } 

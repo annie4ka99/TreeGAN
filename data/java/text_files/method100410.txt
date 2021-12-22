@@ -1,0 +1,1 @@
+ public int row() { int z = y / 10; if (y<0 && y%10!=0) z--; return z; } 

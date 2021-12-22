@@ -1,0 +1,1 @@
+ public void changedUpdate(DocumentEvent e) { update(e); } 

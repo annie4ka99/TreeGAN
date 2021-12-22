@@ -1,0 +1,1 @@
+ public void setMultipart(String value) { this.multipart = value; } 

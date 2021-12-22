@@ -1,0 +1,1 @@
+ public boolean isCellEditable(Object node, int column) { return true; } 

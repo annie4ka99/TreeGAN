@@ -1,0 +1,1 @@
+ public boolean deleteAddIncidents() { return mDb.delete(ADD_INCIDENTS_TABLE, null, null ) > 0; } 

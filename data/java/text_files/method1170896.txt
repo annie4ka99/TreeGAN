@@ -1,0 +1,1 @@
+ public void setAttackingPlayer(Player player) { attackingPlayer = player; } 

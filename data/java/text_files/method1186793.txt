@@ -1,0 +1,1 @@
+ public void setHtmlEnabled(boolean htmlEnabled) { this.htmlEnabled = htmlEnabled; } 

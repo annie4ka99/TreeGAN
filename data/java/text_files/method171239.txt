@@ -1,0 +1,1 @@
+ public void visitCHECKCAST(CHECKCAST o){ stack().pop(); stack().push(o.getType(cpg)); } 

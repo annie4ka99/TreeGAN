@@ -1,0 +1,1 @@
+ public void setReaderSet(boolean readerSet) { this.readerSet = readerSet; } 

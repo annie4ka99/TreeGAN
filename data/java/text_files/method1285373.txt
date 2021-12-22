@@ -1,0 +1,1 @@
+ public void setAllowTimeoutInterrupt(boolean allow) { this.allowTimeoutInterrupt = allow; } 

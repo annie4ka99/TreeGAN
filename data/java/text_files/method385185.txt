@@ -1,0 +1,1 @@
+ public String getDisplay(JHeader header) { return display.stringMethod(header, name); } 

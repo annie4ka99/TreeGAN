@@ -1,0 +1,1 @@
+ public boolean hasMethod() { return methodInfo != null; } 

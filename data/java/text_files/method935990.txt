@@ -1,0 +1,1 @@
+ public Graph getGraph() { return this.graphscrollpane.getVisualGraph().getGraph(); } 

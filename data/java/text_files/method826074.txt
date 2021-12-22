@@ -1,0 +1,1 @@
+ public void setFile(String filename) { fileNameField.setText(filename); } 

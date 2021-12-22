@@ -1,0 +1,1 @@
+ public Iterator getPredecessors(ASDNNode aNode) { return aNode.inNeighbors(); } 

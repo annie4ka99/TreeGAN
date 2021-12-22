@@ -1,0 +1,1 @@
+ public int getImagePosition() { return m_imagePos; } 

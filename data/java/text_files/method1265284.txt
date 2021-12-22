@@ -1,0 +1,1 @@
+ public Adapter createTExtensionActivityAdapter() { return null; } 

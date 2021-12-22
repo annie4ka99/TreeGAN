@@ -1,0 +1,1 @@
+ public void log(final String level, final Object message) { mPrintStream.println("[" + level + "] " + message); } 

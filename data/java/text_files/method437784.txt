@@ -1,0 +1,1 @@
+ public double getUpperLimit() { return upperLimit; } 

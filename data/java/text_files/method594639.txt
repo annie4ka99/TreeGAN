@@ -1,0 +1,1 @@
+ public void addPc(String pc) { privclasses.add(pc); } 

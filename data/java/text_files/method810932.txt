@@ -1,0 +1,1 @@
+ protected void setFixture(SoftwareListType fixture) { this.fixture = fixture; } 

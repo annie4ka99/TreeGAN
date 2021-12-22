@@ -1,0 +1,1 @@
+ public Type peek(int i){ return (Type) stack.get(size()-i-1); } 

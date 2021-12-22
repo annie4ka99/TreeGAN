@@ -1,0 +1,1 @@
+ public boolean isPlainSupported() { return (cells != null && cells.length == 1); } 

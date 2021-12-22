@@ -1,0 +1,1 @@
+ public void setEmulatorString(java.lang.String newEmulatorString) { emulatorString = newEmulatorString; } 

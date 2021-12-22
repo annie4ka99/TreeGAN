@@ -1,0 +1,1 @@
+ public void setPosticks_Out(java.lang.Boolean posticks_Out) { this.posticks_Out = posticks_Out; } 

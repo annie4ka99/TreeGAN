@@ -1,0 +1,1 @@
+ public void destroy() { m_parent.unregisterDraw(this); } 

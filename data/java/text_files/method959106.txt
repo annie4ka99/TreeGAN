@@ -1,0 +1,1 @@
+ public IFicha getIFicha2() { return ficha2; } 

@@ -1,0 +1,1 @@
+ public boolean hasHtmlBody() { return StringUtils.isNotEmpty(htmlBody); } 

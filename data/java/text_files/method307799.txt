@@ -1,0 +1,1 @@
+ public long divide(long factor) { synchronized (lock_) { return value_ /= factor; } } 

@@ -1,0 +1,1 @@
+ public boolean isMarqueeTriggerEvent(MouseEvent e, JGraph graph) { return graph.isSelectionEnabled(); } 

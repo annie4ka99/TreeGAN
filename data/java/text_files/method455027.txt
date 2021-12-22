@@ -1,0 +1,1 @@
+ public int getDisplayHeight() { return LayoutArea.getHeight(); } 

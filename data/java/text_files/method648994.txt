@@ -1,0 +1,1 @@
+ public void gameComplete() { editMode = false; setMessage("Game Complete", COMPLETE); } 

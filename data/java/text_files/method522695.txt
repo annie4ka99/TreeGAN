@@ -1,0 +1,1 @@
+private char getStatus() { return status; } 

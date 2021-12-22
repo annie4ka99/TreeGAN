@@ -1,0 +1,1 @@
+ public String getInTypeDescription() { return getStringProperty("in_type_desc"); } 

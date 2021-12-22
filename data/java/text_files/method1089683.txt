@@ -1,0 +1,1 @@
+ protected boolean isStartRowOrAbove() { return mCurrentRow >= getFilter().getListStart(); } 

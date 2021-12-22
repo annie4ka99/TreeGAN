@@ -1,0 +1,1 @@
+ protected void setContext(MockServletContext context) { this.context = context; } 

@@ -1,0 +1,1 @@
+ public void add(Predicate p, FontAction f) { super.add(p, f); } 

@@ -1,0 +1,1 @@
+ public boolean hasLinkTo(String sName) { return links.contains(sName); } 

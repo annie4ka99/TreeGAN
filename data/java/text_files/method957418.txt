@@ -1,0 +1,1 @@
+ public BoundingShapeType getBoundedBy() { return boundedBy; } 

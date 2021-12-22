@@ -1,0 +1,1 @@
+ public Object poll() { return pollFirst(); } 

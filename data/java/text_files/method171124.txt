@@ -1,0 +1,1 @@
+ public Type getType(int offset){ return (Type) types.get(Integer.toString(offset)); } 

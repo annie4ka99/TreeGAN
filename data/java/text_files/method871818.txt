@@ -1,0 +1,1 @@
+ public void setAutoUpdateCode(java.lang.String autoUpdateCode) { this.autoUpdateCode = autoUpdateCode; } 

@@ -1,0 +1,1 @@
+ public WSISearchParams getSearchParams() { return searchParams; } 

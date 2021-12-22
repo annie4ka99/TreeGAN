@@ -1,0 +1,1 @@
+ public void setCommPort(String commPort) { getPortList().setSelectedItem(commPort); revalidate(); } 

@@ -1,0 +1,1 @@
+ public void setModeT(final ModeSeuil thresholdMode) { this.thresholdMode = thresholdMode; } 

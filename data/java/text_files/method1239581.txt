@@ -1,0 +1,1 @@
+ public boolean shouldSendXSIType() { return sendXSIType; } 

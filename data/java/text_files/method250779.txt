@@ -1,0 +1,1 @@
+ public void handleText(char[] data, int pos) { htmlString += new String(data) + " "; } 

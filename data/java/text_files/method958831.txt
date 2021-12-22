@@ -1,0 +1,1 @@
+ public void setPuntosCaballero(int puntosCaballero) { this.puntosCaballero = puntosCaballero; } 

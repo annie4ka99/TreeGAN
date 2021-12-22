@@ -1,0 +1,1 @@
+ public void setFailOnFileNotFound(boolean failOnFileNotFound) { this.failOnFileNotFound = failOnFileNotFound; } 

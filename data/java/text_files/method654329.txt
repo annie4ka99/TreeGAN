@@ -1,0 +1,1 @@
+ public void unsetEntityContext() throws EJBException { entityContext = null; } 

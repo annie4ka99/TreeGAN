@@ -1,0 +1,1 @@
+ public void removeSelectionCell(Object cell) { getSelectionModel().removeSelectionCell(cell); } 

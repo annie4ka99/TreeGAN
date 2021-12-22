@@ -1,0 +1,1 @@
+ public void setRemote(final String value) { remoteName = value; } 

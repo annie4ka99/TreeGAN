@@ -1,0 +1,1 @@
+ public double getWidth() { return clip[6]-clip[0]; } 

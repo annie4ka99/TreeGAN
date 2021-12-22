@@ -1,0 +1,1 @@
+ public void setCpuCount(int cpuCount) { this.cpuCount = cpuCount; } 

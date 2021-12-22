@@ -1,0 +1,1 @@
+ public void close() { flush(); out.println("</java>"); out.close(); } 

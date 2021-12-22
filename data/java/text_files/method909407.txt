@@ -1,0 +1,1 @@
+ public void setTransferable(DeckParticle[] transferableCard) { cards = transferableCard; } 

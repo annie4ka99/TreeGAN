@@ -1,0 +1,1 @@
+ public void setHandlerClass(Class handlerClass) { this.handlerClass = handlerClass; } 

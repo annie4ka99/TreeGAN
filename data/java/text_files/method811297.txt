@@ -1,0 +1,1 @@
+ public void setSprotein(java.lang.Boolean sprotein) { this.sprotein = sprotein; } 

@@ -1,0 +1,1 @@
+ public void glColor3us (short red, short green, short blue) { glColor3s (red, green, blue); } 

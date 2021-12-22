@@ -1,0 +1,1 @@
+ public boolean member(int[] word) { return root.member(word); } 

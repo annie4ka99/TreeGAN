@@ -1,0 +1,1 @@
+ public void enableEditDeleteButtons() { editButton.setEnabled(true); deleteButton.setEnabled(true); } 

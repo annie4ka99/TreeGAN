@@ -1,0 +1,1 @@
+ public void error(Object message) { _log.log(Level.ERROR, message, null); } 

@@ -1,0 +1,1 @@
+ public void saveAsXML(String fname) { XMLUtil.writeXML(saveAsXML(), fname); } 

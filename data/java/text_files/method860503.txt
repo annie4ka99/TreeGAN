@@ -1,0 +1,1 @@
+ public void dragDropEnd (DragSourceDropEvent event) { if ( event.getDropSuccess()){ removeElement(); } } 

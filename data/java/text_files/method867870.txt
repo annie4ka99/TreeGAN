@@ -1,0 +1,1 @@
+ private InputStream findDataStream( String filename ) { return loader.getResourceAsStream( filename ); } 

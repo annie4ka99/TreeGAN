@@ -1,0 +1,1 @@
+ public V wr(long inx, V val) { return wr(root, MAX_DEP, inx, val); } 

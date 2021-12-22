@@ -1,0 +1,1 @@
+ public void suspend() { alc.alcSuspendContext(realContext); } 

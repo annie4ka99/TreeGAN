@@ -1,0 +1,1 @@
+ public String getSharedSecret() { return sharedSecret; } 

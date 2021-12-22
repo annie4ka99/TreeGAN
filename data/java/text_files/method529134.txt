@@ -1,0 +1,1 @@
+ public void addGroupItem(GroupItemInfo item) throws Exception { item.check(); items.add(item); } 

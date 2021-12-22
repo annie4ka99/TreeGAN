@@ -1,0 +1,1 @@
+ public boolean isListening() { return (this.listeningThread != null); } 

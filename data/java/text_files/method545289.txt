@@ -1,0 +1,1 @@
+ public int getDataViewIndex() { return searchResult.clickIdx; } 

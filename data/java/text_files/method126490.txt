@@ -1,0 +1,1 @@
+ public JLabel getJLabel(String name) { return (JLabel) getComponentOfType(name, JLabel.class); } 

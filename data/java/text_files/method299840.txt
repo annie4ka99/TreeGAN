@@ -1,0 +1,1 @@
+ public void setTargetType(IType selectedType) { _declaredTargetType = selectedType; } 

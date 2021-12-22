@@ -1,0 +1,1 @@
+ public void testPreAndPostconditions() throws Exception { this.evaluate("pre_post.ocl"); } 

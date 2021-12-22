@@ -1,0 +1,1 @@
+ public boolean containsAll (RangeSet other) { return generalAllOrNothing(this,other,false,true); } 

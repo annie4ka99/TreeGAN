@@ -1,0 +1,1 @@
+ final public boolean isBoxFrozen(int boxNo) { return isBoxFrozen[boxNo]; } 

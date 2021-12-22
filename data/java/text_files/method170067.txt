@@ -1,0 +1,1 @@
+ protected int getColumnIndex(HTWeek week) { return WeekHeader.instance().getColumnIndex(week); } 

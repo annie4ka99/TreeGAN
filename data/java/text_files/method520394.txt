@@ -1,0 +1,1 @@
+ public String getParameter(String name) { return (String) _parameters.get(name); } 

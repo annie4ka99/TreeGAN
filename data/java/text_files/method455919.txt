@@ -1,0 +1,1 @@
+ public void setKey(Object key){ attributeKey = key; } 

@@ -1,0 +1,1 @@
+ public int getMaxColumnsInOrderBy() throws SQLException { return 64; } 

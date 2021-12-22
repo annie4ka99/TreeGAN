@@ -1,0 +1,1 @@
+ public boolean isSelectedIndex(int index) { return getSelectionModel().isSelectedIndex(index); } 

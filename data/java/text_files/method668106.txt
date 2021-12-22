@@ -1,0 +1,1 @@
+ synchronized public Process getSSHprocess() { return this.SSHprocess; } 

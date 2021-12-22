@@ -1,0 +1,1 @@
+ private boolean isTopLevelNode(Node node) { return node.getNodeName().equals(NODE_OO_OFFICE_TEXT); } 

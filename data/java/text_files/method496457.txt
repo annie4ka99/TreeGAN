@@ -1,0 +1,1 @@
+ public float getLoadFactor() { return loadFactor; } 

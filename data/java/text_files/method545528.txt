@@ -1,0 +1,1 @@
+ public void setClickable(boolean b) { clickable=b; } 

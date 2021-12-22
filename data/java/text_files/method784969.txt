@@ -1,0 +1,1 @@
+ public void setDefaultRenderer(Renderer r) { m_itemRenderer = r; } 

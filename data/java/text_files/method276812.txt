@@ -1,0 +1,1 @@
+ public void setViews(List list) { this.views = list; } 

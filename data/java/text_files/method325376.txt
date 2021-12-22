@@ -1,0 +1,1 @@
+ public Double getShoreRange() { return getshoreRange(shoreRanges); } 

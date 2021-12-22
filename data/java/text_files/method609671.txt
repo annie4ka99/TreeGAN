@@ -1,0 +1,1 @@
+ public String getPicName1(){ return picName1; } 

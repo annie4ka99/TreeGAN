@@ -1,0 +1,1 @@
+ public void setLogType(String string) { this.logType = string; } 

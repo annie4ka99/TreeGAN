@@ -1,0 +1,1 @@
+ public boolean hasPostData() { return bytesToPost != null; } 

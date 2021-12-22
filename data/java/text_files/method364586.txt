@@ -1,0 +1,1 @@
+ public void setTextureWidth(int texWidth) { this.texWidth = texWidth; setWidth(); } 

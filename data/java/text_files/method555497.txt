@@ -1,0 +1,1 @@
+ public void setFitMode(int fitMode) { this.fitMode = fitMode; } 

@@ -1,0 +1,1 @@
+ public void addFrameWatcher(FrameWatcher watcher) { frameWatchers.add(watcher); } 

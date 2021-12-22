@@ -1,0 +1,1 @@
+ protected float getScore(int index) { return data[index]; } 

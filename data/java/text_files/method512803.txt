@@ -1,0 +1,1 @@
+ public boolean isBean() { return isStateless() || isStateful() || isMdb() || isService(); } 

@@ -1,0 +1,1 @@
+ final public HistoryElement getPrecedingMovement() { if (hasPrecedingMovement() == false) { return null; } return movementHistory.get( currentMovementNo-- ); } 

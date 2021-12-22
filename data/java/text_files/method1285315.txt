@@ -1,0 +1,1 @@
+ public void setStartAnimationImmediately(boolean startAnimation) { this.startAnimation = startAnimation; } 

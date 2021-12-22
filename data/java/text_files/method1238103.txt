@@ -1,0 +1,1 @@
+ public WSDDService getWSDDService(QName qname) { return (WSDDService) services.get(qname); } 

@@ -1,0 +1,1 @@
+ public String getPeriod() { return period; } 

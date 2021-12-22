@@ -1,0 +1,1 @@
+ public ServerObjectNamingInterface getLocalServerObjectNaming() { return this.localNaming; } 

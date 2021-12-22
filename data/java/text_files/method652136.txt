@@ -1,0 +1,1 @@
+ public RuleBasedScanner getXMLTagScanner() { return xmlTagScanner; } 

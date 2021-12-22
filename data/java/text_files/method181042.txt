@@ -1,0 +1,1 @@
+ public void jdoReplaceStateManager(javax.jdo.spi.StateManager sm) throws java.lang.SecurityException { } 

@@ -1,0 +1,1 @@
+ public void reset() { taskId = -1; name = ""; shortName = ""; projectId = -1; } 

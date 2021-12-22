@@ -1,0 +1,1 @@
+ public Package getDefaultPackage() { return (Package)packages.get(Package.defaultPackageName); } 

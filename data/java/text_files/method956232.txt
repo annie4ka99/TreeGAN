@@ -1,0 +1,1 @@
+ public MeasureType getStartTimeFromAscendingNode() { return startTimeFromAscendingNode; } 

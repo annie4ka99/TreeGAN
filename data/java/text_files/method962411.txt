@@ -1,0 +1,1 @@
+ protected RequestBean getRequestBean() { return (RequestBean) getBean("RequestBean"); } 

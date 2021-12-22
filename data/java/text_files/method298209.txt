@@ -1,0 +1,1 @@
+ public void setLitData(org.lito.core.LitData litData) { this.litData = litData; } 

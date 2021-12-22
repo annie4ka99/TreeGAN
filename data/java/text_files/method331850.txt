@@ -1,0 +1,1 @@
+ public void enableGUIControl(boolean enable) { guiFrameManager.enableGUIControl(enable); } 

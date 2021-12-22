@@ -1,0 +1,1 @@
+ public String getSubsystem() { return linkType.getSubsystem(); } 

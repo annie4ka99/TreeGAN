@@ -1,0 +1,1 @@
+ public String calculateHash() { return encode(getEmail() + this.password); } 

@@ -1,0 +1,1 @@
+ public void setUri(URI uri) { this.uri = uri; } 

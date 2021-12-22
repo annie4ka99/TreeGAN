@@ -1,0 +1,1 @@
+ public void clean(Matchable partialKey) throws StandardException { cleanCache(partialKey); } 

@@ -1,0 +1,1 @@
+ public void removeDisplayChangedListener(DisplayChangedListener client) { displayChanger.remove(client); } 

@@ -1,0 +1,1 @@
+ public int nodeCount() { return nodes.size(); } 

@@ -1,0 +1,1 @@
+ public boolean isPhysicalConnClosed() { return !open_ && !availableForReuse_; } 

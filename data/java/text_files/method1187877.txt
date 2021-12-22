@@ -1,0 +1,1 @@
+ public MapChartMaker africa() { this.chtm = "africa"; return this; } 

@@ -1,0 +1,1 @@
+ public void setVerticalAlignment(int align) { m_valign = align; m_fheight = -1; } 

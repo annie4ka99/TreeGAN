@@ -1,0 +1,1 @@
+ public boolean isWritable(int column) throws java.sql.SQLException { return !isReadOnly(column); } 

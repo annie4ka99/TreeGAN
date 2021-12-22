@@ -1,0 +1,1 @@
+ public double getMinMatrixValue() { return minMatrixValue; } 

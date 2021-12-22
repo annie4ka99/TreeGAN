@@ -1,0 +1,1 @@
+ private Object extract() { Object x = item; item = null; return x; } 

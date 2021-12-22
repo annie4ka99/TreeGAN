@@ -1,0 +1,1 @@
+ public int hashCode() { int hashCode = 1; return hashCode; } 

@@ -1,0 +1,1 @@
+ public int getLayerOrdinal() { if (layer != null) { return layer.ordinal(); } else { return 0; } } 

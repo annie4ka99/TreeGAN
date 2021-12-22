@@ -1,0 +1,1 @@
+ public void setDistance(float dist){ this.m_distance = dist; } 

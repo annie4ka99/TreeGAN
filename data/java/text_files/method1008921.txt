@@ -1,0 +1,1 @@
+ public void rotate(double theta) { transform.rotate(theta); invalidateTransform(); } 

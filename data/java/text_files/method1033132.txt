@@ -1,0 +1,1 @@
+ protected void setResultSetConcurrency(int concurrencyFlag) { this.resultSetConcurrency = concurrencyFlag; } 

@@ -1,0 +1,1 @@
+ public void setRunAnimation(ModelAnimation runAnimation) { this.runAnimation = runAnimation; } 

@@ -1,0 +1,1 @@
+ public void addPosition(PositionStandard thePositionStandard) { listPosition.add(thePositionStandard); } 

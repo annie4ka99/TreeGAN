@@ -1,0 +1,1 @@
+ private long getTOCPointer() throws IOException { FileData.seek(getTOCPointerLoc()); return FileData.readLong(); } 

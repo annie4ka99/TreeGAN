@@ -1,0 +1,1 @@
+ public void setYTitle(String title) { mYTitle = title; } 

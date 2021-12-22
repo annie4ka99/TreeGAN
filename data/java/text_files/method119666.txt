@@ -1,0 +1,1 @@
+ public String getString(String key) { return (String) properNames.get(key); } 

@@ -1,0 +1,1 @@
+ public void setGridColor(Color color) { this.gridColor = color; redraw(); } 

@@ -1,0 +1,1 @@
+ public DefaultTreeModel getTreeModel() { return treeModel; } 

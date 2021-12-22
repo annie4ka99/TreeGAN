@@ -1,0 +1,1 @@
+ public void removeHoliDay(final HoliDay day) { holidays.remove(day); } 

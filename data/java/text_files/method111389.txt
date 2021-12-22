@@ -1,0 +1,1 @@
+ public String getMessage(Locale iLocale) { return (String) this.messageMap.get(iLocale); } 

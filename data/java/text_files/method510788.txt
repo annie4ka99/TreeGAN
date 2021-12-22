@@ -1,0 +1,1 @@
+ public Range getYAxisRange() { return yAxisRange; } 

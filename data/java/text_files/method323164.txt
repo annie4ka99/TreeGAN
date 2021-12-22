@@ -1,0 +1,1 @@
+ public Complex times(double b) { return new Complex(real * b, imag * b); } 

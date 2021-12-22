@@ -1,0 +1,1 @@
+ public SpatialOperatorNameType getName() { return name; } 

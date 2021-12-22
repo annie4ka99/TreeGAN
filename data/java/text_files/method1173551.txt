@@ -1,0 +1,1 @@
+ public AbilityFactory getAbilityFactory() { return abilityFactory; } 

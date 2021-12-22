@@ -1,0 +1,1 @@
+ public void setValue(String string) { this.value = string; } 

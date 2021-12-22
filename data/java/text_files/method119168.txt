@@ -1,0 +1,1 @@
+ public boolean isDisconnectOnMove() { return disconnectOnMove && disconnectable; } 

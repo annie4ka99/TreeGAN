@@ -1,0 +1,1 @@
+private void setPiPipeName(String newValue) { this.piPipeName = newValue; } 

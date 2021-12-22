@@ -1,0 +1,1 @@
+ public void setIgnoreContentAIDAddresses( boolean ignore ) { ignoreContentAIDAddresses = ignore; } 

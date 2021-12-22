@@ -1,0 +1,1 @@
+ public int getFitMode() { return fitMode; } 

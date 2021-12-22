@@ -1,0 +1,1 @@
+public void setLowerCenterText(BPSOverlayText newLowerCenterText) { lowerCenterText = newLowerCenterText; } 

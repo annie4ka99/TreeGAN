@@ -1,0 +1,1 @@
+ public List getCitations() { if (citations == null) citations = new ArrayList(); return citations; } 

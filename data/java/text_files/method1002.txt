@@ -1,0 +1,1 @@
+ public void removeAllSolutionsToBeHighlighted() { highlightedSolutions.clear(); } 

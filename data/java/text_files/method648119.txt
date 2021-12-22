@@ -1,0 +1,1 @@
+ public void configure(ApplicationContext context) { applicationContext = context; } 

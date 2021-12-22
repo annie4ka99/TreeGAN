@@ -1,0 +1,1 @@
+ public DomainsType createDomainsType() { return new DomainsType(); } 

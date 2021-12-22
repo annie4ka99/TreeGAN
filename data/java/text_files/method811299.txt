@@ -1,0 +1,1 @@
+ public void setMessage1(java.lang.String message1) { this.message1 = message1; } 

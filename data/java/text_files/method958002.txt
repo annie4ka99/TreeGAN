@@ -1,0 +1,1 @@
+ public DistanceType createDistanceType() { return new DistanceType(); } 

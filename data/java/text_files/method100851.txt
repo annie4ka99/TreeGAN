@@ -1,0 +1,1 @@
+ protected void repaintParent() { if(listener != null) listener.cellModifierChanged(this); } 

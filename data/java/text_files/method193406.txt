@@ -1,0 +1,1 @@
+ public void attribute(String name, String value) throws Exception { attribute(name + "=\"" + value + "\""); } 

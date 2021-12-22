@@ -1,0 +1,1 @@
+ public Adapter createRethrowAdapter() { return null; } 

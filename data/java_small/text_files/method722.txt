@@ -1,0 +1,1 @@
+ static private boolean isOutsideClip(int x, int y, int xlen, int ylen, Rectangle clip) { return clip != null && ! clip.intersects(x, y, xlen, ylen); } 

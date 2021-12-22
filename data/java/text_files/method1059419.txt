@@ -1,0 +1,1 @@
+ public UMLClassHeaderFigure getHeader() { return headerFigure; } 

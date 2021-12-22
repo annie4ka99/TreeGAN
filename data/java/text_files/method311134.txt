@@ -1,0 +1,1 @@
+ public boolean isToolTipEnabled() { return this.showTooltip; } 

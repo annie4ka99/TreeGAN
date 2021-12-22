@@ -1,0 +1,1 @@
+ public void setSuffix(DatingSuffix value) { this.suffix = value; } 

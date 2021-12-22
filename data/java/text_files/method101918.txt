@@ -1,0 +1,1 @@
+ public boolean isSelectedElement(Element e) { return selectedElements.contains(e); } 

@@ -1,0 +1,1 @@
+ public void setBeginFrame(int beginFrame) { this.beginFrame = beginFrame; } 

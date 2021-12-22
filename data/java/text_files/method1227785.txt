@@ -1,0 +1,1 @@
+ public boolean useItemAtIndex(int index) { return this.inventory.useItemAtIndex(this, index); } 

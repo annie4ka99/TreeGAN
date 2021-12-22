@@ -1,0 +1,1 @@
+ public int getRemaining() { return remaining; } 

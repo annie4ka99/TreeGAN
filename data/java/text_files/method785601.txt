@@ -1,0 +1,1 @@
+ public String getNodeKeyField() { return m_nkey; } 

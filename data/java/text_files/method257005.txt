@@ -1,0 +1,1 @@
+ public void logPrintln(String message) { logPrint(message + "\n"); emitLogTime = true; } 

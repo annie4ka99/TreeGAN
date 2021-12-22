@@ -1,0 +1,1 @@
+ protected void organizeImports(IType type) { organizeImports(type.getCompilationUnit()); } 

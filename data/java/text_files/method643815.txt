@@ -1,0 +1,1 @@
+ public void setResult(ResultType value) { this.result = value; } 

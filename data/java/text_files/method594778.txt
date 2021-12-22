@@ -1,0 +1,1 @@
+ public Newsletter getParentNewsletter() { return parentNewsletter; } 

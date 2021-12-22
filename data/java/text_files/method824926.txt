@@ -1,0 +1,1 @@
+ public int lastIndexOf(String str) { return lastIndexOf( str, count - str.length() ); } 

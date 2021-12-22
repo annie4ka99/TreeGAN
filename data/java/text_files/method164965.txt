@@ -1,0 +1,1 @@
+ protected Writer getOut() { return OutputConverter.getWriter(pageContext.getOut()); } 

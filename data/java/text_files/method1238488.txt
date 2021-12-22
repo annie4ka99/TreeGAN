@@ -1,0 +1,1 @@
+ public void run(String wsdlURL) throws Exception { setup(); super.run(wsdlURL); } 

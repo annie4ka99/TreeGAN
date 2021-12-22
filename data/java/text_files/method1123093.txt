@@ -1,0 +1,1 @@
+ public boolean isCompound() { return size() > 1; } 

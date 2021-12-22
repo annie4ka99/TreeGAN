@@ -1,0 +1,1 @@
+ public void setSourceType(Class sourceType) { this.sourceType = sourceType; setSourceList(); } 

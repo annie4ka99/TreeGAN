@@ -1,0 +1,1 @@
+ public VersionInfoType getVersionInfo() { return versionInfo; } 

@@ -1,0 +1,1 @@
+ protected void showViewDialog() { viewDialog.pack(); viewDialog.setVisible(true); } 

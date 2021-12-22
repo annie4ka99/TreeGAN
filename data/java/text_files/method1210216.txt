@@ -1,0 +1,1 @@
+ public String get(String aKey) { return bundle.getString(aKey); } 

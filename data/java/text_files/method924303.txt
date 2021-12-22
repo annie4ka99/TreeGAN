@@ -1,0 +1,1 @@
+ public String getHandledPropertyName() { return specificPropertyDefinition.getTargetProperty(); } 

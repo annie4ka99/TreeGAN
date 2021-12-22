@@ -1,0 +1,1 @@
+ public void setChildModuleCd(int childModuleCd) { this.childModuleCd = childModuleCd; } 

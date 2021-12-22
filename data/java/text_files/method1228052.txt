@@ -1,0 +1,1 @@
+ public void setLookupDao(LookupDao dao) { super.dao = dao; this.dao = dao; } 

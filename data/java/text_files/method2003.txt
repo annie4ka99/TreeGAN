@@ -1,0 +1,1 @@
+ final public boolean isGoal(int x, int y) { return goalsArray[x + width * y]; } 

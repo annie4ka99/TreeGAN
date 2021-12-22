@@ -1,0 +1,1 @@
+ public void addRoiListener(IRoiListener l) { listenerList.add(IRoiListener.class, l); } 

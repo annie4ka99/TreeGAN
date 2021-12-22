@@ -1,0 +1,1 @@
+ public void addRange(long first, long last){ for(long v = first;v<=last ; v++) add(v); } 

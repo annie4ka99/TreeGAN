@@ -1,0 +1,1 @@
+ public short getResolution() { return resolution; } 

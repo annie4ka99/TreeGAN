@@ -1,0 +1,1 @@
+ public void setRoles(Set roles) { if (roles == null) this.roles.clear(); else this.roles = roles; } 

@@ -1,0 +1,1 @@
+ public void setApplicationData(Object a_newData) { m_applicationData = a_newData; } 

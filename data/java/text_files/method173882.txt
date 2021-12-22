@@ -1,0 +1,1 @@
+ public void setErrorHandler(ErrorHandler errorHandler) { this.errorHandler = errorHandler; } 

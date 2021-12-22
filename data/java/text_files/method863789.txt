@@ -1,0 +1,1 @@
+ public void target( int label ) { instructions.appendTarget( label ); } 

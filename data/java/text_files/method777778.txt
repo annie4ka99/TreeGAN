@@ -1,0 +1,1 @@
+ public void setNewlinesNormalized( boolean normalize ) { newlinesNormalized = normalize; } 

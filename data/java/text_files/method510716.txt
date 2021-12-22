@@ -1,0 +1,1 @@
+ protected GLContext getGLContext() { return context; } 

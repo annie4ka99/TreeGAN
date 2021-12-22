@@ -1,0 +1,1 @@
+ public boolean hasNextChoice() { return n > 0; } 

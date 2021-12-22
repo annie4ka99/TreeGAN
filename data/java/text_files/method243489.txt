@@ -1,0 +1,1 @@
+ public int getNumberOfPlayers() { return m_players.length; } 

@@ -1,0 +1,1 @@
+ public void setTeam2Teamspirit(double value) { this.Team2Teamspirit.setText(this.generateText(value)); } 

@@ -1,0 +1,1 @@
+ public void mapToMouse(InputAction _action, int _mouseCode) { this.mouseActions[_mouseCode] = _action; } 

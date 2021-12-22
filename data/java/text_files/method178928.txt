@@ -1,0 +1,1 @@
+ public void removeNode(Node v) { if (contains(v)) v.setHidden(true); } 

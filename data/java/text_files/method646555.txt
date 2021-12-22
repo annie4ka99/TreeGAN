@@ -1,0 +1,1 @@
+ public void reset() { nextToken = 0; lineNo = initialLineNo; charNo = 0; } 

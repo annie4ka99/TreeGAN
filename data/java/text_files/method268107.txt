@@ -1,0 +1,1 @@
+ public int getMaxColumnsInSelect() throws java.sql.SQLException { return 256; } 

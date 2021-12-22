@@ -1,0 +1,1 @@
+ public int getSuit() { return (int) (gIndex / NUM_RANKS); } 

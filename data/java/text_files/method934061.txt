@@ -1,0 +1,1 @@
+ public void log(String message, Throwable throwable) { log.debug(message, throwable); } 

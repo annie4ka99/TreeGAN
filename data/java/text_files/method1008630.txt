@@ -1,0 +1,1 @@
+ public void paletteChanged() { displayChanger.notifyPaletteChanged(); } 

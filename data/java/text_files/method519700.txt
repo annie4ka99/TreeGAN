@@ -1,0 +1,1 @@
+ public void removeItem(String aName) throws LegacyException { getItemList().remove(getItem(aName)); } 

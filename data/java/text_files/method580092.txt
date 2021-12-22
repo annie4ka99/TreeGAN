@@ -1,0 +1,1 @@
+ public void cascadeDelete( long id ) throws StopAction { cascadeDelete( id, true, null ); } 

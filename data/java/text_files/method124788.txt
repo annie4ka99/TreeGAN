@@ -1,0 +1,1 @@
+ public TableCellRenderer getCellRenderer() { return cellRenderer; } 

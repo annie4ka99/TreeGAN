@@ -1,0 +1,1 @@
+ public void setOn(String val) { this.eventName = val; } 

@@ -1,0 +1,1 @@
+ public void refDelete() { PROXY.notifyDelete(this); } 

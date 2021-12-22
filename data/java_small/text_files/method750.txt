@@ -1,0 +1,1 @@
+ public String getName() { if (hasAlias()) { return alias; } return path; } 

@@ -1,0 +1,1 @@
+ public void setObjectURI(String ObjectURI) { this.objectURI = ObjectURI; } 

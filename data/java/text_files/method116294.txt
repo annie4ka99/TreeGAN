@@ -1,0 +1,1 @@
+ public boolean isLiteral(){ return((id >> 8) == 0x3); } 

@@ -1,0 +1,1 @@
+ public void setFriction(float f) { m_friction = f; } 

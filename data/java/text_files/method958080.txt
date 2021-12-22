@@ -1,0 +1,1 @@
+ public SpatialCapabilitiesType createSpatialCapabilitiesType() { return new SpatialCapabilitiesType(); } 

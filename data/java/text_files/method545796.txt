@@ -1,0 +1,1 @@
+ public void setLineWidth(int c) { lineWidth = c; } 

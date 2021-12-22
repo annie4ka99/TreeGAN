@@ -1,0 +1,1 @@
+ public void doInitBody() throws JspException { _xpathIndex = 1; iterationStep(); _firstModel = true; } 

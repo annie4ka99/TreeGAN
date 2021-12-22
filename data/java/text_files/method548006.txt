@@ -1,0 +1,1 @@
+ public void setStateClickable(boolean clickable) { stateClickable = clickable; } 

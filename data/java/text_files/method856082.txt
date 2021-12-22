@@ -1,0 +1,1 @@
+ public boolean getScrollBarsState() { return this.scrollBarState; } 

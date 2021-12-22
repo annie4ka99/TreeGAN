@@ -1,0 +1,1 @@
+ protected void write(byte[] data) throws java.io.IOException { write(data, data.length); } 

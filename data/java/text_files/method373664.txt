@@ -1,0 +1,1 @@
+ public Algorithm algorithmEnum() { return Algorithm.valueOf(algorithm()); } 

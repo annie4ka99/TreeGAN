@@ -1,0 +1,1 @@
+ public void setBeforePayManaAI(Command c) { beforePayManaAI = c; } 

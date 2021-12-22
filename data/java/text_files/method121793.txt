@@ -1,0 +1,1 @@
+ public CharColor getBorderColors() { return _theme.getColor(Theme.COLOR_WINDOW_BORDER); } 

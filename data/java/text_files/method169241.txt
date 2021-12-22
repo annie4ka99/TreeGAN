@@ -1,0 +1,1 @@
+ public void setSpotLineup(SpotLineup detail, int spot) { spotLineups[spot - 1] = detail; } 

@@ -1,0 +1,1 @@
+ protected void setCancelled(boolean cancel) { cancelled = cancel; } 

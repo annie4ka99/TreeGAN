@@ -1,0 +1,1 @@
+ public boolean getSuited() { return m_suited; } 

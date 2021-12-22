@@ -1,0 +1,1 @@
+ public void addExtension(Extension value) { extensions.add(value); } 

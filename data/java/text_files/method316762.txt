@@ -1,0 +1,1 @@
+ public void rotRotatedXAxis(double angle) { viewTransformation.rotRotatedXAxis(angle); } 

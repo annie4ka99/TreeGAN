@@ -1,0 +1,1 @@
+ public IFlowBean getBean(String name) { return beans.get(name); } 

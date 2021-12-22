@@ -1,0 +1,1 @@
+ public boolean failedToLoad (String context) { return this.failedToLoadContexts.contains(context); } 

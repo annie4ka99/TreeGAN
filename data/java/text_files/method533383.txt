@@ -1,0 +1,1 @@
+ public double getOriginLon() { return mapData.getOriginLon(); } 

@@ -1,0 +1,1 @@
+ public void setColorVariation(int colorVariation) { this.colorVariation = colorVariation; } 

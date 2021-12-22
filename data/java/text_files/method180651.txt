@@ -1,0 +1,1 @@
+ public void setDesc(String newDesc) { desc = newDesc; } 

@@ -1,0 +1,1 @@
+ public void setDealtDmgToHumanThisTurn(boolean b) { dealtDmgToHumanThisTurn = b; } 

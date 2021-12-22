@@ -1,0 +1,1 @@
+ public void statChanged(CStyxFile file, DirEntry newDirEntry){} 

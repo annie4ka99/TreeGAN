@@ -1,0 +1,1 @@
+ public Gene get(int index) { return this.genes[index]; } 

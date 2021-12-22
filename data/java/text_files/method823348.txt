@@ -1,0 +1,1 @@
+ protected void logWarning(String msg) { if (logger != null) { logger.warn(msg); } } 

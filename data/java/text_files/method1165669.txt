@@ -1,0 +1,1 @@
+ public String getAuthenticationURL() { return httpClient.getAuthenticationRL() + "?oauth_token=" + getToken(); } 

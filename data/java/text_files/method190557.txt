@@ -1,0 +1,1 @@
+ public CursorBuilder setIndex(Index index) { _index = index; return this; } 

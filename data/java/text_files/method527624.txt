@@ -1,0 +1,1 @@
+private void setBuffer(byte[] newBuffer) { buffer = newBuffer; } 

@@ -1,0 +1,1 @@
+ public MaskFeatureType createMaskFeatureType() { return new MaskFeatureType(); } 

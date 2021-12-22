@@ -1,0 +1,1 @@
+ public void loadSlots() throws SQLException, ClassNotFoundException { loadSlots(new SqlPersistence()); } 

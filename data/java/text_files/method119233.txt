@@ -1,0 +1,1 @@
+ public void setLockedHandleColor(Color newColor) { lockedHandleColor = newColor; } 

@@ -1,0 +1,1 @@
+ public void setCheckDates(boolean checkDates) { this.checkDates = checkDates; } 

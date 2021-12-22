@@ -1,0 +1,1 @@
+ public int addHashAlgo(ZrtpConstants.SupportedHashes algo) { return hashes.addAlgo(algo); } 

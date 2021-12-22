@@ -1,0 +1,1 @@
+ public ModeSeuil getModeT() { return thresholdMode; } 

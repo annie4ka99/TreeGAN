@@ -1,0 +1,1 @@
+ public void wakeUpUpdateThread() { synchronized (runLock) { runLock.notifyAll(); } } 

@@ -1,0 +1,1 @@
+ public void setPopup(JPopupMenu newRfPopup) { rfPopup = newRfPopup; } 

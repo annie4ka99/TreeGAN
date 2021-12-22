@@ -1,0 +1,1 @@
+ public void setListOfValues(ListOfValuesType value) { this.listOfValues = value; } 

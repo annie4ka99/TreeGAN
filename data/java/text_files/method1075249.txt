@@ -1,0 +1,1 @@
+ public ChildModule getChildModule() { return childModule; } 

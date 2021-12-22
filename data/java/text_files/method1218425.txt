@@ -1,0 +1,1 @@
+ public Texture getMap(){ return new Texture(map); } 

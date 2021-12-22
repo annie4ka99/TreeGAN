@@ -1,0 +1,1 @@
+ public void setSpokesman(int i) { spokesman = i; } 

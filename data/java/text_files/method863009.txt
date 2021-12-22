@@ -1,0 +1,1 @@
+ public boolean isAsyncBusy() { return _scripted.isAsyncBusy(); } 

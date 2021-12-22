@@ -1,0 +1,1 @@
+ public IBioResource create(String content){ return create("New File", content); } 

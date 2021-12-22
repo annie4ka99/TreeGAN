@@ -1,0 +1,1 @@
+ public void setDPI( int dpiX, int dpiY ) { setDPI( new Point( dpiX, dpiY ) ); } 

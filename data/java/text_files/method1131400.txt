@@ -1,0 +1,1 @@
+ public int count() { synchronized (display) { return display.size(); } } 

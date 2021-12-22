@@ -1,0 +1,1 @@
+ protected void setChanged(boolean a_changed) { m_changed = a_changed; } 

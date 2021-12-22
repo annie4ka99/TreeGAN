@@ -1,0 +1,1 @@
+ public HelpBroker getHelpBroker() { return helpBroker; } 

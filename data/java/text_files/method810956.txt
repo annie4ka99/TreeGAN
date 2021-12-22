@@ -1,0 +1,1 @@
+ protected void setFixture(ProductListType fixture) { this.fixture = fixture; } 

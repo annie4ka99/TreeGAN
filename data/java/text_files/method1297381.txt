@@ -1,0 +1,1 @@
+ public Number getY(int index) { return mY.get(index); } 

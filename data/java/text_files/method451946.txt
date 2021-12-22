@@ -1,0 +1,1 @@
+ public void remove(IFlowBean bean) { beans.remove(bean.getName()); bean.setBeanPackage(null); } 

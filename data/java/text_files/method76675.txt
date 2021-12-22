@@ -1,0 +1,1 @@
+ private void registerIInference(IInference iInference) { this.iInference = iInference; } 

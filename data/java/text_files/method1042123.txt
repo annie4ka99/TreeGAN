@@ -1,0 +1,1 @@
+ public String toString() { return "Vector2f [X=" + x + ", Y=" + y + "]"; } 

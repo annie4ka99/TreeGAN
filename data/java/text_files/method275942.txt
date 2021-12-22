@@ -1,0 +1,1 @@
+ public Object getContinuation() { updateLastAccessTime(); return continuation; } 

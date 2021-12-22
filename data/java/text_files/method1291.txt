@@ -1,0 +1,1 @@
+ final public void removeBoxByNumber(int boxNo) { boxesArray[boxData.getBoxPosition(boxNo)] = false; } 

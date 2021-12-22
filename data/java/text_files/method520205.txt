@@ -1,0 +1,1 @@
+ public void setMonitor(PrintManagerServiceMonitor newMonitor) { iMonitor = newMonitor; } 

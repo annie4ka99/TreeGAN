@@ -1,0 +1,1 @@
+ public int getCacheType() { return cacheType; } 

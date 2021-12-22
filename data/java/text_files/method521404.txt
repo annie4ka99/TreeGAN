@@ -1,0 +1,1 @@
+public void setBottomRight(XmlPageSubTag newValue) { this.bottomRight = newValue; } 

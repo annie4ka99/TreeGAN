@@ -1,0 +1,1 @@
+ public void setBrightness(float brightness) { this.brightness = brightness; initialized = false; } 

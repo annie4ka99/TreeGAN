@@ -1,0 +1,1 @@
+ public void setOnscreen(boolean onscreen) { this.onscreen=onscreen; } 

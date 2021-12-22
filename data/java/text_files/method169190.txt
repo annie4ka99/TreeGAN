@@ -1,0 +1,1 @@
+ public RosterRoleData getMainRole() { return app[getMainPosition()]; } 

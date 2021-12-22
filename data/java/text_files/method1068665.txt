@@ -1,0 +1,1 @@
+ protected AnchorMngr createAnchorManager() { return new PolylineAnchorMngr(this); } 

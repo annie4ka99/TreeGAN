@@ -1,0 +1,1 @@
+ public void setCollectComments(boolean newValue) { collectComments = newValue; } 

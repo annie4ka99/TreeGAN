@@ -1,0 +1,1 @@
+ public void setWarnings(WarningLevelEnum level) { compilerDef.setWarnings(level); } 

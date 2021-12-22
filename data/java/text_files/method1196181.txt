@@ -1,0 +1,1 @@
+ protected void add (LocationEntry le) { widgetDragController.makeDraggable(le); dragElements.add(le); } 

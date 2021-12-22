@@ -1,0 +1,1 @@
+ public void setVersionInfo(VersionInfoType value) { this.versionInfo = value; } 

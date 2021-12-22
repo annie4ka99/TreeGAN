@@ -1,0 +1,1 @@
+ public void start() { if ( ! started ) { lastNow = System.currentTimeMillis(); started = true; } } 

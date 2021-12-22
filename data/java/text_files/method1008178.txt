@@ -1,0 +1,1 @@
+ public long getNativeResource(int resType) { if (resType == TEXTURE) { return getTextureID(); } return 0L; } 

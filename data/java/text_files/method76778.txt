@@ -1,0 +1,1 @@
+ public PrimitiveType primitive(Token token) { return primitive(token.getText()); } 

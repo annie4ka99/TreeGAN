@@ -1,0 +1,1 @@
+ private void addAtomicGene(final List a_result, Gene a_gene) { a_result.add(a_gene); } 

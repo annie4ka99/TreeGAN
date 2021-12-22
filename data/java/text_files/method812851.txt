@@ -1,0 +1,1 @@
+ protected EditPartFactory getEditPartFactory() { return new SchemaEditPartFactory(); } 

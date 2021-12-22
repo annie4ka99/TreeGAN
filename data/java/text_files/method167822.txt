@@ -1,0 +1,1 @@
+ protected void prepare() { targets_ = NodeHandler.getTargets(this); super.prepare(); } 

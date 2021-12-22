@@ -1,0 +1,1 @@
+ public PositionManager getPositionManager() { return this.posMgr; } 

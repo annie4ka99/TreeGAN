@@ -1,0 +1,1 @@
+ public boolean supportsSQL() { return this.supportsSQL; } 

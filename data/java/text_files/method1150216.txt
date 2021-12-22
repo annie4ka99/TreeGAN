@@ -1,0 +1,1 @@
+ public Boolean hasNext() { return current < chunks.size(); } 

@@ -1,0 +1,1 @@
+ public FArg add(int arg) { return add(new Integer(arg)); } 

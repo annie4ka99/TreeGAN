@@ -1,0 +1,1 @@
+ public void setSeasonAndWeek(int season, int week) { this.season = season; this.week = week; } 

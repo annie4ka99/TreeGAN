@@ -1,0 +1,1 @@
+ public String getDecimal() { if (decimal == null) { return "."; } else { return decimal; } } 

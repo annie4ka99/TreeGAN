@@ -1,0 +1,1 @@
+ public void build(String oneJarFilename) { clean(); collect(); pack(oneJarFilename); clean(); } 

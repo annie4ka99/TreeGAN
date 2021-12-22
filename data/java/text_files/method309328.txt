@@ -1,0 +1,1 @@
+ public int getMinSelectionIndex() { return getSelectionModel().getMinSelectionIndex(); } 

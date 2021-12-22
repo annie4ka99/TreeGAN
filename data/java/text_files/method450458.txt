@@ -1,0 +1,1 @@
+ public AgeCondition (long milliseconds) { this.age = milliseconds; } 

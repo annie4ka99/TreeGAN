@@ -1,0 +1,1 @@
+ public NamingEnumeration listBindings(String name) throws NamingException { return list(name); } 

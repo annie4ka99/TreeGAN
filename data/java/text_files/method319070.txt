@@ -1,0 +1,1 @@
+ protected IToken doEvaluate(ICharacterScanner scanner) { return doEvaluate(scanner, false); } 

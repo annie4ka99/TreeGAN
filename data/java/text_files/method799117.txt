@@ -1,0 +1,1 @@
+ public void setLangcode(String langcode) { this.langcode = langcode; } 

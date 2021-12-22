@@ -1,0 +1,1 @@
+ public User getUser(String username) { return getUser(getUserList(), username); } 

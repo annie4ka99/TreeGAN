@@ -1,0 +1,1 @@
+ final public void setGoal(int position) { goalsArray[position] = true; } 

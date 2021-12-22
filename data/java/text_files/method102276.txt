@@ -1,0 +1,1 @@
+ public int getBucketItems(int bucket) { return buckets[bucket]; } 

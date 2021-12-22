@@ -1,0 +1,1 @@
+ public JPopupMenu getTablePopup() { return tablePopup; } 

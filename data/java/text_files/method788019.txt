@@ -1,0 +1,1 @@
+ public boolean isTranformInProgress() { return m_transact.isRunning(); } 

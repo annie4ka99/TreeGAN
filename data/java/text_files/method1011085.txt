@@ -1,0 +1,1 @@
+ public void setDepthBits(int depthBits) { this.depthBits = depthBits; } 

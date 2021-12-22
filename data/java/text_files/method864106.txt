@@ -1,0 +1,1 @@
+ public void increment() { instructions.append( OP_increment ); } 

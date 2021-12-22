@@ -1,0 +1,1 @@
+ public int getIntValue() { return ((Integer)value).intValue(); } 

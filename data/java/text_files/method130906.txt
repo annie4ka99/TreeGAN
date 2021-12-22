@@ -1,0 +1,1 @@
+ public double getTimestamp() { return timestamp; } 

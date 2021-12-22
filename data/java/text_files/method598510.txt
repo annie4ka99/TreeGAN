@@ -1,0 +1,1 @@
+ public long getMessageDelay() { return messageDelay; } 

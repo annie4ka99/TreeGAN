@@ -1,0 +1,1 @@
+ private int getRow(int rowIndex) { if ( m_rowmap == null ) initRowMap(); return m_rowmap[rowIndex]; } 

@@ -1,0 +1,1 @@
+ public long getDatumInMillis() { return this.datumInMillis; } 

@@ -1,0 +1,1 @@
+ public int getRecursionLimit() { return limit; } 

@@ -1,0 +1,1 @@
+ public int countBookmarks() { return bookmarks.size(); } 

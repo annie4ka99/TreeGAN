@@ -1,0 +1,1 @@
+ public void setSensor(SensorPropertyType value) { this.sensor = value; } 

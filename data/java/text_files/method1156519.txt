@@ -1,0 +1,1 @@
+ public boolean isLayoutForward() { return this.layoutForward; } 

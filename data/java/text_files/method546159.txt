@@ -1,0 +1,1 @@
+ public void setTickCentered(boolean center) { tickCentered = center; updateShape(); } 

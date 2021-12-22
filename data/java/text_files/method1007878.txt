@@ -1,0 +1,1 @@
+ public VSyncType getVSync() { return vsync; } 

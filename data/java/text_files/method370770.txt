@@ -1,0 +1,1 @@
+ public void setLogWarnings(boolean logWarnings) { } 

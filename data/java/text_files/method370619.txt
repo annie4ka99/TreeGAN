@@ -1,0 +1,1 @@
+ public void setGenerateManifest(boolean state) { fGenerateManifest= state; } 

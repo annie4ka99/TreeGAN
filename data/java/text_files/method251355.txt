@@ -1,0 +1,1 @@
+ public String getQuery(String aQueryName) { return queries.get(aQueryName); } 

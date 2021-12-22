@@ -1,0 +1,1 @@
+ public void testEnumerationTypes() throws Exception { this.evaluate("enum.ocl"); } 

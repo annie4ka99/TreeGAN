@@ -1,0 +1,1 @@
+ public void setEditable(boolean v) { if (adapter != null) adapter.setEditable(v); this.editable = v; } 

@@ -1,0 +1,1 @@
+ public boolean cdup() { return control.executeCommand("CDUP"); } 

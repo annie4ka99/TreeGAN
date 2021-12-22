@@ -1,0 +1,1 @@
+ public void setParams(Properties props) { assert (props != null); this.params = props; } 

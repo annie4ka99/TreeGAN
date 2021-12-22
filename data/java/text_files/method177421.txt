@@ -1,0 +1,1 @@
+ public String getFromClause() { return fromClause.getFromClauseString(); } 

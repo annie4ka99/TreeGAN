@@ -1,0 +1,1 @@
+ public EnvelopeType createEnvelopeType() { return new EnvelopeType(); } 

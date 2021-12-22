@@ -1,0 +1,1 @@
+ public int getNoOfMsgs() { return __no_msgs; } 

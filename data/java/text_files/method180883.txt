@@ -1,0 +1,1 @@
+protected void nativeContent(String value) throws java.io.IOException { out.write(value); } 

@@ -1,0 +1,1 @@
+ public void rotViewFixedYAxis(double angle) { viewTransformation.rotFixedYAxis(angle); } 

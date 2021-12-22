@@ -1,0 +1,1 @@
+ public void print(int i) { write(String.valueOf(i)); } 

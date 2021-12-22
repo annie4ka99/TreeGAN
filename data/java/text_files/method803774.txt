@@ -1,0 +1,1 @@
+ public void addSpareValency(int sv) { spareValency += sv; } 

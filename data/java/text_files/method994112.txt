@@ -1,0 +1,1 @@
+ public void setBloom(float bloom) { this.bloom = bloom; } 

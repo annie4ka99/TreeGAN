@@ -1,0 +1,1 @@
+public void setIsFile(boolean newValue) { this.isFile = newValue; } 

@@ -1,0 +1,1 @@
+ public int getHorizontalOffset() { return off_x; } 

@@ -1,0 +1,1 @@
+ public void setPaypalSum(java.lang.Double paypalSum) { this.paypalSum = paypalSum; } 

@@ -1,0 +1,1 @@
+ public void setFilterConfig(FilterConfig filterConfig) { this.filterConfig = filterConfig; } 

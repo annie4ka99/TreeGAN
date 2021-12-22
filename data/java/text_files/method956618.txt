@@ -1,0 +1,1 @@
+ public void setStartPosition(BigInteger value) { this.startPosition = value; } 

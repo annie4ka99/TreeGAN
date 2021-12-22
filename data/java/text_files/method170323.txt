@@ -1,0 +1,1 @@
+ public JCheckBox getBox() { return jcbBox; } 

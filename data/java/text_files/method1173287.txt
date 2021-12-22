@@ -1,0 +1,1 @@
+ public void setDoneTarget(boolean done) { bDoneTarget = done; } 

@@ -1,0 +1,1 @@
+ public void display(GLAutoDrawable arg0) { } 

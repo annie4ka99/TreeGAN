@@ -1,0 +1,1 @@
+ public String getManager() { return manager; } 

@@ -1,0 +1,1 @@
+private void setBpsManagerLog(BpsLog newValue) { this.bpsManagerLog = newValue; } 

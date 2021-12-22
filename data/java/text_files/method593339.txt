@@ -1,0 +1,1 @@
+ public void setBodyContent(BodyContent bodyContent) { this.bodyContent = bodyContent; } 

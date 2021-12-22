@@ -1,0 +1,1 @@
+ public void map(String key, Object value) { map(key, value, this.options); } 

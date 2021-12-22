@@ -1,0 +1,1 @@
+ public int getColumnCount() { if (this.singleRowMap < 0) return headerMap.length; else return columnNames.length; } 

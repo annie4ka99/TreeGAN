@@ -1,0 +1,1 @@
+ public void setSmtpPassword(String smtpPassword) { this.smtpPassword = smtpPassword; } 

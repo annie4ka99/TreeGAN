@@ -1,0 +1,1 @@
+ public void setAutor(java.lang.String autor) { this.autor = autor; } 

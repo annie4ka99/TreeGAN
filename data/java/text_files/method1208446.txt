@@ -1,0 +1,1 @@
+ public void setFlags(short flags) { itsFlags = flags; } 

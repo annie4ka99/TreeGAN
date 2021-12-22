@@ -1,0 +1,1 @@
+ public String getText() { return Messages.getString("db2.editor.actions.explain"); } 

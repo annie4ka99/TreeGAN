@@ -1,0 +1,1 @@
+ public void setBgColor(int c) { bgColor = c; } 

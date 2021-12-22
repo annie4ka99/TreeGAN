@@ -1,0 +1,1 @@
+ public void play() { getAnimator().play(); animatorState = PLAYING; } 

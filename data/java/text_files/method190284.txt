@@ -1,0 +1,1 @@
+ protected Position getLastPosition() { return _lastPos; } 

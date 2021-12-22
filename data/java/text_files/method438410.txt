@@ -1,0 +1,1 @@
+ public int hashCode() { return (column << 16) + row; } 

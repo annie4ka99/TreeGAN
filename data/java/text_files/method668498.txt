@@ -1,0 +1,1 @@
+ public byte getlnByte() { byte x = getByte(); emptyBuffer(); return x; } 

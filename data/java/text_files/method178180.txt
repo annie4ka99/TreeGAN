@@ -1,0 +1,1 @@
+ public void setConnectionDef(ConnectionDef connDef) { this.connDef = connDef; } 

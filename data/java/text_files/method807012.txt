@@ -1,0 +1,1 @@
+ public SpokChartPanel getChartPanel() { return chartPanel; } 

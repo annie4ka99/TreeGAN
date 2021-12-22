@@ -1,0 +1,1 @@
+ public void setIsStart(boolean _isStart) { isStart = _isStart; } 

@@ -1,0 +1,1 @@
+ public void channel(TerminalSignal signal) { String command = signal.getCommand(); } 

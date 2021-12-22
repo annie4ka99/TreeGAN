@@ -1,0 +1,1 @@
+ public SpanIterator getSpanIterator() { return new RegionSpanIterator(this); } 

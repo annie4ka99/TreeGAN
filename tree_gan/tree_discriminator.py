@@ -10,7 +10,7 @@ class TreeDiscriminator(nn.Module):
     Effectively the batch size of the actions and parent_actions inputs are both 1.
     """
     def __init__(self, action_getter, initial_state_func=None, start='start',
-                 action_embedding_size=None, hidden_size=None, batch_first=False, rnn_cls=None, rnn_kwargs=None):
+                 action_embedding_size=None, hidden_size=None, batch_first=True, rnn_cls=None, rnn_kwargs=None):
         super().__init__()
         self.rules_dict = action_getter.rules_dict
         self.symbol_names = action_getter.symbol_names
@@ -31,8 +31,8 @@ class TreeDiscriminator(nn.Module):
                 num_layers = rnn_kwargs.get('num_layers', 1)
                 num_directions = int(rnn_kwargs.get('bidirectional', False)) + 1
 
-                def func():
-                    return torch.zeros((num_layers * num_directions, 1, hidden_size))
+                def func(batch_size):
+                    return torch.zeros((num_layers * num_directions, batch_size, hidden_size))
                 self.initial_state_func = func
         else:
             if rnn_kwargs is None:
@@ -70,17 +70,43 @@ class TreeDiscriminator(nn.Module):
 
         return res
 
-    def forward(self, actions, parent_actions):
-        # input: (seq_len, )
-        # output: (seq_len, 2)
+    def forward(self, single, actions, parent_actions, lengths_batch):
         batch_dim_index = 1 - int(self.batch_first)
-        actions = actions.unsqueeze(batch_dim_index)
-        parent_actions = parent_actions.unsqueeze(batch_dim_index)
-        initial_state = self.initial_state_func().to(self.device, non_blocking=True)
-        action_embeddings = self.action_embeddings(actions + learning_utils.UNIVERSAL_ACTION_OFFSET)
-        parent_action_embeddings = self.action_embeddings(parent_actions + learning_utils.UNIVERSAL_ACTION_OFFSET)
+        if single:
+            actions = actions.unsqueeze(batch_dim_index)
+            parent_actions = parent_actions.unsqueeze(batch_dim_index)
+            initial_state = self.initial_state_func(1).to(self.device, non_blocking=True)
 
-        current_input = torch.cat([action_embeddings, parent_action_embeddings], dim=-1)
-        out, _ = self.rnn(current_input, initial_state)
+            action_embeddings = self.action_embeddings(actions + learning_utils.UNIVERSAL_ACTION_OFFSET)
+            parent_action_embeddings = self.action_embeddings(parent_actions + learning_utils.UNIVERSAL_ACTION_OFFSET)
 
-        return torch.log_softmax(self.truth_layer(out), dim=-1).squeeze(batch_dim_index)
+            current_input = torch.cat([action_embeddings, parent_action_embeddings], dim=-1)
+
+            out, _ = self.rnn(current_input, initial_state)
+
+            return torch.log_softmax(self.truth_layer(out), dim=-1).squeeze(batch_dim_index)
+        else:
+            batch_size = actions.shape[batch_dim_index]
+            initial_state = self.initial_state_func(batch_size).to(self.device, non_blocking=True)
+
+            action_embeddings = self.action_embeddings(actions + learning_utils.UNIVERSAL_ACTION_OFFSET)
+            parent_action_embeddings = self.action_embeddings(parent_actions + learning_utils.UNIVERSAL_ACTION_OFFSET)
+
+            current_input = torch.cat([action_embeddings, parent_action_embeddings], dim=-1)
+
+            current_input = nn.utils.rnn.pack_padded_sequence(current_input, lengths_batch,
+                                                              batch_first=self.batch_first,
+                                                              enforce_sorted=False)
+
+            out, _ = self.rnn(current_input, initial_state)
+            out, _ = torch.nn.utils.rnn.pad_packed_sequence(out, batch_first=self.batch_first)
+            out = out.contiguous()
+            out = out.view(-1, out.shape[2])
+
+            log_probs = torch.log_softmax(self.truth_layer(out), dim=-1)
+            # if self.batch_first:
+            #     log_probs = log_probs.view(batch_size, seq_len, -1)
+            # else:
+            #     log_probs = log_probs.view(seq_len, batch_size, -1)
+
+            return log_probs

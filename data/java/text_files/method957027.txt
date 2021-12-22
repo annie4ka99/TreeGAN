@@ -1,0 +1,1 @@
+ public void setCoord(CoordType value) { this.coord = value; } 

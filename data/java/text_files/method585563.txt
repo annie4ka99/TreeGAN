@@ -1,0 +1,1 @@
+ public IOperationHistory getOperationHistory() { return OperationHistoryFactory.getOperationHistory(); } 

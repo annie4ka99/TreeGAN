@@ -1,0 +1,1 @@
+ public void setLocalEcho(boolean echo) { localecho = echo; } 

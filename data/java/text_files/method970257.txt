@@ -1,0 +1,1 @@
+ public void cleanup() { super.cleanUp(); if (tRenderer != null) tRenderer.cleanup(); } 

@@ -1,0 +1,1 @@
+ public Type remove(String name) { reverseMapOutOfDate = true; return (Type) map.remove(name); } 

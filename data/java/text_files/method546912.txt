@@ -1,0 +1,1 @@
+ public void setTextFont(Font f) { if( type==OBJECT_TEXT ) textFont = f; } 

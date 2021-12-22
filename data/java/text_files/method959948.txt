@@ -1,0 +1,1 @@
+ public void setSql_get7Tage(String sql_get7Tage) { this.sql_get7Tage = sql_get7Tage; } 

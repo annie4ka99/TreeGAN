@@ -1,0 +1,1 @@
+ public void addVisitClasses(String[] visitClasses) { this.visitClasses = visitClasses; } 

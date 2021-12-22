@@ -1,0 +1,1 @@
+ public void add(ActionError error) { super.add(error.getKey(), error); } 

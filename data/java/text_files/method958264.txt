@@ -1,0 +1,1 @@
+ public String getSpecificationObject() { return specificationObject; } 

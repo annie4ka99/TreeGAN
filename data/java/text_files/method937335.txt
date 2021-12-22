@@ -1,0 +1,1 @@
+ public String getI18nPrefix() { return i18nPrefix; } 

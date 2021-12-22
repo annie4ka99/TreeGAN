@@ -1,0 +1,1 @@
+ public String getReceiverType() { return this.receiverType; } 

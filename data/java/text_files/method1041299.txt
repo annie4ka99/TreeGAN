@@ -1,0 +1,1 @@
+ public FaultTolerance getFaultTolerance() { return this.faultTolerance; } 

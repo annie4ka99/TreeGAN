@@ -1,0 +1,1 @@
+ public void setFromWaypoint(String fromWaypoint) { this.fromWaypoint = fromWaypoint; } 

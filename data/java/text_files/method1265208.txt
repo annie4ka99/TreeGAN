@@ -1,0 +1,1 @@
+ public Adapter createTCorrelationWithPatternAdapter() { return null; } 

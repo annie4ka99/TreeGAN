@@ -1,0 +1,1 @@
+public void setHType(String newValue) { this.hType = newValue; } 

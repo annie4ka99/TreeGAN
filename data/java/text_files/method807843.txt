@@ -1,0 +1,1 @@
+ public DiscoStatus getDiscoStatus() { return disco_status; } 

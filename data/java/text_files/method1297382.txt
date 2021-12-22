@@ -1,0 +1,1 @@
+ public void removeSeriesRenderer(SimpleSeriesRenderer renderer) { mRenderers.remove(renderer); } 

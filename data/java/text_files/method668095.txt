@@ -1,0 +1,1 @@
+ synchronized public BufferedWriter getOutput() { return this.out; } 

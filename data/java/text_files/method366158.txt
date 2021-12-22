@@ -1,0 +1,1 @@
+ public void setImageAttributeName(String name) { m_imageName = name; } 

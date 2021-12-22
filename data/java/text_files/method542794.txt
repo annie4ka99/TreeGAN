@@ -1,0 +1,1 @@
+ public void setInfoButtonVisible(boolean v) { this.infoButtonVisible = v; } 

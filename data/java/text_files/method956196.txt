@@ -1,0 +1,1 @@
+ public void setArchivingDate(XMLGregorianCalendar value) { this.archivingDate = value; } 

@@ -1,0 +1,1 @@
+ public int getColumn() { checkWidget(); return column == null ? 0 : table.indexOf(column); } 

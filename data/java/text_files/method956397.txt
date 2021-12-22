@@ -1,0 +1,1 @@
+ public void setFilterCapabilities(FilterCapabilities value) { this.filterCapabilities = value; } 

@@ -1,0 +1,1 @@
+ public void glTexCoord4s (short s, short t, short r, short q) { CC.gl_tex_coord (s, t, r, q); } 

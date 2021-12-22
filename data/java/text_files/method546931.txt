@@ -1,0 +1,1 @@
+ public int getScrollingMode () { return scrollingMode; } 

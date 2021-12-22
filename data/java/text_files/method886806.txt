@@ -1,0 +1,1 @@
+ public Xhtml10ImpressPluginFactoryImpl (ConverterInfo ci) { super(ci); } 

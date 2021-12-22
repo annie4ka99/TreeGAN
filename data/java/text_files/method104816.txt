@@ -1,0 +1,1 @@
+ public void setWoodCompleteness(TridasWoodCompleteness value) { this.woodCompleteness = value; } 

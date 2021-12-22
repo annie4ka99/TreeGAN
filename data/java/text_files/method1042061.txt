@@ -1,0 +1,1 @@
+ public float pseudoDistance(Vector3f point) { return normal.dot(point) - constant; } 

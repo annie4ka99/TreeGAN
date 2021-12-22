@@ -1,0 +1,1 @@
+ public BufferedImage getDisplacementMap() { return displacementMap; } 

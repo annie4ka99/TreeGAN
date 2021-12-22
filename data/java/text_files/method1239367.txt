@@ -1,0 +1,1 @@
+ public void setImportUrl(String importUrl) { this.importUrl = importUrl; } 

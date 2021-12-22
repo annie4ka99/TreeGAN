@@ -1,0 +1,1 @@
+ public double getPitch() { return pitch; } 

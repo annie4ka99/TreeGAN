@@ -1,0 +1,1 @@
+ public ColumnBuilder setLength(int length) { _length = length; return this; } 

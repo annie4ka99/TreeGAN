@@ -1,0 +1,1 @@
+ public void setAngle2(float angle2) { this.angle2 = angle2; } 

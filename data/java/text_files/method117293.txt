@@ -1,0 +1,1 @@
+ public void setFocus() { viewer.getControl().setFocus(); } 

@@ -1,0 +1,1 @@
+ private void scrollText() { output.revealRange(getDocument().getLength(), 0); } 

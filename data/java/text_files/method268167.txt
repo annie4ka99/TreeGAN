@@ -1,0 +1,1 @@
+ public int getMaxTablesInSelect() throws java.sql.SQLException { return 256; } 

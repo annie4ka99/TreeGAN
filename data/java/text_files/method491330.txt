@@ -1,0 +1,1 @@
+ public JSONArray put(int value) { put(new Integer(value)); return this; } 

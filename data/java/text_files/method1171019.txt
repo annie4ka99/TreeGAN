@@ -1,0 +1,1 @@
+ public void setFirstStrike(boolean firstStrike) { this.firstStrike = firstStrike; } 

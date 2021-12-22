@@ -1,0 +1,1 @@
+ public int addAuthLength(ZrtpConstants.SupportedAuthLengths algo) { return authLengths.addAlgo(algo); } 

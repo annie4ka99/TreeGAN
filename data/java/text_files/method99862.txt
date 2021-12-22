@@ -1,0 +1,1 @@
+ public void setFirstname(String value) { this.firstname = value; } 

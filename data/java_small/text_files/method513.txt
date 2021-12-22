@@ -1,0 +1,1 @@
+ public CBoard getClone() { return new CBoard(boardElements.clone(), width, height, playerPositionX, playerPositionY); } 

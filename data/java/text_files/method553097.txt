@@ -1,0 +1,1 @@
+ public ImageData getRow(int rowIndex) { return rows[rowIndex]; } 

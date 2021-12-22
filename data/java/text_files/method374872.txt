@@ -1,0 +1,1 @@
+ public int windowScaled() { return window() << 6; } 

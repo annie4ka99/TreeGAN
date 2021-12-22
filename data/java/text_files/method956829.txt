@@ -1,0 +1,1 @@
+ public void setClassifiedObjectQuery(RegistryObjectQueryType value) { this.classifiedObjectQuery = value; } 

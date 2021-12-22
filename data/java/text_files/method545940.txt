@@ -1,0 +1,1 @@
+ public JDObject getObjectAt(int idx) { return (JDObject)objects.get(idx); } 

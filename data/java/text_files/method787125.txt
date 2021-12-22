@@ -1,0 +1,1 @@
+ public void setLock(Object lock) { m_lock = lock; } 

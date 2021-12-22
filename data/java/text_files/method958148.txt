@@ -1,0 +1,1 @@
+ public TelephoneType createTelephoneType() { return new TelephoneType(); } 

@@ -1,0 +1,1 @@
+ public Vec3f times(float val) { Vec3f tmp = new Vec3f(this); tmp.scale(val); return tmp; } 

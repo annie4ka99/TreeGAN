@@ -1,0 +1,1 @@
+ public boolean canInstantiate(Class type) { return getDefaultConstrutor(type) != null; } 

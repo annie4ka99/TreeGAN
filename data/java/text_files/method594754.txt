@@ -1,0 +1,1 @@
+ public boolean isAvailable() { return !this.getStatus().equals(CPOStatusEnum.STOPPED); } 

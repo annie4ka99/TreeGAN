@@ -1,0 +1,1 @@
+ public void startLater() { SwingUtilities.invokeLater(new StartLater(true)); } 

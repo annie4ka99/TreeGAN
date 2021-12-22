@@ -1,0 +1,1 @@
+ public void setSensor(boolean sensor) { m_sensor = sensor; } 

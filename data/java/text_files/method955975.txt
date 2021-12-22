@@ -1,0 +1,1 @@
+ public void setCloudCoverPercentageQuotationMode(String value) { this.cloudCoverPercentageQuotationMode = value; } 

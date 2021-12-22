@@ -1,0 +1,1 @@
+ public void setTreeSorter(ViewerSorter sorter) { fTreeViewer.setSorter(sorter); } 

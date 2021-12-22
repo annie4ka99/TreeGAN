@@ -1,0 +1,1 @@
+ public void setCheckexternal (boolean ce) { checkexternal = ce; } 

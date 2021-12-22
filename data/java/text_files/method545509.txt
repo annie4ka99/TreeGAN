@@ -1,0 +1,1 @@
+ public boolean isXAxisOnBottom(){ return getXAxis().getPosition() == JLAxis.HORIZONTAL_DOWN; } 

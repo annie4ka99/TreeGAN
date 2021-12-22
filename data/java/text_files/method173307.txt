@@ -1,0 +1,1 @@
+ public TableViewer getViewer() { return viewer; } 

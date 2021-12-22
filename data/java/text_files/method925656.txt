@@ -1,0 +1,1 @@
+ public String getAlpha2LanguageCode(){ return this.alpha2LanguageCode; } 

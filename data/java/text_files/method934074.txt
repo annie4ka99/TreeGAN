@@ -1,0 +1,1 @@
+ public void setValidatorResults(ValidatorResults validatorResults) { this.validatorResults = validatorResults; } 

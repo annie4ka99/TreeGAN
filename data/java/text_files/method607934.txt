@@ -1,0 +1,1 @@
+ public int compare(IPlugIn arg0, IPlugIn arg1) { return arg0.getPriority() - arg1.getPriority(); } 

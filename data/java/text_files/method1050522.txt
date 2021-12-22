@@ -1,0 +1,1 @@
+ public boolean divides(Rational r) { return ((r.num*den)%(num*r.den)) == 0; } 

@@ -1,0 +1,1 @@
+ public void setTeam2Tacticskill(double value) { this.Team2Tacticskill.setText(this.generateText(value)); } 

@@ -1,0 +1,1 @@
+ public ConstantSize getNarrowLinePad() { return NARROW_LINE_PAD; } 

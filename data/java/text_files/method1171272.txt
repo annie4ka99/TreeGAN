@@ -1,0 +1,1 @@
+ public int getCMC() { return CardUtil.getConvertedManaCost(manaCost); } 

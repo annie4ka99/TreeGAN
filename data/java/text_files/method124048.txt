@@ -1,0 +1,1 @@
+ public String getSymbolNameVariables() { return variables.getSymbolName(); } 

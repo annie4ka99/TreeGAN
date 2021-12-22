@@ -1,0 +1,1 @@
+ public void setSelectedRowId(int selectedRowId) { table.setSelectedRowId(selectedRowId); } 

@@ -1,0 +1,1 @@
+ public void setSessionType(final String sessionType) { this.sessionType = sessionType; } 

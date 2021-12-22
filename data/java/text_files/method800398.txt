@@ -1,0 +1,1 @@
+ public int getStatus(){ if (service!=null) return service.getStatus(); return -1; } 

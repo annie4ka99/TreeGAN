@@ -1,0 +1,1 @@
+ public void setToolTip(boolean isTrue) { showTooltip = isTrue; toolTipBehavior.setCanShowToolTips(isTrue); } 

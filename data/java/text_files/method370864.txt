@@ -1,0 +1,1 @@
+ public Tree getTree() { return fTreeViewer.getTree(); } 

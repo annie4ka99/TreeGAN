@@ -1,0 +1,1 @@
+ public void propertyChanged() { hasChanged = true; } 

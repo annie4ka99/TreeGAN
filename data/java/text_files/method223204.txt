@@ -1,0 +1,1 @@
+ public void setScriptLocation(String scriptLocation) { this.scriptLocation = scriptLocation; } 

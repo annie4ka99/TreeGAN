@@ -1,0 +1,1 @@
+ public void setCachesZoomHistory(boolean flag) { doCaching = flag; } 

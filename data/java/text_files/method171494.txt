@@ -1,0 +1,1 @@
+ public void visitI2F(I2F o){ stack().pop(); stack().push(Type.FLOAT); } 

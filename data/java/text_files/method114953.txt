@@ -1,0 +1,1 @@
+ public ID3v1 getID3v1Tag() { return id3v1tag; } 

@@ -1,0 +1,1 @@
+ public int getLose() { return lose; } 

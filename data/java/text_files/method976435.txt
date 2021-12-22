@@ -1,0 +1,1 @@
+ public CacheHolderDetail getFreshDetails() { return this.getCacheDetails(true, false); } 

@@ -1,0 +1,1 @@
+ public long getLong() { return readInteger(Long.MIN_VALUE, Long.MAX_VALUE); } 

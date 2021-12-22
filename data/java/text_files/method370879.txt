@@ -1,0 +1,1 @@
+ public void initialCheckTreeItem(Object element) { treeItemChecked(element, true); } 

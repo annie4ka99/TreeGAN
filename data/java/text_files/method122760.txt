@@ -1,0 +1,1 @@
+ public void switchState() { if (state == BUNDLED) { state = APART; } else { state = BUNDLED; } } 

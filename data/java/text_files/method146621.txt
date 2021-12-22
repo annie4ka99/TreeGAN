@@ -1,0 +1,1 @@
+ public Float getLatitude() { return this.latitude; } 

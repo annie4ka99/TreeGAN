@@ -1,0 +1,1 @@
+ private void initData() { dbConn = new DBConnection(); values = dbConn.getValues(); } 

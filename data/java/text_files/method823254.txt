@@ -1,0 +1,1 @@
+ public void addConfiguredParam(Param param) { params.setProperty(param.getName(), param.getValue()); } 

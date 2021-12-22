@@ -1,0 +1,1 @@
+ public void setResourceBundle(ResourceBundle resourceBundle) { this.resourceBundle = resourceBundle; } 

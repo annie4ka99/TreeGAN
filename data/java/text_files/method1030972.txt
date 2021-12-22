@@ -1,0 +1,1 @@
+ public void setPosition(int positionToSet) { this.position = positionToSet; } 

@@ -1,0 +1,1 @@
+ public void setEditPwdForm(EditPwdForm editPwdForm) { this.editPwdForm = editPwdForm; } 

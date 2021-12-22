@@ -1,0 +1,1 @@
+ public Colormap getColormap() { return colormap; } 

@@ -1,0 +1,1 @@
+private void setCurrentSklObjId(int newCurrentSklObjId) { currentSklObjId = newCurrentSklObjId; } 

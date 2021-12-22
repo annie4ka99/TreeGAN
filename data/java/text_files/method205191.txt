@@ -1,0 +1,1 @@
+ public void add (int i, long time) { startTime[i] = startTime[i] - time; } 

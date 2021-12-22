@@ -1,0 +1,1 @@
+ public void invokeMutation(float mutationProbability) { this.mutation(mutationProbability); } 

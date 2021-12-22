@@ -1,0 +1,1 @@
+ public List getImports(String namespaceURI) { return (List) imports.get(namespaceURI); } 

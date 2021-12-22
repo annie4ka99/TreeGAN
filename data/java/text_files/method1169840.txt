@@ -1,0 +1,1 @@
+ static public int getConvertedManaCost(SpellAbility sa) { return getConvertedManaCost(sa.getManaCost()); } 

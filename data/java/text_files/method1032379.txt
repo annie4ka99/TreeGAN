@@ -1,0 +1,1 @@
+ public void logError(Object message) { logInternal(ERROR, message, null); } 

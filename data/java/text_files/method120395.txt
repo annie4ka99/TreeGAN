@@ -1,0 +1,1 @@
+ public GraphModel createCleanGraphModel() { return new DefaultGraphModel(); } 

@@ -1,0 +1,1 @@
+ protected int getSelectedType() { return this.toolbar.getSelectedType(); } 

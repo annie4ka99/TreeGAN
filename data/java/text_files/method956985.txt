@@ -1,0 +1,1 @@
+ public ClassificationNodeQueryType getStatusQuery() { return statusQuery; } 

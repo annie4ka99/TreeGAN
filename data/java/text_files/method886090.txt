@@ -1,0 +1,1 @@
+ public void destroy() { command.removeCommandPropertyListener(this); command = null; } 

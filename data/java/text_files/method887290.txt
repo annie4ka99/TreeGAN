@@ -1,0 +1,1 @@
+ public void removeObserver(TransformObserver observer) { observers.remove(observer); } 

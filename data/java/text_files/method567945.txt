@@ -1,0 +1,1 @@
+ public String getBeanId() { return m_strBeanId; } 

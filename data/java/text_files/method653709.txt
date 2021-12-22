@@ -1,0 +1,1 @@
+ public void reset() { position = 0; bChanged = false; } 

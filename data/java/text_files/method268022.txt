@@ -1,0 +1,1 @@
+ public int getCurrentRowNumber() throws SQLException { notSupported(); return -1; } 

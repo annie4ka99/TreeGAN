@@ -1,0 +1,1 @@
+ public void setManagerLookupButton(String managerLookupButton) { this.managerLookupButton = managerLookupButton; } 

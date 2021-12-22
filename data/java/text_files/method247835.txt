@@ -1,0 +1,1 @@
+ public String getContentLanguage() { return contentLanguage == null? DEFAULT_LANGUAGE : contentLanguage; } 

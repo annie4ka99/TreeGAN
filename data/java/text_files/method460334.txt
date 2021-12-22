@@ -1,0 +1,1 @@
+ public void setCertificate(X509Certificate cert) { this.cert = cert; } 

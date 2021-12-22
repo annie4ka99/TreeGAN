@@ -1,0 +1,1 @@
+ public void setSecondWitnessPhone(PhoneType value) { this.secondWitnessPhone = value; } 

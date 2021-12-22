@@ -1,0 +1,1 @@
+ public void setAgent(PlotAgent agent) { if(canChangeAgent) graphAgent = agent; } 

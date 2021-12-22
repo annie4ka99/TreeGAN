@@ -1,0 +1,1 @@
+ public PortalURLFactory getPortalURLFactory() { return this.portalURLFactory; } 

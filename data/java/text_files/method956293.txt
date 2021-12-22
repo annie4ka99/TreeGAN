@@ -1,0 +1,1 @@
+ public void setSpecy(String value) { this.specy = value; } 

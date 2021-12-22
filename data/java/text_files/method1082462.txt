@@ -1,0 +1,1 @@
+ public void setIsNoMax(boolean isNoMax) { setDirty(true); this.isNoMax = isNoMax; } 

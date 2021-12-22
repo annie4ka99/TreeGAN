@@ -1,0 +1,1 @@
+ public int getShield() { return nShield; } 

@@ -1,0 +1,1 @@
+ public void setFirstName(String fn) { logger.debug("entering setFirstName"); this.firstName = fn; } 

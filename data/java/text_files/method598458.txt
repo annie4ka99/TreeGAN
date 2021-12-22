@@ -1,0 +1,1 @@
+ public int getAuthTagLength() { return policy.getAuthTagLength(); } 

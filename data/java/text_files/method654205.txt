@@ -1,0 +1,1 @@
+ public void setBodyTemperature(float bodyTemperature) { this.bodyTemperature = bodyTemperature; } 

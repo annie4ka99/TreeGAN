@@ -1,0 +1,1 @@
+ public int getUserID() throws IllegalStateException, TwitterException{ return this.twitter.getId(); } 

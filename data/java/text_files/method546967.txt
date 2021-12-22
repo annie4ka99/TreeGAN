@@ -1,0 +1,1 @@
+ public void setNetObjectDialog(NetObjectDlg dlg) { dlgProp = dlg; } 

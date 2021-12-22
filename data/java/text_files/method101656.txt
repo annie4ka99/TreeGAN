@@ -1,0 +1,1 @@
+ public SearchOperator getOperator() { return (SearchOperator) cboSearchOperator.getSelectedItem(); } 

@@ -1,0 +1,1 @@
+ public int luaLength() { return m_length; } 

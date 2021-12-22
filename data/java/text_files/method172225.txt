@@ -1,0 +1,1 @@
+ public void removeTargeter(InstructionTargeter t) { targeters.remove(t); } 

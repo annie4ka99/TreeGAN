@@ -1,0 +1,1 @@
+ public void setMigrationDao(final MigrationDao migrationDao) { this.migrationDao = migrationDao; } 

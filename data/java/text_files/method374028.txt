@@ -1,0 +1,1 @@
+ public void addSubField(AnnotatedField field) { this.subFields.add(field); } 

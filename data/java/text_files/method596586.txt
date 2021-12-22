@@ -1,0 +1,1 @@
+ public boolean isExpandingEntityRef() { return expandEntityRef; } 

@@ -1,0 +1,1 @@
+ public void initialize() { loadInputData(); refreshTable(); initializeListeners(); } 

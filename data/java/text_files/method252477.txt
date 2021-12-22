@@ -1,0 +1,1 @@
+ public ProjectView getSelectedView() { return (ProjectView)tabsPanel.getSelectedComponent(); } 

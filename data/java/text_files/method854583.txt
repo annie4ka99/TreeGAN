@@ -1,0 +1,1 @@
+public DictZipHeader getHeader() { if (fHeader == null) { initialize(); } return fHeader; } 

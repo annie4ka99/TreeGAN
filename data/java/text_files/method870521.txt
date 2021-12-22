@@ -1,0 +1,1 @@
+ protected void tearDown() { try { store.close(); } catch (Exception e) { badUsage(e.getMessage()); } } 

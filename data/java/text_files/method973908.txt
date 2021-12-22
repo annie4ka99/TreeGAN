@@ -1,0 +1,1 @@
+ public void setTotalEventCount(int count) { this.totalEventCount = count; } 

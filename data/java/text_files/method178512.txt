@@ -1,0 +1,1 @@
+ public void setFKey(Column pk){ isFKey=true; reference=pk; } 

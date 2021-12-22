@@ -1,0 +1,1 @@
+ protected String getJavaPackageName() { return cfg.packageName(); } 

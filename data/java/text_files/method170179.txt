@@ -1,0 +1,1 @@
+ public void insertColumn(int i, double size) { insertCr(C, i, size); } 

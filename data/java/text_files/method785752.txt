@@ -1,0 +1,1 @@
+ public double getDOI(int row) { return getDouble(row, VisualItem.DOI); } 

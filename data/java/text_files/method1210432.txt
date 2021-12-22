@@ -1,0 +1,1 @@
+ public char readNext() throws Exception { char tmpChr = readCurr(); index++; return tmpChr; } 

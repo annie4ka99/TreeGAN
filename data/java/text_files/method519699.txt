@@ -1,0 +1,1 @@
+public void setSingleValue(java.lang.String newSingleValue) { iSingleValue = newSingleValue; } 

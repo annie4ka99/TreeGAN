@@ -1,0 +1,1 @@
+ public void restore() { cell.setValue((BitSet) originalValue.clone()); index = 0; } 

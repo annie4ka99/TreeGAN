@@ -1,0 +1,1 @@
+ private Difficulty getSelectedDifficulty() { return (Difficulty) levelCombo.getSelectedItem(); } 

@@ -1,0 +1,1 @@
+ public int getOverlayTextFontMaxAscent() { return overlayTextFontMaxAscent; } 

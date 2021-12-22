@@ -1,0 +1,1 @@
+ public void setPith(TridasPith value) { this.pith = value; } 

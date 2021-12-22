@@ -1,0 +1,1 @@
+ public void setSocks(String string) { socks = string; } 

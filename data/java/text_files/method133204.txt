@@ -1,0 +1,1 @@
+ public void setFirstOrdinal (int firstOrd) { this.firstOrd = firstOrd; } 

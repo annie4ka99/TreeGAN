@@ -1,0 +1,1 @@
+ public void setWindowY(int windowY) { getConfDocument().getConfiguration().getGui().getWindow() .setY(windowY); } 

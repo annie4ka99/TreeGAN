@@ -1,0 +1,1 @@
+ public void addSymbolClass( int symbolId, String className ) { classes.put( symbolId, className ); } 

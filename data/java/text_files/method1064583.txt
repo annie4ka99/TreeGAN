@@ -1,0 +1,1 @@
+ protected boolean isButtonValid(Button button) { return (button!=null && !button.isDisposed()); } 

@@ -1,0 +1,1 @@
+ public GnucashFileWritingImpl getWritableGnucashFile() { return (GnucashFileWritingImpl) super.getGnucashFile(); } 

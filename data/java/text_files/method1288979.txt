@@ -1,0 +1,1 @@
+ public void setCatDir(Directions catDir) { this.catDir = catDir; } 

@@ -1,0 +1,1 @@
+ protected boolean allows(AttributeType type) { return type != null; } 

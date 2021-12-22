@@ -1,0 +1,1 @@
+ public void setPlatform(PlatformType value) { this.platform = value; } 

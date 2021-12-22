@@ -1,0 +1,1 @@
+ public boolean canCollide() { return(collisionComponents.size() > 0); } 

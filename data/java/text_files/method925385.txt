@@ -1,0 +1,1 @@
+ protected void setSource(StringBuffer src) { this.source = src.toString(); } 

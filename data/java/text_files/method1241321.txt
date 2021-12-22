@@ -1,0 +1,1 @@
+ public boolean isIndexed() { return (myPD instanceof IndexedPropertyDescriptor); } 

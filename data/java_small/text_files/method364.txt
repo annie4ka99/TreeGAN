@@ -1,0 +1,1 @@
+ public int compareTo(BoardPositionPackingSequence boardPosition) { return boardPosition.getRelevance() - getRelevance(); } 

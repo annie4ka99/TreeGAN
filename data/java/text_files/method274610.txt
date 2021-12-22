@@ -1,0 +1,1 @@
+ public void setLocations(List locations) { this.locations = locations; } 

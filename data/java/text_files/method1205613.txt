@@ -1,0 +1,1 @@
+ public String toString() { return "" + getFace().getChar() + getSuit().getChar(); } 

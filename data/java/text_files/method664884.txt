@@ -1,0 +1,1 @@
+ public PortletRegistryService getPortletRegistryService() { return portletRegistryService; } 

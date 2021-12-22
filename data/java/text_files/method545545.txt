@@ -1,0 +1,1 @@
+ public void setMargin(Dimension d) { margin = d; } 

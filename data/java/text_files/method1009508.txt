@@ -1,0 +1,1 @@
+ static public boolean isTransition(){ return Transition; } 

@@ -1,0 +1,1 @@
+ public void setNamePool(NamePool namePool) { rtfEmitter.setNamePool(namePool); } 

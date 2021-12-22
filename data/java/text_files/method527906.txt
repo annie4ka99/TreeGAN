@@ -1,0 +1,1 @@
+protected void setExtDocId(java.lang.String newExtDocId) { extDocId = newExtDocId; } 

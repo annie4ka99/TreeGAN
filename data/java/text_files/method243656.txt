@@ -1,0 +1,1 @@
+ public Card getRiver() { return m_river; } 

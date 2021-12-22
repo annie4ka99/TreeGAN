@@ -1,0 +1,1 @@
+ public void addRole(Role role) { getRoles().add(role); } 

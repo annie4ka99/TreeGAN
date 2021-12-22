@@ -1,0 +1,1 @@
+ public void setExpanded(boolean expanded) { this.expanded = expanded; } 

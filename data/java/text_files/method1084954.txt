@@ -1,0 +1,1 @@
+ public void synchBits() { bitBuf = 0; bitPos = 0; } 

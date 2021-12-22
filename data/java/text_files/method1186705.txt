@@ -1,0 +1,1 @@
+ public String getTimeZone() { return this.timeZone; } 

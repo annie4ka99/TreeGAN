@@ -1,0 +1,1 @@
+ public NetObject getParentAt(int idx) { return (NetObject)parents.get(idx); } 

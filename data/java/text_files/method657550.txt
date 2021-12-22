@@ -1,0 +1,1 @@
+ public void setStartyear(String startyear) { this.startyear = startyear; } 

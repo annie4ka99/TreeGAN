@@ -1,0 +1,1 @@
+ public PortalRequestContextFactory getRequestContextFactory() { return this.requestContextFactory; } 

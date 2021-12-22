@@ -1,0 +1,1 @@
+ public void setPositionManager( PositionManager mgr ) { this.posManager = mgr; } 

@@ -1,0 +1,1 @@
+ public double getCoordinateError(int iCoordinate) { checkCoordinateError(); return coordinateError[iCoordinate]; } 

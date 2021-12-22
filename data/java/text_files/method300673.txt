@@ -1,0 +1,1 @@
+ public float getAlphaRate () { return new Float( this.fltFadeAmt ).floatValue(); } 

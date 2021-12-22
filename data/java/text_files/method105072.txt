@@ -1,0 +1,1 @@
+ public SeriesLinks createSeriesLinks() { return new SeriesLinks(); } 

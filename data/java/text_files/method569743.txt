@@ -1,0 +1,1 @@
+ public String toString() { return "IntMCell{" + value + "}@" + System.identityHashCode(this); } 

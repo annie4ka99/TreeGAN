@@ -1,0 +1,1 @@
+ public void stop() { synchronized ( syncStart ) { if ( state == STATE_STOPING ) state = STATE_STOPING; } } 

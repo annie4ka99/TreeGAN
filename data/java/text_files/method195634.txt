@@ -1,0 +1,1 @@
+ public void setIdent(String s) { ident=s; } 

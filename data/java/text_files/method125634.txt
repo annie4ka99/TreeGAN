@@ -1,0 +1,1 @@
+ public int numOfObs() { return lowerBound.compareTo(upperBound) + 1; } 

@@ -1,0 +1,1 @@
+ public int add(int amount) { synchronized (lock_) { return value_ += amount; } } 

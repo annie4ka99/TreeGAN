@@ -1,0 +1,1 @@
+ public int getInfluenceDistance(int startSquare, int targetSquare) { return influenceDistances[startSquare][targetSquare]; } 

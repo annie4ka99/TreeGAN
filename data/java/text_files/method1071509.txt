@@ -1,0 +1,1 @@
+ public void undo() { connection.setSource(oldSource); connection.setTarget(oldTarget); } 

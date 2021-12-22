@@ -1,0 +1,1 @@
+ public void setRowHeaderData(JSCSArray newRowHeaderData) { getRowHeaderDataTable().setJSCData(newRowHeaderData); } 

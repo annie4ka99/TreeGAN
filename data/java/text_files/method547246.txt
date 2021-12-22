@@ -1,0 +1,1 @@
+ public void setStringPainted(boolean b) { stringPaint = b; repaint(); } 

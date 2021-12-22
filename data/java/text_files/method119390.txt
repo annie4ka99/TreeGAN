@@ -1,0 +1,1 @@
+ public void setCell(Object cell) { this.cell = cell; } 

@@ -1,0 +1,1 @@
+ protected void initNewInstance(E newInstance) { } 

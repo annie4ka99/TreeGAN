@@ -1,0 +1,1 @@
+ public boolean isDirty() { synchronized (this) { return isDirty || preDirty; } } 

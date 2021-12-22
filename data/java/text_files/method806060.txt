@@ -1,0 +1,1 @@
+ public void setWindow(java.lang.Integer window) { this.window = window; } 

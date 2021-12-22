@@ -1,0 +1,1 @@
+ public void setFaults(HashMap faults) { this.faults = faults; } 

@@ -1,0 +1,1 @@
+ public void removeFrame( String id ) { frames.remove( id ); updateSize(); } 

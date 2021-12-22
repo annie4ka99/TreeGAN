@@ -1,0 +1,1 @@
+ public void setElements(Object[] elements) { fElements= elements; } 

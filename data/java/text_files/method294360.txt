@@ -1,0 +1,1 @@
+ public Object save() throws Exception { return super.invoke("#{daoService.save(entity)}"); } 

@@ -1,0 +1,1 @@
+ public void setBook(Book aBook) { book = aBook; setPosition(book.getPosition()); } 

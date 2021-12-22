@@ -1,0 +1,1 @@
+ public void setJavaVendor(java.lang.String javaVendor) { this.javaVendor = javaVendor; } 

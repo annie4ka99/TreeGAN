@@ -1,0 +1,1 @@
+ public void setViewType(int s) { type = s; } 

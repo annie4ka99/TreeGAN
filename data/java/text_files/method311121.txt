@@ -1,0 +1,1 @@
+ public void setAll(int imap) { this.imap = imap; setAll(); } 

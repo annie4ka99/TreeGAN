@@ -1,0 +1,1 @@
+ public Iterator edges() { return edges.iterator(); } 

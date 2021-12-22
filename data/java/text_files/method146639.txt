@@ -1,0 +1,1 @@
+ public void setChangedMask(int mask) { this.changedMask = mask; } 

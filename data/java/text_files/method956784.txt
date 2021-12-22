@@ -1,0 +1,1 @@
+ public String getReturnType() { if (returnType == null) { return "RegistryObject"; } else { return returnType; } } 

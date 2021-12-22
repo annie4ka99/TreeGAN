@@ -1,0 +1,1 @@
+ public void setCoreSettings(CoreSettings coreSettings) { this.coreSettings = coreSettings; } 

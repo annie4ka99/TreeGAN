@@ -1,0 +1,1 @@
+ public void setFormatType(String formatType) { this.formatType = formatType; } 

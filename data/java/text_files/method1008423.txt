@@ -1,0 +1,1 @@
+ public RegionIterator getIterator() { return new RegionIterator(this); } 

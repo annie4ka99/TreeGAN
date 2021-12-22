@@ -1,0 +1,1 @@
+ public void addOverlay(MapViewOverlay overlay) { overlays.addElement(overlay); } 

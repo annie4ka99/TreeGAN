@@ -1,0 +1,1 @@
+ public String getRepositoryPath() { return fileItemFactory.getRepository().getPath(); } 

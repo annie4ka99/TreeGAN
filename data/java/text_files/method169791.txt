@@ -1,0 +1,1 @@
+ public int getTemporaryIncome() { return Math.round((float) temporaryIncome / currencyRate); } 

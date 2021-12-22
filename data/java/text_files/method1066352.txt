@@ -1,0 +1,1 @@
+ public void setShowExit(boolean show){ showExit = show; } 

@@ -1,0 +1,1 @@
+ public String getParent() { return mp3.getParent(); } 

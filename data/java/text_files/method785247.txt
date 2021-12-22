@@ -1,0 +1,1 @@
+ public boolean isInteractive(int row) { return getBoolean(row, VisualItem.INTERACTIVE); } 

@@ -1,0 +1,1 @@
+ public void doSave(IProgressMonitor monitor) { textEditor.doSave(monitor); } 

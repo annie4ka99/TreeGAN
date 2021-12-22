@@ -1,0 +1,1 @@
+ private void setFont(Font aFont) throws Exception { font = aFont; } 

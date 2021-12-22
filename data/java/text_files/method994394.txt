@@ -1,0 +1,1 @@
+ public void setColor1(int color1) { this.color1 = color1; } 

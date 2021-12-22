@@ -1,0 +1,1 @@
+ public SchemaComponentType createSchemaComponentType() { return new SchemaComponentType(); } 

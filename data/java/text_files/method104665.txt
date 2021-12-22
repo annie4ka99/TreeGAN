@@ -1,0 +1,1 @@
+ public void setNormalTridas(NormalTridasVariable value) { this.normalTridas = value; } 

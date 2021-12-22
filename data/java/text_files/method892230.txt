@@ -1,0 +1,1 @@
+ public boolean hasJavascriptFieldsArraySet() { return "true".equalsIgnoreCase(javascriptFieldsArray); } 

@@ -1,0 +1,1 @@
+ public DirectPositionListType createDirectPositionListType() { return new DirectPositionListType(); } 

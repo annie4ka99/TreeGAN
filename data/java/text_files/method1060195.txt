@@ -1,0 +1,1 @@
+ public Object getObjectToEdit() { return objectToEdit; } 

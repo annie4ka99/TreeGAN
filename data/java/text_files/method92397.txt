@@ -1,0 +1,1 @@
+ public boolean storesMixedCaseIdentifiers() { return false; } 

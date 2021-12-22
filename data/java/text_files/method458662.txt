@@ -1,0 +1,1 @@
+ public long getLongProp(String pName) { return Long.parseLong(getProp(pName)); } 

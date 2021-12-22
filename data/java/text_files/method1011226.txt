@@ -1,0 +1,1 @@
+ public void componentMul(Vec3f arg) { x *= arg.x; y *= arg.y; z *= arg.z; } 

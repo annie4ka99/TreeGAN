@@ -1,0 +1,1 @@
+ public void setMated(Boolean mated) { this.mated = mated; } 

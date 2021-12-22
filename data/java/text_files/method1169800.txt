@@ -1,0 +1,1 @@
+ public void disableNotificationAsync(String id) { disableNotificationAsync(id, new WeiboAdapter()); } 

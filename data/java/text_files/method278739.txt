@@ -1,0 +1,1 @@
+ final public void setDelayed(boolean delayed){ delayed_ = delayed; } 

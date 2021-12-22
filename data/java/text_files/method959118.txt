@@ -1,0 +1,1 @@
+ public boolean containsJugador2(Jugador jugador) { return jugador2.contains(jugador); } 

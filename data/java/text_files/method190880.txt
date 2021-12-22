@@ -1,0 +1,1 @@
+ public Shell getShell() { if (container == null) { return null; } return container.getShell(); } 

@@ -1,0 +1,1 @@
+ public void addCommand(TextCommand textCommand){ actions.put(textCommand.getName(), textCommand); } 

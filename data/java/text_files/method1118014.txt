@@ -1,0 +1,1 @@
+ public Adapter createCOURSEelementAdapter() { return null; } 

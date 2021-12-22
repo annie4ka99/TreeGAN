@@ -1,0 +1,1 @@
+ public void setExtendedHeader( boolean extend ) { extended = extend; } 

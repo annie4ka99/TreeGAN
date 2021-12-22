@@ -1,0 +1,1 @@
+ public void setEndTime(XMLGregorianCalendar value) { this.endTime = value; } 

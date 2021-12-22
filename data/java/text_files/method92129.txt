@@ -1,0 +1,1 @@
+ public int getColumnCount() { return columnInfo == null ? 0 : columnInfo.length; } 

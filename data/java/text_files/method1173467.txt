@@ -1,0 +1,1 @@
+ public void setUniqueNumber(int n) { uniqueNumber = n; this.updateObservers(); } 

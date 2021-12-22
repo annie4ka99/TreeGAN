@@ -1,0 +1,1 @@
+ public void setPosblocks_In(java.lang.Boolean posblocks_In) { this.posblocks_In = posblocks_In; } 

@@ -1,0 +1,1 @@
+ public CStringBuilder append(char data[]) { return append( data, 0, data.length ); } 

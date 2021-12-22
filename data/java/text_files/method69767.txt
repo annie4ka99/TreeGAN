@@ -1,0 +1,1 @@
+ public void removeLayoutComponent(Component comp) { constraints.remove(comp); } 

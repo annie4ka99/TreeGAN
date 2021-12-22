@@ -1,0 +1,1 @@
+ public void clear() { m_source.clear(); super.clear(); } 

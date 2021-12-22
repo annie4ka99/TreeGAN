@@ -1,0 +1,1 @@
+ public boolean getUnpackSwapBytes() { return this.unpackSwapBytes; } 

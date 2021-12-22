@@ -1,0 +1,1 @@
+ public void setDensity( float density ) { this.density = density; } 

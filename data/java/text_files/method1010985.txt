@@ -1,0 +1,1 @@
+ public Object getAttachedObject(String name) { return attachedObjects.get(name); } 

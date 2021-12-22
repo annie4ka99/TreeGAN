@@ -1,0 +1,1 @@
+ public void add(Average addMe) { this.sum += addMe.sum; this.numberOfEntries += addMe.numberOfEntries; } 

@@ -1,0 +1,1 @@
+ public void setValue(final Object value) { this.value = value; repaint(); } 

@@ -1,0 +1,1 @@
+ public void setExtentOf(SurfacePropertyType value) { this.extentOf = value; } 

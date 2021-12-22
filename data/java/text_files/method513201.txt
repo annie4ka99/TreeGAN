@@ -1,0 +1,1 @@
+ public int getDeptId() { return deptId; } 

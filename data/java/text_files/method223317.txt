@@ -1,0 +1,1 @@
+ public void printAntInfo() { print("ant.path", "ant.version"); } 

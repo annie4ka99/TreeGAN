@@ -1,0 +1,1 @@
+ public int getMaxUserNameLength() throws java.sql.SQLException { return 16; } 

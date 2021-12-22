@@ -1,0 +1,1 @@
+ public QRCodeChartMaker utf8Encoding() { this.choe = "UTF-8"; return this; } 

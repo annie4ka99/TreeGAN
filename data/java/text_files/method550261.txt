@@ -1,0 +1,1 @@
+ public void apply() { entity.setAlias(field.getText()); table.aliasChanged(); } 

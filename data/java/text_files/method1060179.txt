@@ -1,0 +1,1 @@
+ public IDirectEditorConfiguration getDirectEditorConfiguration() { return directEditorConfiguration; } 

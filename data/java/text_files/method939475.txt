@@ -1,0 +1,1 @@
+ public HibernateTemplate getSpringHibernateTemplate() { return getHibernateTemplate(); } 

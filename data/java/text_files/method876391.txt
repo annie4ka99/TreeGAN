@@ -1,0 +1,1 @@
+ public void setAppId(int appId) { binaryFooter.putInt(0, appId); } 

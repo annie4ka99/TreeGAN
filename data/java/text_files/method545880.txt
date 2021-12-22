@@ -1,0 +1,1 @@
+ public void setForeground(Color c) { foreground = c; if (hasShadow()) computeShadowColors(); } 

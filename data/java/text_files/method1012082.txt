@@ -1,0 +1,1 @@
+ public boolean getTextureFlag() { return textureFlag; } 

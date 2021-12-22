@@ -1,0 +1,1 @@
+ protected void setHasLiteral(boolean hasLiteral) { this.hasLiteral = hasLiteral; } 

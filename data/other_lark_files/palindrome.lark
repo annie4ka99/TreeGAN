@@ -1,6 +1,0 @@
-start: p
-
-p: ZERO p ZERO | ONE p ONE | ONE? | ZERO?
-
-ZERO: "0"
-ONE: "1"

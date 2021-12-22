@@ -1,0 +1,1 @@
+ public void setTimestamp(XMLGregorianCalendar value) { this.timestamp = value; } 

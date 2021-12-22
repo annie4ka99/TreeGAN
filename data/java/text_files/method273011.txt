@@ -1,0 +1,1 @@
+ public void setDomainListMapper(final DomainListMapper domainListMapper) { this.domainListMapper = domainListMapper; } 

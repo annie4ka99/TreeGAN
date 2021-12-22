@@ -1,0 +1,1 @@
+ protected EAttribute getUpperFeature() { return UMLPackage.eINSTANCE.getLiteralUnlimitedNatural_Value(); } 

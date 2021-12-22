@@ -1,0 +1,1 @@
+ public double getX () { return speed * Math.cos(angle); } 

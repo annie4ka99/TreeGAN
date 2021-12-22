@@ -1,0 +1,1 @@
+ public CommandArguments createCommandArguments() { return new CommandArguments(this); } 

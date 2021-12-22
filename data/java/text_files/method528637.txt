@@ -1,0 +1,1 @@
+private void setUserPwd(java.lang.String newUserPwd) { userPwd = newUserPwd; } 

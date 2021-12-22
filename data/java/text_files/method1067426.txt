@@ -1,0 +1,1 @@
+ protected Image createImage(ImageDescriptor descriptor) { return getImageCache().getImage(descriptor); } 

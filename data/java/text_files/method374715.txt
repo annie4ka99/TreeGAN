@@ -1,0 +1,1 @@
+ public byte getByte(long sequence) { return this.storage.getByte(map(sequence)); } 

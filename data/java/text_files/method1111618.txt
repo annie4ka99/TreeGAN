@@ -1,0 +1,1 @@
+ protected EdgeView createEdgeView(Object cell) { return new FastEdgeView(cell); } 

@@ -1,0 +1,1 @@
+ public Sponsor (java.lang.Long _id) { super(_id); } 

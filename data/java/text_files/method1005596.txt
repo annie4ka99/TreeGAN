@@ -1,0 +1,1 @@
+ public int hashCode() { int sum = width + height; return sum * (sum + 1)/2 + width; } 

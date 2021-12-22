@@ -1,0 +1,1 @@
+ public AnalogSlider getAnalog(int port) { return analogs[port]; } 

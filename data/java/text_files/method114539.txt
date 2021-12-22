@@ -1,0 +1,1 @@
+ public Remote remoteLookup(String name) throws RMINamingException { return remoteLookup(name, null); } 

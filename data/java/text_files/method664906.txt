@@ -1,0 +1,1 @@
+ public StringWriter getInternalBuffer() { return this.internalBuffer; } 

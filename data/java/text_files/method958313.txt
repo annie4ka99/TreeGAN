@@ -1,0 +1,1 @@
+ public InternationalStringType getDescription() { return description; } 

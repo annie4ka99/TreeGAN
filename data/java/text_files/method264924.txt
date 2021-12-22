@@ -1,0 +1,1 @@
+ public void setAutoComplete(boolean val) { this.autoComplete = val; } 

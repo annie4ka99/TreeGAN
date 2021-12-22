@@ -1,0 +1,1 @@
+ public void toXML(XMLWriter generatedXML) { toXML(generatedXML, true); } 

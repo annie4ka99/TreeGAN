@@ -1,0 +1,1 @@
+ public void setCrossCursor(boolean enable) { imagePanel.setCrossCursor(enable); } 

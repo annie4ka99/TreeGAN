@@ -1,0 +1,1 @@
+ public Object getChildByName(String child){ return nameToChild.get(child); } 

@@ -1,0 +1,1 @@
+ public String getStateText() { return valueLabel.getText(); } 

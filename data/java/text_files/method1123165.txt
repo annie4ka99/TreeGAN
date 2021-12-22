@@ -1,0 +1,1 @@
+ public boolean isAperiodic() { return (getPeriod() == 1); } 

@@ -1,0 +1,1 @@
+ public void setValue(Object o) { setSpecified(true); oldValue = value; value = o; } 

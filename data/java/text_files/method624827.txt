@@ -1,0 +1,1 @@
+ public TypedProperty getOperation(Operation op) { return new MofFeature(op, this); } 

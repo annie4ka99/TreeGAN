@@ -1,0 +1,1 @@
+ public float getContrast() { return contrast; } 

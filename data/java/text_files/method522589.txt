@@ -1,0 +1,1 @@
+ public void setHeaderST33(byte[] newValue) { this.headerST33 = newValue; } 

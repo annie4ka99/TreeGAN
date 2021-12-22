@@ -1,0 +1,1 @@
+ public ElementSetType getValue() { return value; } 

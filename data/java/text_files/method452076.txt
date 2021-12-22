@@ -1,0 +1,1 @@
+ public void setSeleccionable(boolean seleccionable) { this.seleccionable = seleccionable; } 

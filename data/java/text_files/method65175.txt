@@ -1,0 +1,1 @@
+ public void setSurvey(final Survey theSurvey) { this.survey = theSurvey; } 

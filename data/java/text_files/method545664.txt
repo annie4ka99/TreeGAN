@@ -1,0 +1,1 @@
+ public void removeValueListener(JDValueListener l) { if(valueListener!=null) valueListener.remove(l); } 

@@ -1,0 +1,1 @@
+ public void setSizeMax(long sizeMax) { this.sizeMax = sizeMax; } 

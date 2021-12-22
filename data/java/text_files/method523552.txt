@@ -1,0 +1,1 @@
+public OutputDestination getOutputDestination() { return output; } 

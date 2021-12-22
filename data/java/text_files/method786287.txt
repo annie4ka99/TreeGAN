@@ -1,0 +1,1 @@
+ public void setDelimeter(String delimiter) { m_delim = delimiter; } 

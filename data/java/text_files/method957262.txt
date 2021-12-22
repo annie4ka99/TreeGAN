@@ -1,0 +1,1 @@
+ public void setBeginPosition(TimePositionType value) { this.beginPosition = value; } 

@@ -1,0 +1,1 @@
+ public int totalNumNodes(){ if (children == null){ return clusterdNodes.size(); } else { return cachedKidSize; } } 

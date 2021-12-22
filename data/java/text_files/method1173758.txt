@@ -1,0 +1,1 @@
+ public boolean isFlashBackAbility() { return flashBackAbility; } 

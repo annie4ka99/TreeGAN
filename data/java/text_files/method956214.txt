@@ -1,0 +1,1 @@
+ public MeasureType getResolution() { return resolution; } 

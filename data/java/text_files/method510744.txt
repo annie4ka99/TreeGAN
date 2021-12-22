@@ -1,0 +1,1 @@
+ public void setPadding(int px) { this.padding = px; redraw(); } 

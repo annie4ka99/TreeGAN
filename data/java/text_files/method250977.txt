@@ -1,0 +1,1 @@
+ public String getPassword() { logger.debug("entering getPassword"); return password; } 

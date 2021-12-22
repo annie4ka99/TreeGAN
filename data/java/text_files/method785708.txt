@@ -1,0 +1,1 @@
+ public BasicStroke getStroke(int row) { return (BasicStroke)get(row, VisualItem.STROKE); } 

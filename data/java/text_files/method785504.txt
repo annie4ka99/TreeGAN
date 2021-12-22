@@ -1,0 +1,1 @@
+ public Comparator getComparator() { return m_cmp; } 

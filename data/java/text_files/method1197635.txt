@@ -1,0 +1,1 @@
+ public void addRawDataToSnac(RawData rawData) { addDataField(rawData); } 

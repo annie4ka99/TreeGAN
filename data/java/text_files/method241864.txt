@@ -1,0 +1,1 @@
+ public void init() { salt=utils.randomBytes(2, 4); setPassword(emptyPassword); } 

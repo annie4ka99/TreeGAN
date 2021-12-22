@@ -1,0 +1,1 @@
+ public ColumnProjection getColumnProjection() { return m_colFilter; } 

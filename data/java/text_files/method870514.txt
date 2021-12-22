@@ -1,0 +1,1 @@
+ protected void mapArgument(String name, String value) { arguments.put(name, value); } 

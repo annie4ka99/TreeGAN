@@ -1,0 +1,1 @@
+ public Charset getCharset(){ return (Charset) charsetComboBox.getSelectedItem(); } 

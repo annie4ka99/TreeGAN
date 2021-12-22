@@ -1,0 +1,1 @@
+ public WSICoverageTemporalDictionary createWSICoverageTemporalDictionary() { return new WSICoverageTemporalDictionary(); } 

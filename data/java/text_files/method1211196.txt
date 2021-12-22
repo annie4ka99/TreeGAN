@@ -1,0 +1,1 @@
+ public int getQuantita() { return quantita; } 

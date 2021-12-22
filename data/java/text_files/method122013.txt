@@ -1,0 +1,1 @@
+ protected void doPaint() { Toolkit.printString(_label, getRectangle(), getColors()); } 

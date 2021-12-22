@@ -1,0 +1,1 @@
+ public void setSecure(boolean isSecure) { xt.setSecure(isSecure); } 

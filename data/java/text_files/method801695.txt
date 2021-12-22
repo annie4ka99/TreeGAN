@@ -1,0 +1,1 @@
+ public void addFragment(FragmentMolecule msfragment){ add(msfragment); } 

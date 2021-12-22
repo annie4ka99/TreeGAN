@@ -1,0 +1,1 @@
+ public float getPixel(int ipix) { return data[ipix]; } 

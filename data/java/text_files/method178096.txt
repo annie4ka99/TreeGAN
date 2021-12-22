@@ -1,0 +1,1 @@
+ public void setParentElement(ElementNode parent){ this.parent=parent; } 

@@ -1,0 +1,1 @@
+ public void setShape(final Shape shape) { this.shape = shape; } 

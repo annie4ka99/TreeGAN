@@ -1,0 +1,1 @@
+ public void showDeadlockQueryStats() { dlqTotStats.sumFrom(dlqCurStats); if ( ! dlqTotStats.equals(dlqCurStats)) { show1DLQStats("total", dlqTotStats, 0); } show1DLQStats("this time", dlqCurStats, dlqTotStats.dlqAsked); dlqCurStats.clear(); } 

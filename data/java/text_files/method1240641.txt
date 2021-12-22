@@ -1,0 +1,1 @@
+ public NamedNodeMap getAttributes() { makeAttributesEditable(); return convertAttrSAXtoDOM(attributes); } 

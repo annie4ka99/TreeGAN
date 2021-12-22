@@ -1,0 +1,1 @@
+ public void setArjFlags(int arjFlags) { this.arjFlags = arjFlags; } 

@@ -1,0 +1,1 @@
+ public double getDataGain(int iChan) { return 1; } 

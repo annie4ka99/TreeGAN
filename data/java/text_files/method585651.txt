@@ -1,0 +1,1 @@
+ public void setFocus() { if( subEditor != null ){ subEditor.setFocus(); } else { super.setFocus(); } } 

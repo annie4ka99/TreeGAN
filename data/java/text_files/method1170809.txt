@@ -1,0 +1,1 @@
+ public int compareTo(Deck d) { return getName().compareTo(d.getName()); } 

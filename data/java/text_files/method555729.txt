@@ -1,0 +1,1 @@
+ public int getCurrentSize() { return lines == null ? 0 : lines.size(); } 

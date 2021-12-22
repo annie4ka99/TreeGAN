@@ -1,0 +1,1 @@
+ public void setPostext(java.lang.Float postext) { this.postext = postext; } 

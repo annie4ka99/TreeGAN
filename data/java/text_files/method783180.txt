@@ -1,0 +1,1 @@
+ public Filter getFilter() { return this.filter; } 

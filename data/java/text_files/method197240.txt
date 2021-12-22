@@ -1,0 +1,1 @@
+ public void addToList(Object obj) { l.add(obj); } 

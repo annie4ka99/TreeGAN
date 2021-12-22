@@ -1,0 +1,1 @@
+ public ClassificationNodeQueryType getNodeTypeQuery() { return nodeTypeQuery; } 

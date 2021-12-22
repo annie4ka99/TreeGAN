@@ -1,0 +1,1 @@
+ public void setAltitudeRequired(boolean altitudeRequired) { } 

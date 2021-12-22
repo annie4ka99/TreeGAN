@@ -1,0 +1,1 @@
+ public void setSource(InputStream i, String s) { input = i; systemId = s; } 

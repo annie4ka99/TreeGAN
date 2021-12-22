@@ -1,0 +1,1 @@
+ public Double getCosto() { return Math.floor(costo * 100.0) / 100.0; } 

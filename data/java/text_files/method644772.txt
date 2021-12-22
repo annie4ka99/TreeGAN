@@ -1,0 +1,1 @@
+ public String convertBinaryToHexa(String binary) { return binaryToHexa(binary); } 

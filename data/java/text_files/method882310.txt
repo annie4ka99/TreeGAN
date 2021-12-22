@@ -1,0 +1,1 @@
+ public void setAction(ActionConfig action) { assert (action != null); actions.add(action); } 

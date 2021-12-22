@@ -1,0 +1,1 @@
+ public void addChildNode(final Node pChild) { if (pChild != null) { childs.add(pChild); } } 

@@ -1,0 +1,1 @@
+ protected void preDispatch() throws ChannelException { channel.setOpt(Channel.GET_STATE_EVENTS, Boolean.TRUE); } 

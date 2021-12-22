@@ -1,0 +1,1 @@
+ public boolean containsJugador(Jugador jugador) { return this.jugador.contains(jugador); } 

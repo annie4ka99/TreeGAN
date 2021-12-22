@@ -1,0 +1,1 @@
+ synchronized public TrainingContour getTrainingContour(int iContour) { return trainingContours.get(iContour); } 

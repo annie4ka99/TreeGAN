@@ -1,0 +1,1 @@
+ public void initPool( AVM2ABCFile.WriteContext context ) { valueKind.initPool( context, value ); } 

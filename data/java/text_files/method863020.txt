@@ -1,0 +1,1 @@
+ private TriggerModel getFixture() { return fixture; } 

@@ -1,0 +1,1 @@
+ public E poll() { if (size==0) return null; return removeFirst(); } 

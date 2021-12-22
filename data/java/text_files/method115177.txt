@@ -1,0 +1,1 @@
+ public boolean hasLyrics3Tag() { return (lyrics3tag != null); } 

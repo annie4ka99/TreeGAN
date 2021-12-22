@@ -1,0 +1,1 @@
+ public void markAsFixedSizeCollection(String collectionName) { fixedSizeCollections.add(collectionName); } 

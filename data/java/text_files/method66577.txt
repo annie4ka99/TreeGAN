@@ -1,0 +1,1 @@
+ public void setServerIP(String serverIP) { this.serverIP = serverIP; } 

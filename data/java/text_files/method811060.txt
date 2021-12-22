@@ -1,0 +1,1 @@
+ protected void setFixture(ScanWindowListType fixture) { this.fixture = fixture; } 

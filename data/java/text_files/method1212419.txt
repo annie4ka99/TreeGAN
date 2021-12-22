@@ -1,0 +1,1 @@
+ public Object eval(Reader reader) throws ScriptException { return eval(reader, context); } 

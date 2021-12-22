@@ -1,0 +1,1 @@
+ public void setSunburstValue(int value) { sunburstValue = value; } 

@@ -1,0 +1,1 @@
+public void setBnsNetworkLink(BnsNetworkLink newValue) { this.bnsNetworkLink = newValue; } 

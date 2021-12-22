@@ -1,0 +1,1 @@
+ public int removeLastBoardPosition() { if(nextIndexToWrite == 0) { memoryBlockToWrite = memoryBlockToWrite.previousMemoryBlock; nextIndexToWrite = MEMORY_BLOCK_SIZE; } return memoryBlockToWrite.memory[--nextIndexToWrite]; } 

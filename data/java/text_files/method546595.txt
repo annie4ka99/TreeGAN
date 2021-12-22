@@ -1,0 +1,1 @@
+ public NetObject getChildAt(int idx) { return (NetObject)children.get(idx); } 

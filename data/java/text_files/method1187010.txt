@@ -1,0 +1,1 @@
+ public void setViewOnlineEnabled(boolean viewOnlineEnabled) { this.viewOnlineEnabled = viewOnlineEnabled; } 

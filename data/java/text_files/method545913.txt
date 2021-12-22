@@ -1,0 +1,1 @@
+ public void unselectAll() { getY1Axis().clearDataView(); getY2Axis().clearDataView(); getXAxis().clearDataView(); } 

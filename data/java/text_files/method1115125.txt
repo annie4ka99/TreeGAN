@@ -1,0 +1,1 @@
+ public boolean accept(String instruction) { return instruction != null && instruction.startsWith(CODE); } 

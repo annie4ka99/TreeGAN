@@ -1,0 +1,1 @@
+ public void setDisplay( boolean disp ) { this.bolDisplay = new Boolean( disp ); } 

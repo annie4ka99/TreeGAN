@@ -1,0 +1,1 @@
+ public int getFramesPerSecond() { return framesPerSecond; } 

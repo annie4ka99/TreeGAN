@@ -1,0 +1,1 @@
+ public boolean isTrustedMitM() { return enableTrustedMitM; } 

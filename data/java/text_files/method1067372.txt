@@ -1,0 +1,1 @@
+ protected void setMouseLocation(Point mouseLocation) { this.mouseLocation = mouseLocation; } 

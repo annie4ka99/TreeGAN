@@ -1,0 +1,1 @@
+ public void addTempDefenseBoost(int n) { tempDefenseBoost += n; this.updateObservers(); } 

@@ -1,0 +1,1 @@
+ public void visitLADD(LADD o){ stack().pop(); stack().pop(); stack().push(Type.LONG); } 

@@ -1,0 +1,1 @@
+ public void setMethod(ConnectionMethod method) { this.method = method; } 

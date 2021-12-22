@@ -1,0 +1,1 @@
+ public void setDocuments(DocumentSet set) { documents = set; } 

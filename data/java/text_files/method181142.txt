@@ -1,0 +1,1 @@
+ public DbNlsString getNlsString(Long id) { return getNlsString(id, Locale.getDefault()); } 

@@ -1,0 +1,1 @@
+ public void removeRenderer(Object value) { holders.remove(value); } 

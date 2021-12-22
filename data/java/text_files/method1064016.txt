@@ -1,0 +1,1 @@
+ public boolean isStruct(){ return hasStereotype("struct"); } 

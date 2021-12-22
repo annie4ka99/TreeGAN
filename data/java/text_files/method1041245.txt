@@ -1,0 +1,1 @@
+ public Class getMethodClass() { return this.clazz; } 

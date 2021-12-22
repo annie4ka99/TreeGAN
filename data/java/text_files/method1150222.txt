@@ -1,0 +1,1 @@
+ public void writeChunk(Chunk k) throws IOException { objectOut.writeObject(k); } 

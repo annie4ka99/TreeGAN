@@ -1,0 +1,1 @@
+ public void setDownloadOffered(boolean b) { downloadOffered = b; } 

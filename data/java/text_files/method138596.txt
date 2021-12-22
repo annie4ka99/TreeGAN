@@ -1,0 +1,1 @@
+ public void setGroupTag(String tag) { group_tag = tag; } 

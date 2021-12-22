@@ -1,0 +1,1 @@
+ public void visitISTORE(ISTORE o){ locals().set(o.getIndex(), stack().pop()); } 

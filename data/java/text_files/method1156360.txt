@@ -1,0 +1,1 @@
+ public void denyCharacterAttributes(final Object[] o) { if (o != null) { deny = o; } } 

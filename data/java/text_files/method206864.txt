@@ -1,0 +1,1 @@
+ public void addSupportedView(CanvasView view) { supportedViews.add(view); } 

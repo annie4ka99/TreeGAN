@@ -1,0 +1,1 @@
+ public void setWasMultiPacket(boolean flag) { this.wasMultiPacket = flag; } 

@@ -1,0 +1,1 @@
+ public void setForn(Fornitore forn) { this.forn = forn; } 

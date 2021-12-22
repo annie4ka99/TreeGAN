@@ -1,0 +1,1 @@
+ public int getPixelType() { return pixelType; } 

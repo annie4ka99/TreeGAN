@@ -1,0 +1,1 @@
+ public void setFileExtension(String ext) { defaultExtension = ext; } 

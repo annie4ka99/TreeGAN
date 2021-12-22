@@ -1,0 +1,1 @@
+ public void setHistograms(HistogramArrayPropertyType value) { this.histograms = value; } 

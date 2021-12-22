@@ -1,0 +1,1 @@
+ public void setOutLineVisible(boolean visible) { outLineVisible = visible; } 

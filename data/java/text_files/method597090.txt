@@ -1,0 +1,1 @@
+ public void swap() { mv.visitInsn(Opcodes.SWAP); } 

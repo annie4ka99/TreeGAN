@@ -1,0 +1,1 @@
+ public void setFailonerror(final boolean value) { failOnError = value; } 

@@ -1,0 +1,1 @@
+ private String noNull(String input) { if (input == null) return ""; return input; } 

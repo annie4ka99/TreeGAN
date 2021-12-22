@@ -1,0 +1,1 @@
+ public int getPrimaryFill() { return this.primaryFill; } 

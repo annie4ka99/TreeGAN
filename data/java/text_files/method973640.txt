@@ -1,0 +1,1 @@
+ public Form getForm() { if (form == null) { form = new Form("form"); } return form; } 

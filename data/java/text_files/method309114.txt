@@ -1,0 +1,1 @@
+ public void enableBackButton(boolean enabled) { bottomPane.backButton().setEnabled(enabled); } 

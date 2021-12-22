@@ -1,0 +1,1 @@
+ public void setReturnComposedObjects(boolean value) { this.returnComposedObjects = value; } 

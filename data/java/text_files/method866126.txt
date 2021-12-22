@@ -1,0 +1,1 @@
+ public void writeVU30( int value ) throws IOException { long lval = value & 0x3fffffff; writeVU32( lval ); } 

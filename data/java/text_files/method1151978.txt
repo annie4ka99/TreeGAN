@@ -1,0 +1,1 @@
+ public JointType getType() { return m_type; } 

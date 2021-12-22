@@ -1,0 +1,1 @@
+ public String toString() { return "Mode(" + Mode + ") Amount(" + Amount + ") Timestamp(" + hsTimeStamp + ")"; } 

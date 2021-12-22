@@ -1,0 +1,1 @@
+ public void slotMentionValueChanged() { if( manager.isRequiredMode() ) { refreshRequiredCount(); } } 

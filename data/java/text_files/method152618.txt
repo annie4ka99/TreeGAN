@@ -1,0 +1,1 @@
+ public boolean containsAttribute(String key) { return map.containsKey(key); } 

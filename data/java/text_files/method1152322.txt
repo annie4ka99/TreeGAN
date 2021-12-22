@@ -1,0 +1,1 @@
+ public void setIsLoop(boolean isLoop) { isALoop = isLoop; } 

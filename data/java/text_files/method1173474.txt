@@ -1,0 +1,1 @@
+ public void suppressMode(String mode) { suppressedModes.add(mode); } 

@@ -1,0 +1,1 @@
+ public void jumpOverBoardPosition(int boardPosition) { while(memoryBlockToRead.memory[nextIndexToRead] == boardPosition) { removeBoardPosition(); } } 

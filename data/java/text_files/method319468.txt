@@ -1,0 +1,1 @@
+ public boolean supportsPositionedDelete() throws SQLException { return false; } 

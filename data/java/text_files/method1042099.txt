@@ -1,0 +1,1 @@
+ public Vector2f negate() { return new Vector2f(-x, -y); } 

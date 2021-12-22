@@ -1,0 +1,1 @@
+ public void setDevice_in_charge(final String attributeArray) { this.deviceInCharge = attributeArray; } 

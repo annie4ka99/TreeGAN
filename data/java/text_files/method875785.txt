@@ -1,0 +1,1 @@
+ public void setListNumber(int listNumber) { this.listNumber = listNumber; } 

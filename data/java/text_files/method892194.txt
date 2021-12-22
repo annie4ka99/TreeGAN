@@ -1,0 +1,1 @@
+ public void setJavascriptValidation(String jsv) { this.javascriptValidation = jsv; } 

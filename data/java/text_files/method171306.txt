@@ -1,0 +1,1 @@
+ public void visitF2I(F2I o){ stack().pop(); stack().push(Type.INT); } 

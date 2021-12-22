@@ -1,0 +1,1 @@
+ public void setResizable(boolean value) { this.resizable = value; } 

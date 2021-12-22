@@ -1,0 +1,1 @@
+ public ServiceBindingType createServiceBindingType() { return new ServiceBindingType(); } 

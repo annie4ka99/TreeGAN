@@ -1,0 +1,1 @@
+ public Iterator tuples() { return new CompositeIterator(edges(), nodes()); } 

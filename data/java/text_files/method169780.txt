@@ -1,0 +1,1 @@
+ public int getStaffExpenses() { return Math.round((float) staffExpenses / currencyRate); } 

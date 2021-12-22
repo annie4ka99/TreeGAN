@@ -1,0 +1,1 @@
+ public boolean isInMemory() { return this.cachedObject != null; } 

@@ -1,0 +1,1 @@
+ public String getUninstallName(String host) { return uninstallFileTable.get(host); } 

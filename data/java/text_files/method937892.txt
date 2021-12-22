@@ -1,0 +1,1 @@
+ public void setMonth(final int month) { cMonths.setSelectedIndex(month); } 

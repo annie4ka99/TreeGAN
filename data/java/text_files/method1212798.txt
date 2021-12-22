@@ -1,0 +1,1 @@
+ public void setOperatorGreater(Pattern operatorGreater) { this.operatorGreater = operatorGreater; } 

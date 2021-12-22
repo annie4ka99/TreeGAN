@@ -1,0 +1,1 @@
+ public void setGap( int gap ) { top = left = bottom = right = checkGap( gap ); } 

@@ -1,0 +1,1 @@
+ public void setCmpInReplyTo( boolean doCompare ) { cmpInReplyTo = doCompare; } 

@@ -1,0 +1,1 @@
+ public DXFWriter newInstance(Writer writer) { return new Rel14DXFWriter(writer); } 

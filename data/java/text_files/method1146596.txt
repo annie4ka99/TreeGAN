@@ -1,0 +1,1 @@
+ public String getString(String propertyName) { return stringMap.get(propertyName); } 

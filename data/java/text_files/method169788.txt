@@ -1,0 +1,1 @@
+ public int getLeadership() { return leadership; } 

@@ -1,0 +1,1 @@
+ public WSINonce createWSINonce() { return new WSINonce(); } 

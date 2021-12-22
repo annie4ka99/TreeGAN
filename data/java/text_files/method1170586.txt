@@ -1,0 +1,1 @@
+ public void setXValue(int x) { xValue = x; } 

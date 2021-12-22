@@ -1,0 +1,1 @@
+ public int getMinFontSize() { return minFontSize; } 

@@ -1,0 +1,1 @@
+ public void setFormatPattern(String formatPattern) { this.formatPattern = formatPattern; } 

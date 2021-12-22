@@ -1,0 +1,1 @@
+ public void fireClosingEvent() { processWindowEvent( new WindowEvent( this, WindowEvent.WINDOW_CLOSING)); } 

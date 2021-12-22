@@ -1,0 +1,1 @@
+ public RedirectResolution setPermanent(boolean permanent) { this.permanent = permanent; return this; } 

@@ -1,0 +1,1 @@
+ public void add(double val) { this.val += val; ++n; } 

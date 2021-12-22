@@ -1,0 +1,762 @@
+D:\anaconda\envs\tree_gan\python.exe D:/ml4se/TreeGAN/main.py
+pre-training generator...
+epoch: 0
+D:\ml4se\TreeGAN\tree_gan\optim.py:204: UserWarning: This overload of addcmul_ is deprecated:
+	addcmul_(Number value, Tensor tensor1, Tensor tensor2)
+Consider using one of the following signatures instead:
+	addcmul_(Tensor tensor1, Tensor tensor2, *, Number value) (Triggered internally at  ..\torch\csrc\utils\python_arg_parser.cpp:1005.)
+  exp_avg_sq.mul_(beta2).addcmul_(1 - beta2, grad, grad)
+10 % done
+20 % done
+30 % done
+40 % done
+50 % done
+60 % done
+70 % done
+80 % done
+90 % done
+epoch: 1
+10 % done
+20 % done
+30 % done
+40 % done
+50 % done
+60 % done
+70 % done
+80 % done
+90 % done
+epoch: 2
+10 % done
+20 % done
+30 % done
+40 % done
+50 % done
+60 % done
+70 % done
+80 % done
+90 % done
+epoch: 3
+10 % done
+20 % done
+30 % done
+40 % done
+50 % done
+60 % done
+70 % done
+80 % done
+90 % done
+epoch: 4
+10 % done
+20 % done
+30 % done
+40 % done
+50 % done
+60 % done
+70 % done
+80 % done
+90 % done
+epoch: 5
+10 % done
+20 % done
+30 % done
+40 % done
+50 % done
+60 % done
+70 % done
+80 % done
+90 % done
+ELAPSED TIME (sec): 135.171875
+===========================
+training started
+epoch: 0
+generator:
+D:\ml4se\TreeGAN\tree_gan\learning_utils.py:283: FutureWarning: The input object of type 'Tensor' is an array-like implementing one of the corresponding protocols (`__array__`, `__array_interface__` or `__array_struct__`); but not a sequence (or 0-D). In the future, this object will be coerced as if it was first converted using `np.array(obj)`. To retain the old behaviour, you have to either modify the type 'Tensor', or assign to an empty array created with `np.empty(correct_shape, dtype=object)`.
+  return np.array(list(map(lambda x: x.cpu(), l)), dtype=torch.Tensor)
+step: 20150  of  200000
+reward:  0.4891411364078522
+
+step: 40109  of  200000
+reward:  0.38394594192504883
+
+step: 60150  of  200000
+reward:  0.33833667635917664
+
+step: 80150  of  200000
+reward:  0.47440510988235474
+
+step: 100150  of  200000
+reward:  0.49661755561828613
+
+step: 120150  of  200000
+reward:  0.4988505244255066
+
+step: 140150  of  200000
+reward:  0.06808878481388092
+
+step: 160150  of  200000
+reward:  0.47598403692245483
+
+step: 180150  of  200000
+reward:  -0.24090179800987244
+
+ELAPSED TIME (sec): 302.109375
+avg episode reward: 0.3685797763489978
+sample:
+ public void setLengpugCimpCompodokVisibstronst(ActiCommonat i) { return this.neQNIADDIJPPLT_CLFDPSDe; }
+---------------------------
+discriminator:
+epoch: 0
+11 % done
+loss: 3.7753660678863525
+
+20 % done
+loss: 3.7138824462890625
+
+31 % done
+loss: 2.036379814147949
+
+40 % done
+loss: 1.4013466835021973
+
+52 % done
+loss: 1.289625883102417
+
+61 % done
+loss: 1.1593736410140991
+
+70 % done
+loss: 1.0464797019958496
+
+81 % done
+loss: 0.7864014506340027
+
+90 % done
+loss: 0.9408566951751709
+
+101 % done
+loss: 0.7892677783966064
+
+ELAPSED TIME (sec): 479.375
+===========================
+epoch: 1
+generator:
+step: 20154  of  200000
+reward:  -0.11462938785552979
+
+step: 40154  of  200000
+reward:  -0.2299264669418335
+
+step: 60154  of  200000
+reward:  -0.25132420659065247
+
+step: 80154  of  200000
+reward:  0.19941061735153198
+
+step: 100154  of  200000
+reward:  -0.2194841057062149
+
+step: 120154  of  200000
+reward:  -0.2419639229774475
+
+step: 140154  of  200000
+reward:  -0.2126617729663849
+
+step: 160154  of  200000
+reward:  -0.2247009575366974
+
+step: 180154  of  200000
+reward:  -0.281571626663208
+
+ELAPSED TIME (sec): 297.40625
+avg episode reward: -0.18031354060825064
+sample:
+ public Locy RestiveItemTypestTypeIdDiversPlatactyHashCRwNA(){ return crecationNamestfaceRougperLocationPingotasStrucketCachIDEventiaredsSec(); }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 0.5771000385284424
+
+20 % done
+loss: 0.5382546186447144
+
+30 % done
+loss: 0.5259459018707275
+
+40 % done
+loss: 0.4622878432273865
+
+50 % done
+loss: 0.4736331105232239
+
+60 % done
+loss: 0.3948870003223419
+
+70 % done
+loss: 0.5052459836006165
+
+80 % done
+loss: 0.45417946577072144
+
+90 % done
+loss: 0.5346111059188843
+
+100 % done
+loss: 0.4223916530609131
+
+ELAPSED TIME (sec): 962.703125
+===========================
+epoch: 2
+generator:
+step: 20167  of  200000
+reward:  -0.24958588182926178
+
+step: 40167  of  200000
+reward:  -0.19175897538661957
+
+step: 60167  of  200000
+reward:  0.14577925205230713
+
+step: 80136  of  200000
+reward:  0.20995479822158813
+
+step: 100167  of  200000
+reward:  0.4088330566883087
+
+step: 120159  of  200000
+reward:  0.39623570442199707
+
+step: 140104  of  200000
+reward:  0.4144033193588257
+
+step: 160167  of  200000
+reward:  0.1745239645242691
+
+step: 180167  of  200000
+reward:  0.27048081159591675
+
+ELAPSED TIME (sec): 303.15625
+avg episode reward: 0.06097793141744999
+sample:
+public char conoticetunt(TECYEXLEA PanimukerCate) { LEL2_MATESEXRLERIIY = DEIM1YCwTIH_PYW_RTILE; }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 0.897645115852356
+
+20 % done
+loss: 0.8429461121559143
+
+30 % done
+loss: 0.7213376760482788
+
+40 % done
+loss: 0.8421887159347534
+
+50 % done
+loss: 0.8583700656890869
+
+60 % done
+loss: 0.6254709362983704
+
+70 % done
+loss: 0.716956615447998
+
+80 % done
+loss: 0.7009180784225464
+
+90 % done
+loss: 0.5107287168502808
+
+100 % done
+loss: 0.6809799671173096
+
+ELAPSED TIME (sec): 1420.0
+===========================
+epoch: 3
+generator:
+step: 20187  of  200000
+reward:  -0.3177962303161621
+
+step: 40143  of  200000
+reward:  -0.27432891726493835
+
+step: 60114  of  200000
+reward:  -0.2764281630516052
+
+step: 80187  of  200000
+reward:  -0.29217529296875
+
+step: 100119  of  200000
+reward:  0.33273792266845703
+
+step: 120086  of  200000
+reward:  -0.1598498821258545
+
+step: 140108  of  200000
+reward:  -0.2561948597431183
+
+step: 160133  of  200000
+reward:  -0.18625763058662415
+
+step: 180071  of  200000
+reward:  0.04525071009993553
+
+ELAPSED TIME (sec): 298.875
+avg episode reward: -0.11716575302566203
+sample:
+ public Mandurica getFocums() { return serve != aigth; }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 0.9833000898361206
+
+20 % done
+loss: 0.7638205289840698
+
+30 % done
+loss: 0.7575703263282776
+
+40 % done
+loss: 0.8208507299423218
+
+50 % done
+loss: 0.794135570526123
+
+60 % done
+loss: 0.7588257193565369
+
+70 % done
+loss: 0.7662340998649597
+
+80 % done
+loss: 0.7071987390518188
+
+90 % done
+loss: 0.6390439867973328
+
+100 % done
+loss: 0.7939908504486084
+
+ELAPSED TIME (sec): 1511.03125
+===========================
+epoch: 4
+generator:
+step: 20088  of  200000
+reward:  0.27025139331817627
+
+step: 40187  of  200000
+reward:  -0.06679167598485947
+
+step: 60112  of  200000
+reward:  0.07918528467416763
+
+step: 80161  of  200000
+reward:  0.1761329621076584
+
+step: 100196  of  200000
+reward:  -0.2722075283527374
+
+step: 120105  of  200000
+reward:  0.16385895013809204
+
+step: 140047  of  200000
+reward:  0.25615841150283813
+
+step: 160186  of  200000
+reward:  0.08569978177547455
+
+step: 180148  of  200000
+reward:  0.23598970472812653
+
+ELAPSED TIME (sec): 301.125
+avg episode reward: -0.021655219380110422
+sample:
+ public void TrouseRenderenceStringBooderpaifierT(double e, int toloo) { sescro.getColo(); }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 0.6900098323822021
+
+20 % done
+loss: 0.6927456855773926
+
+30 % done
+loss: 0.7551323771476746
+
+40 % done
+loss: 0.5425212383270264
+
+50 % done
+loss: 0.6697673797607422
+
+60 % done
+loss: 0.6825191974639893
+
+70 % done
+loss: 0.5673840045928955
+
+80 % done
+loss: 0.5645830035209656
+
+90 % done
+loss: 0.6692250967025757
+
+100 % done
+loss: 0.7308535575866699
+
+ELAPSED TIME (sec): 2369.71875
+===========================
+epoch: 5
+generator:
+step: 20109  of  200000
+reward:  0.1114942878484726
+
+step: 40091  of  200000
+reward:  -0.1996000111103058
+
+step: 60052  of  200000
+reward:  0.08540212363004684
+
+step: 80093  of  200000
+reward:  -0.2076331526041031
+
+step: 100086  of  200000
+reward:  0.03844203054904938
+
+step: 120089  of  200000
+reward:  0.10231272876262665
+
+step: 140067  of  200000
+reward:  -0.09858263283967972
+
+step: 160120  of  200000
+reward:  0.2502967119216919
+
+step: 180088  of  200000
+reward:  -0.06622655689716339
+
+ELAPSED TIME (sec): 297.296875
+avg episode reward: 0.010350320207013698
+sample:
+ public void setFileDo(Droupkamea newVe) { setCh (); slote(); setDe(); }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 0.9003883600234985
+
+20 % done
+loss: 0.786085844039917
+
+30 % done
+loss: 0.8106589317321777
+
+40 % done
+loss: 0.7358851432800293
+
+50 % done
+loss: 0.70868980884552
+
+60 % done
+loss: 0.6827835440635681
+
+70 % done
+loss: 1.0524100065231323
+
+80 % done
+loss: 0.7422705292701721
+
+90 % done
+loss: 0.8210064768791199
+
+100 % done
+loss: 0.7189915180206299
+
+ELAPSED TIME (sec): 1928.953125
+===========================
+epoch: 6
+generator:
+step: 20166  of  200000
+reward:  -0.012944189831614494
+
+step: 40149  of  200000
+reward:  -0.2657238245010376
+
+step: 60001  of  200000
+reward:  -0.012983333319425583
+
+step: 80001  of  200000
+reward:  0.003169715404510498
+
+step: 100001  of  200000
+reward:  0.19405429065227509
+
+step: 120001  of  200000
+reward:  -0.01108242105692625
+
+step: 140001  of  200000
+reward:  0.35311657190322876
+
+step: 160001  of  200000
+reward:  -0.007047116756439209
+
+step: 180001  of  200000
+reward:  0.3532259166240692
+
+step: 200001  of  200000
+reward:  0.16998407244682312
+
+ELAPSED TIME (sec): 311.5625
+avg episode reward: 0.021278024625608478
+sample:
+ public void clumbelExiblk() { return sextorcofided; }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 0.7607783079147339
+
+20 % done
+loss: 0.8182791471481323
+
+30 % done
+loss: 0.8258200883865356
+
+40 % done
+loss: 0.7184414863586426
+
+50 % done
+loss: 0.6586171388626099
+
+60 % done
+loss: 0.7047356367111206
+
+70 % done
+loss: 0.6221802234649658
+
+80 % done
+loss: 0.6483544111251831
+
+90 % done
+loss: 0.590114414691925
+
+100 % done
+loss: 0.7186022400856018
+
+ELAPSED TIME (sec): 3046.984375
+===========================
+epoch: 7
+generator:
+step: 20083  of  200000
+reward:  -0.23023061454296112
+
+step: 40126  of  200000
+reward:  -0.14548629522323608
+
+step: 60149  of  200000
+reward:  -0.08026991784572601
+
+step: 80056  of  200000
+reward:  0.023548679426312447
+
+step: 100047  of  200000
+reward:  0.2117677927017212
+
+step: 120104  of  200000
+reward:  0.3128989636898041
+
+step: 140051  of  200000
+reward:  0.25034499168395996
+
+step: 160058  of  200000
+reward:  0.004200485069304705
+
+step: 180001  of  200000
+reward:  -0.17534349858760834
+
+step: 200001  of  200000
+reward:  0.08348827064037323
+
+ELAPSED TIME (sec): 307.40625
+avg episode reward: -0.01926272191696352
+sample:
+ public Strings getSizentar() { return rokus; }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 0.8153859972953796
+
+20 % done
+loss: 0.9858748912811279
+
+30 % done
+loss: 0.8163391947746277
+
+40 % done
+loss: 0.8247189521789551
+
+50 % done
+loss: 0.7723476886749268
+
+60 % done
+loss: 0.776829719543457
+
+70 % done
+loss: 0.7786664962768555
+
+80 % done
+loss: 0.7278410792350769
+
+90 % done
+loss: 1.1170964241027832
+
+99 % done
+loss: 0.9339612126350403
+
+ELAPSED TIME (sec): 2781.46875
+===========================
+epoch: 8
+generator:
+step: 20106  of  200000
+reward:  -0.16256588697433472
+
+step: 40072  of  200000
+reward:  0.10679612308740616
+
+step: 60124  of  200000
+reward:  -0.1876307874917984
+
+step: 80235  of  200000
+reward:  0.4012313187122345
+
+step: 100263  of  200000
+reward:  -0.27759647369384766
+
+step: 120177  of  200000
+reward:  0.01188597735017538
+
+step: 140123  of  200000
+reward:  0.2650443911552429
+
+step: 160165  of  200000
+reward:  0.060631491243839264
+
+step: 180151  of  200000
+reward:  0.012694829143583775
+
+ELAPSED TIME (sec): 291.0625
+avg episode reward: -0.06268833355859457
+sample:
+ public ParsettorScalervat getReadyBitionuttoryin() { returnM s = true == 0 != parayCo && dest.get() == valueentio; }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 0.6434909105300903
+
+20 % done
+loss: 0.5184296369552612
+
+30 % done
+loss: 0.5854988694190979
+
+40 % done
+loss: 0.55025315284729
+
+50 % done
+loss: 0.5951055288314819
+
+60 % done
+loss: 0.632928729057312
+
+70 % done
+loss: 0.56074059009552
+
+80 % done
+loss: 0.5250524282455444
+
+90 % done
+loss: 0.6884679794311523
+
+100 % done
+loss: 0.5137300491333008
+
+ELAPSED TIME (sec): 4385.765625
+===========================
+epoch: 9
+generator:
+step: 20142  of  200000
+reward:  -0.24614298343658447
+
+step: 40161  of  200000
+reward:  -0.29988154768943787
+
+step: 60137  of  200000
+reward:  -0.28113415837287903
+
+step: 80119  of  200000
+reward:  -0.04399649798870087
+
+step: 100135  of  200000
+reward:  -0.17755432426929474
+
+step: 120300  of  200000
+reward:  -0.32995083928108215
+
+step: 140088  of  200000
+reward:  0.388058066368103
+
+step: 160158  of  200000
+reward:  0.043377332389354706
+
+step: 180063  of  200000
+reward:  -0.08672633022069931
+
+ELAPSED TIME (sec): 307.859375
+avg episode reward: -0.018495628446880713
+sample:
+ private String sarConompBet() { return cont1; }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 0.719074010848999
+
+20 % done
+loss: 0.8672762513160706
+
+30 % done
+loss: 0.7805548906326294
+
+40 % done
+loss: 0.783949077129364
+
+50 % done
+loss: 0.6345069408416748
+
+60 % done
+loss: 0.7719588279724121
+
+70 % done
+loss: 0.6197857856750488
+
+80 % done
+loss: 0.6294213533401489
+
+90 % done
+loss: 0.6306915283203125
+
+ELAPSED TIME (sec): 3275.046875
+===========================
+---------------------------------
+ public boolean tequlentColum(this.Str .IXEmtCarnda r) { }
+---------------------------------
+ELAPSED TIME (sec): 25319.3125
+---------------------------------
+
+Process finished with exit code 0

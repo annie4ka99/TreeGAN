@@ -1,0 +1,1 @@
+ public void setAddress(String value) { this.address = value; } 

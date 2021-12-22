@@ -1,0 +1,1 @@
+ public boolean isShowAllEdgesForVisibleVertices() { return showAllEdgesForVisibleVertices; } 

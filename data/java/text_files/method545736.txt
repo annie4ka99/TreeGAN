@@ -1,0 +1,1 @@
+ public void setAxeName(String s) { axeName = s; } 

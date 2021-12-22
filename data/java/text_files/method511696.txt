@@ -1,0 +1,1 @@
+ public void setAktienName(java.lang.String aktienName) { this.aktienName = aktienName; } 

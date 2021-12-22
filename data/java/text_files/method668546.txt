@@ -1,0 +1,1 @@
+ public float getlnFloat() { float x = getFloat(); emptyBuffer(); return x; } 

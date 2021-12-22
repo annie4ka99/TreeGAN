@@ -1,0 +1,1 @@
+ public void beforeFirst() { mCurrentRowIndex = -1; } 

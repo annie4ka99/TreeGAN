@@ -1,0 +1,1 @@
+ public boolean getHasEnd() { return this.endDate != null; } 

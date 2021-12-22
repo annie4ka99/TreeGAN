@@ -1,0 +1,1 @@
+ public void setDerived(boolean b){ if (b) { derived=" "+_derived; } else { derived=""; } display(); } 

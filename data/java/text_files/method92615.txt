@@ -1,0 +1,1 @@
+ public int getMaxTablesInSelect() { return 0; } 

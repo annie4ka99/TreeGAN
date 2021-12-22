@@ -1,0 +1,1 @@
+ public String refMofId() { if(DELEGATOR != null) return DELEGATOR.refMofId(); else return MOF_ID; } 

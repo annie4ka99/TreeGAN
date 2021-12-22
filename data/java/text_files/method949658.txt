@@ -1,0 +1,1 @@
+ public long getMaxLoops() { if (systemLoad!=null) return systemLoad.getMaxLoops(); return 0; } 

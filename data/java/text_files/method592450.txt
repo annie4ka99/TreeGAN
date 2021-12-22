@@ -1,0 +1,1 @@
+ public void log(Exception exception, String message) { log(message, exception); } 

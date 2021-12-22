@@ -1,0 +1,1 @@
+ public void setIdSupplier(java.lang.Integer idSupplier) { this.idSupplier = idSupplier; } 

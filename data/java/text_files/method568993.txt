@@ -1,0 +1,1 @@
+ public void setNativeMethod(boolean nativeMethod) { this.nativeMethod = nativeMethod; hcode = 0; } 

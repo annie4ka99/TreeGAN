@@ -1,0 +1,1 @@
+ private String getI18nGroupName(final Group group) { return getI18nMessage(group.getName()); } 

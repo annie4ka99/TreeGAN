@@ -1,0 +1,1 @@
+ public boolean hasDatePart(){ return (sets_[YEAR] || sets_[MONTH] || sets_[DAY]); } 

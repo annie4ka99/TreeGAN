@@ -1,0 +1,1 @@
+ public double getRow(int i) { return crSpec[R][i]; } 

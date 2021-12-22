@@ -1,0 +1,1 @@
+ public void setModel(int model) { getModelList().setSelectedIndex(model); revalidate(); } 

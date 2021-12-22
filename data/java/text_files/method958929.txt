@@ -1,0 +1,1 @@
+ public boolean addCarta(Carta carta) { return this.carta.add(carta); } 

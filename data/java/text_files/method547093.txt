@@ -1,0 +1,1 @@
+ public JGL3DAxis getZAxis() { return j3dView.getZAxis(); } 

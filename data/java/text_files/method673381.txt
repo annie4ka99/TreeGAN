@@ -1,0 +1,1 @@
+ public void resetEntryBASE_EVENTSIDE(){ hBASE_EVENTSIDE = new ArrayList(); } 

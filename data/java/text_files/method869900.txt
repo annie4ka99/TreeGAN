@@ -1,0 +1,1 @@
+ public Store getStore() { return store; } 

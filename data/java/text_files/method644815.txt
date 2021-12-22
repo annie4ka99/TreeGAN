@@ -1,0 +1,1 @@
+ public String getSQL() { return "select name from mysql.proc where type='PROCEDURE' and db = ?"; } 

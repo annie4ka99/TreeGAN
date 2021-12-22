@@ -1,0 +1,1 @@
+ public void pushinteger(Short s) { if ( s == null ) pushnil(); else pushinteger( s.shortValue() ); } 

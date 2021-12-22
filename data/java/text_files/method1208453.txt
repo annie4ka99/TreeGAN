@@ -1,0 +1,1 @@
+ public boolean hasExcludedName(String name) { return table.get(name) != null; } 

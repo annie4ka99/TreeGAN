@@ -1,0 +1,1 @@
+ public void add(TravelbugJourney tb) { tbJourneyList.add(tb); } 

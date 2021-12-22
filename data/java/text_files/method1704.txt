@@ -1,0 +1,1 @@
+ final public void setWall(int x, int y) { wallsArray[x + width * y]++; } 

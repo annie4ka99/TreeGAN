@@ -1,0 +1,1 @@
+ public void setAppName(java.lang.String appName) { this.appName = appName; } 

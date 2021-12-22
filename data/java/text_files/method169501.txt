@@ -1,0 +1,1 @@
+ public JPanel getLeftWingbackPanel() { return m_clLinkeAussenVerteidiger; } 

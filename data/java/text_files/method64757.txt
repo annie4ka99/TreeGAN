@@ -1,0 +1,1 @@
+ public void fixedCellDoubleClicked(int col, int row, int statemask) { } 

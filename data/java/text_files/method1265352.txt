@@ -1,0 +1,1 @@
+ public Adapter createTLinksAdapter() { return null; } 

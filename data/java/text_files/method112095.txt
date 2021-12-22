@@ -1,0 +1,1 @@
+ public void setDataIsland(DataIsland iDataIsland) { dataIsland = iDataIsland; } 

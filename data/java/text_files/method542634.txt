@@ -1,0 +1,1 @@
+ public void stopRefresher() { if (refresher != null) refresher.stopRunning(); refresher = null; } 

@@ -1,0 +1,1 @@
+ public int getSkillNumber(){ return skillFields.length;} 

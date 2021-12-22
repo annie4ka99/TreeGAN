@@ -1,0 +1,1 @@
+ public void setSymbolNameBetaCoeff(String symbolName) { ecTerm1.setSymbolNameCoeff(symbolName); } 

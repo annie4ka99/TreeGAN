@@ -1,0 +1,1 @@
+public void setBpsDescription(java.lang.String newBpsDescription) { bpsDescription = newBpsDescription; } 

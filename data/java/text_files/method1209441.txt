@@ -1,0 +1,1 @@
+ public boolean has(int index, Scriptable start) { return true; } 

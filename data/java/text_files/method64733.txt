@@ -1,0 +1,1 @@
+ public Point doBelongsToCell(int col, int row) { return new Point(col, row); } 

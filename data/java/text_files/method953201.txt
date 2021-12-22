@@ -1,0 +1,1 @@
+ public void setCdataMessage(Message message) { cdataMessage = message; } 

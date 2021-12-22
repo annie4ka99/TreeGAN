@@ -1,0 +1,1 @@
+ public StatusCondition getValue() { return value; } 

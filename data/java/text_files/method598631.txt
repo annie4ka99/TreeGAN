@@ -1,0 +1,1 @@
+ public int getNumConfiguredAuthLengths() { return authLengths.getNumConfiguredAlgos(); } 

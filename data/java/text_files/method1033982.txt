@@ -1,0 +1,1 @@
+ public void visit(TypeVisitor visitor) { visitor.visitType(this); } 

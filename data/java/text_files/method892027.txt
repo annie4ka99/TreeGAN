@@ -1,0 +1,1 @@
+ protected boolean hasMore(int i) throws SQLException { return (i < size()); } 

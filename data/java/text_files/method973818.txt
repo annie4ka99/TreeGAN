@@ -1,0 +1,1 @@
+ public void setLog(Log log) { this.log = log; } 

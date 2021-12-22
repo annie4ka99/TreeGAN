@@ -1,0 +1,1 @@
+ public void addParameter(Feature f, double i) { this.parameters.addFeature(f, i); } 

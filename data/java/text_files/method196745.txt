@@ -1,0 +1,1 @@
+ public float getMatchValue(Object targetObject) { return matchValue; } 

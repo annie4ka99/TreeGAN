@@ -1,0 +1,1 @@
+ public void endcurve() { thread2("do_endcurve"); } 

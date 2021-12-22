@@ -1,0 +1,1 @@
+ public void setCompressionLevel(int level) { compressionLevel = level; } 

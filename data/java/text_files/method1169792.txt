@@ -1,0 +1,1 @@
+ public void setNeedToNextPhase(boolean needToNextPhase) { this.needToNextPhase = needToNextPhase; } 

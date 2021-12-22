@@ -1,0 +1,1 @@
+ protected void addChildBinding(Binding binding) { assert (binding != null); childBindings.add(binding); } 

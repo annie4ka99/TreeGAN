@@ -1,0 +1,1 @@
+ public void setInput(char[] input) { setInput(input, 0, input.length); } 

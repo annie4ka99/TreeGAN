@@ -1,0 +1,1 @@
+ public void setComparator(String _comp) { defs.COMP_CLASS = _comp; } 

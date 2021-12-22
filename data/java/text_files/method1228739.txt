@@ -1,0 +1,1 @@
+ public void setId(String newId){ id = newId; } 

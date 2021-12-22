@@ -1,0 +1,1 @@
+ public QuestItemAbstract getItem(String itemName) { return inventory.get(itemName); } 

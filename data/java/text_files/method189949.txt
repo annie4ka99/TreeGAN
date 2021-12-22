@@ -1,0 +1,1 @@
+ public void beforeFirst() { reset(Cursor.MOVE_FORWARD); } 

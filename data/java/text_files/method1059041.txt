@@ -1,0 +1,1 @@
+ protected boolean isSelectableElement(Object o) { return (o instanceof Element); } 

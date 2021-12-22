@@ -1,0 +1,1 @@
+ public void coerceToAny() { instructions.append( OP_coerce_a ); } 

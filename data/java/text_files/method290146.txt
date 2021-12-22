@@ -1,0 +1,1 @@
+ public Event getParent() { return parent; } 

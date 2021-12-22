@@ -1,0 +1,1 @@
+ public JLDataView getDataView() { return searchResult.dataView; } 

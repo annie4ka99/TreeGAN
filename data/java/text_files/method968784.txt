@@ -1,0 +1,1 @@
+ protected int getTabsOverlay() { return 0; } 

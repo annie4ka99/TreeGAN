@@ -1,0 +1,1 @@
+ public void switchState() { if (state == CCW) { state = CW; } else { state = CCW; } } 

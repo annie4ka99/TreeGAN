@@ -1,0 +1,1 @@
+ public void setAlpha(Alpha alpha) { rotator.setAlpha(alpha); } 

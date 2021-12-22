@@ -1,0 +1,1 @@
+ public int getBgImageID() { return m_bgImageID; } 

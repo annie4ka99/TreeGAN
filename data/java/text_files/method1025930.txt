@@ -1,0 +1,1 @@
+ public Float toJavaBoxedFloat() { conversionError("Float"); return null; } 

@@ -1,0 +1,1 @@
+ public void setSelectorQuery(AdhocQueryQueryType value) { this.selectorQuery = value; } 

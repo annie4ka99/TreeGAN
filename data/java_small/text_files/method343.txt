@@ -1,0 +1,1 @@
+ public int getInfluenceValue(int boxNo1, int boxNo2) { return influence.getInfluenceDistance( board.boxData.getBoxPosition(boxNo1), board.boxData.getBoxPosition(boxNo2) ); } 

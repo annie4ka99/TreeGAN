@@ -1,0 +1,1 @@
+ public int ang2pix(AngularPosition pos) throws Exception { return (int) super.ang2pix(pos); } 

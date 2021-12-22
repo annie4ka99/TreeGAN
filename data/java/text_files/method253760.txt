@@ -1,0 +1,1 @@
+ public void run() { execute( parent, parent.getProjectsView().getSelectedView()); } 

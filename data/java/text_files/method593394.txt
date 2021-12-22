@@ -1,0 +1,1 @@
+ public boolean isChildOfDefinition() { LayoutTag parent = getLayoutParent(); return parent instanceof LayoutDefinitionTag; } 

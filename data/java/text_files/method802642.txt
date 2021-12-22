@@ -1,0 +1,1 @@
+ public Adapter createAcqSpecificationTypeAdapter() { return null; } 

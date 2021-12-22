@@ -1,0 +1,1 @@
+ protected ImagePrint image( String filename ) { return image( filename, getDefaultImageDPI() ); } 

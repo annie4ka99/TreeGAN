@@ -1,0 +1,1 @@
+ public void setExterior(AbstractRingPropertyType value) { this.exterior = value; } 

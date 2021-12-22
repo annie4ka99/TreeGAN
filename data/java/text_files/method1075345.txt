@@ -1,0 +1,1 @@
+ public void setGotoPage(int gotoPage) { this.gotoPage = gotoPage; } 

@@ -1,0 +1,1 @@
+ protected void addValidationException(SAXException e) { validationExceptions.add(e); } 

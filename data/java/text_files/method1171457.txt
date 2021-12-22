@@ -1,0 +1,1 @@
+ public boolean hasSubAbility() { return hasSubAb; } 

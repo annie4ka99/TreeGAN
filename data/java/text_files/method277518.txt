@@ -1,0 +1,1 @@
+ public void setTableMakerModel(SchemaEditModel tableMakerModel) { this.tableMakerModel = tableMakerModel; } 

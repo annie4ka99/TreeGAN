@@ -1,0 +1,1 @@
+ public void retweetStatusAsync(long statusId) { retweetStatusAsync(statusId, new WeiboAdapter()); } 

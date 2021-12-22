@@ -1,0 +1,1 @@
+ public void setContactInstructions(String value) { this.contactInstructions = value; } 

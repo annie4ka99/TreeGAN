@@ -1,0 +1,1 @@
+ public void validate(String s) throws SAXException, IOException { validate(new StringReader(s)); } 

@@ -1,0 +1,1 @@
+ public void addReachable(T orig, T dest) { addReachable(orig, Collections.singleton(dest)); } 

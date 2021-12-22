@@ -1,0 +1,1 @@
+ public Obstacle getObstacle() { return this.obstacle; } 

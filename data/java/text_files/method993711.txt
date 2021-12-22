@@ -1,0 +1,1 @@
+ public void setMonochrome(boolean monochrome) { this.monochrome = monochrome; } 

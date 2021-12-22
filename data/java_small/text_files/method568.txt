@@ -1,0 +1,1 @@
+ public void add(OptimizerBoardPosition boardPosition) { if (boardPosition == null) throw new NullPointerException(); if (count >= queue.length) { queue = Arrays.copyOf(queue, queue.length * 2); } siftUp(count, boardPosition); count++; } 

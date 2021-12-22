@@ -1,0 +1,1 @@
+ public boolean removeItem(ForceItem item) { return items.remove(item); } 

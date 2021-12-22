@@ -1,0 +1,1 @@
+ private int currentLSN() { return currentblk.number(); } 

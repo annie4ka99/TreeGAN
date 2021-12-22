@@ -1,0 +1,1 @@
+ public void setRecordID(int recordID){ this.recordID = recordID; } 

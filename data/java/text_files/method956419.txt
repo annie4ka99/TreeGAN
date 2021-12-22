@@ -1,0 +1,1 @@
+ public void setDopplerFrequency(MeasureType value) { this.dopplerFrequency = value; } 

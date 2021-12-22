@@ -1,0 +1,1 @@
+ public void setMaintenance(java.lang.Integer maintenance) { this.maintenance = maintenance; } 

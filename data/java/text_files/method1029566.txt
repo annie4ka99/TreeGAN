@@ -1,0 +1,1 @@
+ public void testBug4860() throws Exception { testBug4138(); } 

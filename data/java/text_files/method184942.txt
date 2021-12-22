@@ -1,0 +1,1 @@
+ public Object next() { return new XMLElement(list.item(index++)); } 

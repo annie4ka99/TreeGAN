@@ -1,0 +1,1 @@
+ public void setKurz(java.lang.String kurz) { this.kurz = kurz; } 

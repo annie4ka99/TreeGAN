@@ -1,0 +1,1 @@
+ public boolean canSetFloat() { return canSet(float.class); } 

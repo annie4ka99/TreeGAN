@@ -1,0 +1,1 @@
+ public void setBuildFileWanted(boolean value){ bBuildFileGeneration = value; } 

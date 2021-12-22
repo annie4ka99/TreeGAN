@@ -1,0 +1,1 @@
+ public boolean isClosePath() { return m_closed; } 

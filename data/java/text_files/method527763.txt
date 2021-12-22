@@ -1,0 +1,1 @@
+public void setBpsId(java.lang.String newBpsId) { if(newBpsId!=null) bpsId = newBpsId.trim(); } 

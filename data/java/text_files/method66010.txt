@@ -1,0 +1,1 @@
+ public void setTargetClassSelected(boolean targetClassSelected) { this.targetClassSelected = targetClassSelected; } 

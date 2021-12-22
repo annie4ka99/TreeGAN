@@ -1,0 +1,1 @@
+ public SpawnAction (GameObject object) { setSpawnObject(object); } 

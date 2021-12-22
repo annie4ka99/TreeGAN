@@ -1,0 +1,1 @@
+ public Status show(int id) throws WeiboException { return showStatus((long)id); } 

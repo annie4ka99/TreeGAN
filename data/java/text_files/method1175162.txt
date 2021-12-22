@@ -1,0 +1,1 @@
+ public int getRSArrayLength() { return rsArray.length; } 

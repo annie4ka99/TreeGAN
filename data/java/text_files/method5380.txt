@@ -1,0 +1,1 @@
+ public boolean contains(String paramName){ return line.contains(paramName); } 

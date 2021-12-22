@@ -1,0 +1,1 @@
+ public boolean hasNext() { if ((mPos+1)<mStore.size()) { return true; } else { return false; } } 

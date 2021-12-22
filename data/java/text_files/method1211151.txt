@@ -1,0 +1,1 @@
+ public void setN_cartacredito(String n_cartacredito) { this.n_cartacredito = n_cartacredito; } 

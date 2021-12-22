@@ -1,0 +1,1 @@
+public void setBinDirectory(String newValue) { this.binDirectory = newValue; } 

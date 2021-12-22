@@ -1,0 +1,1 @@
+ public void append(long first){ appendRange(first,first); } 

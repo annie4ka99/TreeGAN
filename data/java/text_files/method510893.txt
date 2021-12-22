@@ -1,0 +1,1 @@
+ protected String getOutputCharset() { return null; } 

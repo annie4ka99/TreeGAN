@@ -1,0 +1,1 @@
+ public boolean isConfigReady () { if (readyPaconfig) { readyPaconfig = false; return true; } return false; } 

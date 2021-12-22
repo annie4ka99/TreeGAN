@@ -1,0 +1,1 @@
+ public boolean checkSASSignature(String sas) { return true; } 

@@ -1,0 +1,1 @@
+ public void addForceX(Parameter param) { ChangeVelocity.x = (float)(ChangeVelocity.x + param.bodyFX); } 

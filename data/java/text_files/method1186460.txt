@@ -1,0 +1,1 @@
+ public void setLastPostId(int lastPostId) { this.lastPostId = lastPostId; } 

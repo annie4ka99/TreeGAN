@@ -1,0 +1,1 @@
+ public void setArchiveFormat(String archiveFormat) { this.archiveFormat = archiveFormat; } 

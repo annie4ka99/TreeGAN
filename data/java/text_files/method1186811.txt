@@ -1,0 +1,1 @@
+ public void setPostUsername(String postUsername) { this.postUsername = postUsername; } 

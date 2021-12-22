@@ -1,0 +1,1 @@
+ public URL getURL() { try { return new URL(url); } catch (MalformedURLException ex) { return null; } } 

@@ -1,0 +1,1 @@
+ public int newClass(final String value) { return newClassItem(value).index; } 

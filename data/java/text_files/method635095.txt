@@ -1,0 +1,1 @@
+ public ImageCaptchaService getImageCaptchaService() { return captchaService; } 

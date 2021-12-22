@@ -1,0 +1,1 @@
+ public void setElementType(TridasVocabulary.ElementType value) { this.elementType = value; } 

@@ -1,0 +1,1 @@
+ public void close() { if (window != null) { window.close(); } } 

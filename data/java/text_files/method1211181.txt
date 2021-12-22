@@ -1,0 +1,1 @@
+ public void setMag(Magazzino mag) { this.mag = mag; } 

@@ -1,0 +1,1 @@
+ public void destroy() { if (webDAVManager != null) { webDAVManager.destroyCache(); } } 

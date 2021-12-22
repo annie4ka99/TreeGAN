@@ -1,0 +1,1 @@
+ public int compareTo(Object object) { return date.compareTo(((Metric)object).getDate()); } 

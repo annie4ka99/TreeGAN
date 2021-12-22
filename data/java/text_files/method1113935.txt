@@ -1,0 +1,1 @@
+ public void getCurrentProjection(GL10 gl) { getMatrix(gl, GL10.GL_PROJECTION, mProjection); } 

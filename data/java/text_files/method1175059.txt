@@ -1,0 +1,1 @@
+ public void setSonar(String key, Double value) { sonar.put(key, value); } 

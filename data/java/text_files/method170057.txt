@@ -1,0 +1,1 @@
+ public HTWeek getColumnWeek(int columnIndex) { return (HTWeek) columns.get(columnIndex); } 

@@ -1,0 +1,1 @@
+ public void setEvidence(SamlAuthzDecisionStatementEvidenceType value) { this.evidence = value; } 

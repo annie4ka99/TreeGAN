@@ -1,0 +1,1 @@
+ public void setTerraces(int i) { terraces = i; } 

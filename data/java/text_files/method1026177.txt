@@ -1,0 +1,1 @@
+ public String tostring(int index) { return topointer(index).toJavaString(); } 

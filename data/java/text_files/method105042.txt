@@ -1,0 +1,1 @@
+ public PolygonType getPolygon() { return polygon; } 

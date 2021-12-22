@@ -1,0 +1,1 @@
+ public void setSuspend(boolean b) { suspend = b; } 

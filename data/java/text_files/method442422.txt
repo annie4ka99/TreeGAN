@@ -1,0 +1,1 @@
+ public Adapter createAbstractMMethodImplementationAdapter() { return null; } 

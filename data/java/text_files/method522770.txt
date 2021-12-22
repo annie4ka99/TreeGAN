@@ -1,0 +1,1 @@
+ public void setBsiTraceLevel(int bsiTraceLevel) { this.bsiTraceLevel = bsiTraceLevel; } 

@@ -1,0 +1,1 @@
+ public void setThresholdSup(final double s) { thresholdSup = s; } 

@@ -1,0 +1,1 @@
+ public void setFile( File dumpFile ) { this.dumpFile = dumpFile; } 

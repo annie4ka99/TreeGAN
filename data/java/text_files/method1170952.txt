@@ -1,0 +1,1 @@
+ public void setCurrentlyCloningCard(Card c) { currentlyCloningCard = c; } 

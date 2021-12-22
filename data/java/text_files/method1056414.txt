@@ -1,0 +1,1 @@
+ protected void saveObject(T o) { getHibernateTemplate().saveOrUpdate(o); } 

@@ -1,0 +1,1 @@
+ public void setTempGen(String x){ tempGen = x; } 

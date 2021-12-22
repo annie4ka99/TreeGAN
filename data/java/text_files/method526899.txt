@@ -1,0 +1,1 @@
+ public void setMailbox(java.lang.String newMailbox) { mailbox = newMailbox; } 

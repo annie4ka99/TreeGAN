@@ -1,0 +1,1 @@
+ public void setOpacity(int opacity) { this.opacity = opacity; opacity24 = opacity << 24; } 

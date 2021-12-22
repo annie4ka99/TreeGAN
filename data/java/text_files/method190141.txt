@@ -1,0 +1,1 @@
+ public ColumnBuilder setType(DataType type) { _type = type; return this; } 

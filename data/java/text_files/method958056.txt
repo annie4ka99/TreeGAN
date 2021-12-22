@@ -1,0 +1,1 @@
+ public void setFees(String value) { this.fees = value; } 

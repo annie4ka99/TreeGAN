@@ -1,0 +1,1 @@
+ public void setBorderH(double borderH) { this.borderH = borderH; } 

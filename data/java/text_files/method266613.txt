@@ -1,0 +1,1 @@
+ public String getChdir() { return chdir; } 

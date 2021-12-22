@@ -1,0 +1,1 @@
+ public void resetUndoList() { payTapXTypeTappedList.clear(); } 

@@ -1,0 +1,1 @@
+ public int columnCount() { return numColumns; } 

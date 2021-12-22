@@ -1,0 +1,1 @@
+ public AffineTransform cloneTransform() { return new AffineTransform(transform); } 

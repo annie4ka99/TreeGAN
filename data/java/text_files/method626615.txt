@@ -1,0 +1,1 @@
+ public void destroy() { this.lockManager.shutdown(); super.destroy(); } 

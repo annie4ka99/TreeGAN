@@ -1,0 +1,1 @@
+ public void setTime(Date date) { _value.setTime(date); _value.set(0,0,0); } 

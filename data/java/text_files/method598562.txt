@@ -1,0 +1,1 @@
+ public int getNumConfiguredPubKeys() { return publicKeyAlgos.getNumConfiguredAlgos(); } 

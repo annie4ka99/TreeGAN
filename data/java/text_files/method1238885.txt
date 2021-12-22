@@ -1,0 +1,1 @@
+ public void setUsername(String username) { cachedUsername = username; } 

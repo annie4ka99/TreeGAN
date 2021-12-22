@@ -1,0 +1,1 @@
+ public boolean isUnique(){ return uml2Property.isUnique(); } 

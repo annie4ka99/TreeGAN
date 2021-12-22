@@ -1,0 +1,1 @@
+ public void removeComesIntoPlayCommand(Command c) { removeTrigger(c, ZCTrigger.ENTERFIELD); } 

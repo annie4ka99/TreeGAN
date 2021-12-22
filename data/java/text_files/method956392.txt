@@ -1,0 +1,1 @@
+ public void setResultSetId(String value) { this.resultSetId = value; } 

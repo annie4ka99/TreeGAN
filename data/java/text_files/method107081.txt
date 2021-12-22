@@ -1,0 +1,1 @@
+ public void removeCard() { if (cards[0] > 0) { cards[0]--; } } 

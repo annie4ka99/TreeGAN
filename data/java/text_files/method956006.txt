@@ -1,0 +1,1 @@
+ public String getCompositeType() { return compositeType; } 

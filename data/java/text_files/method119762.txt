@@ -1,0 +1,1 @@
+ public GraphLayoutCache getGraphLayoutCache() { return graph.getGraphLayoutCache(); } 

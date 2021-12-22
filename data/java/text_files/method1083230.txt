@@ -1,0 +1,1 @@
+ private void renderFormFooter(Form f, StringOutput sb, Translator translator) { sb.append("</form>"); } 

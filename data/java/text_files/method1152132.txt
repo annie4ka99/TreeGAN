@@ -1,0 +1,1 @@
+ public boolean isStatic(){ return m_type == e_staticType; } 

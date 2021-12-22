@@ -1,0 +1,1 @@
+ public void setProxy(JBpsServiceProxy proxy) { this.proxy = proxy; } 

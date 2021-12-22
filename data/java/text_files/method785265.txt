@@ -1,0 +1,1 @@
+ public void setExpanded(int row, boolean value) { setBoolean(row, VisualItem.EXPANDED, value); } 

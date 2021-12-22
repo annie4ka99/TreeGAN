@@ -1,0 +1,1 @@
+ public GaussWorkspace getGaussWorkSpace() { return wk; } 

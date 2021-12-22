@@ -1,0 +1,1 @@
+ public ValidationMetadata minvalue(Double minvalue) { this.minvalue = minvalue; return this; } 

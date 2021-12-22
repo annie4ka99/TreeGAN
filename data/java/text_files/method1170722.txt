@@ -1,0 +1,1 @@
+ public boolean getCreatureAttackedThisTurn() { return creatureAttackedThisTurn; } 

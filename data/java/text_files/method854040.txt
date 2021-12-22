@@ -1,0 +1,1 @@
+ private void exportStarredWordsToFiles() { new StarredWordsExporter().execute(); } 

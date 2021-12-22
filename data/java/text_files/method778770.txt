@@ -1,0 +1,1 @@
+ public void addFTPStatusListener(FTPListener l) { listenerList.add(FTPListener.class, l); } 

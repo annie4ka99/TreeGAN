@@ -1,0 +1,1 @@
+ final public JButton getInfoButton() { return infoButton; } 

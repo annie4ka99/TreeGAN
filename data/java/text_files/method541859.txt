@@ -1,0 +1,1 @@
+ public boolean isSpecified() { return specified; } 

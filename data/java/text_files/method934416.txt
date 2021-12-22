@@ -1,0 +1,1 @@
+ public long getMaxSize() { return this.maxSize; } 

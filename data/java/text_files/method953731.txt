@@ -1,0 +1,1 @@
+ public void resetAge() { this.startTime = new Date(); } 

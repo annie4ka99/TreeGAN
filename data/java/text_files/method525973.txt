@@ -1,0 +1,1 @@
+ public boolean isFlagFR() { return flagFR; } 

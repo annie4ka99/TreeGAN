@@ -1,0 +1,1 @@
+ public InetAddress getMyIpAddress() { return myIpAddress; } 

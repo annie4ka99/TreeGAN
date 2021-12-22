@@ -1,0 +1,1 @@
+ public DocPosition adjustPosition(int adjustment){ position += adjustment; return this; } 

@@ -1,0 +1,1 @@
+ private void enableButtons() { startButton.setEnabled(!gameOn); stopButton.setEnabled(gameOn); } 

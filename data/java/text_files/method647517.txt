@@ -1,0 +1,1 @@
+ public void setCompareApplicationData(boolean a_doCompare) { m_compareAppData = a_doCompare; } 

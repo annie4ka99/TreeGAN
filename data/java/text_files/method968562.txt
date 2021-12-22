@@ -1,0 +1,1 @@
+ protected Insets getSelectedTabPadInsets() { return EMPTY_INSETS; } 

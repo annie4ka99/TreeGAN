@@ -1,0 +1,1 @@
+ public void setLoc(int x, int y, WorldSector s) { setLoc(new BBox(x, y), s); } 

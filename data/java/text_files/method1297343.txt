@@ -1,0 +1,1 @@
+ public void remove(int index) { mCategories.remove(index); mValues.remove(index); } 

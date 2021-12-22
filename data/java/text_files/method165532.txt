@@ -1,0 +1,1 @@
+ public boolean store() { return webSite.storeToXML(this, webSite.getPropertiesFilePath()); } 

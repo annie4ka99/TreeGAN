@@ -1,0 +1,1 @@
+ public void setExaltedBonus(boolean b) { exaltedBonus = b; } 

@@ -1,0 +1,1 @@
+ public void setSourceFile(AbstractFile sourceFile) { this.sourceFile = sourceFile; } 

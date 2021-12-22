@@ -1,0 +1,1 @@
+ public void setPos(DirectPositionType value) { this.pos = value; } 

@@ -1,0 +1,1 @@
+ public Query (Object obj) { sql.add(new StringBuilder(obj.toString())); } 

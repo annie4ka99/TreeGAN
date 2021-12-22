@@ -1,0 +1,1 @@
+ synchronized public String getChangeUserCommand() { return changeUserCommand; } 

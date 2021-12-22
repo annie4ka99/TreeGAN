@@ -1,0 +1,1 @@
+ public void addXp(long additionalXP) { xp += additionalXP; if (xp > (lvl*1000)) { lvl++; } } 

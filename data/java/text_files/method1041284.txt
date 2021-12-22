@@ -1,0 +1,1 @@
+ public int getInitialCapacity() { return this.initialCapacity; } 

@@ -1,0 +1,1 @@
+ public void setDisplayRowCount(boolean displayRowCount) { this.displayRowCount = displayRowCount; } 

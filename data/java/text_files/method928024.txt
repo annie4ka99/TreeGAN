@@ -1,0 +1,1 @@
+ public double getDoubleAttribute(String attr) { return getDouble(attr); } 

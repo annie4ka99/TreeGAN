@@ -1,0 +1,1 @@
+ public void setTStarEnabled(boolean tStarEnabled) { this.editorPanel.setTStarEnabled(tStarEnabled); } 

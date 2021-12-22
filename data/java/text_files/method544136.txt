@@ -1,0 +1,1 @@
+ public boolean isButtonBarVisible() { if (theToolBar != null) return theToolBar.isVisible(); else return false; } 

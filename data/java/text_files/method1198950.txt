@@ -1,0 +1,1 @@
+ public String getGenreString() { return NullsoftID3GenreTable.getGenre( genre ); } 

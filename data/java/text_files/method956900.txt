@@ -1,0 +1,1 @@
+ public ServiceQueryType getServiceQuery() { return serviceQuery; } 

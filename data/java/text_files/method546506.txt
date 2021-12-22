@@ -1,0 +1,1 @@
+ public int setVerticalAlignment() { return vAlignment; } 

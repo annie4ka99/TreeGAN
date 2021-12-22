@@ -1,0 +1,1 @@
+ public String getAttrItemType() { return Constants.ATTR_ARRAY_TYPE; } 

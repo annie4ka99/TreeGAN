@@ -1,0 +1,1 @@
+ public void setFillRect(boolean b) { fill_rect = b; } 

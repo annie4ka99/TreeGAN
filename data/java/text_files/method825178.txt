@@ -1,0 +1,1 @@
+ public BranchGroup getShapeBG() { return shapeBG; } 

@@ -1,0 +1,1 @@
+ public void setName(String name) { this.attributes.put("name", name); task.setName(name); } 

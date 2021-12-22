@@ -1,0 +1,1 @@
+ public IBioResource newResource(BioResourceType type, Object resourceObject, String name) { return null; } 

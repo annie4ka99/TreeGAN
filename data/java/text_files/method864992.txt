@@ -1,0 +1,1 @@
+ public void addSuperclass( String name ) { addSuperclass( new AVM2QName( name ) ); } 

@@ -1,0 +1,1 @@
+ protected PrecursorListType getFixture() { return fixture; } 

@@ -1,0 +1,1 @@
+ public void dialogCloseEvent(int retValue) { selectorDialog.doClose(retValue); } 

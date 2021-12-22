@@ -1,0 +1,1 @@
+ public void setFilename(URL filename) { this.file = filename; updateFrameTitle(); } 

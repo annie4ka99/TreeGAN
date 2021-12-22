@@ -1,0 +1,1 @@
+ public void setUsageDescriptionBranch(InternationalStringBranchType value) { this.usageDescriptionBranch = value; } 

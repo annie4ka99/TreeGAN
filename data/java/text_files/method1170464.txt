@@ -1,0 +1,1 @@
+ public void addCardToShopList(Card c) { shopList.add(c.getName()); } 

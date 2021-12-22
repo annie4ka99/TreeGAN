@@ -1,0 +1,1 @@
+ public Dimension minimumLayoutSize(Container target) { return preferredLayoutSize(target); } 

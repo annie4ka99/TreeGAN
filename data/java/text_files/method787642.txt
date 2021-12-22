@@ -1,0 +1,1 @@
+ public String getSources() { return m_sources; } 

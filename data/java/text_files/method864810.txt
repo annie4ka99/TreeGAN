@@ -1,0 +1,1 @@
+ public void pushScope() { instructions.append( OP_pushscope ); } 

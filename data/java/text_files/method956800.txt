@@ -1,0 +1,1 @@
+ public void setContentVersionInfoFilter(FilterType value) { this.contentVersionInfoFilter = value; } 

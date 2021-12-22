@@ -1,0 +1,1 @@
+ public void setScaledFitness(BigInteger scaledFitness) { this.scaledFitness = scaledFitness; } 

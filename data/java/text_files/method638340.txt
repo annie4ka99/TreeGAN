@@ -1,0 +1,1 @@
+ public SimpleInstance getSelectedAnnotation() { logger.debug(""); return selectedAnnotation; } 

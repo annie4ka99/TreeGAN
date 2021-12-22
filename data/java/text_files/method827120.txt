@@ -1,0 +1,1 @@
+ public void run() { logger.info("Aborting actual HTTP method"); method.abort(); } 

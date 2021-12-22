@@ -1,0 +1,1 @@
+ public ExtrinsicObjectQueryType createExtrinsicObjectQueryType() { return new ExtrinsicObjectQueryType(); } 

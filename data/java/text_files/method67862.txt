@@ -1,0 +1,1 @@
+ public void updateCursorPos(int line, int col) { caretPos.setText(""+line+":"+col); } 

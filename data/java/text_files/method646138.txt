@@ -1,0 +1,1 @@
+ protected void addAccessor(Accessor accessor) { accessors.add(accessor); accessor.load(); } 

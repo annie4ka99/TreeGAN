@@ -1,0 +1,1 @@
+ public boolean visit(Initializer node) { return false; } 

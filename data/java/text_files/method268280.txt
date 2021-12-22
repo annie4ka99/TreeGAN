@@ -1,0 +1,1 @@
+ public boolean doesMaxRowSizeIncludeBlobs() throws java.sql.SQLException { return true; } 

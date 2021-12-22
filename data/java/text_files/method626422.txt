@@ -1,0 +1,1 @@
+ protected void setResource(DAVResourceDomino res) { this.res = res; } 

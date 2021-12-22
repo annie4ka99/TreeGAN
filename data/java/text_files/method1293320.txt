@@ -1,0 +1,1 @@
+ public BindingInput createBindingInput() { return new BindingInputImpl(); } 

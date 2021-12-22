@@ -1,0 +1,1 @@
+ public Adapter createUserParamTypeAdapter() { return null; } 

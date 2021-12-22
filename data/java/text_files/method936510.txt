@@ -1,0 +1,1 @@
+ private void setLevel(final String loggerName, final Level level) { getLogger(loggerName).setLevel(level); } 

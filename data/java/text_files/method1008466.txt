@@ -1,0 +1,1 @@
+ public Graphics create() { return (Graphics) clone(); } 

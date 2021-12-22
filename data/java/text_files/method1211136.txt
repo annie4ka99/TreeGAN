@@ -1,0 +1,1 @@
+ public void setIdUtente(long idUtente) { this.idUtente = idUtente; } 

@@ -1,0 +1,1 @@
+ public String getMin_alarm() { return this.minAlarm; } 

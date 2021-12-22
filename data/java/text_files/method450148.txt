@@ -1,0 +1,1 @@
+ public void testSayExists() { try { Say sayer = new Say(); } catch (Exception e) { fail(e.toString()); } } 

@@ -1,0 +1,1 @@
+ public long addOrDecr( String key, long inc ) { return addOrDecr( key, inc, null ); } 

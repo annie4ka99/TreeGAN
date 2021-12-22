@@ -1,0 +1,1 @@
+ private User findUser(String name) { return this.userMap.get(name.toLowerCase()); } 

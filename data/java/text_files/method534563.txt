@@ -1,0 +1,1 @@
+ public int getNormalizedSignalStrength() { return -1; } 

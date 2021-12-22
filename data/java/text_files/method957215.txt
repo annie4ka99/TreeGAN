@@ -1,0 +1,1 @@
+ public PointPropertyType getPointProperty() { return pointProperty; } 

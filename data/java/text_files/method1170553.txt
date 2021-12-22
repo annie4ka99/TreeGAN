@@ -1,0 +1,1 @@
+ public QuestPetManager getPetManager() { return petManager; } 

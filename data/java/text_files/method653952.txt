@@ -1,0 +1,1 @@
+ private void setRawJavadoc(String text) { srcElement.setJavadocText(text); } 

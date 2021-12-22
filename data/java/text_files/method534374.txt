@@ -1,0 +1,1 @@
+public void setMinWidth(int width) { setMinSize(width, minHeight); } 

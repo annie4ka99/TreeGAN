@@ -1,0 +1,1 @@
+ public boolean getSelected(){ return selectedCards.contains(this); } 

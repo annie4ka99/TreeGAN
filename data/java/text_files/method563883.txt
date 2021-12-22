@@ -1,0 +1,1 @@
+ public void setTime(final long time) { this.time = time; } 

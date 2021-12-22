@@ -1,0 +1,1 @@
+ public SpecificationLinkQueryType createSpecificationLinkQueryType() { return new SpecificationLinkQueryType(); } 

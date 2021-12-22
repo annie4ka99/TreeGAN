@@ -1,0 +1,1 @@
+ public int getNumDevices() { if (loadLibraryOK) { return javaDAQmxGetNumDevices(); } else { return 0; } } 

@@ -1,0 +1,1 @@
+ protected void writeEof() throws IOException { writeStart("EOF"); } 

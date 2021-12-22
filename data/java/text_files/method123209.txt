@@ -1,0 +1,1 @@
+ public V remove(Object key) { return put(( K )key, null); } 

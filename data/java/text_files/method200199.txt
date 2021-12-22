@@ -1,0 +1,1 @@
+ public void setGroupPermissions(Permissions groupPermissions) { this.groupPermissions = groupPermissions; } 

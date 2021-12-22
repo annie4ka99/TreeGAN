@@ -1,0 +1,1 @@
+ public int getAppId() { return binaryFooter.getInt(0); } 

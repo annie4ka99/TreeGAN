@@ -1,0 +1,1 @@
+ public void setRecorder(SAX2EventRecorder rec) { recorder = rec; } 

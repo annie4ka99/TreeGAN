@@ -1,0 +1,1 @@
+ public float getTextContentAsFloat(String name) { return getTextContentAsFloat(name, 0); } 

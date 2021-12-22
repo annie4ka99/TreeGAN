@@ -1,0 +1,1 @@
+ public int getBackcolor() { return backcolor; } 

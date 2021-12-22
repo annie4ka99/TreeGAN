@@ -1,0 +1,1 @@
+ public void setSapwood(TridasSapwood value) { this.sapwood = value; } 

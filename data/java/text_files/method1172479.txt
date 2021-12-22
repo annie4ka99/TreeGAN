@@ -1,0 +1,1 @@
+ public void removeEquippedBy(Card c) { equippedBy.remove(c); this.updateObservers(); } 

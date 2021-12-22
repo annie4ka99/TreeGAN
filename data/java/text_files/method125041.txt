@@ -1,0 +1,1 @@
+ public void setOutHolder(OutHolder outputHolder) { this.outHolder = outputHolder; } 

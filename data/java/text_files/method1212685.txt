@@ -1,0 +1,1 @@
+ public void setFunc(String key, Function func) { context.setFunc(key, func); } 

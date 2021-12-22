@@ -1,0 +1,1 @@
+ public void setDepth(Double value) { this.depth = value; } 

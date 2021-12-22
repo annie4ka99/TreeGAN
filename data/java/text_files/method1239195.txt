@@ -1,0 +1,1 @@
+ public Class getClassForQName(QName xmlType) { return getClassForQName(xmlType, null); } 

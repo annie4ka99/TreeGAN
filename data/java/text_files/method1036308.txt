@@ -1,0 +1,1 @@
+ public String getSortCol2Name() { return col2Name; } 

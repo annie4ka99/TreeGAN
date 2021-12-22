@@ -1,0 +1,1 @@
+ public Byte getValue() { return BaseRandomDataGenerator.getValueByte(); } 

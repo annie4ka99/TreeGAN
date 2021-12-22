@@ -1,0 +1,1 @@
+ public void dumpOutput(boolean dumpOutput) { this.dumpOutput = dumpOutput; } 

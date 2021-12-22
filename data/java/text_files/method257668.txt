@@ -1,0 +1,1 @@
+ public Catalog getParent() { return this.parent; } 

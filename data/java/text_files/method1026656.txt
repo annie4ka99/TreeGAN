@@ -1,0 +1,1 @@
+ public URL getResource(String name) { return initClassLoader.getResource(name); } 

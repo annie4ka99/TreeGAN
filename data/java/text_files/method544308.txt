@@ -1,0 +1,1 @@
+ public int addVerticalLineMarker(int x,Color c) { return imagePanel.addVerticalLineMarker(x,c); } 

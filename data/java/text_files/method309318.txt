@@ -1,0 +1,1 @@
+ public OkCancelDialog(Dialog owner) { this(owner, new Container()); } 

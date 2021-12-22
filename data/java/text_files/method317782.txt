@@ -1,0 +1,1 @@
+ public boolean supportsGroupBy() throws SQLException { return true; } 

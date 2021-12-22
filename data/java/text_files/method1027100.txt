@@ -1,0 +1,1 @@
+ public void setTxIsolationLevelReadCommitted(boolean b) { setTxIsolationLevelReadCommitted = b; } 

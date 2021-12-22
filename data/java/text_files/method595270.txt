@@ -1,0 +1,1 @@
+ public void setSafetyLevel(String safetyLevel) { this.safetyLevel = safetyLevel; } 

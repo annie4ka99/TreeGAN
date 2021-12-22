@@ -1,0 +1,1 @@
+ public void setStaticDir(File staticDir) { this.staticDir = staticDir; } 

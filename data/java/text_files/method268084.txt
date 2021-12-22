@@ -1,0 +1,1 @@
+ public void setProfileSql(String flag) { profileSql = flag; } 

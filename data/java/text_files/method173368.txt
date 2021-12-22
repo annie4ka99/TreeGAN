@@ -1,0 +1,1 @@
+ public void setSorter(TableSorter c) { if (sortOrder != c) { sortOrder = c; scheduleUpdate(); } } 

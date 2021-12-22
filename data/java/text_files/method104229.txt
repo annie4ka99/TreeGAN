@@ -1,0 +1,1 @@
+ public void setRequestObject(OUTTYPE reqObj) { this.sendingObject = reqObj; } 

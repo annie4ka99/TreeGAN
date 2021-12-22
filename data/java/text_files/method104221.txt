@@ -1,0 +1,1 @@
+ public INTYPE query() throws IOException { return doRequest(); } 

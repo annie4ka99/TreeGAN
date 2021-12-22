@@ -1,0 +1,1 @@
+ public Mat22 clone() { return new Mat22(this.col1.clone(), this.col2.clone()); } 

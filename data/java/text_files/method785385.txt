@@ -1,0 +1,1 @@
+ public double getStartY(int row) { return getDouble(row, VisualItem.STARTY); } 

@@ -1,0 +1,1 @@
+ public Type getType(String table) { return fromClause.getType(table); } 

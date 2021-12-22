@@ -1,0 +1,1 @@
+ public Pointing pix2ang(long pix) throws Exception { return pix2loc(pix).toPointing(); } 

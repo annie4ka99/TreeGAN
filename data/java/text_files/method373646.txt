@@ -1,0 +1,1 @@
+ public void algorithm(int value) { setUByte(2, value); } 

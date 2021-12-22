@@ -1,0 +1,1 @@
+ public void onMessage(Message message) { System.out.println("QueueBean got message " + message); } 

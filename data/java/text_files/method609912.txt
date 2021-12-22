@@ -1,0 +1,1 @@
+ public boolean getIsMyTurn() { return isMyTurn; } 

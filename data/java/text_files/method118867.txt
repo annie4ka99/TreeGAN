@@ -1,0 +1,1 @@
+ public void exit() { if (!isApplet()) { System.exit(0); } else { getApplet().exit(this); } } 

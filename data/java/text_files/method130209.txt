@@ -1,0 +1,1 @@
+ public void setGoal (double newGoal) { this.goal = newGoal; } 

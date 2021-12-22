@@ -1,0 +1,1 @@
+public void setErrorJspUrl(String newErrorJspUrl) { errorJspUrl = newErrorJspUrl; } 

@@ -1,0 +1,1 @@
+ public void addTransferListener(TransferListener l) { if (l != null) { transferListeners.add(l); } } 

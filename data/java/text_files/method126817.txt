@@ -1,0 +1,1 @@
+ public String getHostname() { return hostname; } 

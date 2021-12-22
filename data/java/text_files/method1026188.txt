@@ -1,0 +1,1 @@
+ public void pushinteger(Byte b) { if ( b == null ) pushnil(); else pushinteger( b.byteValue() ); } 

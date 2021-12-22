@@ -1,0 +1,1 @@
+ public boolean getNontransactionalWrite() { return nonTransactionalWrite; } 

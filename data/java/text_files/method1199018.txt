@@ -1,0 +1,1 @@
+ public int getBitRate() { return head.getBitRate(); } 

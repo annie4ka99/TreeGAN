@@ -1,0 +1,1 @@
+ public void applyTo(AnnotationConfiguration config) { config.setProperty("hibernate." + name, value); } 

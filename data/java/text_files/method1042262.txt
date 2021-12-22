@@ -1,0 +1,1 @@
+ public float distance(Vector3f v) { return FastMath.sqrt(distanceSquared(v)); } 

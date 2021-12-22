@@ -1,0 +1,1 @@
+ public void addConnectionListener(IConnectionListener listener) { cs.addConnectionListener(listener); } 

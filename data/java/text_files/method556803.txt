@@ -1,0 +1,1 @@
+ public int getId_context() { return id_context; } 

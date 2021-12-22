@@ -1,0 +1,1 @@
+ public String getHeaderType() { return headerType.toLowerCase(); } 

@@ -1,0 +1,1 @@
+ public boolean isWeekOfYearVisible() { return dayChooser.isWeekOfYearVisible(); } 

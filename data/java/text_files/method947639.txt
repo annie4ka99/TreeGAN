@@ -1,0 +1,1 @@
+ public void Delete() { File f = new File(this.Filename); f.delete(); } 

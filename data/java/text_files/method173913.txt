@@ -1,0 +1,1 @@
+ public void setDeclHandler(DeclHandler declHandler) { this.declHandler = declHandler; } 

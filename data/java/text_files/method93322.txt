@@ -1,0 +1,1 @@
+ public int getOperator() { return DataValueDescriptor.ORDER_OP_EQUALS; } 

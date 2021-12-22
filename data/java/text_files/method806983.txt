@@ -1,0 +1,1 @@
+ public void addAtomToSelectedSubstructure(IAtom atom) { getSelectedSubstructure().addAtom(atom); } 

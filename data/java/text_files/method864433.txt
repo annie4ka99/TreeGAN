@@ -1,0 +1,1 @@
+ public void subtractInts() { instructions.append( OP_subtract_i ); } 

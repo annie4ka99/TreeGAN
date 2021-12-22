@@ -1,0 +1,1 @@
+ public void deleteCategory(String categoryName) throws LandmarkException, IOException { } 

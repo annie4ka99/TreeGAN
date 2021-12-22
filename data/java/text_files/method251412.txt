@@ -1,0 +1,1 @@
+ public boolean isFinished() { if(stream.size() < byteSize)return false; return true; } 

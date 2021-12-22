@@ -1,0 +1,1 @@
+ public void goToToday() { setDate(new Date(System.currentTimeMillis()), false); } 

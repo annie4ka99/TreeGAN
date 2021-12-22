@@ -1,0 +1,1 @@
+ public void glTexCoord2i (int s, int t) { CC.gl_tex_coord (s, t, 0.0f, 1.0f); } 

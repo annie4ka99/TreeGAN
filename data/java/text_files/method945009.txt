@@ -1,0 +1,1 @@
+ protected void registerErrorMessageProviders() { m_GeneralSection.registerErrorMessageProviders(this); } 

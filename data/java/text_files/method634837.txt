@@ -1,0 +1,1 @@
+ public int getMinOccurs() { return minOccurs; } 

@@ -1,0 +1,1 @@
+ public Expression getOperand() { return operand; } 

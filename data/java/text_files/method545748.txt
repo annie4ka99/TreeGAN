@@ -1,0 +1,1 @@
+ public JComponent getComponent() { if(swingComp!=null) return swingComp.getComponent(); else return null; } 

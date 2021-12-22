@@ -1,0 +1,1 @@
+ public void keyReleased(int key) { if (key >= 0 && key < 255) { keyDown[key] = false; } } 

@@ -1,0 +1,1 @@
+ public void removeColumnListener(ColumnListener listener) { m_listeners.remove(listener); } 

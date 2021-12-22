@@ -1,0 +1,1 @@
+ public void testGetStatus() { assertEquals(status, user.getStatus()); } 

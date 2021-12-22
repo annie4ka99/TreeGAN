@@ -1,0 +1,1 @@
+ public boolean checksum(final int value) { super.setUShort(6, value); return true; } 

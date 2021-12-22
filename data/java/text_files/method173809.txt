@@ -1,0 +1,1 @@
+ public void setDocument(Document source) { super.setInputSource(new JDOMInputSource(source)); } 

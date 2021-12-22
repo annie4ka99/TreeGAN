@@ -1,0 +1,1 @@
+ public void testGetType() { assertSame(i.getType(), om.getTypeByName(IntegerType.TYPE_NAME)); } 

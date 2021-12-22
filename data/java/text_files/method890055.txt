@@ -1,0 +1,1 @@
+ public void setViewName(String viewName) { this.viewName = viewName; } 

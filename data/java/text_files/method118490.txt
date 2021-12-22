@@ -1,0 +1,1 @@
+ public void setVerticalSpacing(String text) { verticalSpacingTextField.setText(text); } 

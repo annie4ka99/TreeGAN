@@ -1,0 +1,1 @@
+ public AdapterFactory getAdapterFactory() { return adapterFactory; } 

@@ -1,0 +1,1 @@
+ public BufferedImage getBlurMask() { return blurMask; } 

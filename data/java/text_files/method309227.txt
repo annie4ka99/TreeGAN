@@ -1,0 +1,1 @@
+ public EnhancedDialog(Frame owner) { this(owner, ""); } 

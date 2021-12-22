@@ -1,0 +1,1 @@
+ protected void register(JobObserver observer){ observerlist.add(observer); } 

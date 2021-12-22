@@ -1,0 +1,1 @@
+ public void setColorBar(ColorBar cb) { this.colorbar = cb; } 

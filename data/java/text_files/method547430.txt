@@ -1,0 +1,1 @@
+ public void setState(int s) { currentState = s; repaint(); } 

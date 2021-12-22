@@ -1,0 +1,1 @@
+ public boolean isFatalEnabled() { return mLogger.isFatalEnabled(); } 

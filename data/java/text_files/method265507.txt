@@ -1,0 +1,1 @@
+ protected void setValue(Object value) { setText((value == null) ? "" : value.toString()); } 

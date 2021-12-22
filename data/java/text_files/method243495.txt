@@ -1,0 +1,1 @@
+ public PokerHandRank getRank() { return m_rank; } 

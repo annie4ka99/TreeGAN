@@ -1,0 +1,1 @@
+ public int getIntraDegree (int node_rindex){ return this.intraDegrees.get(node_rindex); } 

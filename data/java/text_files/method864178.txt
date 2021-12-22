@@ -1,0 +1,1 @@
+ public void setProperty( AVM2Name name ) { instructions.append( OP_setproperty, name ); } 

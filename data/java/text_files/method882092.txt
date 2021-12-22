@@ -1,0 +1,1 @@
+ public int getNumberOfChildBindings() { return childBindings.size(); } 

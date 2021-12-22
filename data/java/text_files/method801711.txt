@@ -1,0 +1,1 @@
+ public IMolecule getMolecule(){ return molecule; } 

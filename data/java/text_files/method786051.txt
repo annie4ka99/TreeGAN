@@ -1,0 +1,1 @@
+ public void clear() { m_openrows = null; m_firstid = 0; m_curid = -1; } 

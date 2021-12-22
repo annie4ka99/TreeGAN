@@ -1,0 +1,1 @@
+ public void close() { s.close(); idx.close(); ts.close(); } 

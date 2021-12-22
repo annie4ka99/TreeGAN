@@ -1,0 +1,1 @@
+ public boolean isRelativeMouseMode() { return (this.robot != null); } 

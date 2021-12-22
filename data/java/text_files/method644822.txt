@@ -1,0 +1,1 @@
+ public String getSQL() { return "select TRIGGER_NAME from INFORMATION_SCHEMA.TRIGGERS where TRIGGER_SCHEMA = ?"; } 

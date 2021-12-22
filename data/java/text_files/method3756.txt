@@ -1,0 +1,1 @@
+ public void saveConfig() { logger.debug("Save the configuration properties."); configProps.store(); } 

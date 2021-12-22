@@ -1,0 +1,1 @@
+ public void setOriginalText(String value) { this.originalText = value; } 

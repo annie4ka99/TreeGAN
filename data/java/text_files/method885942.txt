@@ -1,0 +1,1 @@
+ protected Document getDocToExport() { return docToExport; } 

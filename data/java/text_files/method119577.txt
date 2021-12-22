@@ -1,0 +1,1 @@
+ public boolean isHTMLSupported() { return isPlainSupported(); } 

@@ -1,0 +1,1 @@
+ public void setSource(String source) { this.source = source; hcode = 0; } 

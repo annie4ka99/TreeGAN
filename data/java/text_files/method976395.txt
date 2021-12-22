@@ -1,0 +1,1 @@
+ public boolean hasFilter(String filterID) { return this.filterList.containsKey(filterID); } 

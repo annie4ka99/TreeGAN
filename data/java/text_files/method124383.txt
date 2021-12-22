@@ -1,0 +1,1 @@
+ public void setIntType(boolean b) { intType = b; } 

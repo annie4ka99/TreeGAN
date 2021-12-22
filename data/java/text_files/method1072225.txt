@@ -1,0 +1,1 @@
+ protected Connection getFixture() { return fixture; } 

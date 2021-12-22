@@ -1,0 +1,1 @@
+ public StyleVO setNext( boolean setNext ) { this.setNext = setNext; return this; } 

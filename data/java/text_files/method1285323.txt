@@ -1,0 +1,1 @@
+ protected SVGImage getSVGImage() { return svgImage; } 

@@ -1,0 +1,1 @@
+ public int getCursorPosition() { return labelProvider.getText(element).length(); } 

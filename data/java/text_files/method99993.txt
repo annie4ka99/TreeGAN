@@ -1,0 +1,1 @@
+ public SearchReturnObject getReturnObject() { return returnObject; } 

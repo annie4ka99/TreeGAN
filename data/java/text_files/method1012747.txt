@@ -1,0 +1,1 @@
+ public ByteBuffer getImageData() { return buf; } 

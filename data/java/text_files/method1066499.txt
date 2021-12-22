@@ -1,0 +1,1 @@
+ public void setDisplayBottomBorder(boolean b){ displayBottomBorder = b; } 

@@ -1,0 +1,1 @@
+ public RegistryPackageQueryType createRegistryPackageQueryType() { return new RegistryPackageQueryType(); } 

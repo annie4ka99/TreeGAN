@@ -1,0 +1,1 @@
+ public Object getCellValue(int column) { return _values[column]; } 

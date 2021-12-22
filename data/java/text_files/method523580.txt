@@ -1,0 +1,1 @@
+public void setWorkDirectory(String newValue) { this.workDirectory = newValue; } 

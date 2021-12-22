@@ -1,0 +1,1 @@
+ public void testScannerConstructorAnnotatedMyHeaderClass() { new JHeaderScanner(MyHeader.class); } 

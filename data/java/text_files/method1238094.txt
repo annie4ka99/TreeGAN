@@ -1,0 +1,1 @@
+ public WSDDGlobalConfiguration getGlobalConfiguration() { return globalConfig; } 

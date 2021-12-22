@@ -1,0 +1,1 @@
+ public void setTextureFlag(boolean textureFlag) { this.textureFlag = textureFlag; } 

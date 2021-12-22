@@ -1,0 +1,1 @@
+ protected int peer(JMemory peer) { return peer(peer, 0, peer.size); } 

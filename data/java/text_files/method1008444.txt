@@ -1,0 +1,1 @@
+ public Raster getRaster(int x, int y, int w, int h) { throw new InvalidPipeException("should be NOP"); } 

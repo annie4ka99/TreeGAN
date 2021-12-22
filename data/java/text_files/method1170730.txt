@@ -1,0 +1,1 @@
+ public void setCreatureBlockedThisCombat(boolean b) { creatureBlockedThisCombat = b; } 

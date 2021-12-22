@@ -1,0 +1,1 @@
+ public float getId3v2PaddingMultiplier() { return id3v2PaddingMultiplier; } 

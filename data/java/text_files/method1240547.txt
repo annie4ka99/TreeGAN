@@ -1,0 +1,1 @@
+ public void removeBody() { if (body != null) { removeChild(body); } body = null; } 

@@ -1,0 +1,1 @@
+ public boolean removeNode(Node n) { nodeCheck(n, true); return removeNode(n.getRow()); } 

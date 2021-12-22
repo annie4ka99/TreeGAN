@@ -1,0 +1,1 @@
+ public float getPercent_identity_aa() { return percent_identity_aa; } 

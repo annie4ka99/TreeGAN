@@ -1,0 +1,1 @@
+ public boolean isControllerVisible() { return controlFrame.isVisible(); } 

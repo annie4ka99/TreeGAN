@@ -1,0 +1,1 @@
+private void setMaxTimeProcess(int newValue) { this.maxTimeProcess = newValue; } 

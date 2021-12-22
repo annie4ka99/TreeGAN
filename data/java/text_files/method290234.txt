@@ -1,0 +1,1 @@
+ public Boolean getTesting() { return unitTesting || integrationTesting; } 

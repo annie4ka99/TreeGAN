@@ -1,0 +1,1 @@
+ public String getError(int index) { return ( (String) errors.elementAt(index)); } 

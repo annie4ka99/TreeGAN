@@ -1,0 +1,1 @@
+ public void setScrollPane(JScrollPane scrollPane) { this.scrollPane = scrollPane; } 

@@ -1,0 +1,1 @@
+ public void setBeanName(String name) { assert (name != null); this.name = name; } 

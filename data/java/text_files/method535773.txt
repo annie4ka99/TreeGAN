@@ -1,0 +1,1 @@
+ private boolean hasBadScores() { return this.totalScores / this.weight <= 0.5; } 

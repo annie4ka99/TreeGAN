@@ -1,0 +1,1 @@
+ public int addSymCipherAlgo(ZrtpConstants.SupportedSymCiphers algo) { return symCiphers.addAlgo(algo); } 

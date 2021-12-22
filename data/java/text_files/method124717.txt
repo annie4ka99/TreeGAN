@@ -1,0 +1,1 @@
+ public void doAction() { action.actionPerformed(null); } 

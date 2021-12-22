@@ -1,0 +1,1 @@
+ public MatchResult getLastResult() throws RewriteException { return _matcher.getMatch(); } 

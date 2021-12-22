@@ -1,0 +1,1 @@
+ public void rotate(double ox,double oy) { j3dView.rotate(ox,oy); } 

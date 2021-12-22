@@ -1,0 +1,1 @@
+ public void setSelectionMode(int m) { mode = m; clipSelection(); repaint(); } 

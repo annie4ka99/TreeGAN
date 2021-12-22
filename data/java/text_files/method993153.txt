@@ -1,0 +1,1 @@
+ public Point2D getCentre() { return new Point2D.Float( centreX, centreY ); } 

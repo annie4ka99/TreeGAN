@@ -1,0 +1,1 @@
+ public void lock(final IStageLocker lockingElement){ this.lock = lockingElement; state = State.LOCKED; } 

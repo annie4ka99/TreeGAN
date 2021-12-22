@@ -1,0 +1,1 @@
+ public void addSequence(ContentDTDNode cn){ al.addSequence(cn); length+=1; } 

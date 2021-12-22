@@ -1,0 +1,1 @@
+ public void removeTurnFaceUpCommand(Command c) { turnFaceUpCommandList.remove(c); } 

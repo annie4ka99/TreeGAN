@@ -1,0 +1,1 @@
+ public void setTransition( int transition ) { this.intTransition = transition; } 

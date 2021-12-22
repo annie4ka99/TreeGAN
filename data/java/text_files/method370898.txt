@@ -1,0 +1,1 @@
+ public void setExportStructuralOnly(boolean structural) { fRefactoringStructural= structural; } 

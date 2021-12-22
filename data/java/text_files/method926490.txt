@@ -1,0 +1,1 @@
+ public long getCompressedSize() { return fileHeader.packSize; } 

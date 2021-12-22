@@ -1,0 +1,1 @@
+ public int getIndex() { return owner.indexOfStep(this); } 

@@ -1,0 +1,1 @@
+ public void setBeautyIndication(int beauty) { this.beauty = beauty; } 

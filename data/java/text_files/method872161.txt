@@ -1,0 +1,1 @@
+ public void setLangtext(java.lang.String langtext) { this.langtext = langtext; } 

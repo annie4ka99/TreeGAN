@@ -1,0 +1,1 @@
+ protected boolean setGammaRamp(float[] ramp) { return false; } 

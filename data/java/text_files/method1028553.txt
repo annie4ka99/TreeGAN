@@ -1,0 +1,1 @@
+ protected boolean addCustomDigesterRules(Digester digester) { return true; } 

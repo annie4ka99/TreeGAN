@@ -1,0 +1,1 @@
+ public PrimitiveType primitive(String name) { return new PrimitiveType(this, name); } 

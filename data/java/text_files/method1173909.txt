@@ -1,0 +1,1 @@
+ public void setRepeatable(boolean repeatable) { this.repeatable = repeatable; } 

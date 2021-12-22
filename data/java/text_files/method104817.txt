@@ -1,0 +1,1 @@
+ public void setPeriod(String value) { this.period = value; } 

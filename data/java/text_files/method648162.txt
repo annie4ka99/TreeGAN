@@ -1,0 +1,1 @@
+ public void addFilter(ImageFilter filter) { this.filters.add(filter); } 

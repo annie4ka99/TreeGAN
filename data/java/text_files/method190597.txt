@@ -1,0 +1,1 @@
+ public Object read(byte[] data) throws IOException { return read(data, PageChannel.DEFAULT_BYTE_ORDER); } 

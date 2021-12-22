@@ -1,0 +1,1 @@
+ public void sortItemsByOrder() { Collections.sort(lutList, new OrderComparatator()); } 

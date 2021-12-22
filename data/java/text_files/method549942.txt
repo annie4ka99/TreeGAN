@@ -1,0 +1,1 @@
+ public int getColumnAtPoint(Point point) { return table.columnAtPoint(point); } 

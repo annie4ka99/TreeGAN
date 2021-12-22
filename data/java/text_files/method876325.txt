@@ -1,0 +1,1 @@
+ public int getAuthCookie() { return properties.getIntProperty(KEY_AUTH_COOKIE); } 

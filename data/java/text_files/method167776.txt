@@ -1,0 +1,1 @@
+ protected void printAxises(Graphics2D graphics2d, IPlot plot) { paintAxises(graphics2d, plot); } 

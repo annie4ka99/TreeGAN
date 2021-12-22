@@ -1,0 +1,1 @@
+ public void setSnapGrid(int b) { grid = b; } 

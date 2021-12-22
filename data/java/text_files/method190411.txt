@@ -1,0 +1,1 @@
+ public IndexBuilder setName(String name) { _name = name; return this; } 

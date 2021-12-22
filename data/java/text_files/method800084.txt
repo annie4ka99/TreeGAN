@@ -1,0 +1,1 @@
+ public RGB getFooterBackground() { return defaultLook.getFooterBackground(); } 

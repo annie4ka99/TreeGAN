@@ -1,0 +1,1 @@
+ public AdhocQueryType getAdhocQuery() { return adhocQuery; } 

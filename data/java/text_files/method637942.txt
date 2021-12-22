@@ -1,0 +1,1 @@
+ public Integer getFitness() { return this.fitness; } 

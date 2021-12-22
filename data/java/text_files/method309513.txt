@@ -1,0 +1,1 @@
+ public int getValueByPoint(java.awt.Point p) { return getUI().getValueByPoint(p); } 

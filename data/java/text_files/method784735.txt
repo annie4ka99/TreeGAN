@@ -1,0 +1,1 @@
+ public boolean insertSection(Section section) { return sections.add(section); } 

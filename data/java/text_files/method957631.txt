@@ -1,0 +1,1 @@
+ public void setRegistryErrorList(RegistryErrorList value) { this.registryErrorList = value; } 

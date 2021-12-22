@@ -1,0 +1,1 @@
+ public void setTypedOperation(Expression typedExpression) { this.typedOperation = typedExpression; } 

@@ -1,0 +1,1 @@
+ public boolean canCreateUMLElement(Element umlParent) { if(umlParent instanceof Package) { return true; } return false; } 

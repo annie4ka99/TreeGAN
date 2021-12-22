@@ -1,0 +1,1 @@
+ public void load(String name) { JarClasspathLoader.addFile(name); } 

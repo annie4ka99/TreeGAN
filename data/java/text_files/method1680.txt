@@ -1,0 +1,1 @@
+ final public void setGoal(int x, int y) { goalsArray[x + width * y] = true; } 

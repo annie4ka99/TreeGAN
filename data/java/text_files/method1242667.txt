@@ -1,0 +1,1 @@
+ private int imgDirWithSepLength() { return imageDirectory.length() + filesep.length(); } 

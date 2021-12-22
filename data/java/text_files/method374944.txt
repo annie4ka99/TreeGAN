@@ -1,0 +1,1 @@
+ public int peer(final JBuffer peer) { setReadonly(peer.isReadonly()); return super.peer(peer); } 

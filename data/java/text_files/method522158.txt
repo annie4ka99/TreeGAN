@@ -1,0 +1,1 @@
+ public void setMacro(String newValue) { this.macro = newValue; } 

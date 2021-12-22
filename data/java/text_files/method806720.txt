@@ -1,0 +1,1 @@
+ public void setStatus(String status, int position) { this.status[position] = status; } 

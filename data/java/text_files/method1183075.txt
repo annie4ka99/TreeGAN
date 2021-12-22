@@ -1,0 +1,1 @@
+ protected void executeQuery() throws Exception{ rs = this.query.getPreparedStatement().executeQuery(); } 

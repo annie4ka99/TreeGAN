@@ -1,0 +1,1 @@
+ protected OutputStream getErr() { return err; } 

@@ -1,0 +1,1 @@
+ public Spreadsheet getActiveSpreadsheet() { return activeSpreadsheet; } 

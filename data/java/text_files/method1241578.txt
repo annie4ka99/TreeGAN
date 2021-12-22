@@ -1,0 +1,1 @@
+ public void setPOP3(POP3Client pop3) { this.pop3 = pop3; } 

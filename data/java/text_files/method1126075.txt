@@ -1,0 +1,1 @@
+ public int getCurrentDisplayPageNumber() { return _startDisplayPageNumber + _currentDisplayPageIndex; } 

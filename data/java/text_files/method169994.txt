@@ -1,0 +1,1 @@
+ public int getMoney() { if (expenses) { return getFired() * 1500; } return getChanges() * -1500; } 

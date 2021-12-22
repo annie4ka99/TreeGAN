@@ -1,0 +1,1 @@
+ public ContactType createContactType() { return new ContactType(); } 

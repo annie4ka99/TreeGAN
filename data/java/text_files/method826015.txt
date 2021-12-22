@@ -1,0 +1,1 @@
+ public void fireTimeSlotFilterChanged(Action action) { doFire(action, TimeSlotFilterListener.class); } 

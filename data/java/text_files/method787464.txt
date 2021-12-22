@@ -1,0 +1,1 @@
+ protected float getSpringCoefficient(EdgeItem e) { return -1.f; } 

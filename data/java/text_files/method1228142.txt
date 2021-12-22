@@ -1,0 +1,1 @@
+ public String cancel() { if (!"list".equals(from)) { return "mainMenu"; } return "cancel"; } 

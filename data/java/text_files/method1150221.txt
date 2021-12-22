@@ -1,0 +1,1 @@
+ public void writeBytes(byte[] b) throws IOException { fileOut.write(b); } 

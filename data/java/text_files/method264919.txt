@@ -1,0 +1,1 @@
+ public void setDictionary(AutoCompleteDictionary dict) { this.dict = dict; } 

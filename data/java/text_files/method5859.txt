@@ -1,0 +1,1 @@
+ public Component getOwner() { return wizardDialog.getOwner(); } 

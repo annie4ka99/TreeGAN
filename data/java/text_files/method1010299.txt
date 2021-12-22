@@ -1,0 +1,1 @@
+public GLContext getContext() { return _context; } 

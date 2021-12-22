@@ -1,0 +1,1 @@
+ public boolean addEdge(Object edge) { return edges.add(edge); } 

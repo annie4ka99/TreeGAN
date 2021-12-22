@@ -1,0 +1,1 @@
+ public int getChildCount(Object parent) { return ((ConfNode) parent).getChildren().size(); } 

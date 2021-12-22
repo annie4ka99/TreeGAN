@@ -1,0 +1,1 @@
+ public void setBypassNavigation(String newBypassNavigation) { bypassNavigation = newBypassNavigation; } 

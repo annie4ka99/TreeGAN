@@ -1,0 +1,1 @@
+ protected void destroyConfigDigester() { configDigester = null; } 

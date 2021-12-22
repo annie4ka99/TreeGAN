@@ -1,0 +1,1 @@
+ public void setCommentStart(String commentDelims) { lexer.setCommentStart(commentDelims); } 

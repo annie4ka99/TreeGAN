@@ -1,0 +1,1 @@
+ public void shiftCursorX(int delta) { xCursor+=delta; } 

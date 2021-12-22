@@ -1,0 +1,1 @@
+ public void setLastUpdate(String value) { this.lastUpdate = value; } 

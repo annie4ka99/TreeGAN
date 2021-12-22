@@ -1,0 +1,1 @@
+ public GeometryOperandsType getGeometryOperands() { return geometryOperands; } 

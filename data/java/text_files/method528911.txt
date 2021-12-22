@@ -1,0 +1,1 @@
+private void setInstanceID(java.lang.String newInstanceId) { instanceID = newInstanceId; } 

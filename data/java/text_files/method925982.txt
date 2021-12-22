@@ -1,0 +1,1 @@
+ public void setArchiveFiles(MetaData[] archiveFiles) { this.archiveFiles = archiveFiles; } 

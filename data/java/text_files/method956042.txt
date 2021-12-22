@@ -1,0 +1,1 @@
+ public void setProcessorName(String value) { this.processorName = value; } 

@@ -1,0 +1,1 @@
+ public void updateNode() { mdi.interpolateAnim(0.5f); if (isMoving == true) { shift(toPos); } } 

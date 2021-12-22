@@ -1,0 +1,1 @@
+ public void setTer(int ter) { this.ter=ter; this.dirty = true; dirtyFields[5] = true; } 

@@ -1,0 +1,1 @@
+ public void setMultiSurface(MultiSurfaceType value) { this.multiSurface = value; } 

@@ -1,0 +1,1 @@
+ public String getSubject() { return __subject; } 

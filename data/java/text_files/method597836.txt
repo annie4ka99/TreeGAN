@@ -1,0 +1,1 @@
+ public String getAdminPassword() { return adminPassword; } 

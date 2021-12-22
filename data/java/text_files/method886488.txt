@@ -1,0 +1,1 @@
+ public boolean hasEndnoteRefTo(String sId) { return endnoteRef.contains(sId); } 

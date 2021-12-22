@@ -1,0 +1,1 @@
+ public LThread checkthread(int narg) { return (LThread) checktype(narg, Lua.LUA_TTHREAD); } 

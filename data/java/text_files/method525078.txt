@@ -1,0 +1,1 @@
+ public void setPageMap(java.util.HashMap newPageMap) { pageMap = newPageMap; } 

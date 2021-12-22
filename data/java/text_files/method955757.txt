@@ -1,0 +1,1 @@
+ public int getSlotTypeSize() { return slotMap.size(); } 

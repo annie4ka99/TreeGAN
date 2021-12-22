@@ -1,0 +1,1 @@
+ public boolean isLocation(String str) { return links.isVertexLabel(str); } 

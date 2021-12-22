@@ -1,0 +1,1 @@
+public void setSessionTimeout(long newSessionTimeout) { sessionTimeout = newSessionTimeout; } 

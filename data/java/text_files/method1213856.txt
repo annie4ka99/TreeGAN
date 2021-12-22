@@ -1,0 +1,1 @@
+ public void updateList(Group g) { updateList(g, true); } 

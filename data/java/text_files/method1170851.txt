@@ -1,0 +1,1 @@
+ public void setSirenAttackOrDestroy(boolean b) { sirenAttackOrDestroy = b; } 

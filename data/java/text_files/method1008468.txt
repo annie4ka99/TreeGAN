@@ -1,0 +1,1 @@
+ public int getTransparency() { return getColorModel().getTransparency(); } 

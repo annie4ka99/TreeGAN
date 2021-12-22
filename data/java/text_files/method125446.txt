@@ -1,0 +1,1 @@
+ public int getMinNumberOfObs() { return minNumberOfObs; } 

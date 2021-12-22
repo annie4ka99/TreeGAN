@@ -1,0 +1,1 @@
+ public void setGeometryAsBlock(boolean geometryAsBlock) { this.geometryAsBlock = geometryAsBlock; } 

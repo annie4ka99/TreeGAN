@@ -1,0 +1,1 @@
+ public void setHandleColor(Color newColor) { handleColor = newColor; } 

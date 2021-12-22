@@ -1,0 +1,1 @@
+ public boolean getShow(int type) { return showAs[type]; } 

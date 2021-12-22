@@ -1,0 +1,1 @@
+ public void addBatch(Batch batch) { db.store(batch); db.commit(); } 

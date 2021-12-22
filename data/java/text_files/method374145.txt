@@ -1,0 +1,1 @@
+ public int getPrefixLength() { return state.getPrefix(); } 

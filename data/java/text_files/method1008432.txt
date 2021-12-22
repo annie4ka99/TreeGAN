@@ -1,0 +1,1 @@
+ public int increaseNumCopies() { if (dirty) { setDirty(false); } numCopies++; return numCopies; } 

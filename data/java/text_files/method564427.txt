@@ -1,0 +1,1 @@
+ public void addDeviceProperty(final DevicePropertyImpl property) { devicePropertyList.add(property); } 

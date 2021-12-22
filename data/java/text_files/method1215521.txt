@@ -1,0 +1,1 @@
+ public int getResultCount() { return resultCount; } 

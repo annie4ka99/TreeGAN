@@ -1,0 +1,1 @@
+ public int getArity() { return parmsLength < 0 ? 1 : parmsLength; } 

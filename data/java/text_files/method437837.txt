@@ -1,0 +1,1 @@
+ public MultiInterval getMultiInterval() { return intervals; } 

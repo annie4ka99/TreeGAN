@@ -1,0 +1,1 @@
+ public boolean isSet( int flags ) { return (flags & mask) != 0; } 

@@ -1,0 +1,1 @@
+ public void setPageOrientation(int orientation) { pageFormat.setOrientation(orientation); } 

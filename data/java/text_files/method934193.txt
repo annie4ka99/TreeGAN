@@ -1,0 +1,1 @@
+ public void addFormBean(ActionFormBean formBean) { formBeans.put(formBean.getName(), formBean); } 

@@ -1,0 +1,1 @@
+ public void setUpdater(DNSUpdater updater) { logger.debug("setUpdater()"); this.updater = updater; } 

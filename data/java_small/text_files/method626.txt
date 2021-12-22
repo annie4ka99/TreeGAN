@@ -1,0 +1,1 @@
+ final private int treeToSortedListRecursively(int indexInTree, int last) { if (indexInTree == -1) { return last; } int d = treeToSortedListRecursively(arrayPointers[2*indexInTree], last); sortedList[d++] = indexInTree; return (treeToSortedListRecursively(arrayPointers[2*indexInTree+1], d)); } 

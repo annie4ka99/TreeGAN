@@ -1,0 +1,1 @@
+ public boolean getHasItemHits() { return itemList.hasHits(); } 

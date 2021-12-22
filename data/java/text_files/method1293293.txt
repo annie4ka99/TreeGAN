@@ -1,0 +1,1 @@
+ public void addPortType(PortType portType) { portTypes.put(portType.getQName(), portType); } 

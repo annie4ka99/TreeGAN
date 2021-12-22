@@ -1,0 +1,1 @@
+ public long timestampInNanos() { return hdr_sec() * 1000000000 + hdr_usec() * 1000; } 

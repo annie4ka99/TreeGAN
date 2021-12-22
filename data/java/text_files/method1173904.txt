@@ -1,0 +1,1 @@
+ public void setDifficulty(String difficulty) { this.difficulty = difficulty; } 

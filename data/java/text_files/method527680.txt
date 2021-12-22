@@ -1,0 +1,1 @@
+ private void discardJpxiProxy() { discardService(proxy); proxy = null; } 

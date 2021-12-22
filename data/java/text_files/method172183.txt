@@ -1,0 +1,1 @@
+ public void setMaxLocals(int m) { max_locals = m; } 

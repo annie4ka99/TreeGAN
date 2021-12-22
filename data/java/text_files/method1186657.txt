@@ -1,0 +1,1 @@
+ public int getRankId() { return this.rankId; } 

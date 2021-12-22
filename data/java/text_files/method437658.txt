@@ -1,0 +1,1 @@
+ public void setForegroundColor(Color fgColor) { this.fgColor = fgColor; } 

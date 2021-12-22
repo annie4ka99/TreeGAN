@@ -1,0 +1,1 @@
+ public void setPercPosition(int aPerc) { setPosition((book.size - 1) * aPerc / 100); } 

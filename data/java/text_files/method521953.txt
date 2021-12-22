@@ -1,0 +1,1 @@
+private JBpaSystemParam getSysParam() { return sysParam; } 

@@ -1,0 +1,1 @@
+ public void setVisible(boolean show) { _visibility = show; } 

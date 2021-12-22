@@ -1,0 +1,1 @@
+ public void setSignificanceLevel(BigDecimal value) { this.significanceLevel = value; } 

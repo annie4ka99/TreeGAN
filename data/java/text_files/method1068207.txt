@@ -1,0 +1,1 @@
+ protected void runActionUp(){ Debug.debug(this, "UpButton cliked", channel); } 

@@ -1,0 +1,1 @@
+ protected void clearSignals() { querySuccessful = false; } 

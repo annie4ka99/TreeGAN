@@ -1,0 +1,1 @@
+ public void addSnac(Snac snac) { addDataField(snac); this.hasSnac = true; } 

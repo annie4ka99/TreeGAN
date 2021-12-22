@@ -1,0 +1,1 @@
+ private AuthenticationManager getAuthenticationManager() { return userAuthentManager; } 

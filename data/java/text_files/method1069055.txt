@@ -1,0 +1,1 @@
+ public void performPaste() { text.paste(); checkSelection(); checkDeleteable(); checkSelectable(); } 

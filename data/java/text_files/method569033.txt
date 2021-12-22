@@ -1,0 +1,1 @@
+ public void setDaemon(boolean daemon) { this.daemon = daemon; hcode = 0; } 

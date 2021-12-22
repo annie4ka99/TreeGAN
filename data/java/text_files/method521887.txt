@@ -1,0 +1,1 @@
+private BpaNetworkLink getNetwork() { return network; } 

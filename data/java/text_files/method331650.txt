@@ -1,0 +1,1 @@
+ public double getMean(double[] data) { calculate(data); return mean; } 

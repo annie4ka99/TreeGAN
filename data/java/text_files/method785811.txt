@@ -1,0 +1,1 @@
+ public Iterator tuplesReversed() { return m_tuples.iterator(rows(true)); } 

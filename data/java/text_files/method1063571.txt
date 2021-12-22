@@ -1,0 +1,1 @@
+ protected GraphNode getGraphNode() { return (GraphNode)getHost().getModel(); } 

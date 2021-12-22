@@ -1,0 +1,1 @@
+ public void addHeader(String name, Object value) { this.headers.put(name.toLowerCase(), value); } 

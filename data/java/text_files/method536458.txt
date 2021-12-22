@@ -1,0 +1,1 @@
+ private void println(String msg) { this.out.print(msg); this.out.print("\r\n"); } 

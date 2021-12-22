@@ -1,0 +1,1 @@
+ private Object getAttribute(CellView view, String key){ return view.getAttributes().get(key); } 

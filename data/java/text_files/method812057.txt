@@ -1,0 +1,1 @@
+ public String getJobName() { return "Moby service: " + getName(); } 

@@ -1,0 +1,1 @@
+ public void setNrOfSapwoodRings(Integer value) { this.nrOfSapwoodRings = value; } 

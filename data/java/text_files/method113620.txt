@@ -1,0 +1,1 @@
+ public void setPropert(String name, String value) { props.setProperty(name, value); } 

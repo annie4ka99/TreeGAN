@@ -1,0 +1,1 @@
+ public void setNameColor(Color color) { this.nameColor = color; } 

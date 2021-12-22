@@ -1,0 +1,1 @@
+ public void getglobal(String s) { pushlvalue( this.luaV_gettable(_G, new LString(s)) ); } 

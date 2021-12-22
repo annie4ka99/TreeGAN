@@ -1,0 +1,1 @@
+ public void removeEdge(Object from, Object to) { adjacent(from).remove(to); } 

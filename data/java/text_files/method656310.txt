@@ -1,0 +1,1 @@
+ public void setRelatedTypeValue(String relatedTypeValue) { this.relatedTypeValue = relatedTypeValue; } 

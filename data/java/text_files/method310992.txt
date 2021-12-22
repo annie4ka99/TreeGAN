@@ -1,0 +1,1 @@
+ public MapView3d getFrame() { return this.frame; } 

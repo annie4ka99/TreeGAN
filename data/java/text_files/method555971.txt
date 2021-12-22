@@ -1,0 +1,1 @@
+ public int get_imageLoad() { return imageLoad; } 

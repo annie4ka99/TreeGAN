@@ -1,0 +1,1 @@
+ public int getNodeCount() { return completeEltSet.nodeCount(); } 

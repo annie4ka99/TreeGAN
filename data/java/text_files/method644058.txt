@@ -1,0 +1,1 @@
+ public WriteEditSessionInputMsgType createWriteEditSessionInputMsgType() { return new WriteEditSessionInputMsgType(); } 

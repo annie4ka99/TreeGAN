@@ -1,0 +1,1 @@
+ public DataValueDescriptor getNull() { return typeId.getNull(); } 

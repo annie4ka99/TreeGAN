@@ -1,0 +1,1 @@
+ public String displayConnection(){ String ans="A MAPPING CANDIDATE.\n"; return ans.trim(); } 

@@ -1,0 +1,1 @@
+ public StringBuffer getFaMapBocageBlueGoals1() { return faMapBocageBlueGoals1; } 

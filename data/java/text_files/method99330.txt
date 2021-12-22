@@ -1,0 +1,1 @@
+ public WSIReadingNoteDictionary createWSIReadingNoteDictionary() { return new WSIReadingNoteDictionary(); } 

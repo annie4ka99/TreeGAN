@@ -1,0 +1,1 @@
+ public int getQueryPort() { return queryPort; } 

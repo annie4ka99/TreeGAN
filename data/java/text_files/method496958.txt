@@ -1,0 +1,1 @@
+ public void writeBean(Object p) { String name = shortName(p); writeBean(name, p); } 

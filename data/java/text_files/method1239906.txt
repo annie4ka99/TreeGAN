@@ -1,0 +1,1 @@
+ public Attachments getAttachmentsImpl() { return mAttachments; } 

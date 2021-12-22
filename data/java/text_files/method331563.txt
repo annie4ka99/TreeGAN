@@ -1,0 +1,1 @@
+ public void setConfigurationDialogExpandedState( String state ) { this.dialogSettings.expandedState = state; } 

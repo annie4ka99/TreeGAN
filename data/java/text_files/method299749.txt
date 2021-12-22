@@ -1,0 +1,1 @@
+ public void popHeader() { appendToBuffer("</" + _headers.pop() + ">"); } 

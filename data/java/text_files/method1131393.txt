@@ -1,0 +1,1 @@
+ public void remove(SimObject o) { synchronized (display) { display.remove(o.obj); } } 

@@ -1,0 +1,1 @@
+ public void setDoPopup(boolean doPopup) { this.doPopup = doPopup; } 

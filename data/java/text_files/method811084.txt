@@ -1,0 +1,1 @@
+ protected void setFixture(MzMLType fixture) { this.fixture = fixture; } 

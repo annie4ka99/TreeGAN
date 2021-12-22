@@ -1,0 +1,1 @@
+ public void setSpecificationObject(String value) { this.specificationObject = value; } 

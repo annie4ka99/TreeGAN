@@ -1,0 +1,1 @@
+ public Model getRdfModel(String uri) throws WgfaRdfModelDoesntExistException { return db.getRdfModel(uri); } 

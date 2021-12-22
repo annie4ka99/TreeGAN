@@ -1,0 +1,1 @@
+ public void reset() { removeAllElements(); has_failed = false; } 

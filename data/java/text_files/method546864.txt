@@ -1,0 +1,1 @@
+ public void addEditorListener(NetEditorListener l) { listeners.add(l); } 

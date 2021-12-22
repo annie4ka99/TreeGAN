@@ -1,0 +1,1 @@
+ public boolean isDecorationBackgroundVisible() { return dayChooser.isDecorationBackgroundVisible(); } 

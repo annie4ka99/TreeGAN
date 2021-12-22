@@ -1,0 +1,1 @@
+ public void disableRecordButton() { ExpertView.disableRecordButton(); simulatorBar.disableRecordButton(); } 

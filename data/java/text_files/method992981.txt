@@ -1,0 +1,1 @@
+ public void setLevels( int levels ) { this.levels = levels; } 

@@ -1,0 +1,1 @@
+ public Text toText() { return _entrySet.toText(); } 

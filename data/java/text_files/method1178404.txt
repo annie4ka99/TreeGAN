@@ -1,0 +1,1 @@
+ public int newByte() { final byte returnByte = currentValue; currentValue++; return returnByte; } 

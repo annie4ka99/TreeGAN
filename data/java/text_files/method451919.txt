@@ -1,0 +1,1 @@
+ public IFlowDestinationInterface getDestination(int index) { return destinations.get(index); } 

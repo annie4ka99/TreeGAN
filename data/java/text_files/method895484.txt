@@ -1,0 +1,1 @@
+ public void setHexSelection(boolean hexSelection) { this.hexSelection = hexSelection; } 

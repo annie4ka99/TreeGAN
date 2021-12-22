@@ -1,0 +1,1 @@
+ public void unattachCard(Card c) { attached.remove(c); this.updateObservers(); } 

@@ -1,0 +1,1 @@
+ public TipAnchor getTipAnchor() { return null; } 

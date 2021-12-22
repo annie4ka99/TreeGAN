@@ -1,0 +1,1 @@
+ public void setTimeToIdleSeconds(int timeToIdleSeconds) { this.timeToIdleSeconds = timeToIdleSeconds; } 

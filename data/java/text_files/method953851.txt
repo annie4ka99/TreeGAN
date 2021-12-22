@@ -1,0 +1,1 @@
+ public boolean getRouterEnabled() { return routerEnabled.isSelected(); } 

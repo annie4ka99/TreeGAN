@@ -1,0 +1,1 @@
+ public String addLimitAndOffsetClause(int maxResultSize,int startFrom, String selectQuery){ return selectQuery; } 

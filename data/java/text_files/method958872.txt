@@ -1,0 +1,1 @@
+ public boolean isTablero1Empty() { return tablero1.isEmpty(); } 

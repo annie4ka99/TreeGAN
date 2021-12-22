@@ -1,0 +1,1 @@
+ public Object getEdgeValueNew(Edge e) { return edge_values.get(e); } 

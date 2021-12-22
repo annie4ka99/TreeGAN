@@ -1,0 +1,1 @@
+ public boolean edgeHasValue(Edge e) { return edge_values.containsKey(e); } 

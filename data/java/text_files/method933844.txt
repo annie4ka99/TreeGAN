@@ -1,0 +1,1 @@
+ public void setPage(String page) { path = page; } 

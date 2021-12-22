@@ -1,0 +1,1 @@
+ public int getStartStrokeColor(int row) { return getInt(row, VisualItem.STARTSTROKECOLOR); } 

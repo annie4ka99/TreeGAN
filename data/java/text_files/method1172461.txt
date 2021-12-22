@@ -1,0 +1,1 @@
+ public boolean isEquipped() { return equippedBy.size() != 0; } 

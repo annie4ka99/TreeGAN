@@ -1,0 +1,1 @@
+ public void setSmtp(String smtp) { this.smtp = smtp; } 

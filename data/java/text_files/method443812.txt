@@ -1,0 +1,1 @@
+ public Object get(String key) { return _value_map.get(key); } 

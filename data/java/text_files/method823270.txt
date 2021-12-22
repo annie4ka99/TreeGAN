@@ -1,0 +1,1 @@
+ public void setOutputFile(String outputFile) { throw new IllegalArgumentException("Output file is not required."); } 

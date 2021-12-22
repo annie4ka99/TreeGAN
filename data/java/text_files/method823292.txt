@@ -1,0 +1,1 @@
+ public void setSendMail(boolean sendMail) { this.sendMail = sendMail; } 

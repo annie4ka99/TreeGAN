@@ -1,0 +1,1 @@
+ public void setFaultNode(String node) { faultNode = node; } 

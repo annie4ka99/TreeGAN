@@ -1,0 +1,1 @@
+ public void setMoveOutOfGroups(boolean flag) { isMoveOutOfGroups = flag; } 

@@ -1,0 +1,1 @@
+ public String opName() { return name().substring( 6 ); } 

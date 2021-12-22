@@ -1,0 +1,1 @@
+ public void setStatusKey(java.lang.String statusKey) { this.statusKey = statusKey; } 

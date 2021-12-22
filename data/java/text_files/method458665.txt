@@ -1,0 +1,1 @@
+ public double getDoubleProp(String pName) { return Double.parseDouble(getProp(pName)); } 

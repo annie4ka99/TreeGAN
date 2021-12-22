@@ -1,0 +1,1 @@
+ public String getRegistryFileResource() { return registryFileResource; } 

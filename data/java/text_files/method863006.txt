@@ -1,0 +1,1 @@
+ public Response fetchResponse(Request request) throws IOException { return _scripted.fetchResponse(request); } 

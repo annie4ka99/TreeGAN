@@ -1,0 +1,1 @@
+ public R visit(istruzione n) { R _ret=null; n.f0.accept(this); return _ret; } 

@@ -1,0 +1,1 @@
+ public void removeEdge( Edge edge ) { edges.removeElement(edge); } 

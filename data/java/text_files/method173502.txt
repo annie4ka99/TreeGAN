@@ -1,0 +1,1 @@
+ protected List getSelectedTypes() { return Arrays.asList(typesViewer.getCheckedElements()); } 

@@ -1,0 +1,1 @@
+ public void setHasGeo(boolean hasGeo) { this.hasGeo = hasGeo; } 

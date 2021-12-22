@@ -1,0 +1,1 @@
+ public void addAttachment(File file) { addAttachment(new FileDataSource(file)); } 

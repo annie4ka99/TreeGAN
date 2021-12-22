@@ -1,0 +1,1 @@
+ public void terminate() { synchronized (this) { _terminate = true; this.notify(); } } 

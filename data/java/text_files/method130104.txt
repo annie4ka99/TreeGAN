@@ -1,0 +1,1 @@
+ synchronized public AffineTransform getTransform() { return new AffineTransform(transform); } 

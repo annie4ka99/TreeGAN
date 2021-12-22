@@ -1,0 +1,1 @@
+ public Predicate getPredicate() { return m_query; } 

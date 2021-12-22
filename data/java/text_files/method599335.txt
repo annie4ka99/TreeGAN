@@ -1,0 +1,1 @@
+ public BigIntegerCrypto or(BigIntegerCrypto y) { return bitOp(7, this, y); } 

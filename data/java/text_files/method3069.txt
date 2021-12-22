@@ -1,0 +1,1 @@
+ public void treeExpanded(TreeExpansionEvent event) { expandTreeElement(event.getElement()); } 

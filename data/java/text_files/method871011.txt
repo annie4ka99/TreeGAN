@@ -1,0 +1,1 @@
+ public void removeBaseURI() throws XMLBaseException { baseURIs.pop(); } 

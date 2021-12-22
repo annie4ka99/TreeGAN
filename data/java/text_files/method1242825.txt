@@ -1,0 +1,1 @@
+ public void addLabel(Label label) { labels.add(label); } 

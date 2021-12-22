@@ -1,0 +1,1 @@
+ public String getEmailAddress(){ return this.emailAddress; } 

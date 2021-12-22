@@ -1,0 +1,1 @@
+ public int getKnotPosition(int n) { return xKnots[n]; } 

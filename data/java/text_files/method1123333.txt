@@ -1,0 +1,1 @@
+ public boolean inLanguage(int[] c) { synchronized (presentation) { return presentation.inLanguage(c); } } 

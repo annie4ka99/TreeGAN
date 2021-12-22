@@ -1,0 +1,1 @@
+ public Object get(Tuple t) { return m_head.get(t); } 

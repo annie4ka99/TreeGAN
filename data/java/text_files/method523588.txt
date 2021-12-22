@@ -1,0 +1,1 @@
+ public void setBOTTOM(int bottom) { BOTTOM = bottom; } 

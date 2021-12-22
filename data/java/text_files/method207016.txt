@@ -1,0 +1,1 @@
+ public String getCurrentDirectory() throws FileResourceException { return davClient.getPath(); } 

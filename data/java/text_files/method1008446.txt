@@ -1,0 +1,1 @@
+ public int pixelFor(int rgb) { return rgb; } 

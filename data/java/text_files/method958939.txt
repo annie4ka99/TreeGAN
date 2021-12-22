@@ -1,0 +1,1 @@
+ public int getPuntuacion() { return puntuacion; } 

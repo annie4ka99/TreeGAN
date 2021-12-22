@@ -1,0 +1,1 @@
+ synchronized public void sortMapPoints() { Collections.sort(mapPoints); } 

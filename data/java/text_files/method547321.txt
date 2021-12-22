@@ -1,0 +1,1 @@
+ public void setCursorColor(Color c) { cursorColor = c; } 

@@ -1,0 +1,1 @@
+ public void modifyAttributes(String name, int mod_op, Attributes attrs) throws NamingException { } 

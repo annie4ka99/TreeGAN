@@ -1,0 +1,1 @@
+ public void setNormal(Vector3f normal) { this.normal = normal; } 

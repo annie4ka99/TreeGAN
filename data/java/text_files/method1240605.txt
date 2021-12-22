@@ -1,0 +1,1 @@
+ public void setAllAttributes(Attributes attrs){ attributes = attrs; } 

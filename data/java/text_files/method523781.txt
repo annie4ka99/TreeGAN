@@ -1,0 +1,1 @@
+public void setBpsManagerName(String newValue) { this.bpsManagerName = newValue; } 

@@ -1,0 +1,1 @@
+ public long nanos() { return hdr_usec() * 1000; } 

@@ -1,0 +1,1 @@
+ public void setCardWidthMin(int cardWidthMin) { this.cardWidthMin = cardWidthMin; } 

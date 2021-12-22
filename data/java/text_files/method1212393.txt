@@ -1,0 +1,1 @@
+ public void setAllContent(String allContent) { this.allContent = allContent; } 

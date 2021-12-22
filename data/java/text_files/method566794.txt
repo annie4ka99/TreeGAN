@@ -1,0 +1,1 @@
+ public String obj_name() { return obj_name; } 

@@ -1,0 +1,1 @@
+ public void setAdmin(JiniServiceAdmin theAdmin) { admin = theAdmin; } 

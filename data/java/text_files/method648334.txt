@@ -1,0 +1,1 @@
+ public boolean command(String commandline) { return control.manualCommand(commandline); } 

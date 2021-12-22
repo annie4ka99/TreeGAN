@@ -1,0 +1,1 @@
+ public int revMaxMatch(CharSequence ccs){ return this.revMaxMatch(ccs, 0); } 

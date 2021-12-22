@@ -1,0 +1,1 @@
+ public boolean canOccupy(int x, int y) { return data.canOccupy(x, y); } 

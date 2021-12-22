@@ -1,0 +1,1 @@
+ public INumberSpectrum getModel() { return model; } 

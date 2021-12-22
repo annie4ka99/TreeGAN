@@ -1,0 +1,1 @@
+ public void setAscending(boolean asc) { m_asc = asc; } 

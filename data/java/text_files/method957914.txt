@@ -1,0 +1,1 @@
+ public void setAbstract(String value) { this._abstract = value; } 

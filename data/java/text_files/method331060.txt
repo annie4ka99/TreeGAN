@@ -1,0 +1,1 @@
+ public void uncoupleScroller() { scrollManager.uncoupleScroller(this); scrollerCoupling = null; } 

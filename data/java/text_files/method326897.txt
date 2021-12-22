@@ -1,0 +1,1 @@
+ public void dataChanged(T pamDetection) { if (pamDetection == null) { return; } } 

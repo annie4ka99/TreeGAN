@@ -1,0 +1,1 @@
+ public void setError(boolean value) { this.errorColors = value; refresh(); } 

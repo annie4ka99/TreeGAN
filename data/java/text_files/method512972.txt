@@ -1,0 +1,1 @@
+ public void changeDelimiter(char newDelim) { lexer.changeDelimiter(newDelim); } 

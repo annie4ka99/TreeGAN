@@ -1,0 +1,1 @@
+ protected void setExtension(String value) { extension = value; } 

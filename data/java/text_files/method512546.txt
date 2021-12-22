@@ -1,0 +1,1 @@
+ public String getValue(String key) { return this.config.getProperty(key); } 

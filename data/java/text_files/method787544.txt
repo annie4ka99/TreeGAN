@@ -1,0 +1,1 @@
+ public boolean is2DArea() { return m_is2DArea; } 

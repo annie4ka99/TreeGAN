@@ -1,0 +1,1 @@
+ public void setUsedInQuery(boolean usedInQuery) { this.usedInQuery = usedInQuery; } 

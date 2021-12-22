@@ -1,0 +1,1 @@
+ public float getFloat(long sequence) { return this.storage.getFloat(map(sequence)); } 

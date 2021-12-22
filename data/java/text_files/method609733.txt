@@ -1,0 +1,1 @@
+ public int getMyChosenCardsAmount(){ return myChosenCardsAmount; } 

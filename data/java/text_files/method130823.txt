@@ -1,0 +1,1 @@
+ public void readAll () { if (isThreaded) return; while (read () != PLAYER_MSGTYPE_SYNCH); } 

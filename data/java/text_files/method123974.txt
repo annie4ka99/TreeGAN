@@ -1,0 +1,1 @@
+ public void setLeadingSignVisible(boolean isVisible) { leadingSign.setVisible(isVisible); } 

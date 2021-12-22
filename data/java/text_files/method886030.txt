@@ -1,0 +1,1 @@
+ protected void updateEnabled() { setEnabled((toMove != null) && (moveTarget != null)); } 

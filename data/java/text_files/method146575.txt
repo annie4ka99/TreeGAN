@@ -1,0 +1,1 @@
+ public void close() throws Exception { serialCom.close(); inputStream = null; } 

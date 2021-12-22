@@ -1,0 +1,1 @@
+ public void clearIFicha1() { ficha1.clear(); } 

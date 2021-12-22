@@ -1,0 +1,1 @@
+ public boolean supportsSwing() { return this.supportsSwing; } 

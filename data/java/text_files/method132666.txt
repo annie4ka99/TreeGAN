@@ -1,0 +1,1 @@
+ public boolean overlaps(Range that) { return !(this.end < that.beg || this.beg > that.end); } 

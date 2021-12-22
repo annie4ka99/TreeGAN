@@ -1,0 +1,1 @@
+ public void testGetChildren() { Assert.assertEquals(0, testNode.getChildCount()); } 

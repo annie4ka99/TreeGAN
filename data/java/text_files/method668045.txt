@@ -1,0 +1,1 @@
+ public boolean isReady() { return (model.getState() == AuthenticatorState.CONNECTED_WAITING); } 

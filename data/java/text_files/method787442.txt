@@ -1,0 +1,1 @@
+ public JToolTip getCustomToolTip() { return m_customToolTip; } 

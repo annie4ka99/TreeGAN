@@ -1,0 +1,1 @@
+ public void loadIdentity() { zero(); m00 = m11 = m22 = m33 = 1; } 

@@ -1,0 +1,1 @@
+public void setOutputFormat(String newValue) { this.outputFormat = newValue; } 

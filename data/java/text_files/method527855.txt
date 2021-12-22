@@ -1,0 +1,1 @@
+public void setSigTypeId(int newSigTypeId) { sigTypeId = newSigTypeId; } 

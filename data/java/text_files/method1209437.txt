@@ -1,0 +1,1 @@
+ public String jsFunction_readLine() throws IOException { return getReader().readLine(); } 

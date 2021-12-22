@@ -1,0 +1,1 @@
+ public PluginDescriptor getPluginDescriptor() { return pluginDescriptor; } 

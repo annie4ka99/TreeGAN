@@ -1,0 +1,1 @@
+ public void initialise(long timeMillis) { sampleRate = clipBlockProcess.clipProcess.getSampleRate(); } 

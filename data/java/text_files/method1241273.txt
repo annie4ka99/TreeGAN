@@ -1,0 +1,1 @@
+ public boolean isIndexed() { return (field.getType().getComponentType() != null); } 

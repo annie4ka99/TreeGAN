@@ -1,0 +1,1 @@
+ public String getSeparatorString() { return _separatorString; } 

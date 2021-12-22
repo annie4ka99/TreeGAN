@@ -1,0 +1,1 @@
+ public void setLinkDatabase(PilotDBDatabase linkDatabase) { this.linkDatabase = linkDatabase; } 

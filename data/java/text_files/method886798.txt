@@ -1,0 +1,1 @@
+ public XslPluginFactoryImpl (ConverterInfo ci) { super(ci); } 

@@ -1,0 +1,1 @@
+ public void update(long _time) { if (this.scene != null) { this.scene.update(_time); } } 

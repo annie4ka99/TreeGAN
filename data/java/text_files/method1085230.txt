@@ -1,0 +1,1 @@
+ public Boolean getMovieViewerEnabled() { return movieViewerEnabled; } 

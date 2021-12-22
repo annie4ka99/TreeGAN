@@ -1,0 +1,1 @@
+ public double getPixel(long ipix) { return data[(int)ipix]; } 

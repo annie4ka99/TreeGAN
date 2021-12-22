@@ -1,0 +1,1 @@
+ public void setActionMappingClass(String actionMappingClass) { this.actionMappingClass = actionMappingClass; } 

@@ -1,0 +1,1 @@
+ public void getGlobalScope() { instructions.append( OP_getglobalscope ); } 

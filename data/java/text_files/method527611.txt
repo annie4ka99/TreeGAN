@@ -1,0 +1,1 @@
+private int getCurrentImageSize() { return imageSize[getCurrentPage()-1]; } 

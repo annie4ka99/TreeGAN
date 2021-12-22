@@ -1,0 +1,1 @@
+ public void setApplication(IDeviceApplication runnable) { application = runnable; } 

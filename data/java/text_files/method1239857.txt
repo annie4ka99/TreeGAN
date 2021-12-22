@@ -1,0 +1,1 @@
+ public void setOption(String name, Object value) { service.getEngine().setOption(name, value); } 

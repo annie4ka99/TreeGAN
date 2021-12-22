@@ -1,0 +1,1 @@
+ public Adapter createUml1SemanticModelBridgeAdapter() { return null; } 

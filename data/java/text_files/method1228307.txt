@@ -1,0 +1,1 @@
+ public void moveRight() { _x += 1; ensureBounds(); } 

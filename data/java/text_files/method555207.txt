@@ -1,0 +1,1 @@
+ public SnapshotData getSnapshotDataAtRow(int rowIndex) { return rows[rowIndex]; } 

@@ -1,0 +1,1 @@
+ public void consume() { event.consume(); } 

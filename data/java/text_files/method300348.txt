@@ -1,0 +1,1 @@
+ public void addCluster(Cluster clt){ clusters.add(clt); } 

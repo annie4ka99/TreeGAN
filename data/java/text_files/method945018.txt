@@ -1,0 +1,1 @@
+ protected String getImageName() { return "petrol_invoice_editor"; } 

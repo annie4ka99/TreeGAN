@@ -1,0 +1,1 @@
+ public JComboBox getRecordsComboBox(){ return recordsPerPage; } 

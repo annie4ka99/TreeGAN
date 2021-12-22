@@ -1,0 +1,1 @@
+ public void setAskConfirmation(boolean askConfirmation) { this.askConfirmation = askConfirmation; } 

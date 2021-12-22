@@ -1,0 +1,1 @@
+ public void setRecordsPerPage( int value ) { recordsPerPage = value ; } 

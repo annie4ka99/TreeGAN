@@ -1,0 +1,1 @@
+public String getMonitoringProtocolVersion() throws java.rmi.RemoteException { return MONITORING_PROTOCOL_VERSION_NUMBER; } 

@@ -1,0 +1,1 @@
+ public void setCvsServer(String cvsServer) { this.cvsServer = cvsServer; } 

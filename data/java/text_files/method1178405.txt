@@ -1,0 +1,1 @@
+ public int newInt() { final int returnInt = currentValue; currentValue++; return returnInt; } 

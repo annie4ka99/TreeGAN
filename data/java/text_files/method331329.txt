@@ -1,0 +1,1 @@
+ public double getOverlap() { return this.overlap[0]; } 

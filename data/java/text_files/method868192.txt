@@ -1,0 +1,1 @@
+ protected boolean rewriteInstructions( ClassModel classModel, MethodModel methodModel ) { return true; } 

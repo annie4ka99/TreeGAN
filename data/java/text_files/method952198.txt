@@ -1,0 +1,1 @@
+ public Community getcommunity(Community comm) { return (Community) this.get(comm); } 

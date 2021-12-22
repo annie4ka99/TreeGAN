@@ -1,0 +1,1 @@
+ public Object opt(String key) { return key == null ? null : this.myHashMap.get(key); } 

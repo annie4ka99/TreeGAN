@@ -1,0 +1,1 @@
+ public void setHeader( PageDecoration header ) { this.header = header; } 

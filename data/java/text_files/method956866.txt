@@ -1,0 +1,1 @@
+ public void setNegate(boolean value) { this.negate = value; } 

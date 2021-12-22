@@ -1,0 +1,1 @@
+ public boolean usernameExists(String username) { return this.userDatabase.userIDExists(username); } 

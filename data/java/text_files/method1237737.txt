@@ -1,0 +1,1 @@
+ public Point2D pointForVertex(Object vertex) { return (Point2D) verticesToPoints.get(vertex); } 

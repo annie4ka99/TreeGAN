@@ -1,0 +1,1 @@
+private void setErrorMessages(String[] newErrorMessages) { errorMessages = newErrorMessages; } 

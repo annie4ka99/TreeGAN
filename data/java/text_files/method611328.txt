@@ -1,0 +1,1 @@
+ public boolean addLocationInformation(FOS inPlace, FOS inUpdate){ return false; } 

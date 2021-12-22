@@ -1,0 +1,1 @@
+ protected boolean isFileGenerated(String file) { return emitter.getGeneratedFileNames().contains(file); } 

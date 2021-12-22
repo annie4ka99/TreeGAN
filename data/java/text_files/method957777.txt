@@ -1,0 +1,1 @@
+ public void setComparisonOperators(ComparisonOperatorsType value) { this.comparisonOperators = value; } 

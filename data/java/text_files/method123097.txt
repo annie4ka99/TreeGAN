@@ -1,0 +1,1 @@
+ public boolean tryLock() { synchronized (this) { if (_owner == null) { lock(); return true; } else { return false; } } } 

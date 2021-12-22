@@ -1,2 +1,6 @@
 lark-parser>=0.7.8
-torch>=1.0.0
+--find-links https://download.pytorch.org/whl/lts/1.8/torch_lts.html
+torch==1.8.2+cu111
+numpy>=1.21.4
+hyperopt>=0.2.5
+matplotlib

@@ -1,0 +1,1 @@
+ public QName getCurrentXMLType() { return currentXMLType; } 

@@ -1,0 +1,1 @@
+ public boolean isCaseSensitive() { return OpenWatcomProcessor.isCaseSensitive(); } 

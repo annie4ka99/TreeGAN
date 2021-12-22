@@ -1,0 +1,1 @@
+ public boolean isAdapterForType(Object type) { return type.equals(editPart.getModel().getClass()); } 

@@ -1,0 +1,1 @@
+ public Discrimination getDisc(int did) { return did2discr.elementAt(did); } 

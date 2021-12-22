@@ -1,0 +1,1 @@
+ public TridasMeasuringMethod createTridasMeasuringMethod() { return new TridasMeasuringMethod(); } 

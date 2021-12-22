@@ -1,0 +1,1 @@
+ protected void initializeEveFactory() throws FrameInitException { if (factory == null) { factory = null; } } 

@@ -1,0 +1,1 @@
+ public void setQName(QName qname) { this.qname = qname; } 

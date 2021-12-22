@@ -1,0 +1,1 @@
+ public void setHaveGL12(boolean haveGL12) { this.haveGL12 = haveGL12; } 

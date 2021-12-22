@@ -1,0 +1,1 @@
+ public String getAttribute_complete_name() { return attributeCompleteName; } 

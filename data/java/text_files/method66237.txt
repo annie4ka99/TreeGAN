@@ -1,0 +1,1 @@
+ public JPanel getSelectedPanel() { return selectedPanel; } 

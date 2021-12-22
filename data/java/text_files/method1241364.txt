@@ -1,0 +1,1 @@
+ public String getSOAPRequest() { return soap_request; } 

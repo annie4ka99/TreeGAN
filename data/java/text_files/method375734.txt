@@ -1,0 +1,1 @@
+ public Style getStyle() { return style; } 

@@ -1,0 +1,1 @@
+ public Iterator children(Node n) { return super.outNeighbors(n); } 

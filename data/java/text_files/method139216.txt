@@ -1,0 +1,1 @@
+ final public void setOrganism(String org) { organism = org; } 

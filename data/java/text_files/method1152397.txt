@@ -1,0 +1,1 @@
+ public void set(Vec2 v) { this.x = v.x; this.y = v.y; } 

@@ -1,0 +1,1 @@
+ public void setContentLocation(String loc) { setMimeHeader(HTTPConstants.HEADER_CONTENT_LOCATION, loc); } 

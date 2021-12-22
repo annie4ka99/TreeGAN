@@ -1,0 +1,1 @@
+ public void setPostConstruct(final boolean postConstruct) { this.postConstruct = postConstruct; } 

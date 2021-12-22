@@ -1,0 +1,1 @@
+ public CharBuffer decode(byte[] b) { return decode(ByteBuffer.wrap(b)); } 

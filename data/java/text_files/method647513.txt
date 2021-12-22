@@ -1,0 +1,1 @@
+ public Object getApplicationData() { return m_applicationData; } 

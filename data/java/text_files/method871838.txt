@@ -1,0 +1,1 @@
+ public void setRegUser(java.lang.Integer regUser) { this.regUser = regUser; } 

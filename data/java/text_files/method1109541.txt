@@ -1,0 +1,1 @@
+ public void setNbRound(int nbRound) { this.nbRound = nbRound; } 

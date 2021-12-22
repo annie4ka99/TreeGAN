@@ -1,0 +1,1 @@
+ public void setMethod(String value) { this.method = value; } 

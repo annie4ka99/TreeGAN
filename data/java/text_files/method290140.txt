@@ -1,0 +1,1 @@
+ public void setParent(Event parent) { this.parent = parent; } 

@@ -1,0 +1,1 @@
+ protected void setTimeout(int millis) { this.timeout = millis; } 

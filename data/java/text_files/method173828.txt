@@ -1,0 +1,1 @@
+ public void setFactory(JDOMFactory factory) { this.factory = factory; } 

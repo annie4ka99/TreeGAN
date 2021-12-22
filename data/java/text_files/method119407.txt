@@ -1,0 +1,1 @@
+ public CellViewFactory getFactory() { return factory; } 

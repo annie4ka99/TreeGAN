@@ -1,0 +1,1 @@
+ public String getN_acquisti() { return n_acquisti; } 

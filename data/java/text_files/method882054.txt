@@ -1,0 +1,1 @@
+ public AbstractTreeViewController getController() { return this.controller; } 

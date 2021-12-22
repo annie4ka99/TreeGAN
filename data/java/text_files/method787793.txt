@@ -1,0 +1,1 @@
+ public void setMargin(int margin) { this.m_margin = margin; } 

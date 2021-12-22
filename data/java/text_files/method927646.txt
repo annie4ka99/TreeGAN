@@ -1,0 +1,1 @@
+ public void setMaxRecentFileCount(int count) { m_iMaxRecentFileCount = count; } 

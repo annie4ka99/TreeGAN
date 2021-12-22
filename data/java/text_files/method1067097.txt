@@ -1,0 +1,1 @@
+ protected GraphElement getSource(GraphEdge edge) { return getSourceAnchor(edge).getGraphElement(); } 

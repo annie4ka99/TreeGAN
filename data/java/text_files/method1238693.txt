@@ -1,0 +1,1 @@
+ public void setRefType(TypeEntry refType) { this.refType = refType; } 

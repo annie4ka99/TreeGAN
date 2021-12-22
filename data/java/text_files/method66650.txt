@@ -1,0 +1,1 @@
+ public void setColor(ColorRGBA color) { this.color = color; text2D.setTextColor(color); } 

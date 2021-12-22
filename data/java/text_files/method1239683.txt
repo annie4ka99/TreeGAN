@@ -1,0 +1,1 @@
+ public Message getResponseMessage() { return msgContext.getResponseMessage(); } 

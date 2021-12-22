@@ -1,0 +1,1 @@
+ protected void setSessionList(JpxiSessionList newSessionList) { sessionList = newSessionList; } 

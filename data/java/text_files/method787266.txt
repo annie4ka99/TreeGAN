@@ -1,0 +1,1 @@
+ public void setSpacing(double spacing) { m_spacing = spacing; } 

@@ -1,0 +1,1 @@
+ public int getWindingRule() { return src.getWindingRule(); } 

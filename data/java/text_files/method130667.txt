@@ -1,0 +1,1 @@
+ public void setMaximumCommand (double maxC) { this.maxCommand = maxC; } 

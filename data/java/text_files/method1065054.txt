@@ -1,0 +1,1 @@
+ private String getExpression(Image image) { return image.getLocation(); } 

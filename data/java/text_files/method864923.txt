@@ -1,0 +1,1 @@
+ public void newFunction( AVM2Method function ) { instructions.append( OP_newfunction, function.index ); } 

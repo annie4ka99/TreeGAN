@@ -1,0 +1,1 @@
+ public boolean isSmartEditing() { return getConfDocument().getConfiguration().getEditor() .getSmartEditing(); } 

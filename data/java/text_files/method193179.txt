@@ -1,0 +1,1 @@
+ public void setDesktopURL(String desktopURL) { this.desktopURL = desktopURL; } 

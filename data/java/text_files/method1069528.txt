@@ -1,0 +1,1 @@
+ public TemplateParamContainerFigure getTemplateParameterContent(){ return this.templateParameterContent;} 

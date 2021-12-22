@@ -1,0 +1,1 @@
+ public void setProcessid(Integer value) { this.processid = value; } 

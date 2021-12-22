@@ -1,0 +1,1 @@
+ public boolean isDoRun() { if (canRun() == false) { return false; } return doRun; } 

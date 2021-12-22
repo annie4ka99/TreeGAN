@@ -1,0 +1,1 @@
+ public Pseudostate getResult(){ return pseudostate; } 

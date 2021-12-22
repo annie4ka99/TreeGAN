@@ -1,0 +1,1 @@
+ public GetCapabilitiesType createGetCapabilitiesType() { return new GetCapabilitiesType(); } 

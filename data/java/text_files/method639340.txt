@@ -1,0 +1,1 @@
+ protected void setLogicalFingerPrint(String logicalFingerprint) { this.logicalFingerprint = logicalFingerprint; } 

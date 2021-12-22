@@ -1,0 +1,1 @@
+ public void timestepCompleted(Simulation simulation) { nextGenerationTimestep(simulation); } 

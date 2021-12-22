@@ -1,0 +1,1 @@
+ public EntityTreeNode addChild(E newInstance) { return null; } 

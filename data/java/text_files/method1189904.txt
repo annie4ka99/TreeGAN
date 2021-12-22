@@ -1,0 +1,1 @@
+ public int distinctValues(String fldname) { return 1 + (numRecs / 3); } 

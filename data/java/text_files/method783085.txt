@@ -1,0 +1,1 @@
+ public AbstractSet getNext() { return next; } 

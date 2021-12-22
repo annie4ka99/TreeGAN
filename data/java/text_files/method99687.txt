@@ -1,0 +1,1 @@
+ public void setUsername(String value) { this.username = value; } 

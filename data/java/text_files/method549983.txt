@@ -1,0 +1,1 @@
+ protected boolean isExecuteColumn(int i) { return SET.equals(columnModel.getColumn(i).getHeaderValue()); } 

@@ -1,0 +1,1 @@
+ public void setCheckspaces (boolean s) { checkspaces = s; } 

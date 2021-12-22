@@ -1,0 +1,1 @@
+ public void setStartY(int row, double y) { setDouble(row, VisualItem.STARTY, y); } 

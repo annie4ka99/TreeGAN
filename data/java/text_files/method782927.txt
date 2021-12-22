@@ -1,0 +1,1 @@
+ public boolean matches() { return lookingAt(leftBound, Matcher.MODE_MATCH); } 

@@ -1,0 +1,1 @@
+ public ProgressPage(String subtitle) { this(subtitle, null); } 

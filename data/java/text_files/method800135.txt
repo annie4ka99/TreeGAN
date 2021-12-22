@@ -1,0 +1,1 @@
+ protected ImagePrint image( ImageData imageData ) { return image( imageData, getDefaultImageDPI() ); } 

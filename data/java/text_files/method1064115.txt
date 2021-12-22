@@ -1,0 +1,1 @@
+ public boolean isVirtual(){ return hasStereotype("virtual"); } 

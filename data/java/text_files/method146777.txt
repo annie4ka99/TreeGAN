@@ -1,0 +1,1 @@
+ public String getDescription() { return "Talk to a GPS receiver using a serial port on your computer"; } 

@@ -1,0 +1,1 @@
+ final public void setAdvancedSimpleDeadlock(int position) { advancedSimpleDeadlockSquareForwards[position] = true; } 

@@ -1,0 +1,1 @@
+ public BoundingBoxType createBoundingBoxType() { return new BoundingBoxType(); } 

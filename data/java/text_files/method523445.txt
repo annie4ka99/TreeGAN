@@ -1,0 +1,1 @@
+public void setOverlay(Overlay newOverlay) { overlay = newOverlay; } 

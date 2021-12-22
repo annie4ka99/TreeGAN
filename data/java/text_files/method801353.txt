@@ -1,0 +1,1 @@
+ public Composite getJcpComposite() { return child1; } 

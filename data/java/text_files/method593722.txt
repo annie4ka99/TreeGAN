@@ -1,0 +1,1 @@
+ public ActionBean getActionBean() throws StripesJspException { return getParentFormTag().getActionBean(); } 

@@ -1,0 +1,1 @@
+ public void setLastClickTime(){ this.timestmp = System.currentTimeMillis(); } 

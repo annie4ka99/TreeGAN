@@ -1,0 +1,1 @@
+ public void setCellWidth(int cellSize) { if (runThread == null) DisplayConstants.CELL_WIDTH = cellSize; } 

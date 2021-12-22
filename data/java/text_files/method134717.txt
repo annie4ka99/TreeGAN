@@ -1,0 +1,1 @@
+ public void setFrame(JFrame frame) { this.frame = frame; } 

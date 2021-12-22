@@ -1,0 +1,1 @@
+ public void setDate(Calendar date) { this.date = date; } 

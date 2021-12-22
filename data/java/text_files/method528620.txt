@@ -1,0 +1,1 @@
+private void setProfileID(java.lang.String newProfileID) { profileID = newProfileID; } 

@@ -1,0 +1,1 @@
+ public GridBagHelper nextCol() { gridx++; return this; } 

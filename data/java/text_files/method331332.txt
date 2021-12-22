@@ -1,0 +1,1 @@
+ public void addTargetConfiguration( TargetConfiguration config ) { treeTableModel.addTargetConfiguration( config ); } 

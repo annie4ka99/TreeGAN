@@ -1,0 +1,1 @@
+ public void setDatabaseName(String dbName) { this.databaseName = dbName; } 

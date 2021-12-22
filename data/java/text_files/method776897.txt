@@ -1,0 +1,1 @@
+ public long getTimeSinceLastCommand() { return (System.currentTimeMillis() - timeOfLastCommand) / 1000; } 

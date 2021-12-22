@@ -1,0 +1,1 @@
+ public void setBbCodeEnabled(boolean bbCodeEnabled) { this.bbCodeEnabled = bbCodeEnabled; } 

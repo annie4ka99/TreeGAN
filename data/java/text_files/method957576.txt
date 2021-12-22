@@ -1,0 +1,1 @@
+ public LengthType createLengthType() { return new LengthType(); } 

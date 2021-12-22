@@ -1,0 +1,1 @@
+ public String getColumnName(int c) { return (String) vColumnNames.get(c); } 

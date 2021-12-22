@@ -1,0 +1,1 @@
+ private boolean isVisited(int boardPositionIndex) { int i = (boardPositionIndex >>> 3), j = (boardPositionIndex & 7); return (visitedData[i] & (1 << j)) > 0; } 

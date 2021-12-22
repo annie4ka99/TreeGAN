@@ -1,0 +1,1 @@
+ protected void swapSides() { if (currentExperiment != null) { currentExperiment.swapSides(); } } 

@@ -1,0 +1,1 @@
+ public void setDouble(long sequence, double value) { this.storage.setDouble(map(sequence), value); } 

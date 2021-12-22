@@ -1,0 +1,1 @@
+ public void setIdentity(Identity identity) { identityEnvironment.setIdentity(identity); } 

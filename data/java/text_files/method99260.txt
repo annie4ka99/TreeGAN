@@ -1,0 +1,1 @@
+ public void setObject(String value) { this.object = value; } 

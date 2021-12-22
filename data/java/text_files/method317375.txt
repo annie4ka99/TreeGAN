@@ -1,0 +1,1 @@
+ public void setPortName(java.lang.String portName) { this.portName = portName; } 

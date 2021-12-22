@@ -1,0 +1,1 @@
+ public long save() throws StopAction { return save( setup.getSqlConnection().getUser().toString() ); } 

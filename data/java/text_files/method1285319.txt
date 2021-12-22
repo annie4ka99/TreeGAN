@@ -1,0 +1,1 @@
+ public void setCommandListener(CommandListener commandListener) { this.commandListener = commandListener; } 

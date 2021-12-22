@@ -1,0 +1,1 @@
+ public CoordType getCoord() { return coord; } 

@@ -1,0 +1,1 @@
+ public void setStatespecattrrw(final DevState[] statespecattrrw) { xlogger.entry(); xlogger.exit(); } 

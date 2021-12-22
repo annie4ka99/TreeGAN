@@ -1,0 +1,1 @@
+ private boolean shouldCopy () { if (Math.random() < copyOdds) {return true;} return false; } 

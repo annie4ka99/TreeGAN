@@ -1,0 +1,1 @@
+ public void setWinPos(int x, int y) { WindowX = (short) x; WindowY = (short) y; } 

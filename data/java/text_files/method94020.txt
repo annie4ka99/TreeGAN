@@ -1,0 +1,1 @@
+ public void clear() throws IOException { bh.clear(); recording = true; } 

@@ -1,0 +1,1 @@
+ public boolean isUnsynchronized() { return getUnsynchronizedFragments().size() > 0; } 

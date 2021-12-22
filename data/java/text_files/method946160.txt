@@ -1,0 +1,1 @@
+ public boolean existsVehicle(String vin) throws DataAccessException { return this.loadVehicle(vin)!=null; } 

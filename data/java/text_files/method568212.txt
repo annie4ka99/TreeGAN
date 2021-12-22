@@ -1,0 +1,1 @@
+ public void remove(ATreeElement child){ if(child!=null){ this.m_child=null; } } 

@@ -1,0 +1,1 @@
+ public void setNoteCd(int noteCd) { this.noteCd = noteCd; } 

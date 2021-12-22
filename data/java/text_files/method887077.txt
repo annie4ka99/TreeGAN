@@ -1,0 +1,1 @@
+ public void addChild(Object child) { children.add(child); } 

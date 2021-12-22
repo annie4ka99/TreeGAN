@@ -1,0 +1,1 @@
+ public void setIsInternal(boolean value) { this.isInternal = value; } 

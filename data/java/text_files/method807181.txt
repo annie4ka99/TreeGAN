@@ -1,0 +1,1 @@
+ public boolean getFocus() { return this.hasFocus; } 

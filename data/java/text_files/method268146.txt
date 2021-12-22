@@ -1,0 +1,1 @@
+ public int getMaxSchemaNameLength() throws java.sql.SQLException { return 0; } 

@@ -1,0 +1,1 @@
+ public JSCInt getSaveLastState() { return saveLastState; } 

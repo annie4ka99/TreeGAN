@@ -1,0 +1,1 @@
+ protected void typeSelected(IType selected) { _selectedType = selected; } 

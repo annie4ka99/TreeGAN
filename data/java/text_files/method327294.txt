@@ -1,0 +1,1 @@
+ public double getCoordinate(int c) { return coordinate[c]; } 

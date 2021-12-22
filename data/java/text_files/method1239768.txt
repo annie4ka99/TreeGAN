@@ -1,0 +1,1 @@
+ public String getEncoding() { return XMLEncoderFactory.ENCODING_UTF_16; } 

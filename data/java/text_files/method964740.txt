@@ -1,0 +1,1 @@
+ public int hashCode() { return new Double(value).hashCode() + 37 * unit.hashCode(); } 

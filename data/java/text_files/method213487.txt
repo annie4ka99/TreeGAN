@@ -1,0 +1,1 @@
+ private boolean isOutOfBounds() { return index >= commandLine.length(); } 

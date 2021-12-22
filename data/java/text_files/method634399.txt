@@ -1,0 +1,1 @@
+ public HttpServletRequest getHttpRequest() { return httpRequest; } 

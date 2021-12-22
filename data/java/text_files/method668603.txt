@@ -1,0 +1,1 @@
+ public String getlnWord() { String x = getWord(); emptyBuffer(); return x; } 

@@ -1,0 +1,1 @@
+ public LogoMap duplicate() { return new LogoMap(data); } 

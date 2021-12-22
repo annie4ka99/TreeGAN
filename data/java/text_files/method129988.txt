@@ -1,0 +1,1 @@
+ public void setCycleLength(final int cycleLength) { this.cycleLength = cycleLength; } 

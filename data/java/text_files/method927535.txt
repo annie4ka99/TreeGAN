@@ -1,0 +1,1 @@
+ public double getLeadtime() { return m_GanttFactory.getTotalLeadTime(m_Graph); } 

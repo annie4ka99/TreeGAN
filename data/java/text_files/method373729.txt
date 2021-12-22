@@ -1,0 +1,1 @@
+ public boolean hasField(Response field) { return super.hasField(field); } 

@@ -1,0 +1,1 @@
+ public void setTriggers(boolean b) { trigger = b; leavesTrigger = b; } 

@@ -1,0 +1,1 @@
+private void setLabel(java.lang.String newLabel) { label = newLabel; } 

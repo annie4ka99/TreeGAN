@@ -1,0 +1,1 @@
+ public void updateGroupList() { groupListFilterPanel.updateList(); } 

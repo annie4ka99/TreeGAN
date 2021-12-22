@@ -1,0 +1,1 @@
+ public IStyleSheet createStyleSheet(IDocument document) { return new StyleSheet(document); } 

@@ -1,0 +1,1 @@
+ public void addLoadConstant(long k) { add(ByteCode.LDC2_W, itsConstantPool.addConstant(k)); } 

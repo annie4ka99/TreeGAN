@@ -1,0 +1,1 @@
+ protected JCheckBox addCoreCheckBox(String propertyName) { return addCoreCheckBox(propertyName, null); } 

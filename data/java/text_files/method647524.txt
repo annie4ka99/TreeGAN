@@ -1,0 +1,1 @@
+ public FitnessFunction getFitnessFunction() { return m_objectiveFunction; } 

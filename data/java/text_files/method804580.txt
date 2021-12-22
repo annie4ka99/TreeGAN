@@ -1,0 +1,1 @@
+ public void setFilter(java.lang.String filter) { this.filter = filter; } 

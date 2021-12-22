@@ -1,0 +1,1 @@
+ public void setHeaderVisible(boolean b) { headerVisible = b; } 

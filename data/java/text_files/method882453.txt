@@ -1,0 +1,1 @@
+ public Config getConfig() { return XMLFileIOManagerImpl.config; } 

@@ -1,0 +1,1 @@
+ public void setRotationQuaternion(Quaternion quat) { quat.toRotationMatrix(this); } 

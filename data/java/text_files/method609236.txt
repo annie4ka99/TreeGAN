@@ -1,0 +1,1 @@
+ public void setDatesMarked(Date[] dates) { dayChooser.markDates(dates); } 

@@ -1,0 +1,1 @@
+ public boolean containsHashAlgo(ZrtpConstants.SupportedHashes hash) { return hashes.containsAlgo(hash); } 

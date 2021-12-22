@@ -1,0 +1,1 @@
+ public void setPitchShift(double pitchShift) { this.pitchShift = (float) pitchShift; } 

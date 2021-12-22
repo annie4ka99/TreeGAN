@@ -1,0 +1,1 @@
+ public boolean allowLoadLocalInfile() { return this.allowLoadLocalInfile; } 

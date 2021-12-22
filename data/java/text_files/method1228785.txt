@@ -1,0 +1,1 @@
+ public void removeRow(int rowNumber){ datas.remove(rowNumber); } 

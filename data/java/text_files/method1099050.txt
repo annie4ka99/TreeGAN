@@ -1,0 +1,1 @@
+ public String getGlobalMessages() { return mGlobalBuffer.toString(); } 

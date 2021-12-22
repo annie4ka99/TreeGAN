@@ -1,0 +1,1 @@
+ public Attribute getAttribute() { return attribute; } 

@@ -1,0 +1,1 @@
+ public BaseAction getAction(String identifier) { return actions.get(identifier); } 

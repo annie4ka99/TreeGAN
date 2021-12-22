@@ -1,0 +1,1 @@
+ public TransactionSummaryType createTransactionSummaryType() { return new TransactionSummaryType(); } 

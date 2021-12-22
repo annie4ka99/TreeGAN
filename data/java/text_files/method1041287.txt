@@ -1,0 +1,1 @@
+ public void setInitialCapacity(int initialCapacity) { this.initialCapacity = initialCapacity; } 

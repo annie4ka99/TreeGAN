@@ -1,0 +1,1 @@
+ public void setNewLine(boolean newLine) { this.newLine = newLine; } 

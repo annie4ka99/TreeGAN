@@ -1,0 +1,1 @@
+ public void unregister() { if (attributeType != null) { attributeType.unregister(this); } } 

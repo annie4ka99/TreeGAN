@@ -1,0 +1,1 @@
+ public Character toJavaBoxedCharacter() { return new Character(toJavaChar()); } 

@@ -1,0 +1,1 @@
+ public boolean getIsStart() { return isStart; } 

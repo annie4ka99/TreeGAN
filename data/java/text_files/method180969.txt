@@ -1,0 +1,1 @@
+ public void jdoCopyFields(java.lang.Object other, int[] fieldNumbers) { } 

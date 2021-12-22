@@ -1,0 +1,1 @@
+ public boolean isThreadedCommand () { return threadedCommand; } 

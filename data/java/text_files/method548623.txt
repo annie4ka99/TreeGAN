@@ -1,0 +1,1 @@
+ public void openMenuItemActionPerformed() { buildPogoFromFile(OPEN_FILE); } 

@@ -1,0 +1,1 @@
+ public void setMapView(MapView mapView) { this.mapView = mapView; renderMap(); } 

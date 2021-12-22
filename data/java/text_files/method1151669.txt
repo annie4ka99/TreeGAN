@@ -1,0 +1,1 @@
+ public void mouseReleased() { if (currentTest == null || handleOptions) return; currentTest.mouseUp(); } 

@@ -1,0 +1,1 @@
+ public String createToolTip() { return m_POJO.getName()+", "+m_POJO.getCity(); } 

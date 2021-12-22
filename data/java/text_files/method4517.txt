@@ -1,0 +1,1 @@
+ public CatchAction copyThis(){ return new CatchAction(this); } 

@@ -1,0 +1,1 @@
+ public void visitDCMPG(DCMPG o){ stack().pop(); stack().pop(); stack().push(Type.INT); } 

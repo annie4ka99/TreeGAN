@@ -1,0 +1,1 @@
+ public boolean isDone() { int size = total; return size != -1 && size == current; } 

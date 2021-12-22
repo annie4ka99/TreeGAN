@@ -1,0 +1,1 @@
+ public MessageContext getMessageContext() { return msgContext; } 

@@ -1,0 +1,1 @@
+ private int getBorder() { return getIntAttr(HTML.Attribute.BORDER, 0); } 

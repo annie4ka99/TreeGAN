@@ -1,0 +1,1 @@
+ public void setSignal(SignalDescriptor signalDescriptor) throws IOException{ signal = signalDescriptor; } 

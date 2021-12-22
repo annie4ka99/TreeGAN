@@ -1,0 +1,1 @@
+ public void setChildModule(ChildModule childModule) { this.childModule = childModule; } 

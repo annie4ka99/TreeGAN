@@ -1,0 +1,1 @@
+ public LValue luaGetTable(LuaState vm, LValue key) { return vm.luaV_gettable(this, key); } 

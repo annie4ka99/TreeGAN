@@ -1,0 +1,1 @@
+ public List getGauges() { return new ArrayList(registeredGauges.values()); } 

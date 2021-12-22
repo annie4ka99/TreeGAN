@@ -1,0 +1,1 @@
+ public boolean includeInLayout() { return !(!getComponent().isVisible() && isUnspecified()); } 

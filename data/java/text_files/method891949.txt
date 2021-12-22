@@ -1,0 +1,1 @@
+ public void setGotoHt(Hashtable gotoHt) { this.gotoHt = gotoHt; } 

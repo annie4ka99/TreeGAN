@@ -1,0 +1,1 @@
+ public void addForwardConfig(ForwardConfig config) { forwards.put(config.getName(), config); } 

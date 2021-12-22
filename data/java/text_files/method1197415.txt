@@ -1,0 +1,1 @@
+ public int getErrorcode() { return errorCode.getValue(); } 

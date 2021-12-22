@@ -1,0 +1,1 @@
+ public void setStackVertical(boolean stackVertical) { this.stackVertical = stackVertical; } 

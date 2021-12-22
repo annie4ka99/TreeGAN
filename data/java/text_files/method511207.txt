@@ -1,0 +1,1 @@
+ public String getOptionValue( char opt ) { return getOptionValue( String.valueOf( opt ) ); } 

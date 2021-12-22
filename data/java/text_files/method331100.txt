@@ -1,0 +1,1 @@
+ public boolean registerSettings(PamSettings pamUnit) { return registerSettings(pamUnit, LIST_UNITS); } 

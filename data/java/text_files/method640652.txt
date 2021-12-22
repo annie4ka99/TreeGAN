@@ -1,0 +1,1 @@
+ public void addPart(Part part){ parts.add(part); } 

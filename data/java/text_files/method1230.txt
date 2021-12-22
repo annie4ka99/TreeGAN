@@ -1,0 +1,1 @@
+ final public void setBoxUnfrozen(int boxNo) { isBoxFrozen[boxNo] = false; } 

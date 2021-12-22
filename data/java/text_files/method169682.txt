@@ -1,0 +1,1 @@
+ public void setCash(int cash) { this.cash = cash; } 

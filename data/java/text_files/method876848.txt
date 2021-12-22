@@ -1,0 +1,1 @@
+ public void setSAXLogger(Log saxLog) { this.saxLog = saxLog; } 

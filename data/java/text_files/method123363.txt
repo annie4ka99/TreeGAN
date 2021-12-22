@@ -1,0 +1,1 @@
+ public void flush() throws IOException { if (_byteBuffer == null) { throw new IOException("Writer closed"); } } 

@@ -1,0 +1,1 @@
+ public void JD_Destroy( JD_Taglist pTags ) throws JD_Exception { JD_remove( (String)null ); return; } 

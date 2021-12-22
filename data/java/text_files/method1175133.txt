@@ -1,0 +1,1 @@
+ public void setOdLocationX(double odLocationX) { this.odLocationX = odLocationX; } 

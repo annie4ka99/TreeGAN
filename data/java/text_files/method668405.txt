@@ -1,0 +1,1 @@
+ private void DebugPrintln(String s) { if (debugMode) { System.out.println(s); } } 

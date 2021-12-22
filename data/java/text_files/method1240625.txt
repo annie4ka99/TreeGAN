@@ -1,0 +1,1 @@
+ public int getIndex (String uri, String localName) { return -1; } 

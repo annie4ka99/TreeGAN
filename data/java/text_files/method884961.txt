@@ -1,0 +1,1 @@
+ public boolean canEnhanceToolbar(JToolBar toolbar) { return false; } 

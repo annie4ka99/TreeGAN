@@ -1,0 +1,1 @@
+ public boolean isIsOpaque() { if (isOpaque == null) { return false; } else { return isOpaque; } } 

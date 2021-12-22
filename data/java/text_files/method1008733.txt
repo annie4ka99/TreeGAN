@@ -1,0 +1,1 @@
+ public ColorModel getDeviceColorModel() { return surfaceData.getColorModel(); } 

@@ -1,0 +1,1 @@
+ public boolean anyoneBlocked() { return getLockFactory().anyoneBlocked(); } 

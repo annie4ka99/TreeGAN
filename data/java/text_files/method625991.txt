@@ -1,0 +1,1 @@
+ public void setSourceIP(String ip){ sourceInstancePackage = ip; } 

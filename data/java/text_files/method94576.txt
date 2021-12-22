@@ -1,0 +1,1 @@
+ protected void letGo(BaseContainerHandle handle) { super.letGo(handle); containerCache.release(this); } 

@@ -1,0 +1,1 @@
+ public void addNotify() { super.addNotify(); if (DEBUG) { System.err.println("GLJPanel.addNotify()"); } } 

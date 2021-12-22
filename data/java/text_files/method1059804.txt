@@ -1,0 +1,1 @@
+ public Adapter createGraphEdgeAdapter() { return null; } 

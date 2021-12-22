@@ -1,0 +1,1 @@
+ public void removeListener(IPropertyChangeListener listener) { removeListenerObject(listener); } 

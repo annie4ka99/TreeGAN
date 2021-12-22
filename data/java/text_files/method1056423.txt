@@ -1,0 +1,1 @@
+ protected void deleteObject(long id) { deleteObject(getObject(id)); } 

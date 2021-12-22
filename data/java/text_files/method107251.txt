@@ -1,0 +1,1 @@
+ public void setIndex(int index) { gIndex = index; } 

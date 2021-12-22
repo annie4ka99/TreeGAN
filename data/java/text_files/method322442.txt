@@ -1,0 +1,1 @@
+ private void checkFileHeaders() { CheckWavFileHeaders.showDialog(acquisitionDialog, this); } 

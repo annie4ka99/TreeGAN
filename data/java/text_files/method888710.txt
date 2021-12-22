@@ -1,0 +1,1 @@
+ public Response assign(String var, String value){ return tell(var + EQ + value + END); } 

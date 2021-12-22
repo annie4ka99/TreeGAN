@@ -1,0 +1,1 @@
+ private EventManager getEventManager() { return mEventManager; } 

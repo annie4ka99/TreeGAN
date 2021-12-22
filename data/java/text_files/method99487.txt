@@ -1,0 +1,1 @@
+ public void setSearchParams(WSISearchParams value) { this.searchParams = value; } 

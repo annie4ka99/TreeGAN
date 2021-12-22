@@ -1,0 +1,1 @@
+ public void setCopiedSpell(boolean b) { copiedSpell = b; } 

@@ -1,0 +1,1 @@
+ public boolean isLimitEnabled() { return m_enableLimit; } 

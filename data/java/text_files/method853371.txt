@@ -1,0 +1,1 @@
+ public void toggleViewPref(byte mask) { viewPref = (byte) (viewPref ^ mask); } 

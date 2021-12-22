@@ -1,0 +1,1 @@
+ public Outcome getOutcome() { return outcome; } 

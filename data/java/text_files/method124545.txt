@@ -1,0 +1,1 @@
+ public SymbolTable upper() { return global(); } 

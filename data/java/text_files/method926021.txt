@@ -1,0 +1,1 @@
+ public void setPictureCount(int pictureCount) { this.pictureCount = pictureCount; } 

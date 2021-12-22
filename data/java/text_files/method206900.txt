@@ -1,0 +1,1 @@
+ public void addNode(NodeComponent nc) { getGraph().addNode(nc); nc.addPropertyChangeListener(this); } 

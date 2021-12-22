@@ -1,0 +1,1 @@
+ public boolean isFunctionPointer() { return (isPointer() && asPointer().getTargetType().isFunction()); } 

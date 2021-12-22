@@ -1,0 +1,1 @@
+ public boolean hasErrors() { buildMVR(); return mvr.hasErrors(); } 

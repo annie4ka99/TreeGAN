@@ -1,0 +1,1 @@
+ public TeamLineupData getOpponentTeamLineupPanel() { return teamPanel.getOpponentTeamLineupPanel(); } 

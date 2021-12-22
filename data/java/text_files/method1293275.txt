@@ -1,0 +1,1 @@
+ public void addMessage(Message message) { messages.put(message.getQName(), message); } 

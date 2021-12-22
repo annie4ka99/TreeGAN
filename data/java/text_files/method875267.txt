@@ -1,0 +1,1 @@
+ protected void messageSent(MsnSession session) { } 

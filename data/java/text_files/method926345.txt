@@ -1,0 +1,1 @@
+ public void setYPelsPerMeter(int yPelsPerMeter) { this.yPelsPerMeter = yPelsPerMeter; } 

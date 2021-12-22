@@ -1,0 +1,1 @@
+ public void addItem(LegacyServerItemInterface anItem) throws LegacyException { getItemList().add(anItem); } 

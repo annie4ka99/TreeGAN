@@ -1,0 +1,1 @@
+ static public void setSubject(Subject s) { SecurityAssociation.setSubject(s); } 

@@ -1,0 +1,1 @@
+ public boolean needsSamplingSubdivision() { return (stepsize < minstepsize); } 

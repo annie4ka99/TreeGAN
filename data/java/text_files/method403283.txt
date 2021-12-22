@@ -1,0 +1,1 @@
+ public void setIncremental(boolean incremental) { linkerDef.setIncremental(incremental); } 

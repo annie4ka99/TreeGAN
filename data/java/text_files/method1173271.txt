@@ -1,0 +1,1 @@
+ public boolean isStateTrigger(int ID) { return ability.getSourceTrigger() == ID; } 

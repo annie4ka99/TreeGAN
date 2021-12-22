@@ -1,0 +1,1 @@
+ public CompositeType deriveSubType(String desc) { return new CompositeType(this, desc); } 

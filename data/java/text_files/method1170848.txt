@@ -1,0 +1,1 @@
+ private CardList getCards(int colors) { return filterBadCards(AllZone.getCardFactory(), colors); } 

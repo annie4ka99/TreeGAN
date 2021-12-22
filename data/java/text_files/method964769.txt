@@ -1,0 +1,1 @@
+ public String rowPut(String key, RowSpec value) { return rowPut(key, value.encode()); } 

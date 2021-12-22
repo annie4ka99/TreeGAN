@@ -1,0 +1,1 @@
+ public Image loadImage(InputStream in) throws Exception { return Jimi.getImage(in); } 

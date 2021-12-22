@@ -1,0 +1,1 @@
+ public void setAlignment(int style) { m_alignment = style; } 

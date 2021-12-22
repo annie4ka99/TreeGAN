@@ -1,0 +1,1 @@
+ public int getSogliaMinima() { return sogliaMinima; } 

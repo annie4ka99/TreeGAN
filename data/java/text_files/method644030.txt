@@ -1,0 +1,1 @@
+ public void setNativeType(String value) { this.nativeType = value; } 

@@ -1,0 +1,1 @@
+ private void setBodyDefProperties(BodyDef bd) { bd.isBullet = m_bullet; } 

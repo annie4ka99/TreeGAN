@@ -1,0 +1,1 @@
+ public double getLengthDouble() { return length; } 

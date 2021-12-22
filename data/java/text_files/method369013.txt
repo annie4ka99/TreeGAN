@@ -1,0 +1,1 @@
+ public void setId(int id) { this.id=id; this.dirty = true; dirtyFields[0] = true; } 

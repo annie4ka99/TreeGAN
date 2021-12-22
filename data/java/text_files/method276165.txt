@@ -1,0 +1,1 @@
+ public Dimension getWindowSize() { return new Dimension(80,25); } 

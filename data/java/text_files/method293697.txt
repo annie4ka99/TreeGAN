@@ -1,0 +1,1 @@
+ protected void checkCheckbox(String id) { if (!isChecked(id)) toggleCheckbox(id); } 

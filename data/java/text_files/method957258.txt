@@ -1,0 +1,1 @@
+ public TimeIntervalLengthType createTimeIntervalLengthType() { return new TimeIntervalLengthType(); } 

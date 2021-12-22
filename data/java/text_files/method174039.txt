@@ -1,0 +1,1 @@
+ public Document setContent(Content child) { content.clear(); content.add(child); return this; } 

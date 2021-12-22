@@ -1,0 +1,1 @@
+ public void setAnchorTo(String val) { this.positioningStrategy = Position.getFromAnchorId(val); } 

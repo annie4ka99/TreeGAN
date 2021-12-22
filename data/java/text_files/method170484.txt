@@ -1,0 +1,1 @@
+ public void fillWithData() { p_V_data = p_IHMM_HOMiniModel.getAllSpieler(); fireTableDataChanged(); } 

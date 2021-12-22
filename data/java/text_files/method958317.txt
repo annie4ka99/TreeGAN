@@ -1,0 +1,1 @@
+ public void setDescription(InternationalStringType value) { this.description = value; } 

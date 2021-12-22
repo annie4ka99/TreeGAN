@@ -1,0 +1,1 @@
+ public void setFrameData( byte[] newData ) { if( !readOnly ) { frameData = newData; } } 

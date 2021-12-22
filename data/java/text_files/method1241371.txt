@@ -1,0 +1,1 @@
+ public Attr getAttributeNode(String attrName) { return null; } 

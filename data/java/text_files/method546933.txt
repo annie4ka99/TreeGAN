@@ -1,0 +1,1 @@
+ public void setScrollingMode (int scrollingMode) { this.scrollingMode = scrollingMode; } 

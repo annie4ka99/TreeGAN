@@ -1,0 +1,1 @@
+ public void destroySubcontext(String name) throws NamingException { unbind(name); } 

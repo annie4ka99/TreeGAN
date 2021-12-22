@@ -1,0 +1,1 @@
+ public void setAccumGreenBits(int accumGreenBits) { this.accumGreenBits = accumGreenBits; } 

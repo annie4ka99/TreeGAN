@@ -1,0 +1,1 @@
+ public void setAgeDays(int i) { agedays = i; } 

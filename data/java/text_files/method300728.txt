@@ -1,0 +1,1 @@
+ public void setRecievingObject( ChannelListener lst ) { this.chnListener = lst; } 

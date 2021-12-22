@@ -1,0 +1,1 @@
+ public void setUrl_immagine(String url_immagine) { this.url_immagine = url_immagine; } 

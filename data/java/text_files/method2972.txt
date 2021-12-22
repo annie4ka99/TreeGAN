@@ -1,0 +1,1 @@
+ protected Iterator getSelectedResourcesIterator() { return this.resourceGroup.getAllCheckedListItems().iterator(); } 

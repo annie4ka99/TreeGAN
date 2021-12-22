@@ -1,0 +1,1 @@
+ public void setAddNewMenuBar(boolean addNewMenuBar) { this.addNewMenuBar = addNewMenuBar; } 

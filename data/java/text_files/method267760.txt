@@ -1,0 +1,1 @@
+ public long length() throws SQLException { return getBinaryData().length; } 

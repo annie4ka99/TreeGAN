@@ -1,0 +1,1 @@
+ public void registerFunction(String name, FunctionRunner runner) { functions.put(name, runner); } 

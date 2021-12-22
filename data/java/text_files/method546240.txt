@@ -1,0 +1,1 @@
+ public void setVTranslationMapper(JDValueProgram m) { vTranslationMapper=m; } 

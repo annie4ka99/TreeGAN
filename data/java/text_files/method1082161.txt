@@ -1,0 +1,1 @@
+ private JList getJList() { if (jList == null) { jList = new JList(); } return jList; } 

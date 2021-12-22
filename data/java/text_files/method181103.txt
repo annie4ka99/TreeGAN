@@ -1,0 +1,1 @@
+protected String getProperty() { return property; } 

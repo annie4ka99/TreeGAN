@@ -1,0 +1,1 @@
+public void setAmendement(int newAmendement) { amendement = newAmendement; } 

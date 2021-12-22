@@ -1,0 +1,1 @@
+ public Integer getValue() { return this.getUniqueValueForEachPkField(forProperty, introspector); } 

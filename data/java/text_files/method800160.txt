@@ -1,0 +1,1 @@
+ public AST getTreeParserAST() { if ( parser != null ) return parser.getExpectedAST(); return null; } 

@@ -1,0 +1,1 @@
+ public void setStyles(Document styles) { this.styles = styles; } 

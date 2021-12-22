@@ -1,0 +1,1 @@
+ public TridasObject createTridasObject() { return new TridasObjectEx(); } 

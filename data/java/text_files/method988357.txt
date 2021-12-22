@@ -1,0 +1,1 @@
+ public void setInitials(java.lang.String initials) { this.initials = initials; } 

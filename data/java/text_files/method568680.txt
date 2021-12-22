@@ -1,0 +1,1 @@
+ public void removeCell(Cell c) { world.remove(c); publish(); } 

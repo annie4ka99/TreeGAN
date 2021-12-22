@@ -1,0 +1,1 @@
+ public QName getType() { return type; } 

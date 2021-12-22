@@ -1,0 +1,1 @@
+ public void addCategory(String categoryName) throws LandmarkException, IOException { } 

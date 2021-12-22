@@ -1,0 +1,1 @@
+ public void remove(int i) { resetRecommendations(); logList.remove(i); } 

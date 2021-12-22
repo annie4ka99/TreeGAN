@@ -1,0 +1,1 @@
+ public void setMutationProbability(double mutationProbability) { this.mutationProbability = mutationProbability; } 

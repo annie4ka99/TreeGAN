@@ -1,0 +1,1 @@
+ private void nextRow(int rows) { currentCellConstraints.gridY += rows; } 

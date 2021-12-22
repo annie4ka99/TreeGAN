@@ -1,0 +1,1 @@
+ public void draw() { for (int k=0; k<layers.length; k++) { layers[k].draw(); } } 

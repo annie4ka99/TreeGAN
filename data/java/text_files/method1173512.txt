@@ -1,0 +1,1 @@
+ public boolean hasNoManaCost() { return manaCost.equals("") || manaCost.equals("0"); } 

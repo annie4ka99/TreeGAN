@@ -1,0 +1,1 @@
+ public LString luaAsString() { return new LString(toJavaString()); } 

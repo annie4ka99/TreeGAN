@@ -1,0 +1,1 @@
+ public boolean contains(Edge e) { if (!e.isHidden()) return edges.contains(e); return false; } 

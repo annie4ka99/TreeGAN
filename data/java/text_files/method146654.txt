@@ -1,0 +1,1 @@
+ public void addGPSListener(GPSListener listener) { GPSListeners.add(GPSListener.class, listener); } 

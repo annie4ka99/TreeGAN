@@ -1,0 +1,1 @@
+ public void setInterpolation(CurveInterpolationType value) { this.interpolation = value; } 

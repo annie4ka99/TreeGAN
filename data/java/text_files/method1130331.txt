@@ -1,0 +1,1 @@
+ public char charAt(int offset) { return _originalBuffer[_beginOffset + offset]; } 

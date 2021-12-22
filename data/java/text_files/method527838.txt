@@ -1,0 +1,1 @@
+public int getSigType() { return sigType; } 

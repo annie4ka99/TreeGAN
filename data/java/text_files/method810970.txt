@@ -1,0 +1,1 @@
+ protected UserParamType getFixture() { return fixture; } 

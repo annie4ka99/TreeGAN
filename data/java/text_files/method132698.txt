@@ -1,0 +1,1 @@
+ public void removeAdjustmentListener(java.awt.event.AdjustmentListener l) { this.listeners.remove( l ); } 

@@ -1,0 +1,1 @@
+ public void setInputValidator(IInputValidator inputValidator) { this.inputValidator = inputValidator; } 

@@ -1,0 +1,1 @@
+ public void setStereotypesLabel(String stereotypesLabel) { this.stereotypesLabel = stereotypesLabel; } 

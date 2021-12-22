@@ -1,0 +1,1 @@
+ public void setFixed(int row, boolean value) { setBoolean(row, VisualItem.FIXED, value); } 

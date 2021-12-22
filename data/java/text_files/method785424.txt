@@ -1,0 +1,1 @@
+ public JToggleGroup createCheckboxGroup() { return createToggleGroup(JToggleGroup.CHECKBOX); } 

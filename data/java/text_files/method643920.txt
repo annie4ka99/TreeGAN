@@ -1,0 +1,1 @@
+ public void setLastVersion(String value) { this.lastVersion = value; } 

@@ -1,0 +1,1 @@
+ public void setFilter(IFilter aFilter) { filter = aFilter; } 

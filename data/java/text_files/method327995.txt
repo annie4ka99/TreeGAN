@@ -1,0 +1,1 @@
+ public int getVetoCount() { if (vetoList == null) { return 0; } else { return vetoList.size(); } } 

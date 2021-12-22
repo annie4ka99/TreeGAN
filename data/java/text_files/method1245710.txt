@@ -1,0 +1,1 @@
+ protected void stopMaintThread() { if ( maintThread != null && maintThread.isRunning() ) maintThread.stopThread(); } 

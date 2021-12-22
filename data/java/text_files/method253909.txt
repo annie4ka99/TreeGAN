@@ -1,0 +1,1 @@
+ public String getCopyright() { return System.getProperty( COPYRIGHT_PROPERTY); } 

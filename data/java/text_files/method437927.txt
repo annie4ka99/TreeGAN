@@ -1,0 +1,1 @@
+ public JMenuItem addReopenItem(File file) { return addReopenItem(file, true); } 

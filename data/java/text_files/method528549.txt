@@ -1,0 +1,1 @@
+ public void setCurrentServiceName(String currentServiceName) { this.currentServiceName = currentServiceName; } 

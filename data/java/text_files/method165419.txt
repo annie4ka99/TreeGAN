@@ -1,0 +1,1 @@
+ public void setBackupLife(int backupLife) { this.backupLife = Math.max(backupLife, 0); } 

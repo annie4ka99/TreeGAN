@@ -1,0 +1,1 @@
+ public InputStream getInputStream() throws IOException { return new FileInputStream(this.file); } 

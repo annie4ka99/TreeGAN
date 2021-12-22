@@ -1,0 +1,1 @@
+ public boolean hasAdditionalProperties() { return false; } 

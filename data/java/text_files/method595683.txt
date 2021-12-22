@@ -1,0 +1,1 @@
+ public void setSort(int order) { this.sort = order; } 

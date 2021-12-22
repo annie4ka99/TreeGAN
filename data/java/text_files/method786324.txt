@@ -1,0 +1,1 @@
+ public boolean isIgnoreUnknownTypes() { return m_ignoreUnknownTypes; } 

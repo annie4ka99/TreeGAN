@@ -1,0 +1,1 @@
+ public DescribeRecordType createDescribeRecordType() { return new DescribeRecordType(); } 

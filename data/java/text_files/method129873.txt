@@ -1,0 +1,1 @@
+ public int compare(final VisualObject obj1, final VisualObject obj2) { return obj1.getLayer() - obj2.getLayer(); } 

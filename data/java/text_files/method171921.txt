@@ -1,0 +1,1 @@
+ public void visitJSR_W(JSR_W o){ stack().push(new ReturnaddressType(o.physicalSuccessor())); } 

@@ -1,0 +1,1 @@
+ public List getTags() { if (tags == null) tags = new ArrayList(); return tags; } 

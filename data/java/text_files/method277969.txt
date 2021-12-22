@@ -1,0 +1,1 @@
+ public File getPreferencesFile() { return preferencesFile; } 

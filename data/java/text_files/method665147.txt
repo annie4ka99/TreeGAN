@@ -1,0 +1,1 @@
+ public void setOutputStreamSet(boolean outputStreamSet) { this.outputStreamSet = outputStreamSet; } 

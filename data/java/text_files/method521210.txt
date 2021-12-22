@@ -1,0 +1,1 @@
+private void setConfirmFlag(boolean newConfirmFlag) { confirmFlag = newConfirmFlag; } 

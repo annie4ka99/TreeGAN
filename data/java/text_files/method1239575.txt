@@ -1,0 +1,1 @@
+ protected void processRemovedLRU(Object key, Object value) { } 

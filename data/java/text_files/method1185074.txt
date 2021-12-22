@@ -1,0 +1,1 @@
+ public ZipShort (byte[] bytes, int offset) { value = ZipShort.getValue(bytes, offset); } 

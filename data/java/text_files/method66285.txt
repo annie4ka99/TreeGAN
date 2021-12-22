@@ -1,0 +1,1 @@
+ public void setSaveFired(boolean saveFired) { this.saveFired = saveFired; } 

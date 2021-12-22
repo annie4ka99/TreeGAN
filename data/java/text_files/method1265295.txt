@@ -1,0 +1,1 @@
+ public Adapter createTExtensionsAdapter() { return null; } 

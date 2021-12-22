@@ -1,0 +1,1 @@
+ public boolean isBlue() { return CardUtil.getColors(this).contains(Constant.Color.Blue); } 

@@ -1,0 +1,1 @@
+ public String getLatSec(int format) { return getDMS(getLatDec(), 2, format); } 

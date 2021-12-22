@@ -1,0 +1,1 @@
+ public void setResponseOption(ResponseOptionType value) { this.responseOption = value; } 

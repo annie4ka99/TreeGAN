@@ -1,0 +1,1 @@
+ public void removeListener(IMobyViewListener listener) { listeners.remove(listener); } 

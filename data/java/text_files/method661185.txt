@@ -1,0 +1,1 @@
+ public void setSearchFields(ArrayList searchFields) { this.searchFields = searchFields; } 

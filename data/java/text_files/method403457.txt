@@ -1,0 +1,1 @@
+ protected AbstractFileSet getRef(Project p) { return (AbstractFileSet) ref.getReferencedObject(p); } 

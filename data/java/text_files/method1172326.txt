@@ -1,0 +1,1 @@
+ public void addReplaceMoveToGraveyardCommand(Command c) { replaceMoveToGraveyardCommandList.add(c); } 

@@ -1,0 +1,1 @@
+ public float getPower() { return MIN_POWER + (MAX_POWER - MIN_POWER) * this.barNode.getLocalScale().y; } 

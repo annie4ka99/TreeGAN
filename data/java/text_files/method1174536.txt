@@ -1,0 +1,1 @@
+ public int getCardY() { return getY() + cardYOffset; } 

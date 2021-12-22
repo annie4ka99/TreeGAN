@@ -1,0 +1,1 @@
+ public void dup2X1() { mv.visitInsn(Opcodes.DUP2_X1); } 

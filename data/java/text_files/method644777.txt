@@ -1,0 +1,1 @@
+ public String convertHexaToDecimal(String hexa) { return binaryToDecimal(hexaToBinary(hexa)); } 

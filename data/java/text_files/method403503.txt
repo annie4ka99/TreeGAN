@@ -1,0 +1,1 @@
+ public String getOuttype() { return linkType.getOutputType(); } 

@@ -1,0 +1,1 @@
+ public void setUI(ComponentListUI ui) { super.setUI(ui); } 

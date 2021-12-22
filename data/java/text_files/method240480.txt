@@ -1,0 +1,1 @@
+ public void destroyWindow() { viewStop(); canvas = null; xithWindow = null; } 

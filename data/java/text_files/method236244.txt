@@ -1,0 +1,1 @@
+ public int databaseDelTree(String family) throws IOException { return databaseDelTree(family, null); } 

@@ -1,0 +1,1 @@
+ public void setIndex(final int index) { this.index = index; } 

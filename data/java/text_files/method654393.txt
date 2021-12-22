@@ -1,0 +1,1 @@
+ public void setData(PersonData data) { setId(data.getId()); setName(data.getName()); } 

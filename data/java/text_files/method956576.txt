@@ -1,0 +1,1 @@
+ public BriefRecordType createBriefRecordType() { return new BriefRecordType(); } 

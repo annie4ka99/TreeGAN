@@ -1,0 +1,1 @@
+public void setPosX(int newPosX) { posX = newPosX; } 

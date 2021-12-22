@@ -1,0 +1,1 @@
+ public void openProject(URI uri, Project project) { openProject(uri, project, true); } 

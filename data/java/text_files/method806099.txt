@@ -1,0 +1,1 @@
+ public void setPairgap(java.lang.Integer pairgap) { this.pairgap = pairgap; } 

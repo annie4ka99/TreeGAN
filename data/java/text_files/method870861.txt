@@ -1,0 +1,1 @@
+ public Title getTitleElement(int index) throws XBRLException { return null; } 

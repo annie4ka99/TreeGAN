@@ -1,0 +1,1 @@
+ public void setDeploy(boolean isDeploy) { this.isDeploy = isDeploy; } 

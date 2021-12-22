@@ -1,0 +1,1 @@
+ public CodeType getType() { return type; } 

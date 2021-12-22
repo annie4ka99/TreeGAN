@@ -1,0 +1,1 @@
+ public void setEntityResolver(EntityResolver resolver) { xmlReader.setEntityResolver(resolver); } 

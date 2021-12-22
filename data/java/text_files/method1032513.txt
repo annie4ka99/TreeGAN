@@ -1,0 +1,1 @@
+ public void clearNextResult() { this.nextResultSet = null; } 

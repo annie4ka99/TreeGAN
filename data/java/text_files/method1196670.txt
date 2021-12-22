@@ -1,0 +1,1 @@
+ public boolean isFullScreen() { return (zoomLevel == Constants.FULL_MAP); } 

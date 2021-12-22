@@ -1,0 +1,1 @@
+ public double getTransformedYValue() { return searchResult.dataView.getTransformedValue(searchResult.value.y); } 

@@ -1,0 +1,1 @@
+ public void setBounceAtUntap(boolean bounce) { this.bounceAtUntap = bounce; } 

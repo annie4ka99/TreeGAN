@@ -1,0 +1,1 @@
+ public void pushState(ParserState state) { stack.push(state); } 

@@ -1,0 +1,1 @@
+ public void addSale(ItemImpl theItem){ this.sellItems.add(theItem); } 

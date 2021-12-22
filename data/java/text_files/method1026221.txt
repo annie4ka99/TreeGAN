@@ -1,0 +1,1 @@
+ public LFunction checkfunction(int narg) { return (LFunction) checktype(narg, Lua.LUA_TFUNCTION); } 

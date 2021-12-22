@@ -1,0 +1,1 @@
+ public void setEditDomain(EditDomain editorDomain) { this.editDomain = editorDomain; } 

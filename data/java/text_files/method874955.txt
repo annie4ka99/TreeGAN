@@ -1,0 +1,1 @@
+ public void setAmount(java.lang.Integer amount) { this.amount = amount; } 

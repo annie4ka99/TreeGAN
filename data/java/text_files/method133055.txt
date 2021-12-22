@@ -1,0 +1,1 @@
+ public boolean isSelected(GlyphI g) { return selected.contains(g); } 

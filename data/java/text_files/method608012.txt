@@ -1,0 +1,1 @@
+ public void addAlias(Alias alias) { synchronized (aliases) { aliases.put(alias.getName(), alias); } } 

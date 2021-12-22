@@ -1,0 +1,1 @@
+ protected List getWhiteCheckedResources() { return this.resourceGroup.getAllWhiteCheckedItems(); } 

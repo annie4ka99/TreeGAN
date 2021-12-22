@@ -1,0 +1,1 @@
+ public void setRevNumbering (boolean revNums) { if (num_glyph == null) return; num_glyph.setRevNumbering(revNums); } 

@@ -1,0 +1,1 @@
+ protected boolean allowNewContainerName() { return false; } 

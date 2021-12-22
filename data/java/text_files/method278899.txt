@@ -1,0 +1,1 @@
+ public Iterator getExtensions(){ return extensionMap_.values().iterator(); } 

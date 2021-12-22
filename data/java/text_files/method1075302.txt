@@ -1,0 +1,1 @@
+ public void setUserService(IUserService userService) { this.userService = userService; } 

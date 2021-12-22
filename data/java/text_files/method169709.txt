@@ -1,0 +1,1 @@
+ public void setSpectatorsIncome(int spectatorsIncome) { this.spectatorsIncome = spectatorsIncome; } 

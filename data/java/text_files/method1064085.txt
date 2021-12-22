@@ -1,0 +1,1 @@
+ public boolean isPublic(){ return getVisibility() == VisibilityKind.PUBLIC; } 

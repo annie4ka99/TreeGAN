@@ -1,0 +1,1 @@
+ public void updateGUI(Object value) { checkBox.setSelected("true".equals(value)); } 

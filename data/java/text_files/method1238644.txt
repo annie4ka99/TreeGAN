@@ -1,0 +1,1 @@
+ public int getTypeEntryCount() { return elementTypeEntries.size() + typeTypeEntries.size(); } 

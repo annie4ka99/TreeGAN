@@ -1,0 +1,1 @@
+ public void addToManaNeeded(int additional) { manaNeeded += additional; } 

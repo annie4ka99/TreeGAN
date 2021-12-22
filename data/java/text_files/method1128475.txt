@@ -1,0 +1,1 @@
+ public void onError(Throwable t) { _exception = t; } 

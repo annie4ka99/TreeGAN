@@ -1,0 +1,1 @@
+ public void setSiteAuthorURL(String siteAuthorURL) { this.siteAuthorURL = siteAuthorURL; } 

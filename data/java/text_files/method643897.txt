@@ -1,0 +1,1 @@
+ public void setRanking(String value) { this.ranking = value; } 

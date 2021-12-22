@@ -1,0 +1,1 @@
+ public Node getReference() { return referenceNode; } 

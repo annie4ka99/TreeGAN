@@ -1,0 +1,1 @@
+ public void setHuman(CardList human) { this.human = human; } 

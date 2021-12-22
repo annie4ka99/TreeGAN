@@ -1,0 +1,1 @@
+ public StreamingResolution setAttachment(boolean attachment) { this.attachment = attachment; return this; } 

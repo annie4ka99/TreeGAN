@@ -1,0 +1,1 @@
+ public void setImageMargin(Insets i) { imagePanel.setMargin(i); } 

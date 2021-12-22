@@ -1,0 +1,1 @@
+ public void setNoOfMsgs(int nm) { __no_msgs=nm; } 

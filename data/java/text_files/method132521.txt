@@ -1,0 +1,1 @@
+ public void setResidues ( StringBuffer resBuf ) { if (resBuf != null) { residues = resBuf; } } 

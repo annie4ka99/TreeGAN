@@ -1,0 +1,1 @@
+ public boolean isBestDG1() { return bestDG1; } 

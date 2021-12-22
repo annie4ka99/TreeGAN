@@ -1,0 +1,1 @@
+ public boolean contains(Chromosome a_chromosome) { return m_chromosomes.contains(a_chromosome); } 

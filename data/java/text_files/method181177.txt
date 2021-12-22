@@ -1,0 +1,1 @@
+ public boolean getOptimistic() { return optimistic; } 

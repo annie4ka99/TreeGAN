@@ -1,0 +1,1 @@
+ public String getMBeanNamePropVal() { return mBeanNamePropVal; } 

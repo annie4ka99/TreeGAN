@@ -1,0 +1,1 @@
+ public void setCustomer(Human customer) { this.customer = customer; } 

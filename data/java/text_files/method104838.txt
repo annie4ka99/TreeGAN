@@ -1,0 +1,1 @@
+ public void setMeasuringMethod(TridasMeasuringMethod value) { this.measuringMethod = value; } 

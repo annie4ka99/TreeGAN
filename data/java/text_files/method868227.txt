@@ -1,0 +1,1 @@
+ public ObjectType objectType() { return (ObjectType) type(); } 

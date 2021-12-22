@@ -1,0 +1,1 @@
+ public double getBreadthSpacing() { return m_bspace; } 

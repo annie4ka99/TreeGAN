@@ -1,0 +1,1 @@
+ public void enchantCard(Card c) { enchanting.add(c); c.addEnchantedBy(this); this.enchant(); } 

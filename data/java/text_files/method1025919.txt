@@ -1,0 +1,1 @@
+ public char toJavaChar() { conversionError("number"); return 0; } 

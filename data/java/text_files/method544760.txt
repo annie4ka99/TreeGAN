@@ -1,0 +1,1 @@
+ public void setStateText(String text) { valueLabel.setText(text); } 

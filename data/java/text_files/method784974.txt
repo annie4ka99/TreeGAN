@@ -1,0 +1,1 @@
+ public Renderer getDefaultEdgeRenderer() { return m_edgeRenderer; } 

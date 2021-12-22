@@ -1,0 +1,1 @@
+ public int getMajor() { return major; } 

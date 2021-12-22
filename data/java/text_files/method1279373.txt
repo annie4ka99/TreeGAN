@@ -1,0 +1,1 @@
+ public DialogController getDialogController() { return dialogController; } 

@@ -1,0 +1,1 @@
+ public Integer getGeneratedPrimaryKey() { return (Integer) entityContext.getPrimaryKey(); } 

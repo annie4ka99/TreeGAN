@@ -1,0 +1,1 @@
+ public ActionForward findForward(String name) { return ( (ActionForward) forwards.get(name)); } 

@@ -1,0 +1,1 @@
+ public Vec2 getPosition(Body b) { return worldToScreen(b.getPosition()); } 

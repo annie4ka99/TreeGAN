@@ -1,0 +1,1 @@
+ public boolean isElementFile() { return (this.elementFileName != null); } 

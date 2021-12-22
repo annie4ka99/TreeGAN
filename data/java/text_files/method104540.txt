@@ -1,0 +1,1 @@
+ public void setCountry(String value) { this.country = value; } 

@@ -1,0 +1,1 @@
+ public void testCollectOperation() throws Exception { this.evaluate("collect_op.ocl"); } 

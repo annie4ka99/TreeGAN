@@ -1,0 +1,1 @@
+ public void setItemLevel(String itemName, int level) { inventory.get(itemName).setLevel(level); } 

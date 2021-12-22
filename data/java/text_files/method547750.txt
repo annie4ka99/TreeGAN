@@ -1,0 +1,1 @@
+ public boolean isNull() { int s = getWidth()*getHeight(); return (s==0); } 

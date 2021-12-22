@@ -1,0 +1,1 @@
+ public float length() { return FastMath.sqrt(lengthSquared()); } 

@@ -1,0 +1,1 @@
+ public boolean isNotifyPrivateMessagesEnabled() { return this.notifyPrivateMessagesEnabled; } 

@@ -1,0 +1,1 @@
+ public void setPropagateEvents(boolean v) { this.propagateEvents = v; } 

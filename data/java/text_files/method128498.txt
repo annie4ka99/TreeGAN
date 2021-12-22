@@ -1,0 +1,1 @@
+ public int getPoorSave(int level) { return level/3; } 

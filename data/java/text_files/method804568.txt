@@ -1,0 +1,1 @@
+ public void setMatrix(java.lang.String matrix) { this.matrix = matrix; } 

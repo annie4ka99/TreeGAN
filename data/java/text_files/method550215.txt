@@ -1,0 +1,1 @@
+ public void refresh() { entities.refresh(); if (deviceList != null) deviceList.refresh(); } 

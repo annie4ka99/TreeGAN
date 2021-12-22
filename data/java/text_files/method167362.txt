@@ -1,0 +1,1 @@
+ public void setLinks(ReactorList reactors) { this.reactors = reactors; } 

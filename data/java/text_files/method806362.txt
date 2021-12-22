@@ -1,0 +1,1 @@
+ public void setThreshold(Level level) { this.hierarchy.setThreshold(level); } 

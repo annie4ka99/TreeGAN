@@ -1,0 +1,1 @@
+ public void setGapsize(java.lang.Long gapsize) { this.gapsize = gapsize; } 

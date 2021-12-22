@@ -1,0 +1,1 @@
+ public void setEditable(boolean b) { editable=b; dm.setEditable( editable ); } 

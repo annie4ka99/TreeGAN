@@ -1,0 +1,1 @@
+ public void setSizeImage(int sizeImage) { this.sizeImage = sizeImage; } 

@@ -1,0 +1,1 @@
+ public void setAlignment(java.lang.String alignment) { this.alignment = alignment; } 

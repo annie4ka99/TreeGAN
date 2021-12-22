@@ -1,0 +1,1 @@
+ public void setFid(String value) { this.fid = value; } 

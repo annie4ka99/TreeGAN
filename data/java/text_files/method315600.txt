@@ -1,0 +1,1 @@
+ public void addTablePanel(javax.swing.JPanel aTablePanel) { tablePlaceHolderPanel.add(aTablePanel); } 

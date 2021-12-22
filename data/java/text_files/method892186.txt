@@ -1,0 +1,1 @@
+ public boolean hasCaptionResourceSet() { return "true".equalsIgnoreCase(captionResource); } 

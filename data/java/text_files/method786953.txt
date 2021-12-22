@@ -1,0 +1,1 @@
+ public void setImage(Image img) { image = getScaledImage(img); stateChanged(null); } 

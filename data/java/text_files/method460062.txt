@@ -1,0 +1,1 @@
+ public void setConditions(ConditionsBean conditions) { this.conditions = conditions; } 

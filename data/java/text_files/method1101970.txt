@@ -1,0 +1,1 @@
+ public void setOpacity(final float opacity) { this.opacity = opacity; } 

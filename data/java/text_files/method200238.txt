@@ -1,0 +1,1 @@
+ public boolean groupCanWrite() { return groupPermissions.getWrite(); } 

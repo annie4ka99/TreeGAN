@@ -1,0 +1,1 @@
+ public String getLayoutType() { return "Multiple component Kamada-Kawai layout"; } 

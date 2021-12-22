@@ -1,0 +1,1 @@
+ public boolean isClosed() { if (this.showProgress) return pbf.isClosed; else return false; } 

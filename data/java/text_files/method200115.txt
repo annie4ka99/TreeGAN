@@ -1,0 +1,1 @@
+ public void setAttribute(String name, Object value) { this.attributes.put(name, value); } 

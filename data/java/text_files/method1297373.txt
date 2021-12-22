@@ -1,0 +1,1 @@
+ public double getMinValue() { return mMinValue; } 

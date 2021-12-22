@@ -1,0 +1,1 @@
+ public void setContributor(ReactionMultiPageEditorContributor con){ this.contributor = con; } 

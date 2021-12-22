@@ -1,0 +1,1 @@
+ public void setRemoveSensitiveHTML(boolean value) { removeSensitiveHTML = value; } 

@@ -1,0 +1,1 @@
+ public Class getConversionClass() { return Number.class; } 

@@ -1,0 +1,1 @@
+ public Time getDuration() { return DURATION_UNKNOWN; } 

@@ -1,0 +1,1 @@
+ public String getSlotType(String slotName) { return slotMap.get(slotName); } 

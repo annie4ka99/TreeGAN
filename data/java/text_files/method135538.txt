@@ -1,0 +1,1 @@
+ public TierGlyph getReferenceTier() { return (TierGlyph) getInfo(); } 

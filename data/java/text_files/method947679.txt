@@ -1,0 +1,1 @@
+ public void removeCommands() { mainForm.removeCommand(this.back); mainForm.removeCommand(this.exit); } 

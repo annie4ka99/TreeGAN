@@ -1,0 +1,1 @@
+ public ClassificationNodeQueryType getEventTypeQuery() { return eventTypeQuery; } 

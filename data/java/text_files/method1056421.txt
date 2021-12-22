@@ -1,0 +1,1 @@
+ protected T getObject(long id) { return load(id); } 

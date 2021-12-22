@@ -1,0 +1,1 @@
+ private String getLocation() { return locator.getSystemId() + ':' + locator.getLineNumber(); } 

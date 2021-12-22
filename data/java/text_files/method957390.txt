@@ -1,0 +1,1 @@
+ public FeatureArrayPropertyType createFeatureArrayPropertyType() { return new FeatureArrayPropertyType(); } 

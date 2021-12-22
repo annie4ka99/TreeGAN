@@ -1,0 +1,1 @@
+ public void startElement() { nss.pushContext(); inCollectingMode = true; } 

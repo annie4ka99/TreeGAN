@@ -1,0 +1,1 @@
+ public void setTotalIncome(int totalIncome) { this.totalIncome = totalIncome; } 

@@ -1,0 +1,1 @@
+ private Instance evaluate(Node node) { node.apply(this); return annotatedValue(node); } 

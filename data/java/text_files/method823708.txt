@@ -1,0 +1,1 @@
+ public Reader getCharacterStream() { return characterStream; } 

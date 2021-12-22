@@ -1,0 +1,1 @@
+ public void setGraphics_in_PNG(byte[][] graphics_in_PNG) { this.graphics_in_PNG = graphics_in_PNG; } 

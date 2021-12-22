@@ -1,0 +1,1 @@
+ public void testAllRing128() throws Exception { testAll(128, true); } 

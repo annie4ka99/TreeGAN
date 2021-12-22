@@ -1,0 +1,1 @@
+ public void addAll(Schema sch) { info.putAll(sch.info); } 

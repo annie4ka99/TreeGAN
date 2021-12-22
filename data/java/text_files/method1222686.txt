@@ -1,0 +1,1 @@
+ public void colorFromConc(){ this.nodeColor = new Color((int)this.quantity , 0, 0); } 

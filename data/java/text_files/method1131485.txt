@@ -1,0 +1,1 @@
+ public void reset() { setSpeeds(0, 0); setLocation(new Location(setup.getStart())); } 

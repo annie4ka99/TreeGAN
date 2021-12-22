@@ -1,0 +1,1 @@
+ public int getProgress() { return current; } 

@@ -1,0 +1,1 @@
+ public boolean add(URL url) { return super.add(normalize(url)); } 

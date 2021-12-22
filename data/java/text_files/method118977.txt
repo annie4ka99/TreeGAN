@@ -1,0 +1,1 @@
+ public Rectangle getMarqueeBounds() { return marqueeBounds; } 

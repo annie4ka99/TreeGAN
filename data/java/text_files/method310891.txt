@@ -1,0 +1,1 @@
+ protected void setAppearance(float val) { canvas.setTransparency(val); canvas.updateFaces(); } 

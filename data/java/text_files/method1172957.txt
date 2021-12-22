@@ -1,0 +1,1 @@
+ public void setPayMana(boolean bPay) { payMana = bPay; } 

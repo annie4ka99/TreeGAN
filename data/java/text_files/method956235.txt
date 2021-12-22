@@ -1,0 +1,1 @@
+ public void setStartTimeFromAscendingNode(MeasureType value) { this.startTimeFromAscendingNode = value; } 

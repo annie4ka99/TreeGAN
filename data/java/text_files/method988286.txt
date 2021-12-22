@@ -1,0 +1,1 @@
+ public void setAcceptorId(int acceptorId) { this.acceptorId = acceptorId; } 

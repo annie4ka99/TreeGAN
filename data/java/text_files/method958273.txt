@@ -1,0 +1,1 @@
+ public void setQueryExpression(QueryExpressionType value) { this.queryExpression = value; } 

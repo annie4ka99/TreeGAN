@@ -1,0 +1,1 @@
+ public boolean isFatal() { return (this.fatal); } 

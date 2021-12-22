@@ -1,0 +1,1 @@
+ public void setButtons(String[] buttonNames) { this.buttons = buttonNames; } 

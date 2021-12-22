@@ -1,0 +1,1 @@
+ public void setUsernames(UsernamesType value) { this.usernames = value; } 

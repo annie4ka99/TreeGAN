@@ -1,0 +1,1 @@
+ public void setExtras(Set extras) { this.extras = extras; } 

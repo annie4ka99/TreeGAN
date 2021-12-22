@@ -1,0 +1,1 @@
+ protected void clear() { instructionList = null; prevInstruction = null; nextInstruction = null; } 

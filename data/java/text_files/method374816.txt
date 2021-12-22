@@ -1,0 +1,1 @@
+ public void setUShort(long sequence, int value) { this.storage.setUShort(map(sequence), value); } 

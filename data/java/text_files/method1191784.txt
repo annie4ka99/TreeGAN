@@ -1,0 +1,1 @@
+ public ContextualInformation getContextualInformationAt(int i) { return contextualInformations.elementAt(i); } 

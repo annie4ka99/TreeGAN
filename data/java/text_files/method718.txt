@@ -1,0 +1,1 @@
+ public void setBgColorStart(int bgColorStart) { this.bgColorStart = bgColorStart; } 

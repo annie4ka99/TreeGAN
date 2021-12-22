@@ -1,0 +1,1 @@
+ public XMLInputSubStream getSubStream() { return new XMLInputSubStream(this); } 

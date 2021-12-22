@@ -1,0 +1,1 @@
+ public int addSasTypeAlgo(ZrtpConstants.SupportedSASTypes algo) { return sasTypes.addAlgo(algo); } 

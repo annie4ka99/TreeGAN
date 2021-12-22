@@ -1,0 +1,1 @@
+ public EdgeShape getPrevEdge() { return m_prevEdge; } 

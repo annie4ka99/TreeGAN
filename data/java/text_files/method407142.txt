@@ -1,0 +1,1 @@
+ public int analyze() { return analyze(Pcap.LOOP_INFINATE); } 

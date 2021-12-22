@@ -1,0 +1,1 @@
+ public int getAxisDisplayMode () { return axisDisplayMode; } 

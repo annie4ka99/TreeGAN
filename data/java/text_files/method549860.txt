@@ -1,0 +1,1 @@
+ public void cancel() { dialog.setVisible(false); } 

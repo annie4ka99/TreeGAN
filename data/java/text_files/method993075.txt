@@ -1,0 +1,1 @@
+ public void setPremultiplyAlpha( boolean premultiplyAlpha ) { this.premultiplyAlpha = premultiplyAlpha; } 

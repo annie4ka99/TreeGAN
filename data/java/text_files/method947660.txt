@@ -1,0 +1,1 @@
+ public void addCommands() { mainForm.addCommand(this.connect); mainForm.addCommand(this.exit); } 

@@ -1,0 +1,1 @@
+ public TridasInterpretationUnsolved getInterpretationUnsolved() { return interpretationUnsolved; } 

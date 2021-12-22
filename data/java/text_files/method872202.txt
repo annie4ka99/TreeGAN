@@ -1,0 +1,1 @@
+ public void setIsonlinekurs(java.lang.Integer isonlinekurs) { this.isonlinekurs = isonlinekurs; } 

@@ -1,0 +1,1 @@
+ public void pushHeader(String header) { pushHeader(new XMLNode(header)); } 

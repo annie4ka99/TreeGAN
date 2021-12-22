@@ -1,0 +1,1 @@
+ public int getWindingRule() { return PathIterator.WIND_NON_ZERO; } 

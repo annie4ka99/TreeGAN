@@ -1,0 +1,1 @@
+ public Ip4 getIpHeader() { return header; } 

@@ -1,0 +1,1 @@
+ public void setGridSize(int size) { if(size>1) { GRID_SIZE = size; repaint(); } } 

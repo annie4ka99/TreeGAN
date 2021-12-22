@@ -1,0 +1,1 @@
+ public int getReferentialActionUpdateRule() { return raUpdateRule; } 

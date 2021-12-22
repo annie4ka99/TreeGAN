@@ -1,0 +1,1 @@
+ public EarthObservationEquipmentType getEarthObservationEquipment() { return earthObservationEquipment; } 

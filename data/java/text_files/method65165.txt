@@ -1,0 +1,1 @@
+ public void setEdate(final Date date) { this.edate = date; } 

@@ -1,0 +1,1 @@
+ protected void adjustToBoard(Point p) { if( p.x < xOffset ) { p.x = xOffset; } if( p.y < yOffset ) { p.y = yOffset; } int xmax = xOffset + Transformation.getOutputLevelWidth() * skin.graphicWidth - 1; int ymax = yOffset + Transformation.getOutputLevelHeight() * skin.graphicHeight - 1; if( p.x > xmax ) { p.x = xmax; } if( p.y > ymax ) { p.y = ymax; } } 

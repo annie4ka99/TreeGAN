@@ -1,0 +1,1 @@
+ public Throwable getFailiureCause() { return errorCause; } 

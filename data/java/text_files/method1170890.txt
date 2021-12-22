@@ -1,0 +1,1 @@
+ public void setCurrentDefender(int def) { currentDefender = def; } 

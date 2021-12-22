@@ -1,0 +1,1 @@
+ public void setBorder(int border) { this.border = border; } 

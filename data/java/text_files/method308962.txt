@@ -1,0 +1,1 @@
+ public void setWizard(Wizard wizard) { this.wizard = wizard; } 

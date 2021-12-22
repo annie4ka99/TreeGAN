@@ -1,0 +1,1 @@
+ public void setDOI(int row, double doi) { setDouble(row, VisualItem.DOI, doi); } 

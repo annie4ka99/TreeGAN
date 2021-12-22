@@ -1,0 +1,1 @@
+ public void removeMessageListener(IMessageListener listener) { messageListeners.remove(listener); } 

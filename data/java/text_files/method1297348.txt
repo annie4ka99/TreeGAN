@@ -1,0 +1,1 @@
+ public String getCategory(int index) { return mCategories.get(index); } 

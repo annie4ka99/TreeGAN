@@ -1,0 +1,1 @@
+ public double getSize(int row) { return getDouble(row, VisualItem.SIZE); } 

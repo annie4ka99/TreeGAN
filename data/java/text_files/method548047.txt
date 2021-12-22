@@ -1,0 +1,1 @@
+ private void closeDialog(java.awt.event.WindowEvent evt) { setVisible(false); dispose(); } 

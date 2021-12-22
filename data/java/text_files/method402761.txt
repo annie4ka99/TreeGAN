@@ -1,0 +1,1 @@
+ protected String decorateLinkerOption(StringBuffer buf, String arg) { return arg; } 

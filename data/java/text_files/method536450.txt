@@ -1,0 +1,1 @@
+ public void replaceSession(MservSession newSession) { this.session = newSession; } 

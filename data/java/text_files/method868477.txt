@@ -1,0 +1,1 @@
+ public void append( Statement s ) { insert( s, last ); } 

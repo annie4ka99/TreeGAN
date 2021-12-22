@@ -1,0 +1,1 @@
+ public void addEnv(Environment.Variable var) { compilerDef.addEnv(var); linkerDef.addEnv(var); } 

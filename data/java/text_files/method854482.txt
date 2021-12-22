@@ -1,0 +1,1 @@
+ public IComparator getComparator() { return fComparator; } 

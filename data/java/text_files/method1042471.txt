@@ -1,0 +1,1 @@
+ public Matrix4f multLocal(Matrix4f in2) { return mult(in2, this); } 

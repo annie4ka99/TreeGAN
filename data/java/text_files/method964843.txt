@@ -1,0 +1,1 @@
+ public ConstantSize right() { return right; } 

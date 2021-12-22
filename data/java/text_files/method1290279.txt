@@ -1,0 +1,1 @@
+ public CoeffInteger getStandardSpeed1Descent() { return standardSpeed1Descent; } 

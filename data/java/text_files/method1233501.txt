@@ -1,0 +1,1 @@
+ public void setBookDAO(BookDAO bookDAO) { this.bookDAO = bookDAO; } 

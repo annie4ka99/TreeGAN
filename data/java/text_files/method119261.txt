@@ -1,0 +1,1 @@
+ public void actionPerformed(ActionEvent e) { if (graph != null) graph.startEditingAtCell(lastCell); } 

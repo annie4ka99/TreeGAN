@@ -1,0 +1,1 @@
+ protected void close() { mgr.removeReceiveStreamListener(this); mgr.dispose(); mgr = null; } 

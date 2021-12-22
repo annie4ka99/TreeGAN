@@ -1,0 +1,1 @@
+ protected void registerFile(String file) { if (wrapperPW == null) { super.registerFile(file); } } 

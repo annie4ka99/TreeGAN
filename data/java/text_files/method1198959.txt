@@ -1,0 +1,1 @@
+ public void setTagSize( int size ) { if( size > 0 ) { tagSize = size; footerExists = true; } } 

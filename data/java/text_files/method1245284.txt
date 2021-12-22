@@ -1,0 +1,1 @@
+ public void setCompressEnable( boolean compressEnable ) { this.compressEnable = compressEnable; } 

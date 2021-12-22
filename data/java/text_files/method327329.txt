@@ -1,0 +1,1 @@
+ private boolean areOnPlane(PamVector[] pvs) { double vol = getMaxVolume(pvs); return (vol == 0); } 

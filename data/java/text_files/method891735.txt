@@ -1,0 +1,1 @@
+ public void setSortDirection(int sortDirection) { this.sortDirection = sortDirection; } 

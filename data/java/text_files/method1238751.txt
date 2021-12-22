@@ -1,0 +1,1 @@
+ public String getDimensions() { return this.dims; } 

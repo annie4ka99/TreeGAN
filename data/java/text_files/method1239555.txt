@@ -1,0 +1,1 @@
+ public void setPretty(boolean pretty) { if(!disablePrettyXML) { this.pretty = pretty; } } 

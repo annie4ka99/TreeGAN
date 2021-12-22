@@ -1,0 +1,1 @@
+ public void setSerie(int i) { serie = i; } 

@@ -1,0 +1,1 @@
+ public boolean jdoIsTransactional() { return getObjectServer().isTransactional(this); } 

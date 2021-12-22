@@ -1,0 +1,1 @@
+ protected void prepare() { permeabilityNa = permeabilityK * relativeP; super.prepare(); } 

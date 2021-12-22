@@ -1,0 +1,1 @@
+ protected boolean peekEOF(BufferedReader pin) throws IOException { int i = pin.read(); return i < 0; } 

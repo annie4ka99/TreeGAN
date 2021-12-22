@@ -1,0 +1,1 @@
+ public void removeRow(int index) throws SQLException { notSupported(); } 

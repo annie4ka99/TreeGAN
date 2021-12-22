@@ -1,0 +1,1 @@
+ public int availablePermits() { return sync.getPermits(); } 

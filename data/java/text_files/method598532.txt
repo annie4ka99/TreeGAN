@@ -1,0 +1,1 @@
+ public int addPubKeyAlgo(ZrtpConstants.SupportedPubKeys algo) { return publicKeyAlgos.addAlgo(algo); } 

@@ -1,0 +1,1 @@
+ public boolean isPersistable() { return persistable; } 

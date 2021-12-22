@@ -1,0 +1,1 @@
+ public void setCurrentPoint(Point currentPoint) { this.currentPoint = currentPoint; } 

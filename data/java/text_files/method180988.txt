@@ -1,0 +1,1 @@
+public DbNlsString getName() { refresh(false); return fieldName; } 

@@ -1,0 +1,1 @@
+ public boolean userIDExists(String userID) { return this.database.containsKey(userID); } 

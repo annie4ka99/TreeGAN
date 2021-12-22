@@ -1,0 +1,1 @@
+ private String getI18nInfoName(Format format) { return getI18nMessage(format.getInfoMessageId()); } 

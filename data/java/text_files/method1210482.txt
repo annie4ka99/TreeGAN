@@ -1,0 +1,1 @@
+ private void setColors(int aBG, int aFG) { background = aBG; foreground = aFG; } 

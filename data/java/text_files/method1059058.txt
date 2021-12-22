@@ -1,0 +1,1 @@
+ public ChangeCommand getCommand() { return getCommand(editingDomain); } 

@@ -1,0 +1,1 @@
+ public AGElementProvider cloneProvider(){ return new AGElementProviderImpl(contextMap); } 

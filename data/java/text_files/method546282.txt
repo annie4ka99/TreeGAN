@@ -1,0 +1,1 @@
+ public void setArcType(int type) { arcType=type; updateShape(); } 

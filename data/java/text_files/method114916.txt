@@ -1,0 +1,1 @@
+ public int lastIndexOf(double elem) { return lastIndexOf(elem, elementCount - 1); } 

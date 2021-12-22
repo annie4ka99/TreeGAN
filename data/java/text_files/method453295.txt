@@ -1,0 +1,1 @@
+ public void setPadre(es.agp.monitor.webservices.service.NodoArbolBean padre) { this.padre = padre; } 

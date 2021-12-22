@@ -1,0 +1,1 @@
+ public boolean pop(){ list_.removeFirst(); return (!list_.isEmpty()); } 

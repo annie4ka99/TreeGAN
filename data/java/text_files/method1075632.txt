@@ -1,0 +1,1 @@
+ public void setCityCd(int cityCd) { this.cityCd = cityCd; } 

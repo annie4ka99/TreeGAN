@@ -1,0 +1,1 @@
+ public void putStatePriority(final DevState state, final int priority) { definedPriorityMap.put(state, priority); } 

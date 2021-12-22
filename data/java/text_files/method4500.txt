@@ -1,0 +1,1 @@
+ public void setHeadDirection(float direction) { this.m_headDirection = direction; } 

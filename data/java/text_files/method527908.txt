@@ -1,0 +1,1 @@
+public JpxiDataToken getEmbededData() { return embededData; } 

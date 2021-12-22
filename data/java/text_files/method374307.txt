@@ -1,0 +1,1 @@
+ public void reset() { if (outputBuffer != null) { outputBuffer.setLength(0); } this.padStack.clear(); } 

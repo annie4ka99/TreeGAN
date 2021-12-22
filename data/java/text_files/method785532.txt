@@ -1,0 +1,1 @@
+ public void setRendererFactory(RendererFactory rf) { invalidateAll(); m_renderers = rf; } 

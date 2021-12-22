@@ -1,0 +1,1 @@
+ public int getVisibleItemCount() { return m_visibleCount; } 

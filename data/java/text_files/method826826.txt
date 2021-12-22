@@ -1,0 +1,1 @@
+ public void setShowInTaskInfo(boolean show) { this.showInTaskInfo = show; } 

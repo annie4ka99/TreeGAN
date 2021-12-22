@@ -1,0 +1,1 @@
+ public Magazzino getMag() { return mag; } 

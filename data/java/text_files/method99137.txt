@@ -1,0 +1,1 @@
+ public Pos getLowerCorner() { return lowerCorner; } 

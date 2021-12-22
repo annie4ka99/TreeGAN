@@ -1,0 +1,1 @@
+ protected AppInfo buildAppInfo(byte[] data) throws PalmDbException { return new ToDoAppInfo(data); } 

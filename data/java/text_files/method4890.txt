@@ -1,0 +1,1 @@
+ public SensoryItem copyOfThis(){ return new SensoryItem(this.getFeatureName()); } 

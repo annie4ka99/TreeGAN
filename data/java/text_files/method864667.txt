@@ -1,0 +1,1 @@
+ public void pushUInt( int value ) { instructions.append( OP_pushuint, value ); } 

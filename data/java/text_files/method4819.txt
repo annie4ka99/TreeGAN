@@ -1,0 +1,1 @@
+ public Weights getWeights(){ return this.m_featureWeights; } 

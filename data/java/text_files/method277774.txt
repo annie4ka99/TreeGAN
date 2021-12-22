@@ -1,0 +1,1 @@
+ public PilotDBRecord getSelectedRecord() { return this.recordsetViewPanel.getSelectedRecord(); } 

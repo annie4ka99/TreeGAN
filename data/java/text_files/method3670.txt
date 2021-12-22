@@ -1,0 +1,1 @@
+ public void warn(Object message) { _log.log(Level.WARN, message, null); } 

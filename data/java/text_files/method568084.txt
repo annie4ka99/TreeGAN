@@ -1,0 +1,1 @@
+ public void setDeviceName(String strDeviceName) { this.m_strDeviceName = strDeviceName; } 

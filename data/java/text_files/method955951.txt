@@ -1,0 +1,1 @@
+ public SensorType getSensor() { return sensor; } 

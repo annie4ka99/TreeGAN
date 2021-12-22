@@ -1,0 +1,1 @@
+ public void setTypeCalcul(final int ct) { calculType = ct; } 

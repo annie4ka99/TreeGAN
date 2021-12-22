@@ -1,0 +1,1 @@
+ public Map getServices() { log.trace("getServices()"); return services; } 

@@ -1,0 +1,1 @@
+ public boolean verify(JComponent comp) { return true; } 

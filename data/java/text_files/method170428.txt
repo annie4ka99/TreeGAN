@@ -1,0 +1,1 @@
+ public void setIntensitaet(int intensity) { intensitaet = intensity; } 

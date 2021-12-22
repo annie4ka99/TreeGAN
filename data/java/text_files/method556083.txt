@@ -1,0 +1,1 @@
+ public void setModeP(final ModePeriode mp) { periodicMode = mp; } 

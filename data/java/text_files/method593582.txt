@@ -1,0 +1,1 @@
+ public Object getCollection() { return this.collection; } 

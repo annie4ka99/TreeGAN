@@ -1,0 +1,1 @@
+public void setFont(java.lang.String newFont) { font = newFont; } 

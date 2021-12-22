@@ -1,0 +1,1 @@
+ public void setPrintExceptions(boolean printExceptions) { this.printExceptions = printExceptions; } 

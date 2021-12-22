@@ -1,0 +1,1 @@
+ private void printAsContentHeader(String str) { out.println("<a name=\"navskip\"></a><h2>" + str + "</h2>"); return; } 

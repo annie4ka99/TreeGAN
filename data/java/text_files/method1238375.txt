@@ -1,0 +1,1 @@
+ protected String getFileName() { return namespaces.toDir(packageName) + className + ".java"; } 

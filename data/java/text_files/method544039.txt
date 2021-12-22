@@ -1,0 +1,1 @@
+ public void setFullState(boolean v) { this.fullState = v; } 

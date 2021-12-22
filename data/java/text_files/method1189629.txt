@@ -1,0 +1,1 @@
+ public int blocksAccessed() { return p1.blocksAccessed() + (p1.recordsOutput() * p2.blocksAccessed()); } 

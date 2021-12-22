@@ -1,0 +1,1 @@
+ private boolean validRow() { return (currentRow >= 0 && currentRow < nRows); } 

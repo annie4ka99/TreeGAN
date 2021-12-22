@@ -1,0 +1,1 @@
+ public void setSources(String sources) { m_sources = sources; } 

@@ -1,0 +1,1 @@
+ public Properties getFilterProperties() { return filterProperties; } 

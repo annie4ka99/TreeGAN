@@ -1,0 +1,1 @@
+ public double getScaleHeight() { return referenceHeight / container.getHeight(); } 

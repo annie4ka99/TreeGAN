@@ -1,0 +1,1 @@
+ public void setDisplay_unit(final String displayUnit) { this.displayUnit = displayUnit; } 

@@ -1,0 +1,1 @@
+ public void addRecipe(Recipe recipe) { db.store(recipe); db.commit(); } 

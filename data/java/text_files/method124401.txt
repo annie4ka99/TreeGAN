@@ -1,0 +1,1 @@
+ public JSCInt getShowExplorer() { return showExplorer; } 

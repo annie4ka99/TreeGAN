@@ -1,0 +1,1 @@
+ final public void mouseWheelMoved(MouseWheelEvent evt) { int scrollDirection = evt.getWheelRotation(); if (scrollDirection < 0 && currentlyMarkedObject > 0) { currentlyMarkedObject--; } if (scrollDirection > 0 && currentlyMarkedObject < 4) { currentlyMarkedObject++; } application.redraw(false); } 

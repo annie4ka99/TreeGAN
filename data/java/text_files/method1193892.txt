@@ -1,0 +1,1 @@
+ public void reset() { this.node.setLocalTranslation(originalPos.clone()); this.node.clearDynamics(); } 

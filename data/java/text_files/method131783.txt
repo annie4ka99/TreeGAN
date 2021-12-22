@@ -1,0 +1,1 @@
+ public ASyncTcpMessageQueue getMessageQueue() { return messageQueue; } 

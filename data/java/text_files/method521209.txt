@@ -1,0 +1,1 @@
+private void setPosTree(int newPosTree) { posTree = newPosTree; } 

@@ -1,0 +1,1 @@
+ public void setRemoteIpAddress(String remoteIpAddress) { this.remoteIpAddress = remoteIpAddress; } 

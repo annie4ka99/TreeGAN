@@ -1,0 +1,1 @@
+ public BindingOutput createBindingOutput() { return new BindingOutputImpl(); } 

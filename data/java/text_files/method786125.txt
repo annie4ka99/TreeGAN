@@ -1,0 +1,1 @@
+ public int getDepth(Tuple t) { return m_queue.getDepth(t); } 

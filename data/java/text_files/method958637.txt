@@ -1,0 +1,1 @@
+ public StringBuilder append(Object obj) { return criteria.append(obj); } 

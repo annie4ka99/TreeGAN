@@ -1,0 +1,1 @@
+ public IdCapabilitiesType getIdCapabilities() { return idCapabilities; } 

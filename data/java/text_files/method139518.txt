@@ -1,0 +1,1 @@
+ public BioSeq getSpanSeq(int index) { if (index == 0) { return seq; } else { return null; } } 

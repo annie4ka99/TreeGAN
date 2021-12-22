@@ -1,0 +1,1 @@
+ private void addComponents() { this.add(createMainPanel(), BorderLayout.CENTER); } 

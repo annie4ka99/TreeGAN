@@ -1,0 +1,1 @@
+ public String getPackage(QName qName) { return getPackage(qName.getNamespaceURI()); } 

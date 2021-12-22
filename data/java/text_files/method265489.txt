@@ -1,0 +1,1 @@
+ public boolean isCellEditable(EventObject event) { return true; } 

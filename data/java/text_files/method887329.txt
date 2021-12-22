@@ -1,0 +1,1 @@
+ public void close() { try { docFile.close(); } catch(IOException e) { } docFile = null; } 

@@ -1,0 +1,1 @@
+ public void removeCampSite(CampSite site) { campSites.remove(site); } 

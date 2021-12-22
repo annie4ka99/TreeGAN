@@ -1,0 +1,1 @@
+ private boolean isToBeDestroyedAtShutdown(View v) { return (v instanceof FoureverEditView || v instanceof ObjectModelView); } 

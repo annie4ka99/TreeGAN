@@ -1,0 +1,1 @@
+ public void setJMXObjectName(String jmxObjectName) { this.jmxObjectName = jmxObjectName; } 

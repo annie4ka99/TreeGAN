@@ -1,0 +1,1 @@
+ public void setConfiguration(Document config){ this.config=config; } 

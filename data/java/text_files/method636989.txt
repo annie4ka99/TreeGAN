@@ -1,0 +1,1 @@
+ public void removeAttribute(String name) { if (m_attributes != null) { m_attributes.remove(name); } } 

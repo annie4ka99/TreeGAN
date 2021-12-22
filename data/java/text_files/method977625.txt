@@ -1,0 +1,1 @@
+ public String getBugId(String name) { checkSpiderGC(); return spiderGC.getBugId(name); } 

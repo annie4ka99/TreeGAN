@@ -1,0 +1,1 @@
+ public int getMin() { return min; } 

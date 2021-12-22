@@ -1,0 +1,1 @@
+ public void setRmiServiceName(java.lang.String rmiServiceName) { this.rmiServiceName = rmiServiceName; } 

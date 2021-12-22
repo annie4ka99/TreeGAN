@@ -1,0 +1,1 @@
+ public void setReturnNull(boolean returnNull) { this.returnNull = returnNull; } 

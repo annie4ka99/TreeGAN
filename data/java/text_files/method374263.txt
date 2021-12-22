@@ -1,0 +1,1 @@
+ public void destination(final int value) { super.setUShort(2, value); } 

@@ -1,0 +1,1 @@
+ public int getSelectionLength() { if(mode==MODE_PLAY) return 0; return selObjects.size(); } 

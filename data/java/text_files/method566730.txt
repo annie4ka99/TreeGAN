@@ -1,0 +1,1 @@
+ public void remove(final String p, final boolean fwd) { synchronized (this) { remove_i(p, fwd); } } 

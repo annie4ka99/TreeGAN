@@ -1,0 +1,1 @@
+ public CustomerRevocationList getRevocationList() { return this.revocationList; } 

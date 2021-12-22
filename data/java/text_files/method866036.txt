@@ -1,0 +1,1 @@
+ public void decrement() { instructions.append( OP_decrement ); } 

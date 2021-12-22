@@ -1,0 +1,1 @@
+ public BranchTarget getTarget( String label ) { return targets.get( label ); } 

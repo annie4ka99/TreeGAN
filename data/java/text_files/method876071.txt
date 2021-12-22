@@ -1,0 +1,1 @@
+ public ByteBuffer encode(String s) { return encode(CharBuffer.wrap(s)); } 

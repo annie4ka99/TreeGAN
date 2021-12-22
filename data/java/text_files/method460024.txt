@@ -1,0 +1,1 @@
+ public void setSAMLVersion(SAMLVersion samlVersion) { this.samlVersion = samlVersion; } 

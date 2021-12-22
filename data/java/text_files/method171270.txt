@@ -1,0 +1,1 @@
+ public void visitDMUL(DMUL o){ stack().pop(); stack().pop(); stack().push(Type.DOUBLE); } 

@@ -1,0 +1,1 @@
+ protected void showInfo(String key) { getWindowControl().setInfo(getTranslator().translate(key)); } 

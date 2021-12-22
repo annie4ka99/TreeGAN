@@ -1,0 +1,1 @@
+ public Integer getProvinceCd() { return provinceCd; } 

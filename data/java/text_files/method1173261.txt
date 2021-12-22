@@ -1,0 +1,1 @@
+ public void setPresentCompare(String compare) { presentCompare = compare; } 

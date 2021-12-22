@@ -1,0 +1,1 @@
+ public AgentAction getDclass(){ if(consistent == true) return Dclass; return null; } 

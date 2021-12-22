@@ -1,0 +1,1 @@
+ public String getIndention() { return horizontalSpacingTextField.getText().trim(); } 

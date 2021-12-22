@@ -1,0 +1,1 @@
+ public void getChildTransform(ViewI view, LinearTransform trans) { } 

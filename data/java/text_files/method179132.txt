@@ -1,0 +1,1 @@
+ public void addInEdge(Edge e) { inEdges.add(e); } 

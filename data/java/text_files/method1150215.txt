@@ -1,0 +1,1 @@
+ public Chunk getNextChunk() { Chunk c = chunks.get(current); current++; return c; } 

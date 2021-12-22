@@ -1,0 +1,1 @@
+ public void setQuality(GPS_FixQualityType quality) { this.quality = quality; } 

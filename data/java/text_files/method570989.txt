@@ -1,0 +1,1 @@
+ public Calendar getFilterFromDate( ) { return filterFromDate; } 

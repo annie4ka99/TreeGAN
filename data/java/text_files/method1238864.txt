@@ -1,0 +1,1 @@
+ public void waitFor(long timeout) throws InterruptedException { thread.wait(timeout); } 

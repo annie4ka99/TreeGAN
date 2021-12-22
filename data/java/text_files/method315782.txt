@@ -1,0 +1,1 @@
+ public int getRowCount() { return (tableModel == null) ? 0 : tableModel.getRowCount(); } 

@@ -1,0 +1,1 @@
+ public ValueSpecification getValueSpecification() { return valueSpecification; } 

@@ -1,0 +1,1 @@
+ public double magsq() { return real * real + imag * imag; } 

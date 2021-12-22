@@ -1,0 +1,1 @@
+public void setAskedToStopCauseStartExcep(boolean theValue) { AskedToStopCauseStartExcep = theValue; } 

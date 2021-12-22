@@ -1,0 +1,1 @@
+ public void setSetup(java.lang.Double setup) { this.setup = setup; } 

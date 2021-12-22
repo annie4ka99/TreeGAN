@@ -1,0 +1,1 @@
+ public void setAlpha(float alpha) { alphaValue = alpha; } 

@@ -1,0 +1,1 @@
+ public AddressType getWitnessAddress() { return witnessAddress; } 

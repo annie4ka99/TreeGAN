@@ -1,0 +1,1 @@
+ public boolean isPoseReady () { if (readyPipose) { readyPipose = false; return true; } return false; } 

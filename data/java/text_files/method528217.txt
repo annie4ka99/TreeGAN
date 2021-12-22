@@ -1,0 +1,1 @@
+private void setOtherExchangeUse2(char[] newOtherExchangeUse2) { otherExchangeUse2 = newOtherExchangeUse2; } 

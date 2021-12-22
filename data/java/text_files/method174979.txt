@@ -1,0 +1,1 @@
+ private void insert(Object x) { last = last.next = new Node(x); } 

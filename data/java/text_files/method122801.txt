@@ -1,0 +1,1 @@
+ public void setCellHeight(int cellSize) { if (runThread == null) DisplayConstants.CELL_HEIGHT = cellSize; } 

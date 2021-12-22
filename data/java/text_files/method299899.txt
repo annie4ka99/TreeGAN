@@ -1,0 +1,1 @@
+ public void graphchanged(){ this.changed = true; } 

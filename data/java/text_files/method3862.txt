@@ -1,0 +1,1 @@
+ private String replaceText(String str) { return TextReplacer.replaceText(replaceText, str); } 

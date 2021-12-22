@@ -1,0 +1,1 @@
+ public void addModel(AdvancedModel3D model) { childs.add(model); } 

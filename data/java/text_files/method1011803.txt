@@ -1,0 +1,1 @@
+ public boolean isCulling() { return culling_method != NurbsConsts.N_NOCULLING ? true : false; } 

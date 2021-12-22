@@ -1,0 +1,1 @@
+ public int getIntAttribute(String attr) { return getInt(attr); } 

@@ -1,0 +1,1 @@
+ public int getIndexOf(Object anObject) { return objects.indexOf(anObject); } 

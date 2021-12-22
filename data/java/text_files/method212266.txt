@@ -1,0 +1,1 @@
+ public Object getOutput() { return (Identity) task.getAttribute("output"); } 

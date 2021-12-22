@@ -1,0 +1,1 @@
+ protected AnnotatedSeqGroup createSeqGroup(String group_id) { return new AnnotatedSeqGroup(group_id); } 

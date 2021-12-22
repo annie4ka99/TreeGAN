@@ -1,0 +1,1 @@
+ public double checkdouble(int narg) { return checknumber(narg).toJavaDouble(); } 

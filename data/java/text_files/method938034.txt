@@ -1,0 +1,1 @@
+ public void setTodayCaption(final String caption) { createDatePanel(); datepanel.setTodayCaption(caption); } 

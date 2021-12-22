@@ -1,0 +1,1 @@
+ public String getManifestVersion() { if (fManifestVersion == null) return "1.0"; return fManifestVersion; } 

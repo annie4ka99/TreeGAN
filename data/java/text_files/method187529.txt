@@ -1,0 +1,1 @@
+ public void setWindow(JWindow window) { this.window = window; } 

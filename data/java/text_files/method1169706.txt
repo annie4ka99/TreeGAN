@@ -1,0 +1,1 @@
+ public void setPhaseEffects(boolean b) { bPhaseEffects = b; } 

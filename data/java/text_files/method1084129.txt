@@ -1,0 +1,1 @@
+ protected void logAudit(String logMsg, String userObj) { getLogger().audit(logMsg, userObj); } 

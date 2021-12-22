@@ -1,0 +1,1 @@
+public boolean isJpxiConnected() { return jpxiConnected; } 

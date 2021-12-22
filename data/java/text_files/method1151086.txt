@@ -1,0 +1,1 @@
+ public void testGetTitle() { assertEquals(title, user.getTitle()); } 

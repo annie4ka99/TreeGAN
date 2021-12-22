@@ -1,0 +1,1 @@
+ public void setPassword(String p) { logger.debug("entering setPassword"); this.password = p; } 

@@ -1,0 +1,1 @@
+ public void setProxyHost(String proxyHost) { this.proxyHost = Configuration.getProxyHost(proxyHost); } 

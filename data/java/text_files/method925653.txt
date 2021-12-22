@@ -1,0 +1,1 @@
+ public Alpha2CountryCode getAlpha2CountryCode(){ return m_alpha2; } 

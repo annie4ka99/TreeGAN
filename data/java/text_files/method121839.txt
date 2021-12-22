@@ -1,0 +1,1 @@
+ public Panel getRootPanel() { return _root; } 

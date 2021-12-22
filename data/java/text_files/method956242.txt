@@ -1,0 +1,1 @@
+ public void setProcessingInformation(ProcessingInformationType value) { this.processingInformation = value; } 

@@ -1,0 +1,1 @@
+ public boolean isSaveAllEnabled() { if (text == null || text.isDisposed()) { return false; } return true; } 

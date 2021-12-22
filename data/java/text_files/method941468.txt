@@ -1,0 +1,1 @@
+ public void setMax(final Point newMax) { this.max = (Point) newMax.clone(); } 

@@ -1,0 +1,1 @@
+ public void setJTextField1111Text(java.lang.String arg1) { getJTextFieldNparallel().setText(arg1); } 

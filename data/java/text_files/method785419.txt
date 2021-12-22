@@ -1,0 +1,1 @@
+ public JComponent createComponent() { return createCheckboxGroup(); } 

@@ -1,0 +1,1 @@
+ public GPSPoint getLatLong() { return latlong; } 

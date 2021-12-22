@@ -1,0 +1,1 @@
+ public CStringBuilder deleteCharAt(int index) { return delete( index, index + 1 ); } 

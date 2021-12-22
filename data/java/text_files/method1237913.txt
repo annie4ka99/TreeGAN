@@ -1,0 +1,1 @@
+ public String getXsdURI() { return Constants.URI_1999_SCHEMA_XSD; } 

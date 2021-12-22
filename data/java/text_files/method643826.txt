@@ -1,0 +1,1 @@
+ public void setVersionName(String value) { this.versionName = value; } 

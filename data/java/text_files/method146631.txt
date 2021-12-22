@@ -1,0 +1,1 @@
+ public Integer getLongitudeDeg() { return new Integer(this.longitude.intValue()); } 

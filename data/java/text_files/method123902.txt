@@ -1,0 +1,1 @@
+ public String identifier(boolean isReference) { return isReference ? "j:ref" : "j:id"; } 

@@ -1,0 +1,1 @@
+ public int setMusic(boolean enable) throws IOException { return setMusic(enable, null); } 

@@ -1,0 +1,1 @@
+ public int getForumId() { return this.forumId; } 

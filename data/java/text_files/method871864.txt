@@ -1,0 +1,1 @@
+ public void setLastStory(java.lang.String lastStory) { this.lastStory = lastStory; } 

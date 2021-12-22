@@ -1,0 +1,1 @@
+ protected void setFixture(FreeWritingShape fixture) { this.fixture = fixture; } 

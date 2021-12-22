@@ -1,0 +1,1 @@
+ public void setSizeLimit( int size_limit ) { this.size_limit = size_limit; fireTableDataChanged(); } 

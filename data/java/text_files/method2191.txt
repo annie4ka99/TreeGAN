@@ -1,0 +1,1 @@
+ public int getMemoryStoreHitCount() throws IllegalStateException { checkStatus(); return memoryStoreHitCount; } 

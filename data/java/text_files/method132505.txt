@@ -1,0 +1,1 @@
+ public Sequence (String id) { this.start = 0; setID( id ); } 

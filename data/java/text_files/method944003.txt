@@ -1,0 +1,1 @@
+ public void clear() { jEditorPane1.setText(""); titleLabel.setText(""); } 

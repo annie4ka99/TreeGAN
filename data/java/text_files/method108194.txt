@@ -1,0 +1,1 @@
+ public JLabel appendI15d(String resourceKey) { return append(getI15dString(resourceKey)); } 

@@ -1,0 +1,1 @@
+ public int getVerticalSpacing() { return defaultLook.getCellSpacing().y; } 

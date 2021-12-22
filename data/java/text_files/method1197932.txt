@@ -1,0 +1,1 @@
+ public Request getRequest(int requestId) { return (Request) get(new Integer(requestId)); } 

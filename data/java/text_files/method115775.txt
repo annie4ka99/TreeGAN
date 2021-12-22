@@ -1,0 +1,1 @@
+ public void setAfterComposite(AbstractFilenameComposite afterComposite) { this.afterComposite = afterComposite; } 

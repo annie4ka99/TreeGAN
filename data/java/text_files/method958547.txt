@@ -1,0 +1,1 @@
+ public SubscriptionType createSubscriptionType() { return new SubscriptionType(); } 

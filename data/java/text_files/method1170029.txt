@@ -1,0 +1,1 @@
+ public void addAttacker(Card c) { attackers.add(c); map.put(c, new CardList()); } 

@@ -1,0 +1,1 @@
+ protected void logError(String msg, Exception e) { if (logger != null) { logger.error(msg, e); } } 

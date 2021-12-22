@@ -1,0 +1,1 @@
+ public void setBezeichung(java.lang.String bezeichung) { this.bezeichung = bezeichung; } 

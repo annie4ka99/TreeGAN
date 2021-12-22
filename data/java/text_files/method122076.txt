@@ -1,0 +1,1 @@
+ public void setTitle(String aTitle) { _title = aTitle; repaint(); } 

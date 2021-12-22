@@ -1,0 +1,1 @@
+ public double hat(double x) { return (1 - x*x) * Math.exp(-x*x / 2); } 

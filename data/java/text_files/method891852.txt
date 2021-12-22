@@ -1,0 +1,1 @@
+ public void setWhere(String value) { this.where = value; } 

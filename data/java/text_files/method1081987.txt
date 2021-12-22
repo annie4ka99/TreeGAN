@@ -1,0 +1,1 @@
+ public void setMetodSqr(boolean newMetodSqr) { metodSqr = newMetodSqr; } 

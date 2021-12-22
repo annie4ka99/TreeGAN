@@ -1,0 +1,1 @@
+ public void setNumReplace(Integer intensity) { this.numReplace = intensity; } 

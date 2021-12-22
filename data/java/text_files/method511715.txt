@@ -1,0 +1,1 @@
+ public boolean isKaufModus() { return kaufModus; } 

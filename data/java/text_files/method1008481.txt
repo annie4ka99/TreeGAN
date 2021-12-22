@@ -1,0 +1,1 @@
+ public int pixelFor(Color c) { return pixelFor(c.getRGB()); } 

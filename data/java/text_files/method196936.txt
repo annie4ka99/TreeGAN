@@ -1,0 +1,1 @@
+ public void setDistanceToPlayground(int playground) { this.playground = playground; } 

@@ -1,0 +1,1 @@
+ public boolean isSkippingWhitespace() { return skipWhitespace; } 

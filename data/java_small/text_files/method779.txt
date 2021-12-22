@@ -1,0 +1,1 @@
+ final private JButton createToolBarButton(String iconName, String actionCommand, String toolTipText) { JButton button = new JButton(Utilities.getIcon(iconName, null)); button.setActionCommand(actionCommand); button.setToolTipText(toolTipText); button.addActionListener(this); button.setFocusable(false); return button; } 

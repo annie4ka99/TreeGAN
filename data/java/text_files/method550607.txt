@@ -1,0 +1,1 @@
+ public void setMarkerSize(int c) { markerSize = c; } 

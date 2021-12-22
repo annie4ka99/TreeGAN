@@ -1,0 +1,1 @@
+ public Enumeration getEntries() { return entries.keys(); } 

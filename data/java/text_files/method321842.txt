@@ -1,0 +1,1 @@
+ public double binsToHz(int nFrequencyBins) { return (double) nFrequencyBins * getSampleRate() / fftLength; } 

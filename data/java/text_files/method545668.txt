@@ -1,0 +1,1 @@
+ public void setSmoothingMethod(int method) { smoothMethod = method; updateSmoothCoefs(); commitChange(); } 

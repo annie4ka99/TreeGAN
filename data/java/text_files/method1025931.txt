@@ -1,0 +1,1 @@
+ public Integer toJavaBoxedInteger() { conversionError("Integer"); return null; } 

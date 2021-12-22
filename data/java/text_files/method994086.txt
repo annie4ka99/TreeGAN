@@ -1,0 +1,1 @@
+ public void setGain(float gain) { this.gain = gain; } 

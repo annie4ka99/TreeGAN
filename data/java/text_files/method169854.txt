@@ -1,0 +1,1 @@
+ public void setData(double val, int money) { this.money = money; this.value = val; } 

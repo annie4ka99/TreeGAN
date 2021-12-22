@@ -1,0 +1,1 @@
+ public void setCacher(Cacher cacher) { this.cacher = cacher; } 

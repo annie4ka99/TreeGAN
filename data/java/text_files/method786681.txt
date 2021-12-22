@@ -1,0 +1,1 @@
+ public void setIntegrator(Integrator intgr) { integrator = intgr; } 

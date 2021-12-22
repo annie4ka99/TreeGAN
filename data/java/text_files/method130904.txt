@@ -1,0 +1,1 @@
+ public boolean isDataIntnsReady () { if (readyPrintn) { readyPrintn = false; return true; } return false; } 

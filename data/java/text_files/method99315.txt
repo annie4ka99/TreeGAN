@@ -1,0 +1,1 @@
+ public WSIHeartwoodDictionary createWSIHeartwoodDictionary() { return new WSIHeartwoodDictionary(); } 

@@ -1,0 +1,1 @@
+private void setHeader(byte[] newHeader) { header = newHeader; } 

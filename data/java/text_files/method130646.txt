@@ -1,0 +1,1 @@
+ public boolean isDataReady () { if (readyPp3ddata) { readyPp3ddata = false; return true; } return false; } 

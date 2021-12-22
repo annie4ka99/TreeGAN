@@ -1,0 +1,1 @@
+ public URI getModelURI() { return initialObjectCreationPage.getFileURI(); } 

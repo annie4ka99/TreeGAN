@@ -1,0 +1,1 @@
+ public void setWorkStationUserID(String workStationUserID) { m_strWorkStationUserID = workStationUserID; } 

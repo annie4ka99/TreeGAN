@@ -1,0 +1,1 @@
+ protected PropertyChangeListener createPropertyChangeListener() { return new MyPropertyChangeHandler(); } 

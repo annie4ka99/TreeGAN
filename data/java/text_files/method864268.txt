@@ -1,0 +1,1 @@
+ public void dup() { instructions.append( OP_dup ); } 

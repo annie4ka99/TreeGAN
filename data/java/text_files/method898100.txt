@@ -1,0 +1,1 @@
+ public ConstantPool getPool() { return this.pool; } 

@@ -1,0 +1,1 @@
+private void setNumeric(boolean newNumeric) { numeric = newNumeric; } 

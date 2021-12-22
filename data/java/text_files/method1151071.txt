@@ -1,0 +1,1 @@
+ public void testSetId() { user.setId(id); assertEquals(id, user.getId()); } 

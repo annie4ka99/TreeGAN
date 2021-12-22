@@ -1,0 +1,1 @@
+ public void pushWith() { instructions.append( OP_pushwith ); } 

@@ -1,0 +1,1 @@
+ public PointStyle getPointStyle() { return mPointStyle; } 

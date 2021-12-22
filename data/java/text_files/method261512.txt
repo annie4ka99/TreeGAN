@@ -1,0 +1,1 @@
+ public void setNitrogen(Double nitrogen) { this.nitrogen = nitrogen; } 

@@ -1,0 +1,1 @@
+ public boolean limitView() { return this.equals(PLAYER_OVERLAY) || this.equals(PLAYER_VIEW); } 

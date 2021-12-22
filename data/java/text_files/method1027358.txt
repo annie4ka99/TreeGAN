@@ -1,0 +1,1 @@
+ public void setDontSetAutoCommitFalse(boolean b) { dontSetAutoCommitFalse = b; } 

@@ -1,0 +1,1 @@
+ public AssociationType createAssociationType() { return new AssociationType(); } 

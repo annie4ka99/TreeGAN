@@ -1,0 +1,1 @@
+ public Settings getSettings(String name) { return (Settings) settingsMap.get(name); } 

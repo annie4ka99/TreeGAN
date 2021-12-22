@@ -1,0 +1,1 @@
+ public int read(byte[] dest) throws IOException { return read(dest, 0, dest.length); } 

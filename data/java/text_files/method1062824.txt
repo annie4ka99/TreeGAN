@@ -1,0 +1,1 @@
+ public OpaqueExpression getOpaqueExpression() { return opaqueExpression; } 

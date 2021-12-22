@@ -1,0 +1,1 @@
+ public Dictionary getDictionary() { return dictionary; } 

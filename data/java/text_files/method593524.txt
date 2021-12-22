@@ -1,0 +1,1 @@
+ protected InputTagSupport getTag() { return this.tag; } 

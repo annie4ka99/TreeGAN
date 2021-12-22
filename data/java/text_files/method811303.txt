@@ -1,0 +1,1 @@
+ public void setSnucleotide(java.lang.Boolean snucleotide) { this.snucleotide = snucleotide; } 

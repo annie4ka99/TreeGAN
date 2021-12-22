@@ -1,0 +1,1 @@
+ private boolean invariant() { return category != null && element != null; } 

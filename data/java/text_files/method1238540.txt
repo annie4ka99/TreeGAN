@@ -1,0 +1,1 @@
+ public Vector getSymbols(QName qname) { return (Vector) symbolTable.get(qname); } 

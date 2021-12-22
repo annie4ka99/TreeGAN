@@ -1,0 +1,1 @@
+ public void setAuthenticationActivation(boolean b) { authenticationActivation = b; } 

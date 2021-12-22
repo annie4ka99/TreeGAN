@@ -1,0 +1,1 @@
+ public void clearContext() { contextSources = new Vector(); data = new ContextualInformationList(); } 

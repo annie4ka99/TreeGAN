@@ -1,0 +1,1 @@
+ public PrecompileDef createPrecompile() throws BuildException { return compilerDef.createPrecompile(); } 

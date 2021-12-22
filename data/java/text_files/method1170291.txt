@@ -1,0 +1,1 @@
+ public void setWinTurn(int gameNumber, int turns) { winTurns[gameNumber] = turns; } 

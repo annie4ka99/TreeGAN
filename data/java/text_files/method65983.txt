@@ -1,0 +1,1 @@
+ public void setMenuBarVJB(MenuBarVJB menuBarVJB) { this.menuBarVJB = menuBarVJB; } 

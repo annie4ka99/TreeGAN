@@ -1,0 +1,1 @@
+ private ResultTable getSqView( ) { if ( sqView == null ) { sqView = new ResultTable( ); } return sqView; } 

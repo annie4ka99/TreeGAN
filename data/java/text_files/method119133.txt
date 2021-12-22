@@ -1,0 +1,1 @@
+ public void setBendable(boolean flag) { bendable = flag; } 

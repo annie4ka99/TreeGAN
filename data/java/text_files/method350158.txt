@@ -1,0 +1,1 @@
+ public TransformGroup getSpectroRotateGroup(){ return this.rotateGroup; } 

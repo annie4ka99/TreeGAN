@@ -1,0 +1,1 @@
+ public void saveText() { model.addHistoryElement((String) getText()); } 

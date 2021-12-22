@@ -1,0 +1,1 @@
+ public ElementList getAllFixed() { return fixed; } 

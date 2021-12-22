@@ -1,0 +1,1 @@
+ public FilterType getVersionInfoFilter() { return versionInfoFilter; } 

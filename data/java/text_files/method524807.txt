@@ -1,0 +1,1 @@
+ public ItemDossierLock getDossierLockOfOpeningTime() { return lock; } 

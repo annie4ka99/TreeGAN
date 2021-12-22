@@ -1,0 +1,1 @@
+ public void setStart(T start) { if (start == null) throw new NullPointerException(); this.start = start; } 

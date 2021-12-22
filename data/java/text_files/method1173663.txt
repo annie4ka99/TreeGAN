@@ -1,0 +1,1 @@
+ public void setFlashback(boolean b) { flashback = b; } 

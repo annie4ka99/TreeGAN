@@ -1,0 +1,1 @@
+ public int getDBSize() { return itemIndex.size(); } 

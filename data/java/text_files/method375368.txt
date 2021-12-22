@@ -1,0 +1,1 @@
+ public void reset() { this.counter = 0; this.total = 0; } 

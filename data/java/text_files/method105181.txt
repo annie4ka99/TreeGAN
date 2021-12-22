@@ -1,0 +1,1 @@
+ public SeriesLinksWithPreferred createSeriesLinksWithPreferred() { return new SeriesLinksWithPreferred(); } 

@@ -1,0 +1,1 @@
+ public void setObjective(String value) { this.objective = value; } 

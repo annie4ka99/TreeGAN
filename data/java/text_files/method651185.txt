@@ -1,0 +1,1 @@
+ public R visit(condition n) { R _ret=null; n.f0.accept(this); return _ret; } 

@@ -1,0 +1,1 @@
+ public int getDamage() { return damage; } 

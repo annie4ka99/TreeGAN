@@ -1,0 +1,1 @@
+ public void setParentQuery(RegistryObjectQueryType value) { this.parentQuery = value; } 

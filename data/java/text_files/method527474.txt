@@ -1,0 +1,1 @@
+ protected void checkActive() { if (dms.isAvailable()) setActive(true); else setActive(false); } 

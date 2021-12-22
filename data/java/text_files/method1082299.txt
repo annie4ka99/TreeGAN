@@ -1,0 +1,1 @@
+ public void setExtensions(List extensions) { this.extensions = extensions; } 

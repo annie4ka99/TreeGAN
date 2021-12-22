@@ -1,0 +1,1 @@
+public void setDayOfWeek(int newDayOfWeek) { dayOfWeek = newDayOfWeek; } 

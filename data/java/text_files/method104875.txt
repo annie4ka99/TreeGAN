@@ -1,0 +1,1 @@
+ public void setAuthor(String value) { this.author = value; } 

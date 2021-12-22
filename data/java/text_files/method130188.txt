@@ -1,0 +1,1 @@
+ public void setMinimumCommand (int minC) { this.minCommand = minC; } 

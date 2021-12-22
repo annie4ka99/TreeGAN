@@ -1,0 +1,1 @@
+ public boolean canGetString() { return true; } 

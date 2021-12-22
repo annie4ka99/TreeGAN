@@ -1,0 +1,1 @@
+ public void visitARRAYLENGTH(ARRAYLENGTH o){ stack().pop(); stack().push(Type.INT); } 

@@ -1,0 +1,1 @@
+ public void setKtoStand(java.lang.Double ktoStand) { this.ktoStand = ktoStand; } 

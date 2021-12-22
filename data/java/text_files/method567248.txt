@@ -1,0 +1,1 @@
+ public boolean isPrev_failed() { return (prev_failed!=null); } 

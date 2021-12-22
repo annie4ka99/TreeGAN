@@ -1,0 +1,1 @@
+ public void setGetter(IPGetter g) { logger.debug("setGetter()"); getter = g; } 

@@ -1,0 +1,1 @@
+ public void addTitle(String title) { addTitleWithUpdater(title); } 

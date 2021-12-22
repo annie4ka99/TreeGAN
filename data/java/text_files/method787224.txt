@@ -1,0 +1,1 @@
+ public void setColumns(String[] cols) { columns = cols; } 

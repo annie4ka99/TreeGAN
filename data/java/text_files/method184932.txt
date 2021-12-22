@@ -1,0 +1,1 @@
+ public String toString() { return Epoch + ":" + Phase + ":" + Generation + ":" + Turn + ":" + Number; } 

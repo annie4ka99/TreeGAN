@@ -1,0 +1,1 @@
+ public void signOut() { loggedInUser = null; textEncryptor = null; fireLogout(); } 

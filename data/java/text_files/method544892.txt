@@ -1,0 +1,1 @@
+ public void setVerticalZoom(int zoom) { synchronized (this) { vZoom=zoom; } } 

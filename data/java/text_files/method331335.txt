@@ -1,0 +1,1 @@
+ public int getFFTHop() { return this.fftHop; } 

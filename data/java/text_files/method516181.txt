@@ -1,0 +1,1 @@
+public void setDmsPoller(DMSPoller newDmsPoller) { dmsPoller = newDmsPoller; } 

@@ -1,0 +1,1 @@
+ public void setSortedColumn(int column) { sortColumn = column; updateFilters(); } 

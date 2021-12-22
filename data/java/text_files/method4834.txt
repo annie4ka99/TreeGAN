@@ -1,0 +1,1 @@
+ public int getSampleSize(){ return this.m_maxNum; } 

@@ -1,0 +1,1 @@
+ public void setSequence(SequenceI seq, int first) { setSequence(seq); setFirstOrdinal(first); } 

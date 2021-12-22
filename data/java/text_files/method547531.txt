@@ -1,0 +1,1 @@
+ public int getHorizontalPosition () { return horizontalPosition; } 

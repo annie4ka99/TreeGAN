@@ -1,0 +1,1 @@
+ public void setI18nConfigSuffix(String suffix) { i18nConfigSuffix = suffix; } 

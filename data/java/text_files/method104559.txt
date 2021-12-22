@@ -1,0 +1,1 @@
+ public XMLGregorianCalendar getValue() { return value; } 

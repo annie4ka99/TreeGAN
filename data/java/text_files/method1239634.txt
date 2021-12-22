@@ -1,0 +1,1 @@
+ public Object getFirstKey() { return sentinel.next.getKey(); } 

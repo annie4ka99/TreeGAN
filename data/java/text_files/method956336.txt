@@ -1,0 +1,1 @@
+ public void setLowestLocation(MeasureType value) { this.lowestLocation = value; } 

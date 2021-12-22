@@ -1,0 +1,1 @@
+public String getStaticDir() { return staticDir; } 

@@ -1,0 +1,1 @@
+ protected void writeVariable(String varName) throws IOException { writeGroup(9, "$" + varName); } 

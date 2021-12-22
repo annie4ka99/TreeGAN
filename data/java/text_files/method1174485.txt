@@ -1,0 +1,1 @@
+ public Card setLastDrawnCard(Card c) { lastDrawnCard = c; return lastDrawnCard; } 

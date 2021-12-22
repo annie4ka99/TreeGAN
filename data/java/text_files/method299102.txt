@@ -1,0 +1,1 @@
+ public void execute(Command command) { getCommandStack().execute(command); refresh(); } 

@@ -1,0 +1,1 @@
+ protected void setFixture(UserParamType fixture) { this.fixture = fixture; } 

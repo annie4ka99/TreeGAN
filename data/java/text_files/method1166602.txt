@@ -1,0 +1,1 @@
+ public void destroy() { css.clear(); js.clear(); image.clear(); } 

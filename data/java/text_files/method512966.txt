@@ -1,0 +1,1 @@
+ public int lastLineNumber() { return lastLine; } 

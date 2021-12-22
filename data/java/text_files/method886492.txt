@@ -1,0 +1,1 @@
+ public boolean hasReferenceRefTo(String sName) { return referenceRef.contains(sName); } 

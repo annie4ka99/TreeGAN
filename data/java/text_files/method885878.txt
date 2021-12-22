@@ -1,0 +1,1 @@
+ protected void fireCaretUpdate(CaretEvent e) { super.fireCaretUpdate(e); super.fireCaretUpdate(e); } 

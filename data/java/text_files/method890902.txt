@@ -1,0 +1,1 @@
+ protected void init() throws Exception { Class.forName(getPrefs().getJdbcDriver()).newInstance(); } 

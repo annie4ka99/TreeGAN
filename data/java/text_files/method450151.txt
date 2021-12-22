@@ -1,0 +1,1 @@
+ public void testMoveExists() { try { Move mover = new Move(); } catch (Exception e) { fail(e.toString()); } } 

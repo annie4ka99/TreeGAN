@@ -1,0 +1,1 @@
+ public void setXcounter(int xcounter) { this.xcounter = xcounter; } 

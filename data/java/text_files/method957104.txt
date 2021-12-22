@@ -1,0 +1,1 @@
+ public void setSrsDimension(BigInteger value) { this.srsDimension = value; } 

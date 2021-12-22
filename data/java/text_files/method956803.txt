@@ -1,0 +1,1 @@
+ public RequestStatusType createRequestStatusType() { return new RequestStatusType(); } 

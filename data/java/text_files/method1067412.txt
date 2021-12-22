@@ -1,0 +1,1 @@
+ public void setOutlineSorter(Comparator comparator) { sorter = comparator; } 

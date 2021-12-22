@@ -1,0 +1,1 @@
+ public void setKontoNr(java.lang.Integer kontoNr) { this.kontoNr = kontoNr; } 

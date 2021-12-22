@@ -1,0 +1,1 @@
+ public byte getPosition() { return SpielerPosition.getPosition(m_iId, m_bTaktik); } 

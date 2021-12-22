@@ -1,0 +1,1 @@
+public void setTagName(String newValue) { this.tagName = newValue; } 

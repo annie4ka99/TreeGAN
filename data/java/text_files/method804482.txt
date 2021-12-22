@@ -1,0 +1,1 @@
+ public CMLPeakList getPeakList() { return ((CMLPeakList) tableViewer.getInput()); } 

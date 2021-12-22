@@ -1,0 +1,1 @@
+ public AGXmlFactoryConfiguration getConfig(){ return this.config; } 

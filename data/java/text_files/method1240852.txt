@@ -1,0 +1,1 @@
+ public Integer getTimeout() { return timeout; } 

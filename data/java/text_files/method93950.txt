@@ -1,0 +1,1 @@
+ protected void flushAll() throws StandardException { pageCache.clean(identity); clean(false); } 

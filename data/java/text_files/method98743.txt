@@ -1,0 +1,1 @@
+ public CurveType createCurveType() { return new CurveType(); } 

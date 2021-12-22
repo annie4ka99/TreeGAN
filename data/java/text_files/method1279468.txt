@@ -1,0 +1,1 @@
+ public CompareToBuilder append(Object lhs, Object rhs) { return append(lhs, rhs, null); } 

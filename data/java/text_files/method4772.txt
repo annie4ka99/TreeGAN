@@ -1,0 +1,1 @@
+ public Case getCase(){ return this.m_case; } 

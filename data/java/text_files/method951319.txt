@@ -1,0 +1,1 @@
+ public DocumentBag getDocs1() { return docs1; } 

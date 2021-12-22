@@ -1,0 +1,1 @@
+ public void setSignalResolver(SignalResolver resolver){ this.resolver = resolver; } 

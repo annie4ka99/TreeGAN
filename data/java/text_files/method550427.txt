@@ -1,0 +1,1 @@
+ public void status(String msg, Exception e) { status(mainFrame, msg, e); } 

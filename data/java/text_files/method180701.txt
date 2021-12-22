@@ -1,0 +1,1 @@
+ public void setOsucc(String newOSucc) { osucc = newOSucc; } 

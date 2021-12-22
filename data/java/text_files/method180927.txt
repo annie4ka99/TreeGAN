@@ -1,0 +1,1 @@
+public void startBody(AttributeList attrs) throws java.io.IOException { startElement(TAG_BODY, attrs); } 

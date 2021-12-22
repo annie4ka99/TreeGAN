@@ -1,0 +1,1 @@
+ public float get(int i) { return array[i]; } 

@@ -1,0 +1,1 @@
+ public boolean isPacked() { return (_outer != null) ? _outer.isPacked() : false; } 

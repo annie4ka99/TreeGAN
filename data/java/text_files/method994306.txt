@@ -1,0 +1,1 @@
+ public int getForeground() { return foreground; } 

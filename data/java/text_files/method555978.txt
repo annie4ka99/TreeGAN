@@ -1,0 +1,1 @@
+ public void set_scalarLoad(int scalarLoad) { this.scalarLoad = scalarLoad; } 

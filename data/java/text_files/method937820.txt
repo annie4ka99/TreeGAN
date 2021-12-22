@@ -1,0 +1,1 @@
+ public Map getAll() { return (Map) data.clone(); } 

@@ -1,0 +1,1 @@
+ public boolean isPrintHeader() { return m_printHeader; } 

@@ -1,0 +1,1 @@
+ public void setProcessing(String value) { this.processing = value; } 

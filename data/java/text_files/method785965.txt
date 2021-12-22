@@ -1,0 +1,1 @@
+ public TupleSet getSet(String name) { return (TupleSet)m_map.get(name); } 

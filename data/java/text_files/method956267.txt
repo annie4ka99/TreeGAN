@@ -1,0 +1,1 @@
+ public void setInstrument(InstrumentPropertyType value) { this.instrument = value; } 

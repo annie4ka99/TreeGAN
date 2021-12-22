@@ -1,0 +1,1 @@
+ public void setVortrag(java.lang.Double vortrag) { this.vortrag = vortrag; } 

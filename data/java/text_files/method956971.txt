@@ -1,0 +1,1 @@
+ public void setMaxResults(BigInteger value) { this.maxResults = value; } 

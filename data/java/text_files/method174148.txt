@@ -1,0 +1,1 @@
+ public void setProperty(String name, Object value) { properties.put(name, value); } 

@@ -1,0 +1,1 @@
+ public ContextClass getContextClass() { return caDefinition.getContextClass(); } 

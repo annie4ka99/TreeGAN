@@ -1,0 +1,1 @@
+ public boolean representsEnumType() { return clazz.isEnum(); } 

@@ -1,0 +1,1 @@
+ public void addSyntax(String name, Syntax syntax) { syntaxs.put(name, syntax); } 

@@ -1,0 +1,1 @@
+ public void sequenceItem(SequenceDTDNode s){ s.addSequence(cn); } 

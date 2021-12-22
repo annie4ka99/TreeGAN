@@ -1,0 +1,1 @@
+private void setSessionMode(int newSessionMode) { sessionMode = newSessionMode; } 

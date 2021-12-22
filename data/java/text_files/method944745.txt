@@ -1,0 +1,1 @@
+ public TreeNode getChildAt(int childIndex) { return this.getMpeg7Objects()[childIndex]; } 

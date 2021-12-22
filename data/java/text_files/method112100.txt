@@ -1,0 +1,1 @@
+ public void setKey(String iKey) { key = iKey; } 

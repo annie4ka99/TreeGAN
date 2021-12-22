@@ -1,0 +1,1 @@
+ public void setCurrentFunctions(List currentFunctions) { this.currentFunctions = currentFunctions; } 

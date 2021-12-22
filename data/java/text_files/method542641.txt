@@ -1,0 +1,1 @@
+ public Property getProperty(String name) { return propertyStorage.getProperty(name); } 

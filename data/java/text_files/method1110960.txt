@@ -1,0 +1,1 @@
+ public void setAutoResizeGraph(boolean autoResizeGraph) { this.autoResizeGraph = autoResizeGraph; } 

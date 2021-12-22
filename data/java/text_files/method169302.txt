@@ -1,0 +1,1 @@
+ public void setCheckTeamName(boolean b) { isCheckTeamName = b; setValue("isCheckTeamName", b); } 

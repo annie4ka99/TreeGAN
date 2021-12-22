@@ -1,0 +1,1 @@
+ public boolean hasChild(){ return m_child!=null; } 

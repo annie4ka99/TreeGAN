@@ -1,0 +1,1 @@
+ public CardList getBlockers(Card attacker) { return map.get(attacker); } 

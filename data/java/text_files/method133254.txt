@@ -1,0 +1,1 @@
+ public void setMatchChar ( Character match_char ) { this.match_char = match_char; } 

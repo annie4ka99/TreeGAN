@@ -1,0 +1,1 @@
+ public IColorProvider getColorMode() { return colorMode; } 

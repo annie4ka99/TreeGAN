@@ -1,0 +1,1 @@
+ public ResultSet getCatalogs() throws SQLException { return getSimpleQuery("getCatalogs"); } 

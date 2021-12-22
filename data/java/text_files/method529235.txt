@@ -1,0 +1,1 @@
+ public int getIndex( Object pObject ) { return mStore.indexOf( pObject ); } 

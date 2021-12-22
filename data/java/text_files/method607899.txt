@@ -1,0 +1,1 @@
+ public void setParent(IMixedNode parentNode) { this.parentNode = parentNode; } 

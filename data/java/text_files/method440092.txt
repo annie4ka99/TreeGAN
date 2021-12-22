@@ -1,0 +1,1 @@
+ public WindowStats getWindowStats(String title) { return (WindowStats) windowStats.get(title); } 

@@ -1,0 +1,1 @@
+ public void setNumRows(int rows) { this.rows = rows; } 

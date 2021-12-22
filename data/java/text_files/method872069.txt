@@ -1,0 +1,1 @@
+ public void setBuchungstext(java.lang.String buchungstext) { this.buchungstext = buchungstext; } 

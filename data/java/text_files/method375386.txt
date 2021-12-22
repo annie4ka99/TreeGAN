@@ -1,0 +1,1 @@
+ public void snapshot() { this.total += this.counter; this.counter = 0; } 

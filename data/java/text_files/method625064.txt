@@ -1,0 +1,1 @@
+ public boolean isNavigated() { return navigated; } 

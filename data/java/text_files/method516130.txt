@@ -1,0 +1,1 @@
+public void destroy(Object theObject) { try { ((Connection)theObject).close(); } catch (SQLException se) { } } 

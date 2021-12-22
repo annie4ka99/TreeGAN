@@ -1,0 +1,1 @@
+ public void show(){ if (lstGraphModelProviders .getModel() .getSize() <= 1) return; else super.show(); } 

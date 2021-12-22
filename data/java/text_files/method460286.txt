@@ -1,0 +1,1 @@
+ public void setNameType(CeType value) { this.nameType = value; } 

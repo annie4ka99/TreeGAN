@@ -1,0 +1,1 @@
+ public JPopupMenu createGraphPopupMenu() { return createPopupMenu(GRAPH_POPUP); } 

@@ -1,0 +1,1 @@
+ protected void customPaint(Graphics2D g, int width, int height) { } 

@@ -1,0 +1,1 @@
+ public void setDistribution( int distribution ) { this.distribution = distribution; } 

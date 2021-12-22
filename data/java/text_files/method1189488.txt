@@ -1,0 +1,1 @@
+ public void beforeFirst() { s.beforeFirst(); moregroups = s.next(); } 

@@ -1,0 +1,1 @@
+ public SDD1GraphPanelState recommendState(SDD1ChangeStateEvent cse) { return cse.getRequestedState(); } 

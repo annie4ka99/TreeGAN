@@ -1,0 +1,1 @@
+ public boolean isWeeks() { return isWeeks; } 

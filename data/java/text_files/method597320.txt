@@ -1,0 +1,1 @@
+ public void goTo(final Label label) { mv.visitJumpInsn(Opcodes.GOTO, label); } 

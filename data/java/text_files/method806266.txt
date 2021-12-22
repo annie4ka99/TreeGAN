@@ -1,0 +1,1 @@
+ public String getName(int item, int series){ return this.nameOfObs[item]; } 

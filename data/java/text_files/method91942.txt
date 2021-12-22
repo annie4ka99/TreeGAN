@@ -1,0 +1,1 @@
+ public int getUpdateMode() { return updateMode; } 

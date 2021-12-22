@@ -1,0 +1,1 @@
+ public void dispose() { actionMap = null; factory = null; manager = null; } 

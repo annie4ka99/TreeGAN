@@ -1,0 +1,1 @@
+ public void setGotoPrefix(String gotoPrefix) { this.gotoPrefix = gotoPrefix; } 

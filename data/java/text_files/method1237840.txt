@@ -1,0 +1,1 @@
+ public Detail getDetail() { return detail; } 

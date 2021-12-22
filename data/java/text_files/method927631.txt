@@ -1,0 +1,1 @@
+ public void calcOutputs(VisualItem item) { m_bEdited=true; m_Calculator.calcOutputs(item); } 

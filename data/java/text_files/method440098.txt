@@ -1,0 +1,1 @@
+ public void showWindow(Object name) { spriteName = name; addGuiToolsEvent(SHOW_WINDOW); } 

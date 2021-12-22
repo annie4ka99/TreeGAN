@@ -1,0 +1,1 @@
+ public JToggleButton getButtonActivity() { return buttonActivity; } 

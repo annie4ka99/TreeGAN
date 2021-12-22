@@ -1,0 +1,1 @@
+ public void resetPosition() { setPosition(history.size()); } 

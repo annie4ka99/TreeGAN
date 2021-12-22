@@ -1,0 +1,1 @@
+ public Object element() { return getFirst(); } 

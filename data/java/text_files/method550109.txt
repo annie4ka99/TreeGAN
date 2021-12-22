@@ -1,0 +1,1 @@
+ public void setVisible(boolean b) { item.setVisible(b); button.setVisible(b); } 

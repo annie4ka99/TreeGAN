@@ -1,0 +1,1 @@
+ public void setAlignToGrid(boolean b) { alignToGrid = b; } 

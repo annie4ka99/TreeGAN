@@ -1,0 +1,1 @@
+ public void setBaseAttack(int n) { baseAttack = n; } 

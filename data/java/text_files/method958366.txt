@@ -1,0 +1,1 @@
+ public void setLid(String value) { this.lid = value; } 

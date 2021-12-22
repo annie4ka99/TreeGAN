@@ -1,0 +1,1 @@
+ public void append(final String str){ content.append(str); } 

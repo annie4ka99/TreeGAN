@@ -1,0 +1,1 @@
+ public void add2EditMenu(JComponent item) { item.setFont(getFont()); edit.add(item); } 

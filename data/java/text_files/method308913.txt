@@ -1,0 +1,1 @@
+ public WizardPage(String subtitle) { this(subtitle, null); } 

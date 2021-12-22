@@ -1,0 +1,1 @@
+ public void setSecondNameOrInitials(String value) { this.secondNameOrInitials = value; } 

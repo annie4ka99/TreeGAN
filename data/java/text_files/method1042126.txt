@@ -1,0 +1,1 @@
+ public void writeExternal(ObjectOutput out) throws IOException { out.writeFloat(x); out.writeFloat(y); } 

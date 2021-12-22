@@ -1,0 +1,1 @@
+ public GPS_Point getPosition() { return position; } 

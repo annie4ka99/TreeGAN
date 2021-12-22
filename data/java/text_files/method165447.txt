@@ -1,0 +1,1 @@
+ public void removeFromCache(Path path) { if (pageCache != null) { pageCache.remove(path); } } 

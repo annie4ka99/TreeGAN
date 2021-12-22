@@ -1,0 +1,1 @@
+ public void setDescription(String s) { metadata.put(DESCRIPTION, s); } 

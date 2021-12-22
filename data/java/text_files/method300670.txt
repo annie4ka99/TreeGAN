@@ -1,0 +1,1 @@
+ public void paint( Graphics g ) { this.update(g); } 

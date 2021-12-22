@@ -1,0 +1,1 @@
+ protected void needCommit() { if (!needCommit) needCommit = true; } 

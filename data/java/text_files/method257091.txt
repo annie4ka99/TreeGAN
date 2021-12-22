@@ -1,0 +1,1 @@
+ public void displayLog() { outputTabbedPane.setSelectedIndex(0); } 

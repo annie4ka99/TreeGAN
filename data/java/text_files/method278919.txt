@@ -1,0 +1,1 @@
+ public boolean enables(String id){ return (null != extensionMap_.get(id)); } 

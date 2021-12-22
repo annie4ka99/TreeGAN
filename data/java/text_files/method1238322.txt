@@ -1,0 +1,1 @@
+ protected void setPrintWriter(PrintWriter pw) { this.wrapperPW = pw; } 

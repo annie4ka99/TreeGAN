@@ -1,0 +1,1 @@
+ public void setSymbolNameBetaSubsetRes(String symbolName) { ecTerm1.setSymbolNameSubsetRes(symbolName); } 

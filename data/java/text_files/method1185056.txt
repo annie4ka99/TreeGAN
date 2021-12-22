@@ -1,0 +1,1 @@
+ public ZipLong (byte[] bytes) { this(bytes, 0); } 

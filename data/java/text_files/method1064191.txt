@@ -1,0 +1,1 @@
+ public void setIsStatic(boolean b) { getUml2Operation().setIsStatic(b); } 

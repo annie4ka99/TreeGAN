@@ -1,0 +1,1 @@
+ public void setLastModifiedTimestamp(DateTime value) { this.lastModifiedTimestamp = value; } 

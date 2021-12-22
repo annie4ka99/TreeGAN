@@ -1,0 +1,1 @@
+ public void setNumLevels(int numLevels) { this.numLevels = numLevels; initialized = false; } 

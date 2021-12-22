@@ -1,0 +1,1 @@
+ public void setExitText(String name){ exitText = name+" /exit\n"; } 

@@ -1,0 +1,1 @@
+ public void writeInto(OutputStream out) throws IOException { delegator.writeInto(header, out); } 

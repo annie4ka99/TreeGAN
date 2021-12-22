@@ -1,0 +1,1 @@
+ public boolean open(){ return open((String)null); } 

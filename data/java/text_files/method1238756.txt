@@ -1,0 +1,1 @@
+ protected Emitter createEmitter() { return new Emitter(); } 

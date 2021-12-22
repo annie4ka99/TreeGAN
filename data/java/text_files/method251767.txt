@@ -1,0 +1,1 @@
+ public void setWriteableHandler(WriteableHandler handler) { writableHandler = handler; } 

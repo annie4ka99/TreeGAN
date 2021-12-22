@@ -1,0 +1,1 @@
+public void setCopyRight(char newCopyRight) { copyRight = newCopyRight; } 

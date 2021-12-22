@@ -1,0 +1,1 @@
+ protected void skip() { do { readBlock(); } while ((blockSize > 0) && !err()); } 

@@ -1,0 +1,1 @@
+ public String renderWarn() { String result = getWarn(); setWarn(null); return result; } 

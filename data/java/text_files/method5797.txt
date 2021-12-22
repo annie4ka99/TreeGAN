@@ -1,0 +1,1 @@
+ public char getMinChar() { return minChar; } 

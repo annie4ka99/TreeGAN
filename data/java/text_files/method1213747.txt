@@ -1,0 +1,1 @@
+ public boolean isTableRecordSelected() { return table.getSelectedRow() != -1; } 

@@ -1,0 +1,1 @@
+ public void setOpponentTurn(boolean bTurn) { bOpponentTurn = bTurn; } 

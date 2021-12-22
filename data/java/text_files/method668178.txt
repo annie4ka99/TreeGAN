@@ -1,0 +1,1 @@
+ public Course getCourse() { return course; } 

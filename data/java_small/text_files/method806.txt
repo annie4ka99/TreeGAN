@@ -1,0 +1,1 @@
+ public void transformBoard(int transformationValue) { Transformation.transform(transformationValue); isRecalculationNecessary = true; repaint(); } 

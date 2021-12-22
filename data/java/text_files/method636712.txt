@@ -1,0 +1,1 @@
+ public void addUser(User user){ users.put(user.getName(), user); saveUser(); } 

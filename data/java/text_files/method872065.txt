@@ -1,0 +1,1 @@
+ public void setHaben(java.lang.Double haben) { this.haben = haben; } 

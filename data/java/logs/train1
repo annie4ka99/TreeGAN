@@ -1,0 +1,661 @@
+D:\anaconda\envs\tree_gan\python.exe D:/ml4se/TreeGAN/main.py
+pre-training generator...
+epoch: 0
+10 % done
+20 % done
+30 % done
+40 % done
+50 % done
+60 % done
+70 % done
+80 % done
+90 % done
+epoch: 1
+10 % done
+20 % done
+30 % done
+40 % done
+50 % done
+60 % done
+70 % done
+80 % done
+90 % done
+epoch: 2
+10 % done
+20 % done
+30 % done
+40 % done
+50 % done
+60 % done
+70 % done
+80 % done
+90 % done
+epoch: 3
+10 % done
+20 % done
+30 % done
+40 % done
+50 % done
+60 % done
+70 % done
+80 % done
+90 % done
+epoch: 4
+10 % done
+20 % done
+30 % done
+40 % done
+50 % done
+60 % done
+70 % done
+80 % done
+90 % done
+epoch: 5
+10 % done
+20 % done
+30 % done
+40 % done
+50 % done
+60 % done
+70 % done
+80 % done
+90 % done
+ELAPSED TIME (sec): 137.203125
+===========================
+training started
+epoch: 0
+generator:
+step: 4020  of  40000
+reward:  0.5434337258338928
+
+step: 8012  of  40000
+reward:  0.5533079504966736
+
+step: 12028  of  40000
+reward:  0.5555015802383423
+
+step: 16065  of  40000
+reward:  0.5178092122077942
+
+step: 20120  of  40000
+reward:  0.5458681583404541
+
+step: 24009  of  40000
+reward:  0.4906580150127411
+
+step: 28059  of  40000
+reward:  0.5000970959663391
+
+step: 32030  of  40000
+reward:  0.5127017498016357
+
+step: 36128  of  40000
+reward:  0.5496722459793091
+
+ELAPSED TIME (sec): 55.953125
+avg episode reward: 0.5260022204005863
+sample:
+ public void trisCommon() { blataTy = getSocka(tale, !ar, apseravilg, agling(y) / -"").bindda (
+---------------------------
+discriminator:
+epoch: 0
+11 % done
+loss: 4.546234130859375
+20 % done
+loss: 4.24586296081543
+31 % done
+loss: 3.5928804874420166
+40 % done
+loss: 2.625974655151367
+52 % done
+loss: 2.141883373260498
+61 % done
+loss: 2.243499994277954
+70 % done
+loss: 2.3327083587646484
+81 % done
+loss: 1.8409085273742676
+90 % done
+loss: 1.8414409160614014
+101 % done
+loss: 1.7221213579177856
+
+ELAPSED TIME (sec): 375.5
+===========================
+epoch: 1
+generator:
+step: 4152  of  40000
+reward:  0.29628440737724304
+
+step: 8006  of  40000
+reward:  0.041267868131399155
+
+step: 12040  of  40000
+reward:  0.04666752740740776
+
+step: 16015  of  40000
+reward:  0.3769477307796478
+
+step: 20072  of  40000
+reward:  0.04669712856411934
+
+step: 24153  of  40000
+reward:  0.006355075165629387
+
+step: 28003  of  40000
+reward:  0.09388143569231033
+
+step: 32010  of  40000
+reward:  -0.0740378350019455
+
+step: 36072  of  40000
+reward:  0.25937923789024353
+
+ELAPSED TIME (sec): 62.46875
+avg episode reward: 0.13907054899912186
+sample:
+ public retur gateNo(final boolean e ){ faul.putNum(); }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 1.5695867538452148
+20 % done
+loss: 1.4530421495437622
+30 % done
+loss: 1.3406442403793335
+40 % done
+loss: 1.264328956604004
+50 % done
+loss: 1.2387104034423828
+60 % done
+loss: 1.258631944656372
+70 % done
+loss: 1.1965577602386475
+80 % done
+loss: 1.104100227355957
+90 % done
+loss: 1.1406182050704956
+100 % done
+loss: 1.1492626667022705
+
+ELAPSED TIME (sec): 823.78125
+===========================
+epoch: 2
+generator:
+step: 4042  of  40000
+reward:  -0.11620330065488815
+
+step: 8092  of  40000
+reward:  0.33640438318252563
+
+step: 12063  of  40000
+reward:  0.26814165711402893
+
+step: 16067  of  40000
+reward:  0.031346458941698074
+
+step: 20065  of  40000
+reward:  0.1967870593070984
+
+step: 24091  of  40000
+reward:  -0.02359766699373722
+
+step: 28036  of  40000
+reward:  0.048114754259586334
+
+step: 32080  of  40000
+reward:  0.009801939129829407
+
+step: 36082  of  40000
+reward:  0.13500018417835236
+
+ELAPSED TIME (sec): 61.515625
+avg episode reward: 0.0173384272540864
+sample:
+ public return getBageExque() { return hisJ; }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 1.3582372665405273
+20 % done
+loss: 1.1528079509735107
+30 % done
+loss: 1.1204452514648438
+40 % done
+loss: 1.1470364332199097
+50 % done
+loss: 1.0785832405090332
+60 % done
+loss: 1.1307308673858643
+70 % done
+loss: 0.993466854095459
+80 % done
+loss: 1.0215303897857666
+90 % done
+loss: 1.019317388534546
+100 % done
+loss: 1.1037559509277344
+
+ELAPSED TIME (sec): 1287.109375
+===========================
+epoch: 3
+generator:
+step: 4057  of  40000
+reward:  0.026015179231762886
+
+step: 8116  of  40000
+reward:  -0.23048940300941467
+
+step: 12008  of  40000
+reward:  -0.17931640148162842
+
+step: 16084  of  40000
+reward:  -0.21664170920848846
+
+step: 20187  of  40000
+reward:  0.00530504435300827
+
+step: 24024  of  40000
+reward:  -0.10040401667356491
+
+step: 28039  of  40000
+reward:  0.056290026754140854
+
+step: 32174  of  40000
+reward:  0.41496530175209045
+
+step: 36006  of  40000
+reward:  0.11781373620033264
+
+ELAPSED TIME (sec): 62.984375
+avg episode reward: 0.04776851213250051
+sample:
+ public long getSQPacheedPers() { ponka s = new Actuningukshyperuin()<"htgoss dec" < appeptionQ < newAoge instanceof Monefage >= contro&
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 1.2140403985977173
+20 % done
+loss: 1.3314697742462158
+30 % done
+loss: 1.3244152069091797
+40 % done
+loss: 1.192771077156067
+50 % done
+loss: 1.165299415588379
+60 % done
+loss: 1.1883480548858643
+70 % done
+loss: 1.174999713897705
+80 % done
+loss: 1.1091334819793701
+90 % done
+loss: 1.1534712314605713
+100 % done
+loss: 1.2239853143692017
+
+ELAPSED TIME (sec): 1972.5625
+===========================
+epoch: 4
+generator:
+step: 4185  of  40000
+reward:  -0.1617882251739502
+
+step: 8067  of  40000
+reward:  0.2186840921640396
+
+step: 12115  of  40000
+reward:  0.05987102538347244
+
+step: 16034  of  40000
+reward:  0.061020005494356155
+
+step: 20132  of  40000
+reward:  0.08768900483846664
+
+step: 24180  of  40000
+reward:  0.24192285537719727
+
+step: 28014  of  40000
+reward:  0.1903693526983261
+
+step: 32057  of  40000
+reward:  0.08699534088373184
+
+step: 36007  of  40000
+reward:  0.05931223928928375
+
+ELAPSED TIME (sec): 65.015625
+avg episode reward: 0.04641377435785464
+sample:
+ public void getsyndeTameFixceBumeEr() { retur tSectCre; }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 1.2942551374435425
+20 % done
+loss: 1.1893277168273926
+30 % done
+loss: 1.1784275770187378
+40 % done
+loss: 1.2508927583694458
+50 % done
+loss: 1.1719858646392822
+60 % done
+loss: 1.1076112985610962
+70 % done
+loss: 1.117261528968811
+80 % done
+loss: 1.2030367851257324
+90 % done
+loss: 1.0547853708267212
+100 % done
+loss: 1.2015100717544556
+
+ELAPSED TIME (sec): 2437.265625
+===========================
+epoch: 5
+generator:
+step: 4135  of  40000
+reward:  -0.26179805397987366
+
+step: 8001  of  40000
+reward:  0.10074584931135178
+
+step: 12070  of  40000
+reward:  0.16647711396217346
+
+step: 16016  of  40000
+reward:  0.15161462128162384
+
+step: 20137  of  40000
+reward:  -0.03840382769703865
+
+step: 24040  of  40000
+reward:  -0.12474028766155243
+
+step: 28012  of  40000
+reward:  -0.24424776434898376
+
+step: 32141  of  40000
+reward:  -0.18205516040325165
+
+step: 36018  of  40000
+reward:  0.1253136694431305
+
+ELAPSED TIME (sec): 54.34375
+avg episode reward: 0.03292012032810756
+sample:
+ public boolean getWingronutingC(Coment nOsImagessc) { return trount; synchronized (getNamsCorsto(new DeamNameVMestu())){ nument.getOrSTS
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 1.1137518882751465
+20 % done
+loss: 1.1740761995315552
+30 % done
+loss: 1.097711443901062
+40 % done
+loss: 1.112823724746704
+50 % done
+loss: 1.0118926763534546
+60 % done
+loss: 1.0169986486434937
+70 % done
+loss: 1.148212194442749
+80 % done
+loss: 1.134599208831787
+90 % done
+loss: 1.0157229900360107
+100 % done
+loss: 1.0181169509887695
+
+ELAPSED TIME (sec): 2592.265625
+===========================
+epoch: 6
+generator:
+step: 4013  of  40000
+reward:  0.027019232511520386
+
+step: 8016  of  40000
+reward:  -0.10847881436347961
+
+step: 12033  of  40000
+reward:  -0.14217336475849152
+
+step: 16015  of  40000
+reward:  -0.012538476847112179
+
+step: 20262  of  40000
+reward:  -0.2202387899160385
+
+step: 24134  of  40000
+reward:  0.06690387427806854
+
+step: 28084  of  40000
+reward:  0.011443856172263622
+
+step: 32063  of  40000
+reward:  0.1914074867963791
+
+step: 36033  of  40000
+reward:  -0.005686134099960327
+
+ELAPSED TIME (sec): 55.1875
+avg episode reward: -0.02454997110525491
+sample:
+ public boolean getAddrestmar(Strin fageE) { thi = detDa != detal != "Numapondangre.yisdl" || thista.mfaltTy instanceof Strins ==
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 1.1557891368865967
+20 % done
+loss: 1.0798838138580322
+30 % done
+loss: 1.167448878288269
+40 % done
+loss: 1.1526395082473755
+50 % done
+loss: 1.0737919807434082
+60 % done
+loss: 1.1374804973602295
+70 % done
+loss: 0.9907803535461426
+80 % done
+loss: 0.9601954817771912
+90 % done
+loss: 1.0841295719146729
+100 % done
+loss: 0.9189091920852661
+
+ELAPSED TIME (sec): 3085.65625
+===========================
+epoch: 7
+generator:
+step: 4055  of  40000
+reward:  0.17865577340126038
+
+step: 8126  of  40000
+reward:  -0.2630363702774048
+
+step: 12185  of  40000
+reward:  -0.2566356360912323
+
+step: 16076  of  40000
+reward:  0.10356593877077103
+
+step: 20141  of  40000
+reward:  -0.018567202612757683
+
+step: 24030  of  40000
+reward:  -0.22127754986286163
+
+step: 28252  of  40000
+reward:  -0.13110369443893433
+
+step: 32028  of  40000
+reward:  -0.1234300509095192
+
+step: 36145  of  40000
+reward:  -0.20590564608573914
+
+ELAPSED TIME (sec): 61.296875
+avg episode reward: 0.05451763180439236
+sample:
+public boolean obletartProDe() { StoyCotp tatLapfig; }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 1.3330507278442383
+20 % done
+loss: 1.0737409591674805
+30 % done
+loss: 0.9676999449729919
+40 % done
+loss: 0.9911682605743408
+50 % done
+loss: 0.9915496110916138
+60 % done
+loss: 1.2235467433929443
+70 % done
+loss: 0.9258230924606323
+80 % done
+loss: 1.0793473720550537
+90 % done
+loss: 0.8972356915473938
+99 % done
+loss: 1.0625406503677368
+
+ELAPSED TIME (sec): 3520.34375
+===========================
+epoch: 8
+generator:
+step: 4028  of  40000
+reward:  0.2914925515651703
+
+step: 8006  of  40000
+reward:  0.17217203974723816
+
+step: 12202  of  40000
+reward:  -0.0974164605140686
+
+step: 16156  of  40000
+reward:  0.07670748978853226
+
+step: 20295  of  40000
+reward:  -0.25009992718696594
+
+step: 24061  of  40000
+reward:  0.09784609079360962
+
+step: 28126  of  40000
+reward:  -0.054831553250551224
+
+step: 32016  of  40000
+reward:  0.02335609868168831
+
+step: 36031  of  40000
+reward:  0.4117449223995209
+
+ELAPSED TIME (sec): 77.609375
+avg episode reward: 0.0906880588978046
+sample:
+ public void setHingeh(ChrodeKerad foutse) { this.mLamestantCodelen = m_cdi; }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 0.9238383769989014
+20 % done
+loss: 0.886616587638855
+30 % done
+loss: 0.8299554586410522
+40 % done
+loss: 0.9289865493774414
+50 % done
+loss: 0.8924306035041809
+60 % done
+loss: 0.9457131624221802
+70 % done
+loss: 0.9441158771514893
+80 % done
+loss: 0.8098451495170593
+90 % done
+loss: 0.7998632192611694
+100 % done
+loss: 0.8233629465103149
+
+ELAPSED TIME (sec): 4342.890625
+===========================
+epoch: 9
+generator:
+step: 4011  of  40000
+reward:  -0.05373857915401459
+
+step: 8023  of  40000
+reward:  0.08137762546539307
+
+step: 12062  of  40000
+reward:  0.12984593212604523
+
+step: 16048  of  40000
+reward:  -0.1813243329524994
+
+step: 20187  of  40000
+reward:  -0.18588782846927643
+
+step: 24073  of  40000
+reward:  0.4052959978580475
+
+step: 28064  of  40000
+reward:  0.13172563910484314
+
+step: 32105  of  40000
+reward:  0.41065481305122375
+
+step: 36075  of  40000
+reward:  -0.17886507511138916
+
+ELAPSED TIME (sec): 54.859375
+avg episode reward: -0.027433938335582435
+sample:
+ public int clespsingoroFrameNe() { return Stringjem.Semring; }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 0.894985556602478
+20 % done
+loss: 0.9246723651885986
+30 % done
+loss: 0.9119101762771606
+40 % done
+loss: 0.8183565735816956
+50 % done
+loss: 0.91737961769104
+60 % done
+loss: 0.909961462020874
+70 % done
+loss: 0.8740623593330383
+80 % done
+loss: 0.7390183210372925
+90 % done
+loss: 0.7172596454620361
+
+ELAPSED TIME (sec): 4961.6875
+===========================
+ public int getPushesLowerbound() { return pushesLowerbound; }
+---------------------------------
+ public void avAlseanelitartyImbee() throws EN9MYTANL{}
+---------------------------------
+ELAPSED TIME (sec): 26152.84375
+---------------------------------
+
+Process finished with exit code 0

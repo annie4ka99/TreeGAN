@@ -1,0 +1,1 @@
+ public XMLEditorFrame getAttactedTo(){ return frame; } 

@@ -1,0 +1,1 @@
+ public SimpleArithmetic createSimpleArithmetic() { return new SimpleArithmetic(); } 

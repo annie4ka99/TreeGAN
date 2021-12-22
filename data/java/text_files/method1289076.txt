@@ -1,0 +1,1 @@
+ public void autoRun(){ this.isAutoRun=true; this.StartAGame(); } 

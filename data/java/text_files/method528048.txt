@@ -1,0 +1,1 @@
+ private void setBufSize(int newBufSize) { bufSize = newBufSize * 1024; } 

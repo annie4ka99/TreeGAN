@@ -1,0 +1,1 @@
+ public long relMillisecondsToSamples(double millis) { return (long) (millis * sampleRate / 1000); } 

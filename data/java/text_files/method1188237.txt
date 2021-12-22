@@ -1,0 +1,1 @@
+ public ChartMaker dataEncoder(DataEncoder dataEncoder) { this.dataEncoder = dataEncoder; return this; } 

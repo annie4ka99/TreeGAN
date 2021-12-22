@@ -1,0 +1,1 @@
+ public QueryObject getReturnType() { return returnObj; } 

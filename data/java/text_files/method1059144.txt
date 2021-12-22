@@ -1,0 +1,1 @@
+ public Image getImage() { return labelProvider.getImage(element); } 

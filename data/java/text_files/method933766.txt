@@ -1,0 +1,1 @@
+ public XmlDefinition getDefinition(String name) { return (XmlDefinition) definitions.get(name); } 

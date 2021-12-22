@@ -1,0 +1,1 @@
+public void setEndProcessingTime(long newValue) { this.endProcessingTime = newValue; } 

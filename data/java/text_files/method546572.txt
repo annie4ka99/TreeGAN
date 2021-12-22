@@ -1,0 +1,1 @@
+ public boolean hasExtendedParam(String name) { return getExtendedParamIndex(name)>=0; } 

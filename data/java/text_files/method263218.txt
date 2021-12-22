@@ -1,0 +1,1 @@
+ public void setComplete_duration(Double complete_duration) { this.complete_duration = complete_duration; } 

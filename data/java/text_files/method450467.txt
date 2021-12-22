@@ -1,0 +1,1 @@
+ public TagCondition (Tag tag) { setTag(tag); } 

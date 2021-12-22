@@ -1,0 +1,1 @@
+ public void setOffset(long offset) { binaryHeader.putLong(8, offset); } 

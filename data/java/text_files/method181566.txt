@@ -1,0 +1,1 @@
+ public void retrieveAll(java.util.Collection pcs) { retrieveAll(pcs, false); } 

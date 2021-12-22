@@ -1,0 +1,1 @@
+ public void setMenuBarVJBName(String menuBarVJBName) { this.menuBarVJBName = menuBarVJBName; } 

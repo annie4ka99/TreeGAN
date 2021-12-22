@@ -1,0 +1,1 @@
+ public boolean isMember(AgentData agent) { return members.contains(agent); } 

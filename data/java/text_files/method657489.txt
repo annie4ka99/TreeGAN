@@ -1,0 +1,1 @@
+ public void setBudhr(String budhr) { this.budhr = budhr; } 

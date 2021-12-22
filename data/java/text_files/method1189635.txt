@@ -1,0 +1,1 @@
+ public int nextInt() { int result = pg.getInt(pos); pos += INT_SIZE; return result; } 

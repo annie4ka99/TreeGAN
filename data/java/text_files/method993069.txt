@@ -1,0 +1,1 @@
+ public void setUseAlpha( boolean useAlpha ) { this.alpha = useAlpha; } 

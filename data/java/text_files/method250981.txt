@@ -1,0 +1,1 @@
+ public void setIsDisabled(boolean dis) { logger.debug("entering setIsDisabled"); isDisabled = dis; } 

@@ -1,0 +1,1 @@
+ public void setDefault(String field, int val) { setDefault(field, new Integer(val)); } 

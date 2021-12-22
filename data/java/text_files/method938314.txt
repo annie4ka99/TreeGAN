@@ -1,0 +1,1 @@
+ public void propertyChange(PropertyChangeEvent evt) { fireChangeListenerStateChanged(new ChangeEvent(this)); } 

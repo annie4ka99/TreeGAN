@@ -1,0 +1,1 @@
+ public boolean containsCarta(Carta carta) { return this.carta.contains(carta); } 

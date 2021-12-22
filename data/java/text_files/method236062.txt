@@ -1,0 +1,1 @@
+ public void setProcessorClass(Class processorClass) { this.processorClass = processorClass; } 

@@ -1,0 +1,1 @@
+ public Number getY(int series, int item) { return this.yValues[series][item]; } 

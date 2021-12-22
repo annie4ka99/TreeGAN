@@ -1,0 +1,1 @@
+ public void setLabel(String id) { setAttribute(History.LABEL_KEY, id); } 

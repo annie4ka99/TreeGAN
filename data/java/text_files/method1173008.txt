@@ -1,0 +1,1 @@
+ public void changeCost() { cost.changeCost(ability); } 

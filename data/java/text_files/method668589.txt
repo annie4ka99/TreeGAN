@@ -1,0 +1,1 @@
+ public boolean getlnBoolean() { boolean x = getBoolean(); emptyBuffer(); return x; } 

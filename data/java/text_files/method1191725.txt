@@ -1,0 +1,1 @@
+ public void setUpdateTime(long time) { if (time > 0) { updateTime = time; } } 

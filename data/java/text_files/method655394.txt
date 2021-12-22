@@ -1,0 +1,1 @@
+ public void setListID( long value ) { super.ListID = value ; } 

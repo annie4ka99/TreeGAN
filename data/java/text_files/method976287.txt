@@ -1,0 +1,1 @@
+ public int getMaxLogs() { return Convert.parseInt(ibMaxLogs.getText()); } 

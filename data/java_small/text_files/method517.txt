@@ -1,0 +1,1 @@
+ private boolean isEqual(int boxConfigurationNumber, byte[] boxConfiguration) { int indexOfBoxConfiguration = boxConfigurationNumber * packedBoardByteSize; for(int byteNo=0; byteNo < boxConfiguration.length; byteNo++) { if (boxConfigurations[indexOfBoxConfiguration++] != boxConfiguration[byteNo]) { return false; } } return true; } 

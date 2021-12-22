@@ -1,0 +1,1 @@
+ public StringBuffer getFaTeamSay() { return faTeamSay; } 

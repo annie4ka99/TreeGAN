@@ -1,0 +1,1 @@
+ final public boolean hasSuccessorMovement() { return (currentMovementNo + 1) < movementHistory.size(); } 

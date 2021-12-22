@@ -1,0 +1,1 @@
+ public void setBlurMask(BufferedImage blurMask) { this.blurMask = blurMask; } 

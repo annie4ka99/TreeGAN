@@ -1,0 +1,1 @@
+ public int hashCode() { return _value == null ? 0 : _value.hashCode(); } 

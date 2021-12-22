@@ -1,0 +1,1 @@
+ public StringBuffer getNsTeamSay() { return nsTeamSay; } 

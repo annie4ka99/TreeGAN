@@ -1,0 +1,1 @@
+ protected void warn( String key, Map map ) { System.err.println("map doesn't contain '"+key+"'"); } 

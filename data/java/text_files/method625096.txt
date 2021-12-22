@@ -1,0 +1,1 @@
+ public Type getIteratorType() { return iterType; } 

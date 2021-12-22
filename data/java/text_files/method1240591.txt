@@ -1,0 +1,1 @@
+ public boolean hasChildNodes() { return (children != null && !children.isEmpty()); } 

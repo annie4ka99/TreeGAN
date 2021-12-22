@@ -1,0 +1,1 @@
+ public void setQuietIndication(int quiet) { this.quiet = quiet; } 

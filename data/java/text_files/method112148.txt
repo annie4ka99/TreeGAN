@@ -1,0 +1,1 @@
+ static public View getXMLView(Locale locale) { return new View(DocumentType.XML, locale); } 

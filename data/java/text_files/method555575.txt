@@ -1,0 +1,1 @@
+ public void setColumn(final String column) { this.column = column; } 

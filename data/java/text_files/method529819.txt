@@ -1,0 +1,1 @@
+ public double getPolarRadiusInMeters() { return 6356752.3142451793; } 

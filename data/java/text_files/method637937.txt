@@ -1,0 +1,1 @@
+ public Gene mutate() { Gene gene = new Gene(!this.value.booleanValue()); return gene; } 

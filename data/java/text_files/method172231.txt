@@ -1,0 +1,1 @@
+ public void visitNEWARRAY(NEWARRAY o){ stack().pop(); stack().push(o.getType()); } 

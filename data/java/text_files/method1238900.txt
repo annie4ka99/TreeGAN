@@ -1,0 +1,1 @@
+ public void setPortName(String portName) { setPortName(new QName(portName)); } 

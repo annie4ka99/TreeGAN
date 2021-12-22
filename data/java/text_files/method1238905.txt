@@ -1,0 +1,1 @@
+ public void setHeader(SOAPHeaderElement header) { headers.add(header); } 

@@ -1,0 +1,1 @@
+ public void setStyle(int newValue) { this.style = newValue; } 

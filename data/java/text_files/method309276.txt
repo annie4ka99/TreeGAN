@@ -1,0 +1,1 @@
+ public boolean hasBack() { return listIt.previousIndex() > 0; } 

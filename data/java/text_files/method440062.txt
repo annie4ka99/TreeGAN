@@ -1,0 +1,1 @@
+ public float getAlpha() { return alphaValue; } 

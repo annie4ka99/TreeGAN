@@ -1,0 +1,1 @@
+ public boolean isAfter(String phase) { return phaseIndex > findIndex(phase); } 

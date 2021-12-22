@@ -1,0 +1,1 @@
+private void setReturnCode(int newReturnCode) { returnCode = newReturnCode; } 

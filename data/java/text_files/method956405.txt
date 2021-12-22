@@ -1,0 +1,1 @@
+ public void setAcknowledgement(AcknowledgementType value) { this.acknowledgement = value; } 

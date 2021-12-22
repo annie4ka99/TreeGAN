@@ -1,0 +1,1 @@
+ public BindingOperation createBindingOperation() { return new BindingOperationImpl(); } 

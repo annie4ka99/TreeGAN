@@ -1,0 +1,1 @@
+ public Year getDeathYear() { return deathYear; } 

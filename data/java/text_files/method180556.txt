@@ -1,0 +1,1 @@
+ public boolean isFlag(String flagName) { return flags.containsKey(flagName.toUpperCase()); } 

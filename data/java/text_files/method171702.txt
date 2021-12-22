@@ -1,0 +1,1 @@
+ public void visitILOAD(ILOAD o){ stack().push(Type.INT); } 

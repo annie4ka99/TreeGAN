@@ -1,0 +1,1 @@
+ public int decrement( Object key ) { return decrement( key, 1 ); } 

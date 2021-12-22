@@ -1,0 +1,1 @@
+ public void setHash(String value) { this.hash = value; } 

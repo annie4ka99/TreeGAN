@@ -1,0 +1,1 @@
+ public void setTodayCount(long todayCount) { this.todayCount = todayCount; } 

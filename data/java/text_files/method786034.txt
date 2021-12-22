@@ -1,0 +1,1 @@
+ public boolean removeName(String name) { return m_names.remove(name); } 

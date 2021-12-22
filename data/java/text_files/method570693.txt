@@ -1,0 +1,1 @@
+ public int getRowCount( ) { try { return objects.size( ); } catch ( Throwable e ) { } return 0; } 

@@ -1,0 +1,1 @@
+ public void resetAndLog(Logger logger, String label) { logger.fine(label + ": " + reset() + "ms"); } 

@@ -1,0 +1,1 @@
+ public boolean controllerEquals(String compare) { return getController().equals(compare); } 

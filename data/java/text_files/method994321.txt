@@ -1,0 +1,1 @@
+ public int getXScale() { return xScale; } 

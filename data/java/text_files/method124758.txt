@@ -1,0 +1,1 @@
+ public JSCNArray getJSCNArray() { return (JSCNArray) getJSCData(); } 

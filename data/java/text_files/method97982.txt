@@ -1,0 +1,1 @@
+ public boolean streamStorable() { return isStringTypeId() || isBitTypeId(); } 

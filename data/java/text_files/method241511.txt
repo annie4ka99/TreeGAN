@@ -1,0 +1,1 @@
+ public BigDecimal getGrossIncome() { if (grossIncome==null) { calcIncomeSpendings(); } return grossIncome; } 

@@ -1,0 +1,1 @@
+ public UpdateProcessInputMsgType createUpdateProcessInputMsgType() { return new UpdateProcessInputMsgType(); } 

@@ -1,0 +1,1 @@
+ public int getRowCount() { if (adapters == null) return 0; return adapters.size(); } 

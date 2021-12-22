@@ -1,0 +1,1 @@
+ public void bind(Parameter destination) { _destination = destination; _source.addParameterListener(this); } 

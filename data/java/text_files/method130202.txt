@@ -1,0 +1,1 @@
+ public PIController (double Kp, double Ki) { this.kp = Kp; this.ki = Ki; } 

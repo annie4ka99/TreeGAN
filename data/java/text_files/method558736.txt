@@ -1,0 +1,1 @@
+ public void setRefreshInterval(int milliseconds) { value.setText(Integer.toString(milliseconds)); } 

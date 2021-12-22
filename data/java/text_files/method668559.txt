@@ -1,0 +1,1 @@
+ public double getlnDouble() { double x = getDouble(); emptyBuffer(); return x; } 

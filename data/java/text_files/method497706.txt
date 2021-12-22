@@ -1,0 +1,1 @@
+ public void setTaskClass(String taskClass) { this.taskClass = taskClass; } 

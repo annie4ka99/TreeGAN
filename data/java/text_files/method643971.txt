@@ -1,0 +1,1 @@
+ public void setScore(Double value) { this.score = value; } 

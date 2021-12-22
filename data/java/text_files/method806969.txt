@@ -1,0 +1,1 @@
+ public void addSpecMolListener(SpecMolListener listener) { listeners.add(listener); } 

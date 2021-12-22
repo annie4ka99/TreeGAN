@@ -1,0 +1,1 @@
+ public boolean lockerAlwaysCompatible() { return true; } 

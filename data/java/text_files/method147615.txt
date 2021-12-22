@@ -1,0 +1,1 @@
+ private String getColName(int columnIndex) { return COL_NAMES[columnIndex].toLowerCase(); } 

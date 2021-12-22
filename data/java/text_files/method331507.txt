@@ -1,0 +1,1 @@
+ public double getSTD() { return Math.sqrt(getVariance()); } 

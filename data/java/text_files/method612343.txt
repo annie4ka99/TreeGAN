@@ -1,0 +1,1 @@
+ public void markNodeBeginning() { currentNodePosition.assign(positions[1]); } 

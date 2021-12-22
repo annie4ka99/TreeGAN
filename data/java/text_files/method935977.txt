@@ -1,0 +1,1 @@
+ public void addApplyActionListener( ActionListener listener ) { this.apply.addActionListener( listener ); } 

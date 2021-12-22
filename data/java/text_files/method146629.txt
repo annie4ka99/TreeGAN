@@ -1,0 +1,1 @@
+ public Float getLongitude() { return this.longitude; } 

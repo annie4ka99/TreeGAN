@@ -1,0 +1,1 @@
+ public Mapdesc find(int type) { return locate(type); } 

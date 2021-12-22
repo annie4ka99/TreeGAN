@@ -1,0 +1,1 @@
+ public void setFieldValue(String value) { getReplacementParameters()[1] = value; } 

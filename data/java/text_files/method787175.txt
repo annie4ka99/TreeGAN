@@ -1,0 +1,1 @@
+ public void setMinExtent(int minExtent) { this.minExtent = minExtent; } 

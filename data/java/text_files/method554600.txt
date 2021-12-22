@@ -1,0 +1,1 @@
+ public String getCommandName() { return commandText == null ? null : commandText.getText(); } 

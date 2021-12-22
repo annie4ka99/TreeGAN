@@ -1,0 +1,1 @@
+ public void setCursorDefault() { setCursor(Cursor.getPredefinedCursor(Cursor.DEFAULT_CURSOR)); } 

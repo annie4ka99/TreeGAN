@@ -1,0 +1,1 @@
+ protected void finalize() throws IOException { close(); } 

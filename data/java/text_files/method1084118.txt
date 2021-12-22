@@ -1,0 +1,1 @@
+ protected void logInfo(String logMsg, String userObject) { getLogger().info(logMsg, userObject); } 

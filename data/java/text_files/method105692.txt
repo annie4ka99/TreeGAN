@@ -1,0 +1,1 @@
+ public TridasPith getPith() { return pith; } 

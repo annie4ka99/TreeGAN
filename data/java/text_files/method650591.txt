@@ -1,0 +1,1 @@
+ public void addSql(String aSql){ sqlList.add(aSql); } 

@@ -1,0 +1,1 @@
+ public void pause() { pause(I18N.getString("default_pause_message")); } 

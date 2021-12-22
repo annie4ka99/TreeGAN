@@ -1,0 +1,1 @@
+ public FileFilter generateFileFilter(String filterString) { return new DefaultFileFilter(filterString); } 

@@ -1,0 +1,1 @@
+ protected IJavaElement getInput() { return fCurrentViewInput; } 

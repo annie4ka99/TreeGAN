@@ -1,0 +1,1 @@
+ public void setPermaLink(String permaLink) { this.permaLink = permaLink; } 

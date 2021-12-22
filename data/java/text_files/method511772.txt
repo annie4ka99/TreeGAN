@@ -1,0 +1,1 @@
+ public Annotation getAnnotation() { return annotationStrategy.getAnnotation(); } 

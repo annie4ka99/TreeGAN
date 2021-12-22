@@ -1,0 +1,1 @@
+ public void setEndPosition(TimePositionType value) { this.endPosition = value; } 

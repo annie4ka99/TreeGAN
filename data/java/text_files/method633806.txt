@@ -1,0 +1,1 @@
+ public void addCondition(Condition condition) { conditions.add(condition); } 

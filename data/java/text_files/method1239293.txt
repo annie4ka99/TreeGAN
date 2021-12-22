@@ -1,0 +1,1 @@
+ public void setInputSchema(String inputSchema) { this.inputSchema = inputSchema; } 

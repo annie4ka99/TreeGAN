@@ -1,0 +1,1 @@
+ public void trace(Object message) { debug(message); } 

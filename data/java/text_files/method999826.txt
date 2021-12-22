@@ -1,0 +1,1 @@
+ static public int getStringWidth(String str) { return CurFont.stringWidth(str); } 

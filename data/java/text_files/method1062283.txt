@@ -1,0 +1,1 @@
+ private IDocument getDocument() { return output.getDocument(); } 

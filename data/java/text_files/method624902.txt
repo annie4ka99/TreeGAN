@@ -1,0 +1,1 @@
+ public void testSelectAndRejectOperations() throws Exception { this.evaluate("select_reject_op.ocl"); } 

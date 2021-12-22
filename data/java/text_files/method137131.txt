@@ -1,0 +1,1 @@
+ public void setShowHairlineLabel(boolean b){ hairline.setLabeled(b); map.updateWidget(); } 

@@ -1,0 +1,1 @@
+ public void arrayStore(final Type type) { mv.visitInsn(type.getOpcode(Opcodes.IASTORE)); } 

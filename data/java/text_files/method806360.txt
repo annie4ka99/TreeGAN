@@ -1,0 +1,1 @@
+ public Range getValueRange() { return this.range; } 

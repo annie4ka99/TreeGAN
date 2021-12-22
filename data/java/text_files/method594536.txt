@@ -1,0 +1,1 @@
+ public void setUserInfo(String user, String pass) { username = user; password = pass; } 

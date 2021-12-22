@@ -1,0 +1,1 @@
+ public void setXComponentContext(XComponentContext componentContext) { xComponentContext = componentContext; } 

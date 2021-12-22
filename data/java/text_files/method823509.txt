@@ -1,0 +1,1 @@
+ public String getType(String name) { return getType(names.indexOf(name)); } 

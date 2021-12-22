@@ -1,0 +1,1 @@
+ public void testToString() { TestClass t = new TestClass(); t.toString(); } 

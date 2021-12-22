@@ -1,0 +1,1 @@
+ public long getTotalHits() throws ServiceNotAvailableException { try { return getTotalHits(0); } finally { } } 

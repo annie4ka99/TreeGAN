@@ -1,0 +1,1 @@
+ public Node getRootNode(Document document) { return document.getDocumentElement(); } 

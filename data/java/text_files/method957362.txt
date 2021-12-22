@@ -1,0 +1,1 @@
+ public DirectPositionType getUpperCorner() { return upperCorner; } 

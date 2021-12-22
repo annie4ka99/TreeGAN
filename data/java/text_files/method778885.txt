@@ -1,0 +1,1 @@
+ public String getStreet1() { return street1;} 

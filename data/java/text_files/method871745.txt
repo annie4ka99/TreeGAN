@@ -1,0 +1,1 @@
+ public void setPartName(java.lang.String partName) { this.partName = partName; } 

@@ -1,0 +1,1 @@
+ public void addSelectionListener(final SelectionListener listener) { listeners.add(listener); } 

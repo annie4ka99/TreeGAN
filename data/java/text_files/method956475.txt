@@ -1,0 +1,1 @@
+ public void setNumberOfRecordsReturned(BigInteger value) { this.numberOfRecordsReturned = value; } 

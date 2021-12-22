@@ -1,0 +1,1 @@
+ public void setBorderColors(CharColor colors) { _colors = colors; } 

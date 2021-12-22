@@ -1,0 +1,1 @@
+public long getTsLastUpdatedMsg() { return tsLastUpdatedMsg; } 

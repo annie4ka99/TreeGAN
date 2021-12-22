@@ -1,0 +1,1 @@
+ public AdminMgr getAdminMgr() { logger.debug("entering getAdminMgr"); return adminMgr; } 

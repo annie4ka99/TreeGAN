@@ -1,0 +1,1 @@
+ public Iterator outNeighbors(Node n) { return new NeighborIterator(n, outEdges(n)); } 

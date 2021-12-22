@@ -1,0 +1,1 @@
+ public void setRowMap(int row) { this.rowMap = null; this.singleRowMap = row; } 

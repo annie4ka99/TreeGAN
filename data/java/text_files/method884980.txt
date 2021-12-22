@@ -1,0 +1,1 @@
+ private void createInputAttributeUpdated() { inputAttributeUpdater = new AttributeTracker(); } 

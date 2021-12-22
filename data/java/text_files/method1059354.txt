@@ -1,0 +1,1 @@
+ protected CollaborationFigure getPackageBoardFigure() { return (CollaborationFigure) getFigure(); } 

@@ -1,0 +1,1 @@
+ public void setObjectType(TridasVocabulary.ObjectType value) { this.objectType = value; } 

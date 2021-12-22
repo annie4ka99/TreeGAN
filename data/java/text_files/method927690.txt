@@ -1,0 +1,1 @@
+ public void setID(int id) { this.myID=id; } 

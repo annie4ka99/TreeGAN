@@ -1,0 +1,1 @@
+ public TypeMappingRegistry getTypeMappingRegistry() { return msgContext.getTypeMappingRegistry(); } 

@@ -1,0 +1,1 @@
+ public void set_is_domain_distance_sampling(int i) { subdivider.set_is_domain_distance_sampling(i); } 

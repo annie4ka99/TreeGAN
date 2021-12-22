@@ -1,0 +1,1 @@
+ public void setPos(Pos value) { this.pos = value; } 

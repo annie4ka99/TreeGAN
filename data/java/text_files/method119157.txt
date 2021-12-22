@@ -1,0 +1,1 @@
+ public void updateSize() { validCachedPreferredSize = false; graph.graphDidChange(); updateHandle(); } 

@@ -1,0 +1,1 @@
+ public void removeChangeListener(ChangeListener l) { listenerList.remove(ChangeListener.class, l); } 

@@ -1,0 +1,1 @@
+ public void setShortCut(char c) { _shortCut = new InputChar(c); } 

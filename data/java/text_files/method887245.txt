@@ -1,0 +1,1 @@
+ public void dumpXSLT(boolean dumpXSLT) { this.dumpXSLT = dumpXSLT; } 

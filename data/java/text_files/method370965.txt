@@ -1,0 +1,1 @@
+ public boolean isTreeItemGreyChecked(Object object) { return fTreeViewer.getGrayed(object); } 

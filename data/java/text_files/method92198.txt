@@ -1,0 +1,1 @@
+ public SQLWarning getWarnings() throws SQLException { checkStatus(); return warnings; } 

@@ -1,0 +1,1 @@
+ public void setPartName(String newPartName) { partName = newPartName; } 

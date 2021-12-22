@@ -1,0 +1,1 @@
+ public void deleteRow(int i) { deleteCr(R, i); } 

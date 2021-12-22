@@ -1,0 +1,1 @@
+ public void setPreviousText(final String text) { bPrevious.setText(text); } 

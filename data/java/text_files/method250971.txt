@@ -1,0 +1,1 @@
+ public boolean isAuthenticated() { logger.debug("entering isAuthenticated"); return authenticated; } 

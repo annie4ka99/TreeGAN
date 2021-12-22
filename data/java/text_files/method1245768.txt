@@ -1,0 +1,1 @@
+ public int hashCode() { return ( sock == null ) ? 0 : sock.hashCode(); } 

@@ -1,0 +1,1 @@
+ private void compute() { mRadiusOfGroup = Statistics.calculateRadiusOfGroup(nodes); changed = false; } 

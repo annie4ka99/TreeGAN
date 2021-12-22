@@ -1,0 +1,1 @@
+ public void setEnabled(boolean e) { rangeText.setEnabled(e); rangeSpinner.setEnabled(e); } 

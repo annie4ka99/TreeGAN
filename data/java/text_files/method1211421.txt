@@ -1,0 +1,1 @@
+ public int getN_Acquisti() { return N_Acquisti; } 

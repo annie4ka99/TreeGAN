@@ -1,0 +1,1 @@
+ public PropertyNameType createPropertyNameType() { return new PropertyNameType(); } 

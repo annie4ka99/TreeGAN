@@ -1,0 +1,1 @@
+ public Range getXAxisRange() { return xAxisRange; } 

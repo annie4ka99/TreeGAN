@@ -1,0 +1,1 @@
+ public SamlAuthzDecisionStatementEvidenceType getEvidence() { return evidence; } 

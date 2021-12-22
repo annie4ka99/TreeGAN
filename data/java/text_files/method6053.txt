@@ -1,0 +1,1 @@
+ public JTable getFiletable(){ return GUI.getFileTable(); } 

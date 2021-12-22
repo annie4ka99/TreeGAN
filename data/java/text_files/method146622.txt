@@ -1,0 +1,1 @@
+ public void addEdge( Edge edge ) { if ( edge == null ) return; edges.addElement(edge); } 

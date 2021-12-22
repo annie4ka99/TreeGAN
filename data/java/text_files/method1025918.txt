@@ -1,0 +1,1 @@
+ public byte toJavaByte() { conversionError("number"); return 0; } 

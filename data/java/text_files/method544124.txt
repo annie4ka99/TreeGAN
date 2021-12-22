@@ -1,0 +1,1 @@
+ public void setAlarmEnabled(boolean v) { this.alarmEnabled = v; } 

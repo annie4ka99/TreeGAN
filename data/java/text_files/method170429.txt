@@ -1,0 +1,1 @@
+ public int getIntensitaet() { return intensitaet; } 

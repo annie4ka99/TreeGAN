@@ -1,0 +1,1 @@
+ public int numberOfObjects() { return objects.size(); } 

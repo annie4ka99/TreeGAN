@@ -1,0 +1,1 @@
+ public TridasBark getBark() { return bark; } 

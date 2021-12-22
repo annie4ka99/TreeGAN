@@ -1,0 +1,1 @@
+ public CodeListType getAcquisitionStation() { return acquisitionStation; } 

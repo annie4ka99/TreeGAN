@@ -1,0 +1,1 @@
+ public void setForeground( RGB foreground ) { setStyle( style.foreground( foreground ) ); } 

@@ -1,0 +1,1 @@
+ protected Game makeShadow(Game g, Player p) { return null; } 

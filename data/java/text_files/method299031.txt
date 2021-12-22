@@ -1,0 +1,1 @@
+ public void setLocation(int x, int y) { setLocation(new Point(x, y)); } 

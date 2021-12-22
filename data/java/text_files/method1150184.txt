@@ -1,0 +1,1 @@
+ private boolean haveAllChunks(int t) { return (chunks.size() == t); } 

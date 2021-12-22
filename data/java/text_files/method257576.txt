@@ -1,0 +1,1 @@
+ public Map getSources() { return this.sources; } 

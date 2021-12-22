@@ -1,0 +1,1 @@
+ public void removeService(Service service) { getInstance().removeService(service); } 

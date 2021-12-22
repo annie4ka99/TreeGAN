@@ -1,0 +1,1 @@
+ public String getStandardizingMethod() { return standardizingMethod; } 

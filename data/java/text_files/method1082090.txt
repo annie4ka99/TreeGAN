@@ -1,0 +1,1 @@
+ public int getDiagramGridByY() { return getDiagram().getGridByY(); } 

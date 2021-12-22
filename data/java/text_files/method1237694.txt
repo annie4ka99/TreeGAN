@@ -1,0 +1,1 @@
+ public void clear() { verticesToPoints.clear(); verticesToNeighbors.clear(); } 

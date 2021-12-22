@@ -1,0 +1,1 @@
+ protected IAction getAction(String id) { return registry.getAction(id); } 

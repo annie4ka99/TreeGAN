@@ -1,0 +1,1 @@
+ public DCMIRecordType createDCMIRecordType() { return new DCMIRecordType(); } 

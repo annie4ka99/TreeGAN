@@ -1,0 +1,1 @@
+ public void responseChanged(WebResponse resp) throws IOException, SAXException { this.resp = resp; validate(); } 

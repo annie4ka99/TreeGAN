@@ -1,0 +1,1 @@
+ public void setContent(JComponent content) { this.removeAll(); this.add(content); } 

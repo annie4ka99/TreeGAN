@@ -1,0 +1,1 @@
+ public int getChildCount() { if (m_children != null) { return m_children.size(); } else { return 0; } } 

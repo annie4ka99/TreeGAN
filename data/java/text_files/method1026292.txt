@@ -1,0 +1,1 @@
+ public int currentpc() { return pc>0? pc-1: 0; } 

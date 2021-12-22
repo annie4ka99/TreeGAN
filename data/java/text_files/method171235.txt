@@ -1,0 +1,1 @@
+ public void visitCASTORE(CASTORE o){ stack().pop(); stack().pop(); stack().pop(); } 

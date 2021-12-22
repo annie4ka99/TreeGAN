@@ -1,0 +1,1 @@
+ public ConnectionMethod getMethod() { return method; } 

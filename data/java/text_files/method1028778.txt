@@ -1,0 +1,1 @@
+ public void testConnect() throws Exception { System.out.println("<<<<<<<<<<< Look for SSL debug output >>>>>>>>>>>"); } 

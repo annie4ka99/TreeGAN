@@ -1,0 +1,1 @@
+ public void setMax_dim_y(int max_dim_y) { this.max_dim_y = max_dim_y; } 

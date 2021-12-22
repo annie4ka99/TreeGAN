@@ -1,0 +1,1 @@
+ public QName getNilQName() { return QNAME_NIL; } 

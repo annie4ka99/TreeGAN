@@ -1,0 +1,1 @@
+ public PluginId getSubmitter() { return (PluginId) getSource(); } 

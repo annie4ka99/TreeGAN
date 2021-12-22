@@ -1,0 +1,1 @@
+ public void setLockOnInsert(boolean lockOnInsert) { this.lockOnInsert = lockOnInsert; } 

@@ -1,0 +1,1 @@
+ public void setDestinationRegistry(ObjectRefType value) { this.destinationRegistry = value; } 

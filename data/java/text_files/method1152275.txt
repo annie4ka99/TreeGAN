@@ -1,0 +1,1 @@
+ public float getSweepRadius() { return m_sweepRadius; } 

@@ -1,0 +1,1 @@
+ public JViewport getViewport() { return sp.getViewport(); } 

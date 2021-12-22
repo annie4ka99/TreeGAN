@@ -1,0 +1,1 @@
+ private void okButtonActionPerformed(ActionEvent evt) { inputControl.selectButtonOK(); } 

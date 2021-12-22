@@ -1,0 +1,1 @@
+ public Byte toJavaBoxedByte() { return new Byte(toJavaByte()); } 

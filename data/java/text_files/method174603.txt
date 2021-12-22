@@ -1,0 +1,1 @@
+ public boolean contains(Object value) { return containsValue(value); } 

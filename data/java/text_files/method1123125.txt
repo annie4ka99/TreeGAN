@@ -1,0 +1,1 @@
+ public AhoState getH() { return h; } 

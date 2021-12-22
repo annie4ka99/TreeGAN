@@ -1,0 +1,1 @@
+ public void beforeFirst() { s1.beforeFirst(); s2.beforeFirst(); } 

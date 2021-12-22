@@ -1,0 +1,1 @@
+ public void setDefaultDispatcherName(String defaultDispatcherName) { PATH_DEFAULT = defaultDispatcherName; } 

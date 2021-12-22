@@ -1,0 +1,1 @@
+ public void setGraph(ASDNGraph graph) { m_Graph = graph; } 

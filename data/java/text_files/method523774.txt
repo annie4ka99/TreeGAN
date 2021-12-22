@@ -1,0 +1,1 @@
+ public void setBitmapDocId(String theBitmapDocId) { bitmapDocId = theBitmapDocId; } 

@@ -1,0 +1,1 @@
+public void setBufferStatus(char newBufferStatus) { bufferStatus = newBufferStatus; } 

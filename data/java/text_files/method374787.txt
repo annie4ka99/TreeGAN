@@ -1,0 +1,1 @@
+ public int peer(JBuffer buffer, int offset) { return super.peer(buffer, offset, size()); } 

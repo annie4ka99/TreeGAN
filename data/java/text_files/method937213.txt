@@ -1,0 +1,1 @@
+ public Object getComponentAt(int index) { return jTextField; } 

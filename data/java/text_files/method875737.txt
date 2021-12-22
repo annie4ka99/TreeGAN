@@ -1,0 +1,1 @@
+ public int getCurrentContactCount() { synchronized (contactsMap) { return contactsMap.size(); } } 

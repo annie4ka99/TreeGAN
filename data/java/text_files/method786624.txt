@@ -1,0 +1,1 @@
+ public void setColorPalette(int[] palette) { this.palette = palette; } 

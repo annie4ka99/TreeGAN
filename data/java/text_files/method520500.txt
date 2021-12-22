@@ -1,0 +1,1 @@
+ public VisualInfoBean getInfoBean() { return (VisualInfoBean) _settingsInfoBean; } 

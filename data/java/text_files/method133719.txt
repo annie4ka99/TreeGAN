@@ -1,0 +1,1 @@
+ public void setHideable(boolean h) { this.hideable = h; } 

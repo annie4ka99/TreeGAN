@@ -1,0 +1,1 @@
+ public Lock lock(long timeout, int id) { return new Lock(timeout, id, version); } 

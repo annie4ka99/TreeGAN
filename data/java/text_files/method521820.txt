@@ -1,0 +1,1 @@
+public int getNbMaxConnection() { return NbMaxConnection; } 

@@ -1,0 +1,1 @@
+ public boolean isSimple() { return !(width == 0.0 || height == 0.0); } 

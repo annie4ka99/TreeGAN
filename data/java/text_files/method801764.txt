@@ -1,0 +1,1 @@
+ public void setProbabilities(double prob){ probabA.add(prob); } 

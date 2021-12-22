@@ -1,0 +1,1 @@
+ public void setKauf(java.lang.Double kauf) { this.kauf = kauf; } 

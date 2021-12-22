@@ -1,0 +1,1 @@
+ public void enterMeForTypeDate(JTable table) { table.setDefaultRenderer(java.util.Date.class, this); } 

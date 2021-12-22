@@ -1,0 +1,1 @@
+ public ChartMaker size(int width, int height) { return size(dim(width, height)); } 

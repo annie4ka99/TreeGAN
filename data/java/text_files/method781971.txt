@@ -1,0 +1,1 @@
+ public void delElement(Resource r) { selection.getResources().remove(r); } 

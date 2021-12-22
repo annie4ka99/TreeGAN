@@ -1,0 +1,1 @@
+ public void clearScreen() { synchronized (terminal) { emulation.clearScreen(); repaint(); } } 

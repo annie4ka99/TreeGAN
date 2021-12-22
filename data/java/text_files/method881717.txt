@@ -1,0 +1,1 @@
+ public boolean containsKey(String key) { return valueMap.containsKey(key); } 

@@ -1,0 +1,1 @@
+ public void setLocation(TridasLocation value) { this.location = value; } 

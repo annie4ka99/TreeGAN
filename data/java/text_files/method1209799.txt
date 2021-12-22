@@ -1,0 +1,1 @@
+ public boolean isGuiEventThread() { return SwingUtilities.isEventDispatchThread(); } 

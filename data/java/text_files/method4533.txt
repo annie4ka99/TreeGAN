@@ -1,0 +1,1 @@
+ public void see(AgentInputs inputs){ this.m_vision.store(inputs); } 

@@ -1,0 +1,1 @@
+ public void setIndividualName(String value) { this.individualName = value; } 

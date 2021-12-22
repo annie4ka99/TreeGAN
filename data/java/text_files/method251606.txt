@@ -1,0 +1,1 @@
+ public void setMaximumLength(int aMaxLength) { maxLength = Math.max(1, aMaxLength); } 

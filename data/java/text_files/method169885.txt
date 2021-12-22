@@ -1,0 +1,1 @@
+ public void setSerie(int newSerie) { serie = newSerie; setting = null; } 

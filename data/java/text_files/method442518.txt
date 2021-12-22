@@ -1,0 +1,1 @@
+ public Adapter createMConstructorParameterAdapter() { return null; } 

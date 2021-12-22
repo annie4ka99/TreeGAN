@@ -1,0 +1,1 @@
+ public int getOffset() { return (direction == FORWARD) ? offset - 1 : offset; } 

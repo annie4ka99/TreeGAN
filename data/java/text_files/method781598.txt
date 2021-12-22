@@ -1,0 +1,1 @@
+ public int getRecrawlPeriod() { return this.recrawlPeriod; } 

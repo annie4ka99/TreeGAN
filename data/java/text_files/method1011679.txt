@@ -1,0 +1,1 @@
+ public Arc getRelative(int i) { return array[pointer + i]; } 

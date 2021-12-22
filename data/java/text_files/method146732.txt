@@ -1,0 +1,1 @@
+ public NMEA_ProviderConfigParameterType getType() { return type; } 

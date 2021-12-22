@@ -1,0 +1,1 @@
+ public boolean isFlagDE() { return flagDE; } 

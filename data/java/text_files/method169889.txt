@@ -1,0 +1,1 @@
+ public void doCalculate(int row, TableModel model) { } 

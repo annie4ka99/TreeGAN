@@ -1,0 +1,1 @@
+ public void initialize() { initClassLoader = Thread.currentThread().getContextClassLoader(); } 

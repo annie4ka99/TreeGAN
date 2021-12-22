@@ -1,0 +1,1 @@
+ public void setParamValue(Object paramValue) { tform.setParameter(paramName, paramValue); } 

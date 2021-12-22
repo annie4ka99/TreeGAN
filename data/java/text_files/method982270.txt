@@ -1,0 +1,1 @@
+ public void setStillAnimation(ModelAnimation stillAnimation) { this.stillAnimation = stillAnimation; } 

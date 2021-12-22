@@ -1,0 +1,1 @@
+ public boolean removeContingent(Contingent contingent) { return contingents.remove(contingent); } 

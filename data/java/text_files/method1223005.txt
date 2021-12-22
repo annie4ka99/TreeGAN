@@ -1,0 +1,1 @@
+ public void scale(double scaleFactor){ scale(scaleFactor, new Vector3d(0,0,0)); } 

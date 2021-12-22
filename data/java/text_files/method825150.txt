@@ -1,0 +1,1 @@
+ protected Vector3f getSkeletonBase() { return this.skeletonBase; } 

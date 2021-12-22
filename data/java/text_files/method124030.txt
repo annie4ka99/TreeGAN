@@ -1,0 +1,1 @@
+ public int getColumnWidth() { return coeff.getColumnWidth(); } 

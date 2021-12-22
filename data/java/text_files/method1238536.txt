@@ -1,0 +1,1 @@
+ public void deploySkeleton(boolean value) { setSkeletonWanted(value); } 

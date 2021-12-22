@@ -1,0 +1,1 @@
+ public BooleanFilterType createBooleanFilterType() { return new BooleanFilterType(); } 

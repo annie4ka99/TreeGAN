@@ -1,0 +1,1 @@
+ public void setUsernameMutable(boolean value) { isUsernameMutable = value; } 

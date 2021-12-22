@@ -1,0 +1,1 @@
+ public void setMultiMap(MultipartMap multiMap) { this.multiMap = multiMap; } 

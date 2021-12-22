@@ -1,0 +1,1 @@
+ public Object getDocument1() { return this.document1; } 

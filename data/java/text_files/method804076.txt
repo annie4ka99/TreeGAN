@@ -1,0 +1,1 @@
+ public void setSeq(java.lang.String seq) { this.seq = seq; } 

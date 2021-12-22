@@ -1,0 +1,1 @@
+ public void setRegistryObject(String value) { this.registryObject = value; } 

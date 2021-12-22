@@ -1,0 +1,1 @@
+ public void remove(Method method) { this.methods.remove(method); } 

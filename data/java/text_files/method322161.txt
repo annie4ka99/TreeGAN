@@ -1,0 +1,1 @@
+ public void repairSizes(long length) { riffChunkSize = length - 8; dataSize = length - dataStart; } 

@@ -1,0 +1,1 @@
+ protected void addInstance(Instance instance) { instances.add(instance); } 

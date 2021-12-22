@@ -1,0 +1,1 @@
+ public void setCrossCursorColor(Color c) { imagePanel.setCursorColor(c); } 

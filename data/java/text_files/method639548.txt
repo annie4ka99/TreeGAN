@@ -1,0 +1,1 @@
+ public void cleanup() { if (wA != null) { wA.cleanup(); wA = null; } } 

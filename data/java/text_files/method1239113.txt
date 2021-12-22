@@ -1,0 +1,1 @@
+ public void setUseInheritedMethods(boolean useInheritedMethods) { this.useInheritedMethods = useInheritedMethods; } 

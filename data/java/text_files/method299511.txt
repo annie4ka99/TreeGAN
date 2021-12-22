@@ -1,0 +1,1 @@
+ public void setElement(IJavaElement element) { _element = element; } 

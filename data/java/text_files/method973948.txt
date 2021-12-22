@@ -1,0 +1,1 @@
+ private String encode(String value){ return DigestUtils.md5Hex(value); } 

@@ -1,0 +1,1 @@
+ public void setIFicha1(Collection ficha1) { ficha1 = ficha1; } 

@@ -1,0 +1,1 @@
+ public void setPostActivate(final boolean postActivate) { this.postActivate = postActivate; } 

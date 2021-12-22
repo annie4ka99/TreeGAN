@@ -1,0 +1,1 @@
+ public void uninstallUI(JComponent c) { renderer = null; super.uninstallUI(c); } 

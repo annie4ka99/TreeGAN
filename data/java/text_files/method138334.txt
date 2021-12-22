@@ -1,0 +1,1 @@
+ public BioSeq getSeq(String synonym) { ensureSeqsLoaded(); return super.getSeq(synonym); } 

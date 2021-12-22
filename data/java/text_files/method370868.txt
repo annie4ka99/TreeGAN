@@ -1,0 +1,1 @@
+ public boolean isRefactoringAware() { return fRefactoringAware; } 

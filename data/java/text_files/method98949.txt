@@ -1,0 +1,1 @@
+ public Envelope getEnvelope() { return envelope; } 

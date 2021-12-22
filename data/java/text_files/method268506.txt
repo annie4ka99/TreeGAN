@@ -1,0 +1,1 @@
+ protected void setProfileSql(boolean flag) { this.profileSql = flag; } 

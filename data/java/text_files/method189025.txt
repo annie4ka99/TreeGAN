@@ -1,0 +1,1 @@
+ public void setUser(UserCredentialIfc currentUser) { fakeSession.put("user", currentUser); } 

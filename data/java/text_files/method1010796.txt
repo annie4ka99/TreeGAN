@@ -1,0 +1,1 @@
+ public void setAutoDrawableClient(boolean b) { autoDrawableMember = b; } 

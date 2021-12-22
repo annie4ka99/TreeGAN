@@ -1,0 +1,1 @@
+ final public void setBoxPositions(int[] newBoxPositions) { boxPositions = newBoxPositions.clone(); } 

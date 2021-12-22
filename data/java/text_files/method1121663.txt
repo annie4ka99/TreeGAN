@@ -1,0 +1,1 @@
+ private String format(int modifier) { return (modifier > 0 ? "+" : "") + modifier; } 

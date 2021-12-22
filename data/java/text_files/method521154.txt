@@ -1,0 +1,1 @@
+public int size() { if (infos==null) return 0; else return infos.length; } 

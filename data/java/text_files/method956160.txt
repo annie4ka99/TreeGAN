@@ -1,0 +1,1 @@
+ public void setSerialIdentifier(String value) { this.serialIdentifier = value; } 

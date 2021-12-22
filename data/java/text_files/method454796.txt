@@ -1,0 +1,1 @@
+ public void setMaxYvalue(double value) { maxYvalue = value; repaint(); } 

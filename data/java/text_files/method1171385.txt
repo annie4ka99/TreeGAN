@@ -1,0 +1,1 @@
+ public void setChosenColor(String s) { chosenColor = s; } 

@@ -1,0 +1,1 @@
+ public double getRootNodeOffset() { return m_offset; } 

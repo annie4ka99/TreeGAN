@@ -1,0 +1,1 @@
+ public TridasWoodCompleteness getWoodCompleteness() { return woodCompleteness; } 

@@ -1,0 +1,1 @@
+ public void handleOutput(String s) { log.info(s); } 

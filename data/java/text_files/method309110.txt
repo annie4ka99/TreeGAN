@@ -1,0 +1,1 @@
+ public void displayCloseButton(boolean b) { bottomPane.closeButton().setVisible(b); } 

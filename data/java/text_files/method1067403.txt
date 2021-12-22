@@ -1,0 +1,1 @@
+ public UMLDecoratedLabelProvider getLabelProvider() { return adapterFactoryLabelProvider; } 

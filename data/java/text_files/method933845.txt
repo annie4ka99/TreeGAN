@@ -1,0 +1,1 @@
+ public void setDebugLevel(int aDebugLevel) { debugLevel = aDebugLevel; } 

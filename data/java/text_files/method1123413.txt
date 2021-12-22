@@ -1,0 +1,1 @@
+ public boolean offer(E o) { return add(o); } 

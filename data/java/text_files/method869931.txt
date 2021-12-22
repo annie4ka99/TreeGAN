@@ -1,0 +1,1 @@
+ public void setMetaAttribute(String name, String value) { getMetadata().setAttribute(name,value); } 

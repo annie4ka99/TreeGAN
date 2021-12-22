@@ -1,0 +1,1 @@
+ public int getVanaDay() { return vDay; } 

@@ -1,0 +1,1 @@
+ public AnnotatedHeader getAnnotatedHeader() { return this.annotatedHeader; } 

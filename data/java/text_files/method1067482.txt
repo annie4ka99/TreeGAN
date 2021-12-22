@@ -1,0 +1,1 @@
+ public void removeFactory(String id) { map.remove(id); } 

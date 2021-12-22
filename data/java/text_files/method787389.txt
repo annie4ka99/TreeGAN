@@ -1,0 +1,1 @@
+ public void setForceSimulator(ForceSimulator fsim) { m_fsim = fsim; } 

@@ -1,0 +1,1 @@
+ public boolean isAuthenticated() { return authenticated; } 

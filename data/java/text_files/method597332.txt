@@ -1,0 +1,1 @@
+ public void ret(final int local) { mv.visitVarInsn(Opcodes.RET, local); } 

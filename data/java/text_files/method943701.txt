@@ -1,0 +1,1 @@
+ public float getFontSize() { return fontSize; } 

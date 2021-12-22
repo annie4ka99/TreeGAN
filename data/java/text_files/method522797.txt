@@ -1,0 +1,1 @@
+private PhxNetworkLink getNetwork() { return network; } 

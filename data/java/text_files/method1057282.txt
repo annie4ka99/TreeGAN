@@ -1,0 +1,1 @@
+ public DrawingEditor getDrawingEditor() { return editor; } 

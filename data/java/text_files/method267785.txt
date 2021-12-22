@@ -1,0 +1,1 @@
+ public String property(String name, Properties props) { return props.getProperty(name); } 

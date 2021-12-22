@@ -1,0 +1,1 @@
+ public void setShowPlayerInfo(boolean b) { isShowPlayerInfo = b; setValue("isShowPlayerInfo", b); } 

@@ -1,0 +1,1 @@
+ public JCPScrollBar getJcpScrollBar() { return jcpScrollBar; } 

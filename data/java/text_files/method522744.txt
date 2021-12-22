@@ -1,0 +1,1 @@
+private BnsNetworkLink getNetwork() { return network; } 

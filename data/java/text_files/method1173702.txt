@@ -1,0 +1,1 @@
+ public int getConvertedManaCost() { return wrappedColor.getConvertedManaCost(); } 

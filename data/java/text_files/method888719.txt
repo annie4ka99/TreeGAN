@@ -1,0 +1,1 @@
+ public void quickShow(){ Hider h = new Hider(); h.start(); } 

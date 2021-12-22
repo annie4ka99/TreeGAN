@@ -1,0 +1,1 @@
+ public void writeCaseBaseFile() throws IOException { CaseBaseIO.saveCaseBase(this.m_casebase,this.m_outputFileName); } 

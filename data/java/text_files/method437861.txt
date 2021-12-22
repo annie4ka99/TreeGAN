@@ -1,0 +1,1 @@
+ public boolean isLeaf() { return dependents.isEmpty(); } 

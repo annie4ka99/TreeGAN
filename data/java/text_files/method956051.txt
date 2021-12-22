@@ -1,0 +1,1 @@
+ public PlatformType createPlatformType() { return new PlatformType(); } 

@@ -1,0 +1,1 @@
+ public void setOutputCreated(boolean newOutputCreated) { outputCreated = newOutputCreated; } 

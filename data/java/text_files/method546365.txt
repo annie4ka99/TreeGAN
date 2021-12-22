@@ -1,0 +1,1 @@
+ public void setClosed(boolean b) { isClosed = b; updateShape(); } 

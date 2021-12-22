@@ -1,0 +1,1 @@
+ public void visitLUSHR(LUSHR o){ stack().pop(); stack().pop(); stack().push(Type.LONG); } 

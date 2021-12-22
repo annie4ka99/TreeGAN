@@ -1,0 +1,1 @@
+ public void addBinding(BindSettings bs) { bindings.add(bs); } 

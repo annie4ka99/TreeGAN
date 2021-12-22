@@ -1,0 +1,1 @@
+ public boolean areUnified(E e1, E e2) { return find(e1).equals(find(e2)); } 

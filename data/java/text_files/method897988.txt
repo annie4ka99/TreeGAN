@@ -1,0 +1,1 @@
+ public void setMinorVersion(int minorVersion) { this.version.setMinorVersion(minorVersion); } 

@@ -1,0 +1,1 @@
+ public void addContext(Context c) { contexts.addElement(c); } 

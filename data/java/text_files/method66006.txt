@@ -1,0 +1,1 @@
+ public void setSelectedTable(Table selectedTable) { this.selectedTable = selectedTable; } 

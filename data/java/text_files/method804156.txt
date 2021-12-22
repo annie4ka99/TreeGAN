@@ -1,0 +1,1 @@
+ public void setOmega(java.lang.Float omega) { this.omega = omega; } 

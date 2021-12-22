@@ -1,0 +1,1 @@
+ public void setRefid(Reference r) throws BuildException { super.setRefid(r); } 

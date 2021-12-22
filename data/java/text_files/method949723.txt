@@ -1,0 +1,1 @@
+ public void setMinDuration(int minDuration) { if(minDuration>=0) this.minDuration = minDuration; } 

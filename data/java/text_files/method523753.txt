@@ -1,0 +1,1 @@
+ public int getSubTag(int theSubTag) { return ((Integer) subTag.get(theSubTag)).intValue(); } 

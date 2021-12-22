@@ -1,0 +1,1 @@
+ public void setX(int row, double x) { setDouble(row, VisualItem.X, x); } 

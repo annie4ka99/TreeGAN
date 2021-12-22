@@ -1,0 +1,1 @@
+ public AbstractLyrics3 getLyrics3Tag() { return lyrics3tag; } 

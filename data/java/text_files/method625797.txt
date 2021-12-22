@@ -1,0 +1,1 @@
+ public void setParent(Tag parent) { this.parent = parent; } 

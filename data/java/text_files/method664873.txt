@@ -1,0 +1,1 @@
+ public DeployedPortlet getDeployedPortlet() { return this.deployedPortlet; } 

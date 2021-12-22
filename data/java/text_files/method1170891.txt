@@ -1,0 +1,1 @@
+ public void addClone(Card c) { clones.add(c); } 

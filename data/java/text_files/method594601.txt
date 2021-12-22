@@ -1,0 +1,1 @@
+ public void setUser(String _user) { this._user = _user; } 

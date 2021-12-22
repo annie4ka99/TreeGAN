@@ -1,0 +1,1 @@
+ public void setServerIsRunning(boolean running) { srvIsRunning = running; } 

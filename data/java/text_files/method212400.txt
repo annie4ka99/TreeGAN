@@ -1,0 +1,1 @@
+ public Enumeration getActiveCommands() { return taskgraphHandler.getActiveNodes(); } 

@@ -1,0 +1,1 @@
+ public void init() { this.setSize(800, 600); this.setContentPane(getJContentPane1()); } 

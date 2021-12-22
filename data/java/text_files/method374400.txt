@@ -1,0 +1,1 @@
+ public int caplen() { return hdr_len(); } 

@@ -1,0 +1,1 @@
+ public void onSharedPreferenceChanged(SharedPreferences prefs, String pref) { setPreferences(prefs); } 

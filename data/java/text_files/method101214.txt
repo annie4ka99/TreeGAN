@@ -1,0 +1,1 @@
+ public SampleType getSampleType() { return sampleType; } 

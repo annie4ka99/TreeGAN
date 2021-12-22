@@ -1,0 +1,1 @@
+ public void testAcquire() { entity = service.acquire(entity); } 

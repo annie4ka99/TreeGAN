@@ -1,0 +1,1 @@
+ public void addSequencedBehavior(Behavior b) { sequenceBehaviors.addBehavior(null, b); } 

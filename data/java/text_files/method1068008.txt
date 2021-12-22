@@ -1,0 +1,1 @@
+ public boolean setFocus() { return (possibleElementsText != null) ? possibleElementsText.setFocus() : false ; } 

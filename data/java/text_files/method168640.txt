@@ -1,0 +1,1 @@
+ public void selectionChanged(IAction action, ISelection selection) { ss = (StructuredSelection) selection; } 

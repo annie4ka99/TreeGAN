@@ -1,0 +1,1 @@
+ public boolean supportsStoredProcedures() throws java.sql.SQLException { return false; } 

@@ -1,0 +1,1 @@
+ public void reset() throws IOException { inputStream.reset(); } 

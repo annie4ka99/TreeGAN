@@ -1,0 +1,1 @@
+ public int addArrayClass(ArrayType type) { return addClass_(type.getSignature()); } 

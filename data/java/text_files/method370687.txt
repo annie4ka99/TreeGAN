@@ -1,0 +1,1 @@
+ public void setSealJar(boolean sealJar) { fSealJar= sealJar; } 

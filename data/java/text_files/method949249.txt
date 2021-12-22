@@ -1,0 +1,1 @@
+ public void setStreet(String string) { street = string; } 

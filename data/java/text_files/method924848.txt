@@ -1,0 +1,1 @@
+ public void setInput(File input) { this.input = input; } 

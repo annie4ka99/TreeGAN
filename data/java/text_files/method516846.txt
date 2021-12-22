@@ -1,0 +1,1 @@
+private JiniService getService() { return service; } 

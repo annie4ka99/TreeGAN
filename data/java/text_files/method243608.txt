@@ -1,0 +1,1 @@
+ public void setDraws(int draws) { m_draws = draws; } 

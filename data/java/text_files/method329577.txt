@@ -1,0 +1,1 @@
+ public void setMaxNumber(int maxNumber) { this.maxNumber = maxNumber; } 

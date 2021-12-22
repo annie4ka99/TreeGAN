@@ -1,0 +1,1 @@
+ public boolean canDoAction() { return targetTaskId != null && wasDnDAction; } 

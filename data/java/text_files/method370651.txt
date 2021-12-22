@@ -1,0 +1,1 @@
+ protected Iterator getSelectedResourcesIterator() { return fInputGroup.getAllCheckedListItems(); } 

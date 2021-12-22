@@ -1,0 +1,1 @@
+ public void endDTD() throws SAXException { Debug.println("endDTD"); myXmlDocumentBuilder.endDTD(); } 

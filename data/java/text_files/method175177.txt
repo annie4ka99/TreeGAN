@@ -1,0 +1,1 @@
+ public boolean offer(Object e) { return offerLast(e); } 

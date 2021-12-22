@@ -1,0 +1,1 @@
+ final public Object clone() { return new BoxData(this); } 

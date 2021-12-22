@@ -1,0 +1,1 @@
+ public Relation getRelation() throws SynchronisationException { return memberOf; } 

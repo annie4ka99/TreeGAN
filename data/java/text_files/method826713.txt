@@ -1,0 +1,1 @@
+ public Calendar getSelectedDay() { if (cancel) { return null; } return table.getSelectedDay(); } 

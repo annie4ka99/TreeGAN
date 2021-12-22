@@ -1,0 +1,1 @@
+ public void setFileTypes(String name) { prefDialog.selectFileTypes(name); } 

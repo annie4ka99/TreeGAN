@@ -1,0 +1,1 @@
+ public boolean areOutputFoldersExported() { return fExportOutputFolders; } 

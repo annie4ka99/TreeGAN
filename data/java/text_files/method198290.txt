@@ -1,0 +1,1 @@
+ public Rectangle2D getBounds2D() { return new GridRectangle(getP1(), getP2()); } 

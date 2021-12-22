@@ -1,0 +1,1 @@
+ public void setInverseShadow(boolean b) { invertShadow = b; if (hasShadow()) computeShadowColors(); } 

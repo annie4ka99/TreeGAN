@@ -1,0 +1,1 @@
+ protected void populateNewEntity(EditType type, ITridas entity) { entity.setTitle("New " + type.displayTitle); } 

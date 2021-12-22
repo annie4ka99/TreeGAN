@@ -1,0 +1,1 @@
+ public boolean isFlagEN() { return flagEN; } 

@@ -1,0 +1,1 @@
+ public void addRequiringType(MimeTypeDescription description) { requiringTypes.add(description); } 

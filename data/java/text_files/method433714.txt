@@ -1,0 +1,1 @@
+ public void address(int value) { super.setUByte(0, value); } 

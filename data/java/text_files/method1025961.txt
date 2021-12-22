@@ -1,0 +1,1 @@
+ public Double toJavaBoxedDouble() { return new Double(toJavaDouble()); } 

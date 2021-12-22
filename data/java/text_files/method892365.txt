@@ -1,0 +1,1 @@
+ public String getStringValue(Object obj) { return getStringValue(obj, null); } 

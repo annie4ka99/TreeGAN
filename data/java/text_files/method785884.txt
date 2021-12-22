@@ -1,0 +1,1 @@
+ protected void invalidateSchema() { super.invalidateSchema(); this.filterColumns(); } 

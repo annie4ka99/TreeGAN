@@ -1,0 +1,1 @@
+ public void error(SAXParseException exception) throws SAXException { throw exception; } 

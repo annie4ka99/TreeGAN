@@ -1,0 +1,1 @@
+ public SensorPropertyType getSensor() { return sensor; } 

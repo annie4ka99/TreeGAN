@@ -1,0 +1,1 @@
+ public void setServiceColor(String serviceColor) { this.serviceColor = serviceColor; } 

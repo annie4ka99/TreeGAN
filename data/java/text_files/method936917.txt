@@ -1,0 +1,1 @@
+ public AuthenticationInfo getDefaultSambaAuthenticationInfo() { return defaultSambaAuthenticationInfo; } 

@@ -1,0 +1,1 @@
+ protected GridPrint grid( String columns ) { return grid( columns, getDefaultGridSpacing() ); } 

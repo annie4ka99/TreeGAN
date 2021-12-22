@@ -1,0 +1,1 @@
+ public void setParentNode(Gff3FeatureTreeNode parentNode) { this.parentNode = parentNode; } 

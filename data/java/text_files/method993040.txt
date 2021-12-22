@@ -1,0 +1,1 @@
+ public float getBias() { return bias; } 

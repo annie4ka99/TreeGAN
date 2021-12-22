@@ -1,0 +1,1 @@
+ public void setFuzziness(int fuzziness) { this.fuzziness = fuzziness; } 

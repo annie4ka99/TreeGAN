@@ -1,0 +1,1 @@
+ public void cleanAll() throws StandardException { stat.cleanAll++; cleanCache((Matchable) null); } 

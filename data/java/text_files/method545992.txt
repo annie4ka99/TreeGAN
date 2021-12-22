@@ -1,0 +1,1 @@
+ public void setMinValue(int min) { minValue = min; } 

@@ -1,0 +1,1 @@
+ public String getDiskCachePath() { if (diskStore != null) { return diskStore.path; } else { return null; } } 

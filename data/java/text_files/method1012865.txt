@@ -1,0 +1,1 @@
+ public void flush() { if (flusher != null) { flusher.flush(); flusher = null; } } 

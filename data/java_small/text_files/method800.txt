@@ -1,0 +1,1 @@
+ public void setMaximumScalingFactor(int maximumScalingFactor) { maximumScaling = maximumScalingFactor; recalculateGraphicSizes(); repaint(); Settings.set("maximumScaling", "" + maximumScaling); } 

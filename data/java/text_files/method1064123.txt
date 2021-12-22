@@ -1,0 +1,1 @@
+ public boolean isReturn(){ return uml2Parameter.getDirection().getValue() == ParameterDirectionKind.RETURN; } 

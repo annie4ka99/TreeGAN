@@ -1,0 +1,1 @@
+ public boolean isOnScene() { return (this.node.getParent() != null); } 

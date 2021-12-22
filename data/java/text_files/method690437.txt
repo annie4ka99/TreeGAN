@@ -1,0 +1,1 @@
+ public SubjectBean createWithoutParents(SubjectBean sb) { return create(sb); } 

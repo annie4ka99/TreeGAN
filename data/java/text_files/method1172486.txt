@@ -1,0 +1,1 @@
+ public void addEquipping(Card c) { equipping.add(c); this.updateObservers(); } 

@@ -1,0 +1,1 @@
+ public int getSourceCount() { return sourceList.getItemCount(); } 

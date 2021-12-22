@@ -1,0 +1,1 @@
+ public Adapter createAramaAlanlarAdapter() { return null; } 

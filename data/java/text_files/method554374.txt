@@ -1,0 +1,1 @@
+ public void putOption(String key, String value) { content.put(key, value); } 

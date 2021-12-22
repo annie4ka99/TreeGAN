@@ -1,0 +1,1 @@
+ public int getChildIndex(Node p, Node c) { return getChildIndex(p.getRow(), c.getRow()); } 

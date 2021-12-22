@@ -1,0 +1,1 @@
+ public int getLabelFormat() { return labelFormat; } 

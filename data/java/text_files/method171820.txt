@@ -1,0 +1,1 @@
+ public String toString(boolean verbose) { return super.toString(verbose) + " " + index; } 

@@ -1,0 +1,1 @@
+ public void setAllPermissions(Permissions allPermissions) { this.allPermissions = allPermissions; } 

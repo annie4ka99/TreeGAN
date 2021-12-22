@@ -1,0 +1,1 @@
+ protected boolean error(){ return error.length() != 0; } 

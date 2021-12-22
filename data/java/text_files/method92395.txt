@@ -1,0 +1,1 @@
+ public boolean storesLowerCaseIdentifiers() { return false; } 

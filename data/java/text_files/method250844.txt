@@ -1,0 +1,1 @@
+ public void setLocationURL(String locationURL){ this.locationURL = locationURL; } 

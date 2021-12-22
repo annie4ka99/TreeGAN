@@ -1,0 +1,1 @@
+ public JStateful getJStateful() { return jStateful; } 

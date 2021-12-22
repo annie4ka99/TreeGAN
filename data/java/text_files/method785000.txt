@@ -1,0 +1,1 @@
+ public int getArrowHeadWidth() { return m_arrowWidth; } 

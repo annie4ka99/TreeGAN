@@ -1,0 +1,1 @@
+ protected AeBpelEngine getBpelEngine() { return (AeBpelEngine) AeEngineFactory.getEngine(); } 

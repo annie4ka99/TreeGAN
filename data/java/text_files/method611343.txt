@@ -1,0 +1,1 @@
+ public void setPose(int inPose){ this.pose = inPose; this.setChanged(); this.notifyObservers(); } 

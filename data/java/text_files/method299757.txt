@@ -1,0 +1,1 @@
+ public void addChild(XMLNode node) { _children.add(node); } 

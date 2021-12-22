@@ -1,0 +1,1 @@
+ public boolean usesLocalFilePerTable() throws java.sql.SQLException { return false; } 

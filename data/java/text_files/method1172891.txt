@@ -1,0 +1,1 @@
+ public void setSemiPermanentDefenseBoost(int n) { semiPermanentDefenseBoost = n; } 

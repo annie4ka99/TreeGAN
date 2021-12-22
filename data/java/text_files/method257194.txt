@@ -1,0 +1,1 @@
+ public int getColumnPos(String colName) { return this.dataSet.getColumnPos(colName); } 

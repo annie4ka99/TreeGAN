@@ -1,0 +1,1 @@
+ public int getIntHeader(String name) { return (Integer) this.headers.get(name); } 

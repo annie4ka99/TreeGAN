@@ -1,0 +1,1 @@
+public void setW(double newValue) { this.w = newValue; } 

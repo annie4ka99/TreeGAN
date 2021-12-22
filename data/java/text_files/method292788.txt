@@ -1,0 +1,1 @@
+ public void removeTag(Tag tag) { if (tag == null) { return; } getTags().remove(tag); } 

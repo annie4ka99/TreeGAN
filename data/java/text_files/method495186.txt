@@ -1,0 +1,1 @@
+ public void setLeaveIntact(boolean value) { intact = value; } 

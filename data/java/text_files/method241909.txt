@@ -1,0 +1,1 @@
+ public MessageImporter getMessageImporter() { return new MessageImporter(this, message); } 

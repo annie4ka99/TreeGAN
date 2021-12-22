@@ -1,0 +1,1 @@
+ public String getSymbolNameSubsetRes() { if (subsetResDef == null) return null; return subsetResDef.name; } 

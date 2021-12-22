@@ -1,0 +1,1 @@
+ public SummaryPage() { this(i18n.getLabel("SummaryPage.subtitle")); } 

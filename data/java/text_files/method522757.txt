@@ -1,0 +1,1 @@
+private void setNetwork(JPxiNetworkLink newValue) { this.network = newValue; } 

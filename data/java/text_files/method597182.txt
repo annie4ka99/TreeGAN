@@ -1,0 +1,1 @@
+ public Label mark() { Label label = new Label(); mv.visitLabel(label); return label; } 

@@ -1,0 +1,1 @@
+ public void setArchivingIdentifier(CodeWithAuthorityType value) { this.archivingIdentifier = value; } 

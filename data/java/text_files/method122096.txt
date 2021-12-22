@@ -1,0 +1,1 @@
+ public int getPageOffset(int index) { return index-getPageStartIndex(getPageNumber(index)); } 

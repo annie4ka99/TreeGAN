@@ -1,0 +1,1 @@
+ public double getY(int row) { return getDouble(row, VisualItem.Y); } 

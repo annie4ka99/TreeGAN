@@ -1,0 +1,1 @@
+ public FloatFilterType createFloatFilterType() { return new FloatFilterType(); } 

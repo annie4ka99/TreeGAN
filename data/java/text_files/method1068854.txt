@@ -1,0 +1,1 @@
+ public void setTarget(Notifier newTarget) { this.target = newTarget; } 

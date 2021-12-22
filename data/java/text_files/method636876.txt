@@ -1,0 +1,1 @@
+ public void setAttribute(String name, String value){ m_attributes.put(name, value); } 

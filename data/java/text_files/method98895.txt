@@ -1,0 +1,1 @@
+ public void setMultiPoint(MultiPointType value) { this.multiPoint = value; } 

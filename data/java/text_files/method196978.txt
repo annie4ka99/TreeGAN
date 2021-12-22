@@ -1,0 +1,1 @@
+ public void setPriceIndication(int price) { this.price = price; } 

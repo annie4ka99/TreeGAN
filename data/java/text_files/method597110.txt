@@ -1,0 +1,1 @@
+ public void iinc(final int local, final int amount) { mv.visitIincInsn(local, amount); } 

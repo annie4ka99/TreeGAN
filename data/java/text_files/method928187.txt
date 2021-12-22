@@ -1,0 +1,1 @@
+ public void dispose() { quitAction.dispose(); aboutAction.dispose(); } 

@@ -1,0 +1,1 @@
+ private boolean isMatchAvailable(int matchId) { return Commons.getModel().getHelper().existsMatchInDB(matchId); } 

@@ -1,0 +1,1 @@
+ public void setInput(String input) { this.input = input; tform.setInput(input); } 

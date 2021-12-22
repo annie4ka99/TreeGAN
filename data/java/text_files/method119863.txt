@@ -1,0 +1,1 @@
+ public Locale getNewLocale(){ return this.newLocale; } 

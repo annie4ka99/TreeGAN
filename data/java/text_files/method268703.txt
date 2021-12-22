@@ -1,0 +1,1 @@
+ protected void pointer2start() { pointer = 3; } 

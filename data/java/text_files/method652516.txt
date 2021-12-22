@@ -1,0 +1,1 @@
+ public boolean includes(int offset) { return (this.offset <= offset && offset < this.offset + length); } 

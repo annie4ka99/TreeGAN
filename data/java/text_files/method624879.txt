@@ -1,0 +1,1 @@
+ public void testOperations() throws Exception { this.evaluate("operations.ocl"); } 

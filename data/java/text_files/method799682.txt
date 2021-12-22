@@ -1,0 +1,1 @@
+ public void add( Print print ) { entries.add( new LayerEntry( print, DEFAULT_ALIGN ) ); } 

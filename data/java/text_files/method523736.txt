@@ -1,0 +1,1 @@
+public void setBpaNetworkLink(BpaNetworkLink newValue) { this.bpaNetworkLink = newValue; } 

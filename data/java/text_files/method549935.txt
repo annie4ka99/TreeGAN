@@ -1,0 +1,1 @@
+ public int getSelectedRow() { return table.getSelectedRow(); } 

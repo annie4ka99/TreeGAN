@@ -1,0 +1,1 @@
+ public void setColorDesc(String colorDesc) { this.colorDesc = colorDesc; } 

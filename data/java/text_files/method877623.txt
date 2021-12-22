@@ -1,0 +1,1 @@
+ public boolean equals(String trustType) { return this.type.equalsIgnoreCase(trustType); } 

@@ -1,0 +1,1 @@
+ public TypeModel getModelFromType(IType type) { return (TypeModel) _cache.getModel(type); } 

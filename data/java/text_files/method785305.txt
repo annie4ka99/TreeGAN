@@ -1,0 +1,1 @@
+ public void setHover(int row, boolean value) { setBoolean(row, VisualItem.HOVER, value); } 

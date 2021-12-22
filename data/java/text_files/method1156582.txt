@@ -1,0 +1,1 @@
+ public boolean canMoveForward() { return buffer != null && getIndex() < buffer.getLength(); } 

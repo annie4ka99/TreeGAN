@@ -1,0 +1,1 @@
+ public void average() { if (this.n != 0) { scale((double) 1.0 / this.n); } } 

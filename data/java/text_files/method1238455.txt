@@ -1,0 +1,1 @@
+ public String getPackage(String namespace) { return namespaces.getCreate(namespace); } 

@@ -1,0 +1,1 @@
+ public Double getHelium() { return helium; } 

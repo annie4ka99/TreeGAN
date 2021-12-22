@@ -1,0 +1,1 @@
+ public int compareTo(Object o) { return value.compareTo(((LoadObject) o).value); } 

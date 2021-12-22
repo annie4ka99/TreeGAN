@@ -1,0 +1,1 @@
+ private int getMinimumButtonWidth() { return LookUtils.IS_LOW_RESOLUTION ? 75 : 100; } 

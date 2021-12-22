@@ -1,0 +1,1 @@
+ public void setSurroundString(String str) { this.surroundString = str; } 

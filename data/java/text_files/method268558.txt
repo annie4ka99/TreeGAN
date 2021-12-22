@@ -1,0 +1,1 @@
+ public boolean isBeforeFirst() { return (this.index == -1) && (this.rows.size() != 0); } 

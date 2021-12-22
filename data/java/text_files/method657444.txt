@@ -1,0 +1,1 @@
+ public void setAlertTypeEmail(String alertTypeEmail) { this.alertTypeEmail = alertTypeEmail; } 

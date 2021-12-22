@@ -1,0 +1,1 @@
+ public boolean hasOntology(String uri) { return ontModels.get(uri) != null; } 

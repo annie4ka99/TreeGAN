@@ -1,0 +1,1 @@
+ protected boolean isTrue (GameObject creature, GameObject object) { return true; } 

@@ -1,0 +1,1 @@
+ public TopFrame getTopFrame() { return topFrame; } 

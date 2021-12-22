@@ -1,0 +1,1 @@
+ public void setTempAttackBoost(int n) { tempAttackBoost = n; this.updateObservers(); } 

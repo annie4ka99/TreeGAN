@@ -1,0 +1,1 @@
+ public void setLabel(String[] value) { labels = value; labelWidth = new int[labels.length]; } 

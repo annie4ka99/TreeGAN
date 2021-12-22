@@ -1,0 +1,1 @@
+ public Integer getDown_dive_speed() { return down_dive_speed; } 

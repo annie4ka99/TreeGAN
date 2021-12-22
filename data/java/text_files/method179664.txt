@@ -1,0 +1,1 @@
+ public void setParentElement(XMLElement parent){ this.parent=parent; } 

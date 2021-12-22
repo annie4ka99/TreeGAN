@@ -1,0 +1,1 @@
+ public void onPurchase() { AllZone.getQuestData().getPetManager().addPetLevel(name); } 

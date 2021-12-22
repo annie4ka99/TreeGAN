@@ -1,0 +1,1 @@
+ public boolean isFlattened() { return flattened; } 

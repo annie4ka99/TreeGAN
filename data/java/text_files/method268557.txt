@@ -1,0 +1,1 @@
+ public boolean isAfterLast() { return this.index >= rows.size(); } 

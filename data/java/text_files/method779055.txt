@@ -1,0 +1,1 @@
+ public boolean getWriteFile() { return writeFile; } 

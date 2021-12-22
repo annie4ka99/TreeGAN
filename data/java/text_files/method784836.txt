@@ -1,0 +1,1 @@
+ private Operator getNextOperator() { return operators[getNextOperatorIndex()]; } 

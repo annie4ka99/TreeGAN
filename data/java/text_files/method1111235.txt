@@ -1,0 +1,1 @@
+ public void collapse(Object[] groups) { setCollapsedState(groups, null); } 

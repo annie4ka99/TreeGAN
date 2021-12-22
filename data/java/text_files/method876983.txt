@@ -1,0 +1,1 @@
+ public void setNamespaceAware(boolean namespaceAware) { this.namespaceAware = namespaceAware; } 

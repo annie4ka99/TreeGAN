@@ -1,0 +1,1 @@
+ public void setEditNoteForm(EditNoteForm editNoteForm) { this.editNoteForm = editNoteForm; } 

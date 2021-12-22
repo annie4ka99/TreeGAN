@@ -1,0 +1,1 @@
+ public void setDamage(int n) { damage = n; } 

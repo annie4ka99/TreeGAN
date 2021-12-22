@@ -1,0 +1,1 @@
+ public LikelihoodFFTParameters getFFTParameters() { return this.fftParameters; } 

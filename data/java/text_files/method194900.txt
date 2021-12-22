@@ -1,0 +1,1 @@
+ public TreeNode getChildAt(int childIndex) { return indexEnum.getChildAt(childIndex); } 

@@ -1,0 +1,1 @@
+ public void setModel(AgentAppModel model) { this.model = model; agentView.updateView(model); } 

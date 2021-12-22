@@ -1,0 +1,1 @@
+ public void setIsGoalie(boolean goalie) { this.m_isGoalie = goalie; } 

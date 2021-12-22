@@ -1,0 +1,1 @@
+ public void openFile(String fileName) throws IOException { output = new FileOutputStream(fileName,false); } 

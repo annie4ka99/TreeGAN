@@ -1,0 +1,1 @@
+ public float getKickPower(){ return this.m_power; } 

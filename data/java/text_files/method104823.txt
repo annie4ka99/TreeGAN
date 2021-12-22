@@ -1,0 +1,1 @@
+ public void setAnalyst(String value) { this.analyst = value; } 

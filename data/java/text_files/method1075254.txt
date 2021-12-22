@@ -1,0 +1,1 @@
+ public void setNoteCount(long noteCount) { this.noteCount = noteCount; } 

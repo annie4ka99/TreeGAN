@@ -1,0 +1,1 @@
+ public void setAddedHours(double addedHours) { this.addedHours = addedHours; } 

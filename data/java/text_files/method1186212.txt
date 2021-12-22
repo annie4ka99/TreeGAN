@@ -1,0 +1,1 @@
+ public int getSizeThreshold() { return fileItemFactory.getSizeThreshold(); } 

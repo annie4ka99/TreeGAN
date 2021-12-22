@@ -1,0 +1,1 @@
+ public void addTableModelListener(TableModelListener l) { _listeners.add(l); } 

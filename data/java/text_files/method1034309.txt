@@ -1,0 +1,1 @@
+ public long getLibraryHandle() { return libraryHandle; } 

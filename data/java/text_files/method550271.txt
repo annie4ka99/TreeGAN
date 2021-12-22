@@ -1,0 +1,1 @@
+ public void putDouble(String key, double val) { values.put(key, new Double(val)); } 

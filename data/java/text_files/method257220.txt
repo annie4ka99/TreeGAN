@@ -1,0 +1,1 @@
+ public void clearAddedCount() { addedCount = 0; } 

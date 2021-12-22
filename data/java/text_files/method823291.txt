@@ -1,0 +1,1 @@
+ public void setHome(String home) { this.AURIGADOC_HOME = home; } 

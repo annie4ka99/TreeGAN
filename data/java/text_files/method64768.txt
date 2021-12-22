@@ -1,0 +1,1 @@
+ public void setModel(KTableSortedModel model) { m_Model = model; } 

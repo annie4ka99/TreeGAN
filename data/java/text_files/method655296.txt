@@ -1,0 +1,1 @@
+ public int getBeginIndex() { return beginIndex; } 

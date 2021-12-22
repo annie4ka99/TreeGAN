@@ -1,0 +1,1 @@
+ public void setMap(HashMap argMap) { map = argMap; } 

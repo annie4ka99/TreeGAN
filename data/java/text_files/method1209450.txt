@@ -1,0 +1,1 @@
+ public void put(int index, Scriptable start, Object value) { } 

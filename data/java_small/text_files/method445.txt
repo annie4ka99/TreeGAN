@@ -1,0 +1,1 @@
+ protected String creatorName() { return Texts.getText("solver"); } 

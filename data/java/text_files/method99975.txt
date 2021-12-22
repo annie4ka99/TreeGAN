@@ -1,0 +1,1 @@
+ public void setAny(Object value) { this.any = value; } 

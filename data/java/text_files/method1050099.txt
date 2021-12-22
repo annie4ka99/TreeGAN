@@ -1,0 +1,1 @@
+ public void removeComposition(Composition comp) { removeComposition(comp,false); } 

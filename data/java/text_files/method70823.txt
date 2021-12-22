@@ -1,0 +1,1 @@
+ public TimeSpan approximate() { return approximate(null); } 

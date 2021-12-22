@@ -1,0 +1,1 @@
+ public Rectangle getComponentSizeRect() { return component_size_rect; } 

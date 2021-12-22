@@ -1,0 +1,1 @@
+ protected void logError(String logMsg, Throwable cause) { getLogger().error(logMsg, cause); } 

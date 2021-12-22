@@ -1,0 +1,1 @@
+ public String getLiteratureTitle() { return literatureTitle; } 

@@ -1,0 +1,1 @@
+ public void setRendererCoeff(TableCellRenderer renderer) { coeff.setCellRenderer(renderer); } 

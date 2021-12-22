@@ -1,0 +1,1 @@
+ public void setLabel(AeIconLabel aLabel) { mLabel = aLabel; addLabel(aLabel); } 

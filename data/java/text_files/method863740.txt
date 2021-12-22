@@ -1,0 +1,1 @@
+ public int scopeDepth() { return body.scopeDepth; } 

@@ -1,0 +1,1 @@
+ public boolean get_return(){ return local_return; } 

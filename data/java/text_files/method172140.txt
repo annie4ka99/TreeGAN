@@ -1,0 +1,1 @@
+ public void visitLSHR(LSHR o){ stack().pop(); stack().pop(); stack().push(Type.LONG); } 

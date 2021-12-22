@@ -1,0 +1,1 @@
+ public Image loadImage(InputStream in) throws Exception { return javax.imageio.ImageIO.read(in); } 

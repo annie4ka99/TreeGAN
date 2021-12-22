@@ -1,0 +1,1 @@
+ public void removeChild(int i) { getChildAt(i).parents.remove(this); children.remove(i); } 

@@ -1,0 +1,1 @@
+ public void setVDUBuffer(VDUBuffer buffer) { this.buffer = buffer; buffer.setDisplay(this); } 

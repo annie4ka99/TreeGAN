@@ -1,0 +1,1 @@
+ public void makeHydrogen(String locant, Fragment fragment) { fragment.setIndicatedHydrogen(locant); } 

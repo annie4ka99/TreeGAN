@@ -1,0 +1,1 @@
+ public void removeRssLocation( String location ) { this.vecRssLocations.remove( location ); } 

@@ -1,0 +1,1 @@
+ public boolean isAbsoluteURI() { return (m_scheme != null); } 

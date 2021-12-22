@@ -1,0 +1,1 @@
+ public GridPoint getCenterPoint() { return new GridPoint(getCenterX(), getCenterY()); } 

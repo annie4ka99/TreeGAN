@@ -1,0 +1,1 @@
+ public void setPassing(double d) { passing = d; } 

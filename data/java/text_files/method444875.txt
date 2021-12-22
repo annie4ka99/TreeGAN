@@ -1,0 +1,1 @@
+ public Exception getWrappedException() { return e; } 

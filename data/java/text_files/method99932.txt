@@ -1,0 +1,1 @@
+ public void setName(SearchParameterName value) { this.name = value; } 

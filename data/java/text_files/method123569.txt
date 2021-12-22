@@ -1,0 +1,1 @@
+ public void setProlog(CharSequence prolog) { _prolog = prolog; } 

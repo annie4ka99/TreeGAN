@@ -1,0 +1,1 @@
+ protected boolean isLog4JAvailable() { return isLogLibraryAvailable( "Log4J", LOGGING_IMPL_LOG4J_LOGGER); } 

@@ -1,0 +1,1 @@
+ public void setBodyDirection(float direction) { this.m_bodyDirection = direction; } 

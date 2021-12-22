@@ -1,0 +1,1 @@
+ public Dimension getSize() { return _size; } 

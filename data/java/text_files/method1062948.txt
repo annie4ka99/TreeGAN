@@ -1,0 +1,1 @@
+ public EClass getMetaclass() { return metaclass; } 

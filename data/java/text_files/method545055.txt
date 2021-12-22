@@ -1,0 +1,1 @@
+ public void setTrendBackground(Color bg) { trend.setBackground(bg); } 

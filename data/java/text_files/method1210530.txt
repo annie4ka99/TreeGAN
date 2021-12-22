@@ -1,0 +1,1 @@
+ public int getPosition() { return screen == null ? 0 : screen.getPosition(0); } 

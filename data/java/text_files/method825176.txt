@@ -1,0 +1,1 @@
+ public void setfNorms(float[] fNorms) { this.fNorms = fNorms; } 

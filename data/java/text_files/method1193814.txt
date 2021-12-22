@@ -1,0 +1,1 @@
+ public void gamePause() { synchronized (mSurfaceHolder) { if (mState == STATE_RUNNING) setState(STATE_STOPED); } } 

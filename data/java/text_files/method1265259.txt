@@ -1,0 +1,1 @@
+ public Adapter createTExtensibleElementsAdapter() { return null; } 

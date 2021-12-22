@@ -1,0 +1,1 @@
+ public void setTablero2(Tablero tablero2) { this.tablero2 = tablero2; } 

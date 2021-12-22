@@ -1,0 +1,1 @@
+ public void setOriginangle(java.lang.Float originangle) { this.originangle = originangle; } 

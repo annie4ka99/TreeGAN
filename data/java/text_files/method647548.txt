@@ -1,0 +1,1 @@
+ public Gene geneAt(int index) { return (Gene) m_genes.get(index); } 

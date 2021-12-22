@@ -1,0 +1,1 @@
+ public void setCollaborativeCollection(boolean collabColl){ isCollaborativeCollection = collabColl; } 

@@ -1,0 +1,1 @@
+ public void setLeftFilter(FilterType value) { this.leftFilter = value; } 

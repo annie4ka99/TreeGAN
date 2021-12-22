@@ -1,0 +1,1 @@
+ public void setDeleteKey(String aKey) { mDeleteKey = aKey; } 

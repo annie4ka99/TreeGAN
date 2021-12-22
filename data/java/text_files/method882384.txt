@@ -1,0 +1,1 @@
+ public String getSchemaIdentifier() { assert (getLocation() != null); return getLocation().getName(); } 

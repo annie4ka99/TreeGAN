@@ -1,0 +1,1 @@
+ public void setSymbol(java.lang.String symbol) { this.symbol = symbol; } 

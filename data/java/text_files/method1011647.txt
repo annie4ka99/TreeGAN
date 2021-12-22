@@ -1,0 +1,1 @@
+ public int getUnpackImageHeight() { return this.unpackImageHeight; } 

@@ -1,0 +1,1 @@
+ public PersonNameType getWitnessName() { return witnessName; } 

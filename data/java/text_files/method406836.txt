@@ -1,0 +1,1 @@
+ public int getType() { return AnalysisUtils.ROOT_TYPE; } 

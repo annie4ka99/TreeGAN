@@ -1,0 +1,1 @@
+ public boolean isFull() { return slotpos(getNumRecs()+1) >= BLOCK_SIZE; } 

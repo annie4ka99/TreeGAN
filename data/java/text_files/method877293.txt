@@ -1,0 +1,1 @@
+ public void setRules(Rules rules) { this.rules = rules; this.rules.setDigester(this); } 

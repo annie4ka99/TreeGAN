@@ -1,0 +1,1 @@
+ public void setEnvelope(EnvelopeType value) { this.envelope = value; } 

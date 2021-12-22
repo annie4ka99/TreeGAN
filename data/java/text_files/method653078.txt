@@ -1,0 +1,1 @@
+ public boolean isMultivariant() { return variants != null; } 

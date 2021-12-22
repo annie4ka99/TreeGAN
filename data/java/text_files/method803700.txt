@@ -1,0 +1,1 @@
+ public Fragment buildSMILES(String SSMILES) { return buildSMILES(SSMILES, null, null); } 

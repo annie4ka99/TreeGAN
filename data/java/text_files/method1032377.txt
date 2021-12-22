@@ -1,0 +1,1 @@
+ public void logDebug(Object message) { logInternal(DEBUG, message, null); } 

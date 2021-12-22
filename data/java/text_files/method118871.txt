@@ -1,0 +1,1 @@
+ public void setApplet(JGraphpad applet) { this.applet = applet; } 

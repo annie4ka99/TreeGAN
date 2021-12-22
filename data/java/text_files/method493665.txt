@@ -1,0 +1,1 @@
+ public void setCompany(java.lang.String company) { this.company = company; } 

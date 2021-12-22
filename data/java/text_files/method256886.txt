@@ -1,0 +1,1 @@
+ public boolean hasReference() { return referenceNode != null; } 

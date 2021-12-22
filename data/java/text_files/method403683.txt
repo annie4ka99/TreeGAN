@@ -1,0 +1,1 @@
+ public boolean isTraceEnabled() { return getLogger().isDebugEnabled(); } 

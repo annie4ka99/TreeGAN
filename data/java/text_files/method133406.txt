@@ -1,0 +1,1 @@
+ public int getResidueMultipleConstraint() { return residue_multiple_constraint; } 

@@ -1,0 +1,1 @@
+ public Iterator nodes() { return m_nodeTuples.iterator(nodeRows()); } 

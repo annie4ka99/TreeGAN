@@ -1,0 +1,1 @@
+ public Iterator fieldsFor(Class cls) { return buildMap(cls, true).values().iterator(); } 

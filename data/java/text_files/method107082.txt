@@ -1,0 +1,1 @@
+ public void makeEmpty() { cards[0] = 0; } 

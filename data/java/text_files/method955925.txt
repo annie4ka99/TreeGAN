@@ -1,0 +1,1 @@
+ public void setIlluminationAzimuthAngle(AngleType value) { this.illuminationAzimuthAngle = value; } 

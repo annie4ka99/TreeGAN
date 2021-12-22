@@ -1,0 +1,1 @@
+ public double getDomainUpperBound(boolean includeInterval) { return this.domainMax.doubleValue(); } 

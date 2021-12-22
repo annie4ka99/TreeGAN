@@ -1,0 +1,1 @@
+ public void setMoney(int i) { throw new RuntimeException("Not Supported"); } 

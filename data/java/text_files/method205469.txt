@@ -1,0 +1,1 @@
+ public void alias(String name, Class type) { aliasingMapper.addAlias(name, type); } 

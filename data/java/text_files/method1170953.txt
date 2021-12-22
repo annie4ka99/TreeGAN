@@ -1,0 +1,1 @@
+ public void setComputerCut(Card computerCut) { ComputerCut = computerCut; } 

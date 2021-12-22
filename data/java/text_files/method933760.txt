@@ -1,0 +1,1 @@
+ public void add(XmlAttribute element) { list.add(element.getValue()); } 

@@ -1,0 +1,1 @@
+ public void removeAttribute(AttributeDefinition ad) { attributes.remove(ad); this.validate(); } 

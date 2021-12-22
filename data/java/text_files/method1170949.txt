@@ -1,0 +1,1 @@
+ public void setCurrentGameType(String gameType) { currentGameType = gameType; } 

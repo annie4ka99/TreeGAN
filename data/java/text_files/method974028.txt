@@ -1,0 +1,1 @@
+ public void setNameLookup(NameLookup nameLookup) { this.nameLookup = nameLookup; } 

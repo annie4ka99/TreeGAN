@@ -1,0 +1,1 @@
+ public void release() { super.release(); statuswindow = null; tooltip=false; } 

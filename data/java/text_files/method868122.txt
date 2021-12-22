@@ -1,0 +1,1 @@
+ public void addClassToBeTranslated( String className ) { context.addClass( className ); } 

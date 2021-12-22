@@ -1,0 +1,1 @@
+ public boolean isShowOkCancel() { return showOkCancel; } 

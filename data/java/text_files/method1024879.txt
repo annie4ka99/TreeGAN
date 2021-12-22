@@ -1,0 +1,1 @@
+ public boolean supportsAWT() { return this.supportsAWT; } 

@@ -1,0 +1,1 @@
+ public void setCloneLeavesPlayCommand(Command com) { cloneLeavesPlayCommand = com; } 

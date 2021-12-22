@@ -1,0 +1,1 @@
+ public String encode() { return name.substring(0, 1); } 

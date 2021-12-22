@@ -1,0 +1,1 @@
+ public boolean jdoIsPersistent() { return getPersistencyState().isPersistent(); } 

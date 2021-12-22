@@ -1,0 +1,1 @@
+ public void setMillisToDecideToPopup(int millisToDecideToPopup) { this.millisToDecideToPopup = millisToDecideToPopup; } 

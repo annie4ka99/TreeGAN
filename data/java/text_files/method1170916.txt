@@ -1,0 +1,1 @@
+ public Object getDefenderByAttacker(Card c) { return attackerToDefender.get(c); } 

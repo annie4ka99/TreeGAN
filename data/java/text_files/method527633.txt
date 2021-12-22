@@ -1,0 +1,1 @@
+private void setCurrentRecord(int newCurrentRecord) { currentRecord = newCurrentRecord; } 

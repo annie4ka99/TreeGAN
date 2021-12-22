@@ -1,0 +1,1 @@
+ private void showStall(String source) { stallLayout.show(stallPanel, source); } 

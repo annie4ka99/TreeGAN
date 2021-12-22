@@ -1,0 +1,1 @@
+ public MeasureType createMeasureType() { return new MeasureType(); } 

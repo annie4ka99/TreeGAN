@@ -1,0 +1,1 @@
+ public ServiceBindingQueryType getServiceBindingQuery() { return serviceBindingQuery; } 

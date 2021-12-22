@@ -1,0 +1,1 @@
+ public Font getFont(int row) { return (Font)get(row, VisualItem.FONT); } 

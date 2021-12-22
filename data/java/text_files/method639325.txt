@@ -1,0 +1,1 @@
+ protected boolean getLegendByName() { return this.legendToggle; } 

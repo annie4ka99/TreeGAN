@@ -1,0 +1,1 @@
+ public void clearAllHighlighting(){ clearHighlightingEditor(); this.table.clearSelection(); this.table.repaint(); } 

@@ -1,0 +1,1 @@
+ public boolean isAssociation() { return propertyClass == ASSOCIATION; } 

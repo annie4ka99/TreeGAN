@@ -1,0 +1,1 @@
+ public void setText(String s,boolean resize) { theText = s; updateLabel(resize); } 

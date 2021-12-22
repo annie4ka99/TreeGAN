@@ -1,0 +1,1 @@
+ public void setFontSize(int size) { fontSize = size; } 

@@ -1,0 +1,1 @@
+ public void setDestDir(String destDir) { this.destDir = destDir; } 

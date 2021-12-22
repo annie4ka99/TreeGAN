@@ -1,0 +1,1 @@
+ public ArchivingInformationType createArchivingInformationType() { return new ArchivingInformationType(); } 

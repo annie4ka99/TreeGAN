@@ -1,0 +1,1 @@
+ public EscapeStrategy getEscapeStrategy() { return escapeStrategy; } 

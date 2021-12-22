@@ -1,0 +1,1 @@
+ public void update() { this.setText(this.resourceName); this.setToolTipText(); } 

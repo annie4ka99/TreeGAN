@@ -1,0 +1,1 @@
+ public void visitINSTANCEOF(INSTANCEOF o){ stack().pop(); stack().push(Type.INT); } 

@@ -1,0 +1,1 @@
+ public int getLagIndex() { return variables.getIndex(); } 

@@ -1,0 +1,1 @@
+ public void setUseBgColor(boolean useBgColor) { this.useBgColor = useBgColor; } 

@@ -1,0 +1,1 @@
+ public Integer getPartStartPoint(final int index) { return this.indexes.get(index); } 

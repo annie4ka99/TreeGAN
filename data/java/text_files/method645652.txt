@@ -1,0 +1,1 @@
+ public boolean hasChildren(Object element) { return ((INode) element).hasChildNodes(); } 

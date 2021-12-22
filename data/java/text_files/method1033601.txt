@@ -1,0 +1,1 @@
+ public void setGain(float gain) { al.alSourcef(sourceID, AL.AL_GAIN, gain); } 

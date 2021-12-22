@@ -1,0 +1,1 @@
+ public void setChildModuleDao(IChildModuleDao childModuleDao) { this.childModuleDao = childModuleDao; } 

@@ -1,0 +1,1 @@
+ public void setHgap(int hgap) { this.hgap = hgap; } 

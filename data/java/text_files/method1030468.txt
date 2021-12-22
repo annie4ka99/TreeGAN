@@ -1,0 +1,1 @@
+ public int getDriverMinorVersion() { return NonRegisteringDriver.getMinorVersionInternal(); } 

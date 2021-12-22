@@ -1,0 +1,1 @@
+ public void setPos(long pos) { this.pos = pos; repaint(); } 

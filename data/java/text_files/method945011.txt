@@ -1,0 +1,1 @@
+ protected void registerParts() { this.getManagedForm().addPart(m_GeneralSection); } 

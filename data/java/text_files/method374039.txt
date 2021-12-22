@@ -1,0 +1,1 @@
+ public long getMask() { return annotation.mask(); } 

@@ -1,0 +1,1 @@
+ protected CasShibServiceRegistrar getCasShibServiceRegistrar() { return this.casShibServiceRegistrar; } 

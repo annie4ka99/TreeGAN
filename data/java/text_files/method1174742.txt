@@ -1,0 +1,1 @@
+ public boolean hasWon() { if (cantWin()) return false; return altWin; } 

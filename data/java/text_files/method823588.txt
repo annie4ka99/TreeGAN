@@ -1,0 +1,1 @@
+ public Enumeration getPrefixes() { return currentContext.getPrefixes(); } 

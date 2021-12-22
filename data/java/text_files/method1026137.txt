@@ -1,0 +1,1 @@
+ public void pushfunction(LFunction f) { pushlvalue( f ); } 

@@ -1,0 +1,1 @@
+ public boolean contains(Semijoin j) { return internal.contains(j); } 

@@ -1,0 +1,1 @@
+ public void setViewLabel(boolean b){ viewLabel = b; manageLabel(formerValue); } 

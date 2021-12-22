@@ -1,0 +1,1 @@
+ public void setPointCoords(double xcoords[], double ycoords[]) { this.xcoords = xcoords; this.ycoords = ycoords; } 

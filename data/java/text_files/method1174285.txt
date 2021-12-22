@@ -1,0 +1,1 @@
+ public boolean isSplitSecondOnStack() { return splitSecondOnStack > 0; } 

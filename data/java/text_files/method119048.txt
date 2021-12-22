@@ -1,0 +1,1 @@
+ public CellMapper getMapper() { return mapper; } 

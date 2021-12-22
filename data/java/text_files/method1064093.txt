@@ -1,0 +1,1 @@
+ public boolean isPrivate(){ return getVisibility() == VisibilityKind.PRIVATE; } 

@@ -1,0 +1,1 @@
+ public void setTankvolume(Double tankvolume) { this.tankvolume = tankvolume; } 

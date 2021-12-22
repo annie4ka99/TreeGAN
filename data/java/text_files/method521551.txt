@@ -1,0 +1,1 @@
+public void setFieldName(String newValue) { this.fieldName = newValue; } 

@@ -1,0 +1,1 @@
+ public int getSecondaryFill() { return this.secondaryFill; } 

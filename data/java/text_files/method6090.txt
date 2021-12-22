@@ -1,0 +1,1 @@
+ public XLSReaderGUI getContent(){ return content; } 

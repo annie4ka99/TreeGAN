@@ -1,0 +1,1 @@
+ public TVariables getTVariablesList() { return this.variablesList.getBpelCode(); } 

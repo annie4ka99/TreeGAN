@@ -1,0 +1,1 @@
+ public void clearShopList() { shopList.clear(); } 

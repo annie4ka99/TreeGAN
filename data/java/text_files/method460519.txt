@@ -1,0 +1,1 @@
+ public SamlAuthnStatementType getSamlAuthnStatement() { return samlAuthnStatement; } 

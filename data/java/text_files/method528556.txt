@@ -1,0 +1,1 @@
+public void removeSpareBuffer(int theBufferId) throws JpxiException { getStorageInterface().dbRemSpareBuff(theBufferId); } 

@@ -1,0 +1,1 @@
+ public RegistryErrorList getRegistryErrorList() { return registryErrorList; } 

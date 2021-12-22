@@ -1,0 +1,1 @@
+ public JHeader getParent() { return this.parent; } 

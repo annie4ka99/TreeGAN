@@ -1,0 +1,1 @@
+ public boolean hasRedisplayFieldsOnErrorSet() { return "true".equalsIgnoreCase(redisplayFieldsOnError); } 

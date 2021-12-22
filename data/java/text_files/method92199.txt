@@ -1,0 +1,1 @@
+ public void clearWarnings() throws SQLException { checkStatus(); warnings = null; } 

@@ -1,0 +1,1 @@
+ public void setAngle(int ind, Pointing ang) { dataAngle[ind] = ang; } 

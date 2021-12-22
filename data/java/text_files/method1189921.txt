@@ -1,0 +1,1 @@
+ public boolean next() { while (!prodscan.next()) if (!useNextChunk()) return false; return true; } 

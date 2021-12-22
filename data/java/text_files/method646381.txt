@@ -1,0 +1,1 @@
+ public User getSelectedUser(boolean recurse) { return (User)getFirstOf(getSelectedUsers(recurse)); } 

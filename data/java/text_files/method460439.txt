@@ -1,0 +1,1 @@
+ public void setSSN(String value) { this.ssn = value; } 

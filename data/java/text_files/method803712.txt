@@ -1,0 +1,1 @@
+ public int getNextID() { currentID += 1; return currentID; } 

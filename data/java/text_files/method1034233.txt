@@ -1,0 +1,1 @@
+ public boolean returnsString(String functionName) { return returnsString.contains(functionName); } 

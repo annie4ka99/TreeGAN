@@ -1,0 +1,1 @@
+ public void addAction(String pattern) throws MalformedPatternException { addAction(pattern, 0); } 

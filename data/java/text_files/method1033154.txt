@@ -1,0 +1,1 @@
+ public void ping() throws SQLException { pingInternal(true, 0); } 

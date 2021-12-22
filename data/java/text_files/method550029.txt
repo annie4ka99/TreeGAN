@@ -1,0 +1,1 @@
+ public void removeComponent(Component c) { components.remove(c); } 

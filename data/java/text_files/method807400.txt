@@ -1,0 +1,1 @@
+ public void selectionChanged( IWorkbenchPart part, ISelection selection ) { this.reactOnSelection(selection); } 

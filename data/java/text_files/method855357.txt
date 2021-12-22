@@ -1,0 +1,1 @@
+ protected Map getSessionMap(PortletRequest request) { return new PortletSessionMap(request); } 

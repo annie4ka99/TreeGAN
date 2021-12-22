@@ -1,0 +1,1 @@
+ public String asFieldName() { throw new ClassCastException(); } 

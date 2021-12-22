@@ -1,0 +1,1 @@
+ public void setSynchronous(boolean synchronous) { this.synchronous = synchronous; } 

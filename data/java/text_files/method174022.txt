@@ -1,0 +1,1 @@
+ public List removeContent() { List old = new ArrayList(content); content.clear(); return old; } 

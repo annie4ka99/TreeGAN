@@ -1,0 +1,1 @@
+ public void setSiteAuthor(String siteAuthor) { this.siteAuthor = siteAuthor; } 

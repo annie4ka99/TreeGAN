@@ -1,0 +1,1 @@
+ public void setMaxStack(int m) { max_stack = m; } 

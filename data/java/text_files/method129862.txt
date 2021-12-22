@@ -1,0 +1,1 @@
+ public Paint getPaint() { return paint; } 

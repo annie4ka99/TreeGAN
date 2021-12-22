@@ -1,0 +1,1 @@
+ public void configureParser(PropertySettings settings) { this.settings = (RParserSettings) settings; } 

@@ -1,0 +1,1 @@
+ public boolean getFullRepack() { return full_repack; } 

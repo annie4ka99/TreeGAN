@@ -1,0 +1,1 @@
+ public void setNside(int nside) { this.nside = nside; if (theMap != null) regenerateMaps(); } 

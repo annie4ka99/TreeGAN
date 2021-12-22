@@ -1,0 +1,1 @@
+ public void setAlgorithmName(String value) { this.algorithmName = value; } 

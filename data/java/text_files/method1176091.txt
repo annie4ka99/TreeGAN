@@ -1,0 +1,1 @@
+ public void decelerate() { a = a.add(getOwner().getDirection().negate()).normalise(); } 

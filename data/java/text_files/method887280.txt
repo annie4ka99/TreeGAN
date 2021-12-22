@@ -1,0 +1,1 @@
+ public void setRootTemplate(File rootTemplateODT) { this.rootTemplateODT = rootTemplateODT; } 

@@ -1,0 +1,1 @@
+ public ResourceLocator getPluginResourceLocator() { return plugin; } 

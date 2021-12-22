@@ -1,0 +1,1 @@
+ public void stop() { this.crawling = false; } 

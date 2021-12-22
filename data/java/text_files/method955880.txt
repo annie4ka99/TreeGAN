@@ -1,0 +1,1 @@
+ public RemoveObjectsRequest createRemoveObjectsRequest() { return new RemoveObjectsRequest(); } 

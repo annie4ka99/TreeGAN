@@ -1,0 +1,1 @@
+ public void setCoordinateErrors(double[] errors) { this.coordinateError = errors; } 

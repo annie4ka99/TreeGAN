@@ -1,0 +1,1 @@
+ public void setTextFilter(String textfilter[]) { this.textfilter = textfilter; } 

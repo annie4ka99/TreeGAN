@@ -1,0 +1,1 @@
+public BPSOverlayText getUpperCenterText() { return upperCenterText; } 

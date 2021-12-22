@@ -1,0 +1,1 @@
+ public JSInternalConsole getConsole() { return console; } 

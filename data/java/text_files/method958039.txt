@@ -1,0 +1,1 @@
+ public void setExceptionCode(String value) { this.exceptionCode = value; } 

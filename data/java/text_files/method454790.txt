@@ -1,0 +1,1 @@
+ public void showDialog() { settingsDialog.setVisible(true); Apply.requestFocus(); } 

@@ -1,0 +1,1 @@
+ public void setAssociationTypeQuery(ClassificationNodeQueryType value) { this.associationTypeQuery = value; } 

@@ -1,0 +1,1 @@
+private void successfulDistribution(MsgAddressee theObjAddressee) { getCurrentMessage().setSuccessful(true); } 

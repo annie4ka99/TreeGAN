@@ -1,0 +1,1 @@
+ public boolean hasOption (String name) { getParam (name, 0); return hasParam (name); } 

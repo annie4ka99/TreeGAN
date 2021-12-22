@@ -1,0 +1,1 @@
+ public String getPaperSizes() { return paperSizes; } 

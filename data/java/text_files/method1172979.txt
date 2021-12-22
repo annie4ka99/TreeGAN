@@ -1,0 +1,1 @@
+ public void setPayTapXType(boolean bTapX) { payTapXType = bTapX; } 

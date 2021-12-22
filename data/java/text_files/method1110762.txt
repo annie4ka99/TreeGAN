@@ -1,0 +1,1 @@
+ public Point2D createPoint(double x, double y) { return new SerializablePoint2D(x, y); } 

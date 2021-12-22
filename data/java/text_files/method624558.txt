@@ -1,0 +1,1 @@
+ public InstanceDescriptor getDescriptor() { return descriptor; } 

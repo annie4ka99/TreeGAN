@@ -1,0 +1,1 @@
+ public int getFileSpecOffset() { return fileSpecOffset; } 

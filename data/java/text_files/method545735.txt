@@ -1,0 +1,1 @@
+ public int getMathFunction() { return mathFunction; } 

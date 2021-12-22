@@ -1,0 +1,1 @@
+ protected GraphNode createGraphNode(){ return factory.createGraphElement(null,null,null,null); } 

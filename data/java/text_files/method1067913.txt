@@ -1,0 +1,1 @@
+ public void setColorValue(RGB rgb) { fColorValue = rgb; updateColorImage(); } 

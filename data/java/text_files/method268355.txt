@@ -1,0 +1,1 @@
+ public String getColumnName(int column) throws java.sql.SQLException { return getField(column).getName(); } 

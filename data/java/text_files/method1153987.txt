@@ -1,0 +1,1 @@
+ protected void selectionChanged() { if (controller != null) { controller.prepareAgent(); isPrepared = true; } } 

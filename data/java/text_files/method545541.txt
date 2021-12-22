@@ -1,0 +1,1 @@
+ public boolean isClickable() { return clickable; } 

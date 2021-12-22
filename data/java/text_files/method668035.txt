@@ -1,0 +1,1 @@
+ public User getUser(Long userID) throws DAOObjectNotFoundException { return registrarDAO.getUser(userID); } 

@@ -1,0 +1,1 @@
+ public boolean isUseWoflan() { return getConfDocument().getConfiguration().getTools().getWoflan() .getUseWoflan(); } 

@@ -1,0 +1,1 @@
+ public String getStatuswindowarg() { return statuswindowarg; } 

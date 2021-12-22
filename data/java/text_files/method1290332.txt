@@ -1,0 +1,1 @@
+ public void setInitCruiseSpeed(Integer cruiseSpeed) { Setter.set(this.cruiseSpeed, cruiseSpeed); } 

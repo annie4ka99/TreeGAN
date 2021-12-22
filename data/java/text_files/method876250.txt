@@ -1,0 +1,1 @@
+ public int getSessionId() { return binaryHeader.getInt(0); } 

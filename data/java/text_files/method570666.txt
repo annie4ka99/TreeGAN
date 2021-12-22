@@ -1,0 +1,1 @@
+ public void setUseComments(boolean useComments) { userSettings.UseComments = useComments; } 

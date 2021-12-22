@@ -1,0 +1,1 @@
+ public void glutInitWindowSize (int width, int height) { WindowWidth = width; WindowHeight = height; } 

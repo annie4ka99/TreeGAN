@@ -1,0 +1,1 @@
+ public void removeTaskListener(final TaskListener listener) { listeners.remove(listener); } 

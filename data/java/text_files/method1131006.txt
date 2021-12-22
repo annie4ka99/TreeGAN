@@ -1,0 +1,1 @@
+ public void setControlEncoding(String encoding) { _controlEncoding = encoding; } 

@@ -1,0 +1,1 @@
+ public CardList filter(CardListFilter filt) { return CardFilter.filter(this, filt); } 

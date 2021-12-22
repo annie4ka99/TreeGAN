@@ -1,0 +1,1 @@
+ public Ticker getTicker() { return animatorCanvas.getTicker(); } 

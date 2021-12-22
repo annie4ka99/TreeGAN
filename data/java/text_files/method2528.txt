@@ -1,0 +1,1 @@
+ final public boolean isMarked(int position) { return marked[position]; } 

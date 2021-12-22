@@ -1,0 +1,1 @@
+ public void setPitch(float pitch) { al.alSourcef(sourceID, AL.AL_PITCH, pitch); } 

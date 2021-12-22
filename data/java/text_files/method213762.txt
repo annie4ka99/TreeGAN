@@ -1,0 +1,1 @@
+ public Permissions getAllPermissions() { return allPermissions; } 

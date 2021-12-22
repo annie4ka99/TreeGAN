@@ -1,0 +1,1 @@
+ protected void mergeAttributes() { allAttributes.putAll(attributes); } 

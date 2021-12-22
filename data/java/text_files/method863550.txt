@@ -1,0 +1,1 @@
+ public void write( OutStreamWrapper out ) { out.writeUI8( value ); } 

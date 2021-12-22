@@ -1,0 +1,1 @@
+ protected float getOffset() { float offset = zPos + WIDTH + HEIGHT + DEPTH; return offset; } 

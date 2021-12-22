@@ -1,0 +1,1 @@
+ public ItemTeamAlgorithm getAlgorithm() { return algorithm; } 

@@ -1,0 +1,1 @@
+ protected void writeSectionStart(String name) throws IOException { writeStart("SECTION"); writeName(name); } 

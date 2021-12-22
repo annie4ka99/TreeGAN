@@ -1,0 +1,1 @@
+ public void setQuoteError(boolean quoteError) { this.quoteError = quoteError; } 

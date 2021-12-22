@@ -1,0 +1,1 @@
+ public void setLink( String link ) { this.strChannelLink = new String(link); } 

@@ -1,0 +1,1 @@
+ public void setZMaximum(double max) { synchronized (this) { zMax = max; } } 

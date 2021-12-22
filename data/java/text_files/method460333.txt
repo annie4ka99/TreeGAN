@@ -1,0 +1,1 @@
+ public X509Certificate getCertificate() { return cert; } 

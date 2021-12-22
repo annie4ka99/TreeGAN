@@ -1,0 +1,1 @@
+public boolean isNullAllowed() { return lower == 0; } 

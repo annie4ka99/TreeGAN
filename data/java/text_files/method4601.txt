@@ -1,0 +1,1 @@
+ public void TimeOver(CaseEvent ce){ this.m_timeOver = true; this.m_brain.setTimeOver(true); } 

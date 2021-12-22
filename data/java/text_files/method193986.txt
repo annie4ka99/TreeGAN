@@ -1,0 +1,1 @@
+ public void setCountMarked(boolean countMarked) { this.countMarked = countMarked; } 

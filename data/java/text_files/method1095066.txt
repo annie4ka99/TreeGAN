@@ -1,0 +1,1 @@
+ public void setPreferredSize(Dimension aPreferredSize) { mPreferredSize = aPreferredSize; } 

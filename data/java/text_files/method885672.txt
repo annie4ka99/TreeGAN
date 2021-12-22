@@ -1,0 +1,1 @@
+ protected void addSubView(View sv) { subViews.add(sv); sv.setEditable(isEditable()); } 

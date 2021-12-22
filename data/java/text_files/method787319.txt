@@ -1,0 +1,1 @@
+ public void setBreadthSpacing(double b) { m_bspace = b; } 

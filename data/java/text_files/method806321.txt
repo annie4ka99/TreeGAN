@@ -1,0 +1,1 @@
+ public Range getDomainBounds(boolean includeInterval) { return this.domainRange; } 

@@ -1,0 +1,1 @@
+ public void setStatusQuery(ClassificationNodeQueryType value) { this.statusQuery = value; } 

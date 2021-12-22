@@ -1,0 +1,1 @@
+ public void start (int i) { startTime[i] = System.currentTimeMillis(); running[i] = true; } 

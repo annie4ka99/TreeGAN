@@ -1,0 +1,1 @@
+ public Iterator _getPropertyNames() { return cachedProperties.keySet().iterator(); } 

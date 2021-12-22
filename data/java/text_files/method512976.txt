@@ -1,0 +1,1 @@
+ public void changeQuote(char newQuote) { lexer.changeQuote(newQuote); } 

@@ -1,0 +1,1 @@
+ public void setStructName(String structName) { this.structName = structName; } 

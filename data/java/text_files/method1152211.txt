@@ -1,0 +1,1 @@
+ public void addForceY(Parameter param) { ChangeVelocity.x = (float)(ChangeVelocity.y + param.bodyFY); } 

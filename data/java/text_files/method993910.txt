@@ -1,0 +1,1 @@
+ public int getKnotType(int n) { return (byte)(knotTypes[n] & COLOR_MASK); } 

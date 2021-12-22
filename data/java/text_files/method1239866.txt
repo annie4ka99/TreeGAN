@@ -1,0 +1,1 @@
+ public void setFaultReason(String str) { setFaultString(str); } 

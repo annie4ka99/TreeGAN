@@ -1,0 +1,1 @@
+public XmlSubTag getXmlOrientation() { return xmlOrientation; } 

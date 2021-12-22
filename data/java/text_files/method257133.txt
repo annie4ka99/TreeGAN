@@ -1,0 +1,1 @@
+ public void setDataSet(ReqData data) { this.dataSet = data; updateRowReferenceArray(); } 

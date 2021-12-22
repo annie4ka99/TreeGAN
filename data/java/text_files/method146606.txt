@@ -1,0 +1,1 @@
+ public void setSNR(Integer SNR) { this.SNR = SNR; } 

@@ -1,0 +1,1 @@
+ public int distinctValues(String fldname) { return p.distinctValues(fldname); } 

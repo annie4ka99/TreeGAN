@@ -1,0 +1,1 @@
+ public void setCrossdate(Cross crossdate) { this.crossdate = crossdate; updateTable(); } 

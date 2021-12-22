@@ -1,0 +1,1 @@
+ private IWorkbenchWindow getWindow() { return window; } 

@@ -1,0 +1,1 @@
+ public boolean isSorting() { return sortingColumns.size() != 0; } 

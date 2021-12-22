@@ -1,0 +1,1 @@
+ public void setInputFile(String inFile) { this.inputFile = inFile; } 

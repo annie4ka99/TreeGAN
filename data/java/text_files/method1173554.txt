@@ -1,0 +1,1 @@
+ public String toString() { if (isAbility) return abilityToString(); else return spellToString(true); } 

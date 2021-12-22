@@ -1,0 +1,1 @@
+ public long getLong(long sequence) { return this.storage.getLong(map(sequence)); } 

@@ -1,0 +1,1 @@
+ public boolean isBasicLand() { return type.contains("Basic"); } 

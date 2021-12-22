@@ -1,0 +1,1 @@
+ public void setSortBy(String[] strings) { sortBy = strings; } 

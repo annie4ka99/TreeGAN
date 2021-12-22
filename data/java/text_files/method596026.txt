@@ -1,0 +1,1 @@
+ public void set( Date date ) { set(date.getTime()); } 

@@ -1,0 +1,1 @@
+ public Iterator aggregatedTuples(int row) { return new AggregatedIterator(row); } 

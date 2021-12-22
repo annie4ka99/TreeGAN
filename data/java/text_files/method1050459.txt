@@ -1,0 +1,1 @@
+ public void runBypass() { if (source != null) { filteredCompositions = source.getVisibleCompositions(); } } 

@@ -1,0 +1,1 @@
+ public int getChildRow(int prow) { return ((CascadedRowManager)m_rows).getChildRow(prow); } 

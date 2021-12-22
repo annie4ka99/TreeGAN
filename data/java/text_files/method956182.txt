@@ -1,0 +1,1 @@
+ public void setProduct(ProductInformationArrayPropertyType value) { this.product = value; } 

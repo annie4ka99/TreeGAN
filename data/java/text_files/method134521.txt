@@ -1,0 +1,1 @@
+ public void setChangeWidth ( int width ) { changeWidth = width; } 

@@ -1,0 +1,1 @@
+ public Complex plus(double b) { return new Complex(real + b, imag); } 

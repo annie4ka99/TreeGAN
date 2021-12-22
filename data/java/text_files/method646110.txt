@@ -1,0 +1,1 @@
+ public OverlayPreferenceStore getOverlayStore() { return (OverlayPreferenceStore)super.getPreferenceStore(); } 

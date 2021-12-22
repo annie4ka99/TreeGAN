@@ -1,0 +1,1 @@
+ public void setStyle( TextStyle style ) { Util.notNull( style ); this.style = style; } 

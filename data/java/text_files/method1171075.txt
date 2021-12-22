@@ -1,0 +1,1 @@
+ public boolean hasSecondStrike() { return !hasFirstStrike() || (hasFirstStrike() && hasDoubleStrike()); } 

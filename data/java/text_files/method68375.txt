@@ -1,0 +1,1 @@
+ public void setDescription(String text) { description = text; setDirty(true); } 

@@ -1,0 +1,1 @@
+ public int maxX() { if (w() < 1) return -1; return x() + w() - 1; } 

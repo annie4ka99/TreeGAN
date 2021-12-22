@@ -1,0 +1,1 @@
+ public void setLocation(Point2D p) { setLocation(p.getX(), p.getY()); } 

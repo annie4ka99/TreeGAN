@@ -1,0 +1,1 @@
+ public boolean isExpanded(int row) { return getBoolean(row, VisualItem.EXPANDED); } 

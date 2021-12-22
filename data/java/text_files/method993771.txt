@@ -1,0 +1,1 @@
+ public void setStartAlpha( float startAlpha ) { this.startAlpha = startAlpha; } 

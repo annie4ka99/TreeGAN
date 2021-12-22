@@ -1,0 +1,1 @@
+ public void setDynamicColumnWidth(boolean newDynamicColumnWidth) { dynamicColumnWidth = newDynamicColumnWidth; } 

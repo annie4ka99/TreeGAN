@@ -1,0 +1,1 @@
+ public Tuple setTuple(Tuple t) { clear(); return addTuple(t); } 

@@ -1,0 +1,1 @@
+ public void setRelay(boolean relay) { this.relay = relay; } 

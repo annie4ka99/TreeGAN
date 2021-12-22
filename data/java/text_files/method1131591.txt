@@ -1,0 +1,1 @@
+ public MotorComponent getServo(int port) { return servos[port]; } 

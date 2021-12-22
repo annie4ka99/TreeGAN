@@ -1,0 +1,1 @@
+ public String getUserName() { return (getEmbedConnection().getTR().getUserName()); } 

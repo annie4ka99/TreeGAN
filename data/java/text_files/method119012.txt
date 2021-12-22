@@ -1,0 +1,1 @@
+ public void setPoint(int index, Point p) { points.set(index, p); invalidate(); } 

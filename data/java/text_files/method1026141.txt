@@ -1,0 +1,1 @@
+ public void pushlstring(byte[] byteArray) { pushlstring(byteArray, 0, byteArray.length); } 

@@ -1,0 +1,1 @@
+ public boolean isExtracted() { return extracted; } 

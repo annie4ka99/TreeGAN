@@ -1,0 +1,1 @@
+ public void addBeanPropertySetter(String pattern) { addRule(pattern, new BeanPropertySetterRule()); } 

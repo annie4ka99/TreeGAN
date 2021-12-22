@@ -1,0 +1,1 @@
+ public void setNewDictionary(final Dictionary dictionary) { textEditor.setNewDictionary(dictionary); } 

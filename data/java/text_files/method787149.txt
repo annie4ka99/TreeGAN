@@ -1,0 +1,1 @@
+ public void begin(String header, int bias) { begin(); m_out.print(header); m_bias = bias; } 

@@ -1,0 +1,1 @@
+ private int getChanges() { return assistantCoaches + assistantKeeper + psico + phisio + doctor + spokesman; } 

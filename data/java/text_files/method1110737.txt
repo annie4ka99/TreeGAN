@@ -1,0 +1,1 @@
+ public void setAttributes(AttributeMap attributes) { this.attributes = attributes; } 

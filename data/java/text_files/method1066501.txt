@@ -1,0 +1,1 @@
+ public void setDisplayRightBorder(boolean b){ displayRightBorder = b; } 

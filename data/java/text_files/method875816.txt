@@ -1,0 +1,1 @@
+ public void setActualMsnProtocol(MsnProtocol protocol) { this.actualMsnProtocol = protocol; } 

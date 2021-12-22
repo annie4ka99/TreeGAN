@@ -1,0 +1,1 @@
+ public void setValSup(final double s) { valSup = s; } 

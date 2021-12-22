@@ -1,0 +1,1 @@
+ public BufferedImage getCleanImage() { return cleanImage; } 

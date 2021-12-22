@@ -1,0 +1,1 @@
+ public void fire(Feature f) { if(f.node() != null) features.put(f, new Double(1)); } 

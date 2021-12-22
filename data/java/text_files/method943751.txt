@@ -1,0 +1,1 @@
+ public Term lookupTermForURI(String uri) { return (Term) uriToInstanceMap.get(uri); } 

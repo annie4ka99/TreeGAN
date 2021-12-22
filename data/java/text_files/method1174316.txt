@@ -1,0 +1,1 @@
+ public void setResolving(boolean b) { bResolving = b; if (!bResolving) chooseOrderOfSimultaneousStackEntryAll(); } 

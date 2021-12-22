@@ -1,0 +1,1 @@
+public String getMsgTxt() { return msgTxt; } 

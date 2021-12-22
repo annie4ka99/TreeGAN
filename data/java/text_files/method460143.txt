@@ -1,0 +1,1 @@
+ public void setSubjectDN(String subjectDN) { this.subjectDN = subjectDN; } 

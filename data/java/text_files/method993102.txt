@@ -1,0 +1,1 @@
+ public void setStrength( float strength ) { this.strength = strength; } 

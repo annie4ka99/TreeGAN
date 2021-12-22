@@ -1,0 +1,1 @@
+public void setMember(org.epoline.phoenix.dms.DMSMember newMember) { member = newMember; } 

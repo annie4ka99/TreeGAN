@@ -1,0 +1,1 @@
+ protected int getValueForCustomFieldName(String name) { return -1; } 

@@ -1,0 +1,1 @@
+ public boolean finished() { if (!writeSession.booleanValue()) return true; return finish; } 

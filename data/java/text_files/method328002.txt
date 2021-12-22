@@ -1,0 +1,1 @@
+ public void addPassData(boolean pass) { angleVetoDisplay.newPassData(pass); } 

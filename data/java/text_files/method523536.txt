@@ -1,0 +1,1 @@
+ public void setElementStapled(boolean elementStapled) { this.elementStapled = elementStapled; } 

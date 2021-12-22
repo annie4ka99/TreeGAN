@@ -1,0 +1,1 @@
+ private void setDaemon(org.epo.jphoenix.daemon.JPhoenixDaemonInterface newDaemon) { daemon = newDaemon; } 

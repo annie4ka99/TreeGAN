@@ -1,0 +1,1 @@
+ public void createBlockAsync(String id) { createBlockAsync(id, new WeiboAdapter()); } 

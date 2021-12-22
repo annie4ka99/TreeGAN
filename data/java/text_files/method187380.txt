@@ -1,0 +1,1 @@
+ public void removeRow(int arg0) { super.removeRow(arg0); blogs.remove(arg0); } 

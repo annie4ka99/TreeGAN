@@ -1,0 +1,1 @@
+private void setEndOfFrameNumber(char[] newEndOfFrameNumber) { endOfFrameNumber = newEndOfFrameNumber; } 

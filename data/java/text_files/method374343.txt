@@ -1,0 +1,1 @@
+ public void setOutput(Appendable out) { this.out = new Formatter(out); this.outputBuffer = null; } 

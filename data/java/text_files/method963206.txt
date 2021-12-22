@@ -1,0 +1,1 @@
+ public void addInput(I input) { this.inputs.add(input); } 

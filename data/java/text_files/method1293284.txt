@@ -1,0 +1,1 @@
+ public void addBinding(Binding binding) { bindings.put(binding.getQName(), binding); } 

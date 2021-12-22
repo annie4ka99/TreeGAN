@@ -1,0 +1,1 @@
+ private void setFlag(final boolean state, final int flag) { if (state) { setFlag(flag); } else { clearFlag(flag); } } 

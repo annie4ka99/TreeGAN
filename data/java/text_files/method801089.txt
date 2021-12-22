@@ -1,0 +1,1 @@
+ public IReaction getIReaction(){ return reaction; } 

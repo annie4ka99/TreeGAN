@@ -1,0 +1,1 @@
+ public Adapter createDictDataAdapter() { return null; } 

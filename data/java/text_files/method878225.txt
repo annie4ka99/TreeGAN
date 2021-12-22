@@ -1,0 +1,1 @@
+ public void saveToFile(String fileName){ saveToFile(new File(fileName), this.defaultFileFormat); } 

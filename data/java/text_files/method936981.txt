@@ -1,0 +1,1 @@
+ public AbstractFile getDestinationFile() { return destinationFile; } 

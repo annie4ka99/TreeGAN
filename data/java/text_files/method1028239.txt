@@ -1,0 +1,1 @@
+ public long getScanInterval() { return scanInterval / 1000; } 

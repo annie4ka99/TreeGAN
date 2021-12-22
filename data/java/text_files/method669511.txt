@@ -1,0 +1,1 @@
+ protected void signalFailure(SQLException sqle) { querySuccessful = false; failureDetails = sqle; } 

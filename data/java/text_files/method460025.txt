@@ -1,0 +1,1 @@
+ public CallbackHandler getCallbackHandler() { return samlCallbackHandler; } 

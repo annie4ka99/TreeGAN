@@ -1,0 +1,1 @@
+ public void glutSolidTeapot(double scale) { glutSolidTeapot(scale, true); } 

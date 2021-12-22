@@ -1,0 +1,1 @@
+ public void setModal(boolean b) { wizardDialog.setModal(b); } 

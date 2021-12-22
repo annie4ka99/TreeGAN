@@ -1,0 +1,1 @@
+ public void setString(String fldname, String val) { rp.setString(fldname, val); } 

@@ -1,0 +1,1 @@
+ public void setYScale(int yScale) { this.yScale = yScale; } 

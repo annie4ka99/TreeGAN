@@ -1,0 +1,1 @@
+ public int peer(PcapHeader header) { return captureHeader.peer(header); } 

@@ -1,0 +1,1 @@
+ public void reloadProperties() { fireTableRowsUpdated(row, row); } 

@@ -1,0 +1,1 @@
+ public void setHeaderEncoding(String encoding) { headerEncoding = encoding; } 

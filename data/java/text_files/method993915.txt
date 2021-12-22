@@ -1,0 +1,1 @@
+ public byte getKnotBlend(int n) { return (byte)(knotTypes[n] & BLEND_MASK); } 

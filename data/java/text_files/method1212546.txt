@@ -1,0 +1,1 @@
+ public Syntax getSyntax(String name) { return syntaxs.get(name); } 

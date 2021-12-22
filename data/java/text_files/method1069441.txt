@@ -1,0 +1,1 @@
+ public ContainerFigure getPropertyContent(){ return this.propertyContent;} 

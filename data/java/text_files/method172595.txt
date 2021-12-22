@@ -1,0 +1,1 @@
+ public void triggerFinished() { this.finished = true; } 

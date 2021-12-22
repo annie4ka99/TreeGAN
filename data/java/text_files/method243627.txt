@@ -1,0 +1,1 @@
+ public void setSuited(boolean suited) { m_suited = suited; } 

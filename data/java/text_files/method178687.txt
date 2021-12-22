@@ -1,0 +1,1 @@
+ public void setMode(){ _parentTab.setMode(_selectedMode); } 

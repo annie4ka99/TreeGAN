@@ -1,0 +1,1 @@
+ public String getDisplayName() { return shortName + " [" + company.getShortName() + "]"; } 

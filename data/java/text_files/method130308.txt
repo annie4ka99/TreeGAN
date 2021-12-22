@@ -1,0 +1,1 @@
+ public boolean isIDReady () { if (idReady) { idReady = false; return true; } return false; } 

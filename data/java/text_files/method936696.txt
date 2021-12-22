@@ -1,0 +1,1 @@
+ protected void doMkdir() { throw new UnsupportedOperationException("Read only filesystem."); } 

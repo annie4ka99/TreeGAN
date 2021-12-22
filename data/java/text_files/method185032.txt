@@ -1,0 +1,1 @@
+ public byte getTextContentAsByte(String name) { return getTextContentAsByte(name, 0); } 

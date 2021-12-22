@@ -1,0 +1,1 @@
+ public void colorAll() { color(0, getLength()); } 

@@ -1,0 +1,1 @@
+ public String getResponseFormat() { return "xml"; } 

@@ -1,0 +1,1 @@
+ public ITridasSeries getSeries() { return series; } 

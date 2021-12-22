@@ -1,0 +1,1 @@
+ public boolean storesLowerCaseIdentifiers() throws SQLException { return this.conn.lowerCaseTableNames(); } 

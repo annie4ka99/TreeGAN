@@ -1,0 +1,1 @@
+ public void removeString(String word, Tuple t) { removeLeaf(root, word, t, 0); } 

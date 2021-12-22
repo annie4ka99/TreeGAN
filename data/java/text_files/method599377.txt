@@ -1,0 +1,1 @@
+ public void enqueue(Target target) { enqueue(target, DEFAULT_QUEUE); } 

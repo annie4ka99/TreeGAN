@@ -1,0 +1,1 @@
+ public void defaultCase(Node node) { if(node instanceof Token) { tokenList.add(node); } } 

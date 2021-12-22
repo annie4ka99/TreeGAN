@@ -1,0 +1,1 @@
+ public boolean isAlive() { return thread != null && thread.isAlive(); } 

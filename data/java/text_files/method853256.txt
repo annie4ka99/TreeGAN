@@ -1,0 +1,1 @@
+ public Object getResult() { return result; } 

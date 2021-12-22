@@ -1,0 +1,1 @@
+ public void removeElementAt(int index)throws ArrayIndexOutOfBoundsException{ Points.removeElementAt(index); } 

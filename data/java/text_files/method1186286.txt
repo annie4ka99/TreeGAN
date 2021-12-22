@@ -1,0 +1,1 @@
+ public void setFormField(boolean state) { isFormField = state; } 

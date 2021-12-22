@@ -1,0 +1,1 @@
+ public Adapter createMPrimitiveTypeReferenceAdapter() { return null; } 

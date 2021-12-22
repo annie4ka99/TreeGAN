@@ -1,0 +1,1 @@
+ protected void setInputBodyType(Use inputBodyType) { this.inputBodyType = inputBodyType; } 

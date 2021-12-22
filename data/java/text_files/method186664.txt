@@ -1,0 +1,1 @@
+ public BaseStimuli getStimuli(int i) { return (BaseStimuli) stimuli.elementAt(i); } 

@@ -1,0 +1,1 @@
+ public void setPaidList(CardList list, String str) { paidLists.put(str, list); } 

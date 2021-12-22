@@ -1,0 +1,1 @@
+public char getTableStatus() { return tableStatus; } 

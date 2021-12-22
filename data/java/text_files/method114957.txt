@@ -1,0 +1,1 @@
+ public void add(int index, double element) { insertElementAt(element, index); } 

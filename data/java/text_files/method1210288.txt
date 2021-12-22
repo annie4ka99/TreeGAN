@@ -1,0 +1,1 @@
+ public int getAsInt(String aKey) { return getAsInt(aKey,0); } 

@@ -1,0 +1,1 @@
+ public ResponseOptionType getResponseOption() { return responseOption; } 

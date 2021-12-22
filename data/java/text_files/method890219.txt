@@ -1,0 +1,1 @@
+ public ConditionContainer add(Condition condition) { conditions.add(condition); return this; } 

@@ -1,0 +1,1 @@
+ public int getRowCount() { if (subjectInstances == null) return 0; return attributeQuads.size() + 1; } 

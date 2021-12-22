@@ -1,0 +1,1 @@
+ public void setMarkInvalid(boolean markInvalid) { this.markInvalid = markInvalid; } 

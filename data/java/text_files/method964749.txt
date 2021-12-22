@@ -1,0 +1,1 @@
+ public void paint(Graphics g) { super.paint(g); if (!paintInBackground) { paintGrid(g); } } 

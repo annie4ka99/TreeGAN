@@ -1,0 +1,1 @@
+ public void deselect(GlyphI gl) { if (gl != null) { gl.setSelected(false); expandDamage(gl); } } 

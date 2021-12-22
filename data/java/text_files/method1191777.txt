@@ -1,0 +1,1 @@
+ public void removeAllAttributes() { attributes = new Hashtable(); this.validate(); } 

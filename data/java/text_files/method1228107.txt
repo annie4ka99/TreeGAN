@@ -1,0 +1,1 @@
+ public void release() { super.release(); clazz = null; scope = Constants.class.getName(); } 

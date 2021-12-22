@@ -1,0 +1,1 @@
+ protected boolean isSuperfield(NumberField n1, NumberField n2){ return isSubfield(n2,n1); } 

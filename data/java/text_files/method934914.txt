@@ -1,0 +1,1 @@
+ public int getVisibilityMeters() { return visibleCentimeters / 100; } 

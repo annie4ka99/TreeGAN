@@ -1,0 +1,1 @@
+ public boolean getWrite() { return this.writable; } 

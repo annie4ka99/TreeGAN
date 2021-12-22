@@ -1,0 +1,1 @@
+ protected JTable getTable() { return table; } 

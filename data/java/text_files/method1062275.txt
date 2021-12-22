@@ -1,0 +1,1 @@
+ public String getLanguage(){ return languageCCombo.getText(); } 

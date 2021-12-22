@@ -1,0 +1,1 @@
+ public URL getDistantImageURL() { return _distant_image_URL; } 

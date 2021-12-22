@@ -1,0 +1,1 @@
+ public void setSlotType(String value) { this.slotType = value; } 

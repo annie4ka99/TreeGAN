@@ -1,0 +1,1 @@
+ public void setIntercolour(java.lang.Long intercolour) { this.intercolour = intercolour; } 

@@ -1,0 +1,1 @@
+ public int executeUpdate(String sql) throws SQLException { return executeUpdate(sql, false); } 

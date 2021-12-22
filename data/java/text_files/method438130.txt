@@ -1,0 +1,1 @@
+ public void actionPerformed(ActionEvent event) { if (focusOwner != null) { focusOwner.selectAll(); } } 

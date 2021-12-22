@@ -1,0 +1,1 @@
+ protected void writeSubClass(String subclass) throws IOException { writeGroup(100, subclass); } 

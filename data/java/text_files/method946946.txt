@@ -1,0 +1,1 @@
+ public void removeErrorMessageListener(IErrorMessageListener listener) { m_ErrorListeners.remove(listener); } 

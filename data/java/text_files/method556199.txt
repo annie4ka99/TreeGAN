@@ -1,0 +1,1 @@
+ public void setArchivable(final int archivable) { this.archivable = archivable; } 

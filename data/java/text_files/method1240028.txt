@@ -1,0 +1,1 @@
+ public void setRoles(List roles) { actors = new ArrayList(roles); } 

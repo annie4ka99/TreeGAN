@@ -1,0 +1,1 @@
+public int getDbMaxConnection() { return dbMaxConnection; } 

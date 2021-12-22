@@ -1,0 +1,1 @@
+ public Point getRobotPosition () { return new Point (device.getX (), device.getY ()); } 

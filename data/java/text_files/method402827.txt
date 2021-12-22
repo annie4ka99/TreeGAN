@@ -1,0 +1,1 @@
+ public void setRefid(org.apache.tools.ant.types.Reference ref) { super.setRefid(ref); } 

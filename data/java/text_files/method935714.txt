@@ -1,0 +1,1 @@
+ public void setCookie(String cookie) { this.cookie = cookie; } 

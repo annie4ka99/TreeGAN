@@ -1,0 +1,1 @@
+ final public void addPlayerMove(int direction) { addMovement(direction, -1); } 

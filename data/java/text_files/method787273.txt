@@ -1,0 +1,1 @@
+ public void setFilter(Predicate filter) { m_filter = filter; } 

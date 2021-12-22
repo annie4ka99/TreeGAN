@@ -1,0 +1,1 @@
+ public void setTimestCreate(java.util.Date timestCreate) { this.timestCreate = timestCreate; } 

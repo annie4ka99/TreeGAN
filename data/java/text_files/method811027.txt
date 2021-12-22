@@ -1,0 +1,1 @@
+ protected FileDescriptionType getFixture() { return fixture; } 

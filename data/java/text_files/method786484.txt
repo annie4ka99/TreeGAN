@@ -1,0 +1,1 @@
+ public Class getColumnType() { return m_columnType; } 

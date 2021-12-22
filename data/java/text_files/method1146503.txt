@@ -1,0 +1,1 @@
+ public boolean contains(Object name) { return zones.containsValue(name); } 

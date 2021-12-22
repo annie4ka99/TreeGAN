@@ -1,0 +1,1 @@
+ public void add(Point2D pt) { add(pt.getX(), pt.getY()); } 

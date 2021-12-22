@@ -1,0 +1,1 @@
+ public void setShowOkCancel(boolean showOkCancel) { this.showOkCancel = showOkCancel; panel = null; } 

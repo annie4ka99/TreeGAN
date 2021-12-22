@@ -1,0 +1,1 @@
+ public FrameworkModel getModel() { return _model; } 

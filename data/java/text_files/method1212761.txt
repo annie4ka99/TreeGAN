@@ -1,0 +1,1 @@
+ public void setOperatorAnd(Pattern operatorAnd) { this.operatorAnd = operatorAnd; } 

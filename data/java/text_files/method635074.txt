@@ -1,0 +1,1 @@
+ public void fireEvent(I_OvEvent event) { eventQueue.add(event); } 

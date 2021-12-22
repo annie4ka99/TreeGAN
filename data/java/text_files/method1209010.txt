@@ -1,0 +1,1 @@
+ public void setParentScope(Scriptable m) { parent = m; } 

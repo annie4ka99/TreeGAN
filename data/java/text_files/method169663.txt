@@ -1,0 +1,1 @@
+ public void setSeasonEvent(int i) { seasonEvent = i; } 

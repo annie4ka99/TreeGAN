@@ -1,0 +1,1 @@
+ public void analyze() { new AVM2CodeAnalyzer( body ).analyze( reservedRegisters ); } 

@@ -1,0 +1,1 @@
+ public Integer getNumGen() { return numGen; } 

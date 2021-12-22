@@ -1,0 +1,1 @@
+ public void setCenterLabel(String s) { smallCenterLabel = s; } 

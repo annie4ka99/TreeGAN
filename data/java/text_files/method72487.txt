@@ -1,0 +1,1 @@
+ public boolean hasNextDVD() { return (selectedRow < dvdCollection.size()-1); } 

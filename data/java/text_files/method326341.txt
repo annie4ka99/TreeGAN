@@ -1,0 +1,1 @@
+ public void setSourceToolTip(String toolTip) { sourceList.setToolTipText(toolTip); } 

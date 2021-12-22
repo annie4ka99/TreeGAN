@@ -1,0 +1,1 @@
+ public EchoedRequestType getEchoedRequest() { return echoedRequest; } 

@@ -1,0 +1,1 @@
+ public void setColormap(Colormap colormap) { this.colormap = colormap; } 

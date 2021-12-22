@@ -1,0 +1,1 @@
+ public void setNonce(WSINonce value) { this.nonce = value; } 

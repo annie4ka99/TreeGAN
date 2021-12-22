@@ -1,0 +1,1 @@
+ public void unlock() { Signaller s = endRead(); if (s != null) s.signalWaiters(); } 

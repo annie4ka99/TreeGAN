@@ -1,0 +1,1 @@
+ public void reset() { initialize(); jl.setText(config.getString("message_nothingChoosen")); } 

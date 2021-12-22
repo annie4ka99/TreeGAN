@@ -1,0 +1,1 @@
+ public void setExtension(String ext) { assert (ext != null); extension = ext.trim(); } 

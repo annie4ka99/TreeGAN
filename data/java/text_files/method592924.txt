@@ -1,0 +1,1 @@
+ public String getEvent() { return (String) (event == null ? null : event.value); } 

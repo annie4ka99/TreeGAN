@@ -1,0 +1,1 @@
+ public void setContacts(String contacts) { this.contacts = contacts; } 

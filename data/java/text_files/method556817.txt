@@ -1,0 +1,1 @@
+ public void setId_snap(int id_snap) { this.id_snap = id_snap; } 

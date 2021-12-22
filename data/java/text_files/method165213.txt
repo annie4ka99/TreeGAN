@@ -1,0 +1,1 @@
+ public Path add(Object o) { return new Path(this, o); } 

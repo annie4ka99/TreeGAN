@@ -200,6 +200,7 @@ class Ranger(Optimizer):
                 beta1, beta2 = group['betas']
 
                 # compute variance mov avg
+                # exp_avg_sq.mul_(beta2).addcmul_(grad, grad, 1 - beta2)
                 exp_avg_sq.mul_(beta2).addcmul_(1 - beta2, grad, grad)
                 # compute mean moving avg
                 exp_avg.mul_(beta1).add_(1 - beta1, grad)

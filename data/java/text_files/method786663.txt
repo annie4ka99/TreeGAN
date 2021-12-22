@@ -1,0 +1,1 @@
+ public void setSpeedLimit(float limit) { speedLimit = limit; } 

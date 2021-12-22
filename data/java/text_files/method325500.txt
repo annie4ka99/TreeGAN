@@ -1,0 +1,1 @@
+ public void setInterval(double interval) { this.interval = interval; } 

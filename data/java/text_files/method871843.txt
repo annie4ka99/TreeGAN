@@ -1,0 +1,1 @@
+ public void setSmskeyword(java.lang.String smskeyword) { this.smskeyword = smskeyword; } 

@@ -1,0 +1,1 @@
+ public int getDimension() { return id2label.size(); } 

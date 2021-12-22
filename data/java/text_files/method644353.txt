@@ -1,0 +1,1 @@
+ public boolean isEditingOnCreation() { return getConfDocument().getConfiguration().getEditor() .getEditOnCreation(); } 

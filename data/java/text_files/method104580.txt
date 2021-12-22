@@ -1,0 +1,1 @@
+ public NormalTridasRemark getNormalTridas() { return normalTridas; } 

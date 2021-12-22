@@ -1,0 +1,1 @@
+ protected void showErrorHistory() { if (errorHistory == null) return; errorHistory.setVisible(true); } 

@@ -1,0 +1,1 @@
+ public void setIpix(int ipix) { this.ipix = ipix; } 

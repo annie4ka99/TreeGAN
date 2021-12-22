@@ -1,0 +1,1 @@
+ public Pattern getOperatorAddition() { return operatorAddition; } 

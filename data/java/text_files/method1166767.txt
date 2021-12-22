@@ -1,0 +1,1 @@
+ public void destroyFriendshipAsync(String id) { destroyFriendshipAsync(id, new WeiboAdapter()); } 

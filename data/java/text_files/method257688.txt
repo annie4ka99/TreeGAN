@@ -1,0 +1,1 @@
+ public void setChildren(List children) { this.children = children; } 

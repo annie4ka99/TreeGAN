@@ -1,0 +1,1 @@
+ public boolean id3v1Exists() { return id3v1.tagExists(); } 

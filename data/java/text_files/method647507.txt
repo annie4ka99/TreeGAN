@@ -1,0 +1,1 @@
+ public int hashCode() { if (getInternalValue() == null) { return -1; } else { return super.hashCode(); } } 

@@ -1,0 +1,1 @@
+ final public void update(long time) { updateModel(time); } 

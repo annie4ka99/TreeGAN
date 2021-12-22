@@ -1,0 +1,1 @@
+ public Object get(String key) { return vc.getContext().get(key); } 

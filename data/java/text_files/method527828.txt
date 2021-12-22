@@ -1,0 +1,1 @@
+private void setLoadingDate(java.sql.Timestamp newLoadingDate) { loadingDate = newLoadingDate; } 

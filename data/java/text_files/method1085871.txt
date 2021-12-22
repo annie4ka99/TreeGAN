@@ -1,0 +1,1 @@
+ private String generateNamespaceDeclarations() { return " xmlns=\"" + DEFAULT_NAMESPACE + "\""; } 

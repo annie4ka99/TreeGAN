@@ -1,0 +1,1 @@
+ public void setAttribute_id(int attribute_id) { this.attribute_id = attribute_id; } 

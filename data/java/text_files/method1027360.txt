@@ -1,0 +1,1 @@
+ public void setTxIsolationLevelSerializable(boolean b) { setTxIsolationLevelSequential = b; } 

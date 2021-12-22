@@ -1,0 +1,1 @@
+ public void setMethod(HttpMethod m) { method = m; } 

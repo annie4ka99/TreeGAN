@@ -1,0 +1,1 @@
+ public int getLineNumber() { if (hasLineNumber()) { return this.lineNumber.intValue(); } return -1; } 

@@ -1,0 +1,1 @@
+ public boolean isLetter() { return !isEmpty() && !isSpecial() && isLetter(ch); } 

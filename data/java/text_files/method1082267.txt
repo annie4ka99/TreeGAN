@@ -1,0 +1,1 @@
+ public void setDiagramVerticalMinText(java.lang.String arg1) { getDiagram().setVerticalMinText(arg1); } 

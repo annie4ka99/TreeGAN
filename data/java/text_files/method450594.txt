@@ -1,0 +1,1 @@
+ public MateAction (double timesPerSecond) { setRate(timesPerSecond); } 

@@ -1,0 +1,1 @@
+public void sendEvtImmediateStop() { manipulateEvtList(EVT_ADD_FIRST, new MgEvtImmediateStop()); } 

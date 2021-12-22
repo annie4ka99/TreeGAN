@@ -1,0 +1,1 @@
+ public Suite lightweightCopyOf(String newName) { return new Suite(newName, this); } 

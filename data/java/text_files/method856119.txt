@@ -1,0 +1,1 @@
+ public Animation getAnimation() { return this.animation; } 

@@ -1,0 +1,1 @@
+ public Project getCurrentProject() { return currentProject; } 

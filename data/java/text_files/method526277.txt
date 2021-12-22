@@ -1,0 +1,1 @@
+ public boolean isFinalIndex() { return finalIndex; } 

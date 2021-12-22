@@ -1,0 +1,1 @@
+ public T read(InputStream in) throws XmlException { _xml._parser.setInput(in); return ( T ) parse(); } 

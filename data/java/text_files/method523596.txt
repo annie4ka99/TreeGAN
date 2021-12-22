@@ -1,0 +1,1 @@
+ public void setLEFT(int left) { LEFT = left; } 

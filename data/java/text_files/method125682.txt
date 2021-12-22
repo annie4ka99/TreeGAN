@@ -1,0 +1,1 @@
+ public boolean isCellEditable(int row, int col) { return editable; } 

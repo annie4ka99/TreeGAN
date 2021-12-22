@@ -1,0 +1,1 @@
+ protected String generateToken(HttpServletRequest request) { return token.generateToken(request); } 

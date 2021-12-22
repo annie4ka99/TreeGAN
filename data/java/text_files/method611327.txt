@@ -1,0 +1,1 @@
+ public void identifyLocation(FOS inLocation){ } 

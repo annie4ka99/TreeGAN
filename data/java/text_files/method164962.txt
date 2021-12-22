@@ -1,0 +1,1 @@
+ public void setSender(boolean sender) { this.sender = sender; if (sender) { setRequired(true); } } 

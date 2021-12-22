@@ -1,0 +1,1 @@
+ public PamTableItem removeTableItem(int itemIndex) { return pamTableItems.remove(itemIndex); } 

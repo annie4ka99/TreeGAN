@@ -1,0 +1,1 @@
+ public void moveToRid(RID rid) { moveTo(rid.blockNumber()); rp.moveToId(rid.id()); } 

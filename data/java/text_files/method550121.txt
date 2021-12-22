@@ -1,0 +1,1 @@
+ public void apply() { ui.setRefreshInterval(Integer.parseInt(value.getText())); } 

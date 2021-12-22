@@ -1,0 +1,1 @@
+ public boolean isJMemoryBasedOwner() { return physical != 0 && (owner || keeper instanceof JMemory); } 

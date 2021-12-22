@@ -1,0 +1,1 @@
+ public boolean clientIsRunning() { if(client == null) return false; else return client.getClientIsConnected(); } 

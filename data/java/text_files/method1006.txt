@@ -1,0 +1,1 @@
+ public Integer getHighlightIntensity(Solution solution) { return highlightedSolutions.get(solution); } 

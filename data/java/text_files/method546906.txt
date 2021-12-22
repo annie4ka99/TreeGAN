@@ -1,0 +1,1 @@
+ public NetObject getNetObjectAt(int i) { return (NetObject)objects.get(i); } 

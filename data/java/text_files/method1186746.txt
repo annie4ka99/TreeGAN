@@ -1,0 +1,1 @@
+ public String getWebSite() { return this.webSite; } 

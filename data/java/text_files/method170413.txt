@@ -1,0 +1,1 @@
+ public void setTrainingType(int trainingType) { this.trainingType = trainingType; } 

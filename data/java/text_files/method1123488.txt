@@ -1,0 +1,1 @@
+ public boolean contains(int[] word) { return member(word); } 

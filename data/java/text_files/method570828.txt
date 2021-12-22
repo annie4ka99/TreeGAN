@@ -1,0 +1,1 @@
+ public void setFilterNurericCols( boolean filterNurericCols ) { this.filterNurericCols = filterNurericCols; } 

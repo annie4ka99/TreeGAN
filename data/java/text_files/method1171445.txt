@@ -1,0 +1,1 @@
+ public boolean hasValid() { return hasValid; } 

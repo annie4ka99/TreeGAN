@@ -1,0 +1,1 @@
+ public void setSaveImmediately(boolean saveImmediately) { this.saveImmediately = saveImmediately; } 

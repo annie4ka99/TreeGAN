@@ -1,0 +1,1 @@
+ public Document findDocumentByName ( String aName ){ return (Document)docByName.get(aName); } 

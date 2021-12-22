@@ -1,0 +1,1 @@
+ public void setOwner(VersionPersistence owner) { this.owner = owner; } 

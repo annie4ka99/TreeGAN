@@ -1,0 +1,1 @@
+ public PageDecoration getHeader() { return header; } 

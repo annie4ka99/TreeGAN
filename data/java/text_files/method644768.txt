@@ -1,0 +1,1 @@
+ public String convertDecimalToBinary(double decimal) { return decimalToBinary(decimal); } 

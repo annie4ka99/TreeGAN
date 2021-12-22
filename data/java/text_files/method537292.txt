@@ -1,0 +1,1 @@
+ private FloatControl getGainControl() { return this.gainControl; } 

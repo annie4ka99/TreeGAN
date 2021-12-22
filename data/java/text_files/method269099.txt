@@ -1,0 +1,1 @@
+ public boolean supportsLimitedOuterJoins() throws java.sql.SQLException { return true; } 

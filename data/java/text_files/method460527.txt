@@ -1,0 +1,1 @@
+ public void setSamlAuthnStatement(SamlAuthnStatementType value) { this.samlAuthnStatement = value; } 

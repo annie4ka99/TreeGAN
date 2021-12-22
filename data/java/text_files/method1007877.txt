@@ -1,0 +1,1 @@
+ public ExtendedBufferCapabilities derive(VSyncType t) { return new ExtendedBufferCapabilities(this, t); } 

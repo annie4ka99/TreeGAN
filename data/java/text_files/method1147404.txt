@@ -1,0 +1,1 @@
+ public void setDirection(Point3d direction) { this.direction = direction; } 

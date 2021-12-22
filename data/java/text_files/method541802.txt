@@ -1,0 +1,1 @@
+ public EventSupport getPropChanges() { return propChanges; } 

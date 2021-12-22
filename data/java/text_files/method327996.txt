@@ -1,0 +1,1 @@
+ public void addAngleData(double angle) { angleVetoDisplay.newAngle(angle); } 

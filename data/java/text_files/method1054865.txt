@@ -1,0 +1,1 @@
+ public void setDokumentTypKey(String dokumentTypKey) { this.dokumentTypKey = dokumentTypKey; } 

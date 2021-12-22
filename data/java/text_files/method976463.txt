@@ -1,0 +1,1 @@
+ public void replace(int i, Travelbug pTb) { tbList.set(i, pTb); } 

@@ -1,0 +1,1 @@
+ public void setIPAddress(java.lang.String newIPAddress) { IPAddress = newIPAddress; } 

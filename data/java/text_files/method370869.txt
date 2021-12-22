@@ -1,0 +1,1 @@
+ public void addListFilter(ViewerFilter filter) { fListViewer.addFilter(filter); } 

@@ -1,0 +1,1 @@
+ public void setResponseListener( ResponseListener listener ) { this.responseListener = listener; } 

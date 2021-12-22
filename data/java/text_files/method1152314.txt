@@ -1,0 +1,1 @@
+ public int getVertexCount() { return m_vertexCount; } 

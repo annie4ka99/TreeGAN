@@ -1,0 +1,1 @@
+ private void setupBgColor(boolean forStart) { if (useBgColor) { int rgb = (forStart ? bgColorStart : bgColorStop); setBackground( new Color(rgb) ); setOpaque(false); } else { } } 

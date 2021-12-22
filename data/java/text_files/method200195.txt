@@ -1,0 +1,1 @@
+ public void setUserPermissions(Permissions userPermissions) { this.userPermissions = userPermissions; } 

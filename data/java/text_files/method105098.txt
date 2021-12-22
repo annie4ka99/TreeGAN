@@ -1,0 +1,1 @@
+ public void setOwner(String value) { this.owner = value; } 

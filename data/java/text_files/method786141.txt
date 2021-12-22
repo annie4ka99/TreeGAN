@@ -1,0 +1,1 @@
+ public Schema lockSchema() { m_locked = true; return this; } 

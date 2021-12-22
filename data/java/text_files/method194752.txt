@@ -1,0 +1,1 @@
+ public long getAbsoluteStart(){ return this.is.getAbsolutePosition() + (long)(this.is.getStartOffset()); } 

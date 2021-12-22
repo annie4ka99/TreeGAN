@@ -1,0 +1,1 @@
+ private JDistServiceInterface getCallback() { return callback; } 

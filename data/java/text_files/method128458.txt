@@ -1,0 +1,1 @@
+ public int getAbilityCount() { return 6; } 

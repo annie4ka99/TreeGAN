@@ -1,0 +1,1 @@
+ public int getGraphHeight(JPanel panel) { return printing ? this.printHeight : panel.getHeight(); } 

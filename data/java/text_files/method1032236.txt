@@ -1,0 +1,1 @@
+ public XAResource getXAResource() throws SQLException { return this; } 

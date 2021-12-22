@@ -1,0 +1,1 @@
+ public void destroy() { if (thePlayer == null) return; thePlayer.close(); parentFrame.dispose(); } 

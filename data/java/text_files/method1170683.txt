@@ -1,0 +1,1 @@
+ public void setXManaCostPaid(int n) { xManaCostPaid = n; } 

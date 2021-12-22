@@ -1,0 +1,1 @@
+ public void control(int value) { super.setUByte(0, value); } 

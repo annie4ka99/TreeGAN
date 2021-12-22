@@ -1,0 +1,1 @@
+ public int getColumnCount( ) { return ( model == null ) ? 0 : model.getColumnCount( ); } 

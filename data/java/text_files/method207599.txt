@@ -1,0 +1,1 @@
+ public Number getOpenValue(int series, int item) { return getSeries(series).getValue(item); } 

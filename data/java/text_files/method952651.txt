@@ -1,0 +1,1 @@
+ public int hash() { return name.hashCode()+registryName.hashCode()+registryAddress.hashCode(); } 

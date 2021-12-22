@@ -1,0 +1,1 @@
+ public Tablero getTablero2() { return tablero2; } 

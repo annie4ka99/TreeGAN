@@ -1,0 +1,1 @@
+ public void afterCreation(Object obj) { createdBeans.add(obj); } 

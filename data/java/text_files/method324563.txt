@@ -1,0 +1,1 @@
+ public void setDoRun(boolean doRun) { this.doRun = doRun; } 

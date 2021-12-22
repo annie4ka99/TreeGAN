@@ -1,0 +1,1 @@
+ protected void setTransaction(IAeTransaction aTransaction) { mTransactionThreadLocal.set(aTransaction); } 

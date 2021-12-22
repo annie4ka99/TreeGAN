@@ -1,0 +1,1 @@
+ public Property getTargetProperty() { return this.targetProperty; } 

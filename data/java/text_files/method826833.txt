@@ -1,0 +1,1 @@
+ public void unregister(Attribute attribute) { usedByObjects.remove(attribute); } 

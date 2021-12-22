@@ -1,0 +1,1 @@
+ public void setThresholdInf(final double i) { thresholdInf = i; } 

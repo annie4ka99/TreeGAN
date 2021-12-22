@@ -1,0 +1,1 @@
+ public void setUByte(long sequence, int value) { this.storage.setUByte(map(sequence), value); } 

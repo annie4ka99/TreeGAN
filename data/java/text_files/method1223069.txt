@@ -1,0 +1,1 @@
+ public void outputChemical(){ outputField.addQuantity(position, chemicalOutRate); } 

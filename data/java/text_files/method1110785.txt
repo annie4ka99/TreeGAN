@@ -1,0 +1,1 @@
+ public Object clone() { return cloneEntries((AttributeMap) super.clone()); } 

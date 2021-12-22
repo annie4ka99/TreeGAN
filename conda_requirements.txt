@@ -1,0 +1,6 @@
+lark-parser>=0.7.8
+pytorch=1.8.2
+cudatoolkit=11.1.1
+numpy>=1.21.4
+hyperopt>=0.2.5
+matplotlib

@@ -1,0 +1,1 @@
+ public boolean getAutoCommit() throws SQLException { return this.autoCommit; } 

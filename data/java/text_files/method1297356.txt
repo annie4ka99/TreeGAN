@@ -1,0 +1,1 @@
+ public void removeSeries(int index) { mSeries.remove(index); } 

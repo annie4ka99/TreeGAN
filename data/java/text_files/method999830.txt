@@ -1,0 +1,1 @@
+ static public int getStringHeight() { return CurFont.getHeight(); } 

@@ -1,0 +1,1 @@
+ public void setRedirectAllowed(boolean redirectAllowed) { this.redirectAllowed = redirectAllowed; } 

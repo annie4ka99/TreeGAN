@@ -1,0 +1,1 @@
+ public void changeSelectedTab(int index) { tabbedPane.setSelectedIndex(index); } 

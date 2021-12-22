@@ -1,0 +1,1 @@
+ public void clearSelection() { sel_range.clear(); sel_range.notifyObservers(); setResiduesSelected(false); } 

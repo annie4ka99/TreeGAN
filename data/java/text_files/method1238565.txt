@@ -1,0 +1,1 @@
+ public Element getElement(QName qname) { return (Element) elementTypeEntries.get(qname); } 

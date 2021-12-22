@@ -1,0 +1,1 @@
+ public double getArea() { return isEmpty() ? 0.0 : (width * height * Math.PI / 4); } 

@@ -1,0 +1,1 @@
+ public float getX() { if (changed) { compute(); } return mRadiusOfGroup.getX(); } 

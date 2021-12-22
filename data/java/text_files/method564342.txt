@@ -1,0 +1,1 @@
+ public void unlockAttribute() { if (attributeLock != null) { attributeLock.unlock(); } } 

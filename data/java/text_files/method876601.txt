@@ -1,0 +1,1 @@
+ protected void setParentQueryName(String subSegment) { } 

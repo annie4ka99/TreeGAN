@@ -1,0 +1,1 @@
+ public String getGroup() { return group; } 

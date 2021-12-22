@@ -1,0 +1,1 @@
+ public void setShowingMenu(boolean b) { showingMenu = b; } 

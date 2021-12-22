@@ -1,0 +1,1 @@
+ public void setJLChartListener(IJLChartListener l) { listener = l; } 

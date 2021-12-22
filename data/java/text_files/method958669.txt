@@ -1,0 +1,1 @@
+ public void submit(RegistryObjectListType regObjList) throws ServiceException { commit(regObjList); } 

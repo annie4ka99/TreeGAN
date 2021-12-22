@@ -1,0 +1,1 @@
+ public void removeListener(SQLHistoryChangedListener listener) { _listeners.remove(listener); } 

@@ -1,0 +1,1 @@
+ public void setPC(int i) { PC = i & 0xFFFF; } 

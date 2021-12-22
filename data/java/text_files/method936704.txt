@@ -1,0 +1,1 @@
+ protected boolean doIsFile() { return file.isFile(); } 

@@ -1,0 +1,1 @@
+ public void setStrokeColor(int row, int color) { setInt(row, VisualItem.STROKECOLOR, color); } 

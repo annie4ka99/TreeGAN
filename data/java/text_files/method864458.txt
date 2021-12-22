@@ -1,0 +1,1 @@
+ public void multiplyInts() { instructions.append( OP_multiply_i); } 

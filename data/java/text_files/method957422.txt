@@ -1,0 +1,1 @@
+ public void setBoundedBy(BoundingShapeType value) { this.boundedBy = value; } 

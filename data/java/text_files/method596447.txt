@@ -1,0 +1,1 @@
+ public short getNodeType (){ return nodeType; } 

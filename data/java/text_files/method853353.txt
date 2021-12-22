@@ -1,0 +1,1 @@
+ public void addBunch(Bunch bunch) { this.bunches.add(bunch); } 

@@ -1,0 +1,1 @@
+ public GPS_FixQualityType getQuality() { return quality; } 

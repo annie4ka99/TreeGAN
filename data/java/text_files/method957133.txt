@@ -1,0 +1,1 @@
+ public RegistryObjectQueryType createRegistryObjectQueryType() { return new RegistryObjectQueryType(); } 

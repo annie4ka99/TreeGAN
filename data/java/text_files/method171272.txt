@@ -1,0 +1,1 @@
+ public void visitStackInstruction(StackInstruction o){ _visitStackAccessor(o); } 

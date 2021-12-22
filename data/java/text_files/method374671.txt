@@ -1,0 +1,1 @@
+ public boolean isCached(byte[] address) { return this.cache.containsKey(toHashCode(address)); } 

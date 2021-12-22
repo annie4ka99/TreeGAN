@@ -1,0 +1,1 @@
+ public int getPolyType() { return m_polyType; } 

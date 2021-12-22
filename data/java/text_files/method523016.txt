@@ -1,0 +1,1 @@
+public void setMaxConcurrentSession(int newMaxConcurrentSession) { maxConcurrentSession = newMaxConcurrentSession; } 

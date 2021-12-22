@@ -1,0 +1,1 @@
+ public Object getStatic(FlowElement node) { return node.getStaticArguments().get(name); } 

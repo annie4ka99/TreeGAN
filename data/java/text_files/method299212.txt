@@ -1,0 +1,1 @@
+ public void setAbsoluteLocation(Point p) { _location = fixPoint( p ); } 

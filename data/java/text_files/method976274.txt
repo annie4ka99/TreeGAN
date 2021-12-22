@@ -1,0 +1,1 @@
+ public boolean getCustomIcons() { return cbCustomIcons.state; } 

@@ -1,0 +1,1 @@
+ public void setSendTo(HashMap sendTo) { this.sendTo = sendTo; } 

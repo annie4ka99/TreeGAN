@@ -1,0 +1,1 @@
+ public void setQuery(String qu) { query=qu; queryDone = false; } 

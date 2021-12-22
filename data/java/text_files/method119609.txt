@@ -1,0 +1,1 @@
+ public List getChildren() { if (children == null) return Collections.EMPTY_LIST; return children; } 

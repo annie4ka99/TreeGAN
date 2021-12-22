@@ -1,0 +1,1 @@
+ public SimplePath getParent() { return parent; } 

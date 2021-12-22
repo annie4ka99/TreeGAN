@@ -1,0 +1,1 @@
+ public boolean isAscending(int i) { return m_ascend[i]; } 

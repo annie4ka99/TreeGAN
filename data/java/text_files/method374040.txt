@@ -1,0 +1,1 @@
+ public boolean hasStaticLength() { return this.staticLength != -1; } 

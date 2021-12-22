@@ -1,0 +1,1 @@
+ public Attribute getAttribute(AttributeDefinition ad) { return attributes.get(ad); } 

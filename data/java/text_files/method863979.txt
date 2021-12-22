@@ -1,0 +1,1 @@
+ public FrameBuilder currentFrame() { if( currentFrame == null ) { addFrame(); } return currentFrame; } 

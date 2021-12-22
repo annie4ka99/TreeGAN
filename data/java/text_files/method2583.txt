@@ -1,0 +1,1 @@
+ final public void setMarking(int x, int y) { marked[x + width * y] = true; } 

@@ -1,0 +1,1 @@
+ private void handleException(Throwable exception) { log.error("Unhandled Exception", exception); } 

@@ -1,0 +1,1 @@
+ public String getSymbolNameDetVarNames() { return ecTerm2.getSymbolNameVariables(); } 

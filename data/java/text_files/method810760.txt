@@ -1,0 +1,1 @@
+ public Adapter createSourceFileListTypeAdapter() { return null; } 

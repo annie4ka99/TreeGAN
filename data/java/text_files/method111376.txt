@@ -1,0 +1,1 @@
+ public boolean isInitialized() { return ((initErrors == null) || (initErrors.size() == 0)); } 

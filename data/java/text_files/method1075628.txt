@@ -1,0 +1,1 @@
+ public void setProvinceCd(int provinceCd) { this.provinceCd = provinceCd; } 

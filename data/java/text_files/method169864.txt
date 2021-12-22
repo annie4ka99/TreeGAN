@@ -1,0 +1,1 @@
+ public void setMulti(int row, boolean multi) { rowMulti.put("" + row, "" + multi); } 

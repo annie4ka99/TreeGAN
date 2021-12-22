@@ -1,0 +1,1 @@
+ public void setHideGroups(boolean hideGroups) { this.hideGroups = hideGroups; } 

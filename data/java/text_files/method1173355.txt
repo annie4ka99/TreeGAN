@@ -1,0 +1,1 @@
+ public String getExileType() { return exileType; } 

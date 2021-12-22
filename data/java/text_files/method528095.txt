@@ -1,0 +1,1 @@
+ protected String getCollection() { return collection; } 

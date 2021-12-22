@@ -1,0 +1,1 @@
+ public Word getMasterlistWord(String arg0) { return masterlist.get(arg0); } 

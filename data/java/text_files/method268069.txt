@@ -1,0 +1,1 @@
+ public int getMaxColumnsInGroupBy() throws java.sql.SQLException { return 64; } 

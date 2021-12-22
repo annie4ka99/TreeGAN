@@ -1,0 +1,1 @@
+ public void setNameBranch(InternationalStringBranchType value) { this.nameBranch = value; } 

@@ -1,0 +1,1 @@
+ protected OclCollection _select(OclExpression expr) { return elect(expr, BooleanInstance.TRUE); } 

@@ -1,0 +1,1 @@
+ public AccountDTO getInfo(int accId) { return _Dao.getInfo(accId); } 

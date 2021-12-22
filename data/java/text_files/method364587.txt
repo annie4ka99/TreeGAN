@@ -1,0 +1,1 @@
+ private void setHeight() { if (texHeight != 0) { heightRatio = ((float) height) / texHeight; } } 

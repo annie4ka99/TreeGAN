@@ -1,0 +1,1 @@
+ final public void removeMarking(int position) { marked[position] = false; } 

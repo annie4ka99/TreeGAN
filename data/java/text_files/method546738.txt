@@ -1,0 +1,1 @@
+ public JLabel getHelpLabel() { return helpLabel; } 

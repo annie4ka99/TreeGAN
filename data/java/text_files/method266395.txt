@@ -1,0 +1,1 @@
+ public void setFont(Font font) { if (textField != null) { textField.setFont(font); } } 

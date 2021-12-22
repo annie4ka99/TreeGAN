@@ -1,0 +1,1 @@
+ public boolean addIFicha1(IFicha ficha) { return ficha1.add(ficha); } 

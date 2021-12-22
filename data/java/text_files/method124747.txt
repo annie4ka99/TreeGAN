@@ -1,0 +1,1 @@
+ public void setNumberRange(NumberRange range) { numberRange = range; } 

@@ -1,0 +1,1 @@
+ public TransactionResponseType getTransactionResponse() { return transactionResponse; } 

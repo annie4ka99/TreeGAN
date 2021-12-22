@@ -1,0 +1,1 @@
+ public void clamp() { if (stepsize < minstepsize) stepsize = mapdesc.clampfactor * minstepsize; } 

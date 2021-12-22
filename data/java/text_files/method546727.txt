@@ -1,0 +1,1 @@
+ public int getUserType() { return userType; } 

@@ -1,0 +1,1 @@
+ public void setAlign( int align ) { align = checkAlign( align ); this.align = align; } 

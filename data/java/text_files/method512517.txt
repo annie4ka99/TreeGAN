@@ -1,0 +1,1 @@
+ public void setBusinessMethod(final boolean flag) { this.businessMethod = flag; } 

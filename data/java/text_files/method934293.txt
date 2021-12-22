@@ -1,0 +1,1 @@
+ public boolean isFinalBoundaryEncountered() { return this.finalBoundaryEncountered; } 

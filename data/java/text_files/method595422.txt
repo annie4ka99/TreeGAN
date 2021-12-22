@@ -1,0 +1,1 @@
+ public void setDateCreate(Date dateCreate) { this.dateCreate = dateCreate; } 

@@ -1,0 +1,1 @@
+ public void setBackButtonEnabled(boolean pNewValue) { wizardModel.setBackButtonEnabled(new Boolean(pNewValue)); } 

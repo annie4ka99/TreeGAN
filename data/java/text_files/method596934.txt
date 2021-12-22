@@ -1,0 +1,1 @@
+ public void loadArg(final int arg) { loadInsn(argumentTypes[arg], getArgIndex(arg)); } 

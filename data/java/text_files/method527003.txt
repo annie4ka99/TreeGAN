@@ -1,0 +1,1 @@
+ public long getNumberOfUserAuthenticators() { return _userAuthenticators.size(); } 

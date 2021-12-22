@@ -1,0 +1,1 @@
+ public Lang getDefaultLang(){ return _defaultLang; } 

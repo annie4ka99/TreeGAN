@@ -1,0 +1,1 @@
+ public V get(Object key) { return ( V ) ((FastMap) _mapRef.get()).get(key); } 

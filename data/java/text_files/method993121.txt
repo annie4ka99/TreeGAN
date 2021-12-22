@@ -1,0 +1,1 @@
+ public void setDestination( BufferedImage destination ) { this.destination = destination; } 

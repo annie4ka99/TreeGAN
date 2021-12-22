@@ -1,0 +1,1 @@
+ public boolean isJugador2Empty() { return jugador2.isEmpty(); } 

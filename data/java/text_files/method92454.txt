@@ -1,0 +1,1 @@
+ public boolean supportsGroupByUnrelated() { return true; } 

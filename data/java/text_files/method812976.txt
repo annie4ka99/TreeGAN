@@ -1,0 +1,1 @@
+ protected void addAction(IAction action) { getActionRegistry().registerAction(action); } 

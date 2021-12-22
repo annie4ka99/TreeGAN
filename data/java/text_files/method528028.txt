@@ -1,0 +1,1 @@
+private void setCorrectionCode(char[] newCorrectionCode) { correctionCode = newCorrectionCode; } 

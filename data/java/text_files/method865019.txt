@@ -1,0 +1,1 @@
+ public void setSWFActionBlock( SWFActionBlock acts ){ this.acts = acts; } 

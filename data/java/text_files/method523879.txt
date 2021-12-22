@@ -1,0 +1,1 @@
+public void setUpperLeftText(BPSOverlayText newUpperLeftText) { upperLeftText = newUpperLeftText; } 

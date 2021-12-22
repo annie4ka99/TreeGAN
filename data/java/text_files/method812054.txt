@@ -1,0 +1,1 @@
+ public String getJobDescription() { return "Description for service: " + getName(); } 

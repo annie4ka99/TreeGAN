@@ -1,0 +1,1 @@
+ public void setArguments(Object[] arguments) { this.m_aArguments = arguments; } 

@@ -1,0 +1,1 @@
+ public void setTotNumRec(short newValue) { this.totNumRec = newValue; } 

@@ -1,0 +1,1 @@
+ public void addEntry(String s) { super.put(s.toLowerCase(), s); } 

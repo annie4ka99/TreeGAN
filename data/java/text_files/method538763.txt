@@ -1,0 +1,1 @@
+ public FixedPointNumber createNumber(final String value) { return new FixedPointNumber(value); } 

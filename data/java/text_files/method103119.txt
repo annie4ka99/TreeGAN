@@ -1,0 +1,1 @@
+ public int rows() { return getEnd().row() - getStart().row() + 1; } 

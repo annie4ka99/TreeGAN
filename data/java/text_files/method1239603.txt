@@ -1,0 +1,1 @@
+ private void removeEntry(Entry entry) { entry.next.prev = entry.prev; entry.prev.next = entry.next; } 

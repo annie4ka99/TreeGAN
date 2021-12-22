@@ -1,0 +1,1 @@
+ public long getMsSince1904() { return msSince1904; } 

@@ -1,0 +1,1 @@
+ public SOAPElement getParentElement() { return (SOAPElement) getParent(); } 

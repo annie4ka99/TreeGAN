@@ -1,0 +1,1 @@
+ public void setCurrentBytes(int currentBytes) { this.currentBytes = currentBytes; } 

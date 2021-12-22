@@ -1,0 +1,1 @@
+ public int getXValue() { return xValue; } 

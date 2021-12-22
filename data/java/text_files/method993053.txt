@@ -1,0 +1,1 @@
+ public Kernel getKernel() { return kernel; } 

@@ -1,0 +1,1 @@
+ public void setErrorZ(double errorZ){ errors[2] = new Double(errorZ); } 

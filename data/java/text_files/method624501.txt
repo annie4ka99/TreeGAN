@@ -1,0 +1,1 @@
+ public String getResult(ConstraintParameter params) { return (String) evaluations.get(params); } 

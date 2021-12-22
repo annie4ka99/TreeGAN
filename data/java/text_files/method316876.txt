@@ -1,0 +1,1 @@
+ final public void draw(GraphicsContext3D gc3D) { if (visible) drawModel(gc3D); } 

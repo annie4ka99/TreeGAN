@@ -1,0 +1,1 @@
+ public EthernetType codeEnum() { return EthernetType.valueOf(code()); } 

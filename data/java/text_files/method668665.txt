@@ -1,0 +1,1 @@
+ public int getInt() { return (int) readInteger(Integer.MIN_VALUE, Integer.MAX_VALUE); } 

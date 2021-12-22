@@ -1,0 +1,1 @@
+ public Auth getAuth() { return auth; } 

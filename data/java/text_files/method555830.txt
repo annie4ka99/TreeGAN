@@ -1,0 +1,1 @@
+ public void setAttribute_complete_name(final String n) { this.attributeCompleteName = n; } 

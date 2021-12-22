@@ -1,0 +1,1 @@
+ public void setIconLightKO(ImageIcon icon) { m_iconLightKO = icon; } 

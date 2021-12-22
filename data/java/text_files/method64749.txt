@@ -1,0 +1,1 @@
+ public void setColumnToCompare(int column) { m_ColIndex=column; } 

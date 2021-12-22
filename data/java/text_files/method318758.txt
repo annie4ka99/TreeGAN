@@ -1,0 +1,1 @@
+ public void preferencesDialog() { prefDialog = new PreferencesDialog(this); prefDialog.display(); } 

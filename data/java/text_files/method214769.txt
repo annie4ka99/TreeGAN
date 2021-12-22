@@ -1,0 +1,1 @@
+ public String toString(){ String componentSource = get(this.name); return componentSource; } 

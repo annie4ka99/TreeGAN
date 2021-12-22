@@ -1,0 +1,1 @@
+ public int transferTo(ByteBuffer dst) { return transferTo(dst, 0, size); } 

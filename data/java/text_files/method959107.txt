@@ -1,0 +1,1 @@
+ public void setIFicha2(IFicha ficha2) { this.ficha2 = ficha2; } 

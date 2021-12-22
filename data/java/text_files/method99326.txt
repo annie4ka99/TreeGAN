@@ -1,0 +1,1 @@
+ public WSIElementTypeDictionary createWSIElementTypeDictionary() { return new WSIElementTypeDictionary(); } 

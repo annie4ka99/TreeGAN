@@ -1,0 +1,1 @@
+ public void addArrayHolder(ArrayHolder holder) { arrayHolders.put( holder.getArray(), holder ); } 

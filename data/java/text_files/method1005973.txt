@@ -1,0 +1,1 @@
+ public boolean isEmpty() { return (curves.size() == 0); } 

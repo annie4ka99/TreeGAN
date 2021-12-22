@@ -1,0 +1,1 @@
+ public void removeMimeHeader(String header) { mimeHeaders.removeHeader(header); } 

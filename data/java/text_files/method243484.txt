@@ -1,0 +1,1 @@
+ protected void dealRiverCard() throws BadCardException { dealTurnCard(); } 

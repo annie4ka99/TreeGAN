@@ -1,0 +1,1 @@
+ public int getZoomFactor() { return zoomFactor; } 

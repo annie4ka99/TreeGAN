@@ -1,0 +1,1 @@
+ public void setSearchString( String value ) { this.searchString = value ; } 

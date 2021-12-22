@@ -1,0 +1,1 @@
+ public void setRangeOfValues(RangeOfValuesType value) { this.rangeOfValues = value; } 

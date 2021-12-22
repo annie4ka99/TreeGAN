@@ -1,0 +1,1 @@
+ public IColorManager getColorManager() { return colorManager; } 

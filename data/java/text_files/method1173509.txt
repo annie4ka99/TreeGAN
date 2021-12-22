@@ -1,0 +1,1 @@
+ public void setBeforePayMana(Input in) { beforePayMana = in; } 

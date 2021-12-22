@@ -1,0 +1,1 @@
+ public void setOfail(String newOFail) { ofail = newOFail; } 

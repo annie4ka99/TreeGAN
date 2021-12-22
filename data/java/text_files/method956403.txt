@@ -1,0 +1,1 @@
+ public void setIncidenceAngleVariation(AngleType value) { this.incidenceAngleVariation = value; } 

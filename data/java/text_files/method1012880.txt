@@ -1,0 +1,1 @@
+ public TextureCoords getImageTexCoords() { return coords; } 

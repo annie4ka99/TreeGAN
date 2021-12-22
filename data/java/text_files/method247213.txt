@@ -1,0 +1,1 @@
+ public void refDelete() { setTupleType(null); setType(null); super.refDelete(); } 

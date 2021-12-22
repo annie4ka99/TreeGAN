@@ -1,0 +1,1 @@
+ public void setSelectedChannels( int selected ) { this.selectedChannels = selected; } 

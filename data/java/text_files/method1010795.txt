@@ -1,0 +1,1 @@
+ public boolean hasDeviceChanged() { return false; } 

@@ -1,0 +1,1 @@
+ public void setSuccessor(CommandHandler handler) { this.successor = handler; } 

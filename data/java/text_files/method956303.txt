@@ -1,0 +1,1 @@
+ public void setOrbitDuration(MeasureType value) { this.orbitDuration = value; } 

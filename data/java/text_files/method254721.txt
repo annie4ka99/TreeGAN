@@ -1,0 +1,1 @@
+ public TNode getDefNode() { return defNode; } 

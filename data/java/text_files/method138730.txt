@@ -1,0 +1,1 @@
+ public int fetchLastBase(){ return sortedPositions[sortedPositions.length-1].position; } 

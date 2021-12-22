@@ -1,0 +1,1 @@
+ public boolean getHighQuality() { return m_quality; } 

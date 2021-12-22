@@ -1,0 +1,1 @@
+ public DownlinkInformationArrayPropertyType getDownlinkedTo() { return downlinkedTo; } 

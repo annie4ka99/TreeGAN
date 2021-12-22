@@ -1,0 +1,1 @@
+ public void addSlowtripList(Card card) { slowtripList.add(card); } 

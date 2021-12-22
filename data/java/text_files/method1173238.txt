@@ -1,0 +1,1 @@
+ public void setAnyPlayer(boolean anyPlayer) { bAnyPlayer = anyPlayer; } 

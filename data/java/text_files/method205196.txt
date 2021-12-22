@@ -1,0 +1,1 @@
+ public void add (String name, long time) { int i = getIndex(name); add(i, time); } 

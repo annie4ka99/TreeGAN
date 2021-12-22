@@ -1,0 +1,1 @@
+ public void mouseDoubleClick(MouseEvent e) { slotValueEditing(); } 

@@ -1,0 +1,1 @@
+ public void setLineThickness(int lineThickness) { this.LineThickness = lineThickness; } 

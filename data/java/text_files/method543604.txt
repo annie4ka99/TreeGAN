@@ -1,0 +1,1 @@
+ public void setInvalidIcon(Icon v) { this.invalidIcon = v; } 

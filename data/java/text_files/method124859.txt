@@ -1,0 +1,1 @@
+ public int getRowSelectionMode() { return getSelectionModel().getSelectionMode(); } 

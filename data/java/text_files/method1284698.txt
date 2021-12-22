@@ -1,0 +1,1 @@
+ public void setYearChooser(YearChooser yearChooser) { this.yearChooser = yearChooser; } 

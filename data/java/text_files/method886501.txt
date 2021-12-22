@@ -1,0 +1,1 @@
+ public boolean hasSequenceRefTo(String sId) { return sequenceRef.contains(sId); } 

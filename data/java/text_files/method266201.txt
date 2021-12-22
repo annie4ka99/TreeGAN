@@ -1,0 +1,1 @@
+ public void setDayChooser(JDayChooser dayChooser) { this.dayChooser = dayChooser; } 

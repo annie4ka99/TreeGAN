@@ -1,0 +1,1 @@
+ protected void resetToken(HttpServletRequest request) { token.resetToken(request); } 

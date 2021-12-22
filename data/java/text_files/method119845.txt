@@ -1,0 +1,1 @@
+ public void setGraphpad(GPGraphpad graphpad) { this.graphpad = graphpad; } 

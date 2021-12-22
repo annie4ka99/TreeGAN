@@ -1,0 +1,1 @@
+ public String getTitle(String namespaceURI, String lName, String qName, Attributes attrs) { return null; } 

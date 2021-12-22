@@ -1,0 +1,1 @@
+ protected String toXML(Object root) { return xstream.toXML(root); } 

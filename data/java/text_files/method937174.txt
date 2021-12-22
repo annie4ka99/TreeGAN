@@ -1,0 +1,1 @@
+ public HistoryModel getModel() { return this.model; } 

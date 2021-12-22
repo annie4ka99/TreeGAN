@@ -1,0 +1,1 @@
+ public boolean hasFlashback() { return flashback; } 

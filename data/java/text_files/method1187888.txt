@@ -1,0 +1,1 @@
+ public MapChartMaker middleEast() { this.chtm = "middle_east"; return this; } 

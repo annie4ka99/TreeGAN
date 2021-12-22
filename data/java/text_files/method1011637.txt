@@ -1,0 +1,1 @@
+ public void endmap1f() { if (output_triangles) { } else { gl.glPopAttrib(); } } 

@@ -1,0 +1,1 @@
+ public String getOperation() { return getDetail(0).getOperation(); } 

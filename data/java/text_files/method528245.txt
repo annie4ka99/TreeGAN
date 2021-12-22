@@ -1,0 +1,1 @@
+private void setPosition10OfDocument(char[] newPosition10OfDocument) { position10OfDocument = newPosition10OfDocument; } 

@@ -1,0 +1,1 @@
+ public double getEndY(int row) { return getDouble(row, VisualItem.ENDY); } 

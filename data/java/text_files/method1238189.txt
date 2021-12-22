@@ -1,0 +1,1 @@
+ protected String verboseMessage(String file) { return Messages.getMessage("generating", file); } 

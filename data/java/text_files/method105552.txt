@@ -1,0 +1,1 @@
+ public void setSamplingDate(Date value) { this.samplingDate = value; } 

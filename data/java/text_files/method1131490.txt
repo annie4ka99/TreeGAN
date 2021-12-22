@@ -1,0 +1,1 @@
+ public Location hitDirection(SimObject hitObject) { return null; } 

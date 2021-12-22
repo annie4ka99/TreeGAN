@@ -1,0 +1,1 @@
+ public void clear() { top.removeAllChildren(); model.reload(top); } 

@@ -1,0 +1,1 @@
+ public Byte id() { return new Byte((byte) this.ordinal()); } 

@@ -1,0 +1,1 @@
+ public Mapping next() { if (iterator > top) { return null; } else { return stack[iterator++]; } } 

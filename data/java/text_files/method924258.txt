@@ -1,0 +1,1 @@
+ public ImmutableUsurperGeneratorSetup getSetup() { return this.setup; } 

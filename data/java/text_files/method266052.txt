@@ -1,0 +1,1 @@
+ public double getMaxPO2() { return maxPO2; } 

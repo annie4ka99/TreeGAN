@@ -1,0 +1,1 @@
+ public boolean isUnique(String deckName) { return !deckMap.containsKey(deckName); } 

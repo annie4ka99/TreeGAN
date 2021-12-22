@@ -1,0 +1,1 @@
+ public Adapter createDataTypeAdapter() { return null; } 

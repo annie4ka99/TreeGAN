@@ -1,0 +1,1 @@
+ public Pipeline getParent() { return parent; } 

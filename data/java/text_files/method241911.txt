@@ -1,0 +1,1 @@
+ public EntityImporter getEntityImporter(int msgno) { return new EntityImporter(entity, msgno); } 

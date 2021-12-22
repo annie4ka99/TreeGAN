@@ -1,0 +1,1 @@
+ protected int nextPrime(int desiredCapacity) { return PrimeFinder.nextPrime(desiredCapacity); } 

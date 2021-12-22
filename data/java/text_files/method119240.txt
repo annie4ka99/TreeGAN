@@ -1,0 +1,1 @@
+ public void editingCanceled(ChangeEvent e) { completeEditing(false, false, false); } 

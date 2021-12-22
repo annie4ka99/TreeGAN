@@ -1,0 +1,1 @@
+ protected JavaConfiguration createConfig() { return new JavaConfiguration(); } 

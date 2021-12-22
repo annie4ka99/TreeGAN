@@ -1,0 +1,1 @@
+ public void addOption(Option option) { options.put(option.getId(), option); } 

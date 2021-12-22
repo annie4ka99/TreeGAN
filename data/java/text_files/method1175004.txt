@@ -1,0 +1,1 @@
+ public void setRoll(double roll) { this.roll = roll; } 

@@ -1,0 +1,1 @@
+ public void saveJPG(ASDNDisplay disp, File file) { m_NetworkIO.writeJPG(disp, file); } 

@@ -1,0 +1,1 @@
+ public void visitIFEQ(IFEQ o){ stack().pop(); } 

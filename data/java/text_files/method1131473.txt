@@ -1,0 +1,1 @@
+ public boolean digitalValue(Environment env) { return getValue(env) < 512; } 

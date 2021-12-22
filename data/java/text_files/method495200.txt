@@ -1,0 +1,1 @@
+ public String getComment(String value) { return comment; } 

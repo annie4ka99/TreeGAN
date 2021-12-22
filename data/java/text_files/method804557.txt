@@ -1,0 +1,1 @@
+ public void setProgram(java.lang.String program) { this.program = program; } 

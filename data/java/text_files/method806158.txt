@@ -1,0 +1,1 @@
+ public void syncExec(Runnable runnable) { Display.getDefault().syncExec(runnable); } 

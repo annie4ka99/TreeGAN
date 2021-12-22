@@ -1,0 +1,1 @@
+ public void catchBall(String direction){ send("(catch " + direction + ")"); } 

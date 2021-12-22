@@ -1,0 +1,1 @@
+public void setJobName(String theJobName) { this.jobName=theJobName; } 

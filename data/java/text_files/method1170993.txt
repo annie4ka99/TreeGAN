@@ -1,0 +1,1 @@
+ public void setFinishedEnteringBF(boolean b) { this.finishedEnteringBF = b; } 

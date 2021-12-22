@@ -1,0 +1,1 @@
+ public void error(String message) { throw new LuaErrorException( this, message, -1 ); } 

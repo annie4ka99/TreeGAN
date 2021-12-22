@@ -1,0 +1,1 @@
+ public void setDHSpec(CryptoSpec dhSpec) { Reactor.dhSpec = dhSpec; } 

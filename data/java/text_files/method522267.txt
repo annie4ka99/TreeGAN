@@ -1,0 +1,1 @@
+ public void setPaper(String newValue) { this.paper = newValue; } 

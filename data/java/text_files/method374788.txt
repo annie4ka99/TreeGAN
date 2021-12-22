@@ -1,0 +1,1 @@
+ public void setByteBuffer(int i, ByteBuffer data) { this.storage.setByteBuffer(i, data); } 

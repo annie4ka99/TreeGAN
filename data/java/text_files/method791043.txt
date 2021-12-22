@@ -1,0 +1,1 @@
+ public void setJarFileName(String jarFileName) { this.jarFileName = jarFileName; } 

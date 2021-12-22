@@ -1,0 +1,1 @@
+ public void setThreadPoolSize(int aMin, int aMax) { mPool.setPoolSize(aMin, aMax); } 

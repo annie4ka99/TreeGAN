@@ -1,0 +1,1 @@
+ public void setMax_dim_x(final int maxDimX) { this.maxDimX = maxDimX; } 

@@ -1,0 +1,1 @@
+ public boolean storesUpperCaseQuotedIdentifiers() throws SQLException { return true; } 

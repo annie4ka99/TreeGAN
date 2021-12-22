@@ -1,0 +1,1 @@
+ public Exception getLinkedException() { return (linkedException); } 

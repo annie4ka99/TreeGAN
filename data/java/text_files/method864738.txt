@@ -1,0 +1,1 @@
+ public void pushString( String s ) { instructions.append( OP_pushstring, s ); } 

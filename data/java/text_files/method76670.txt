@@ -1,0 +1,1 @@
+ private void registerIDocImport(IDocumentImport iDocumentImport) { this.iDocumentImport = iDocumentImport; } 

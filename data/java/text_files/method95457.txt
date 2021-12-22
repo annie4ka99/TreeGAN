@@ -1,0 +1,1 @@
+ public boolean isCaseSensitive(int column) throws SQLException { throw new SQLException("isCaseSensitive"); } 

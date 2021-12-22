@@ -1,0 +1,1 @@
+ public boolean jdoIsDeleted() { return getPersistencyState().isRemoved() || getPersistencyState().isRemovedPending(); } 

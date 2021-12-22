@@ -1,0 +1,1 @@
+ public int getChildNum(int slot) { return getInt(slot, "block"); } 

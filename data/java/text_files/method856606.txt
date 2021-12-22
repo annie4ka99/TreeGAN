@@ -1,0 +1,1 @@
+ private void showPrefsWin(){ PreferencesBox prefs = PreferencesBox.getPrefsWin(); prefs.setVisible(true); } 

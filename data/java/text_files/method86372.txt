@@ -1,0 +1,1 @@
+ private PrintWriterGetHeader makeHeader() { return new BasicGetLogHeader(true, true, (String) null); } 

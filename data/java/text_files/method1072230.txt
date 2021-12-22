@@ -1,0 +1,1 @@
+ protected XY getFixture() { return fixture; } 

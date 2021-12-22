@@ -1,0 +1,1 @@
+ protected Shell getShell() { return getWorkbench().getActiveWorkbenchWindow().getShell(); } 

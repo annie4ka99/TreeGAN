@@ -1,0 +1,1 @@
+ public void setResourceName(String value) { this.resourceName = value; } 

@@ -1,0 +1,1 @@
+ public void setNextScriptCommand(ScriptCommand nextScriptCommand) { this.nextScriptCommand = nextScriptCommand; } 

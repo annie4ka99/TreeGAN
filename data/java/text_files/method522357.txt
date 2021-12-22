@@ -1,0 +1,1 @@
+public void setJobError(String newValue) { this.jobError = newValue; } 

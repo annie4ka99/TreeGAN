@@ -1,0 +1,1 @@
+ public void setSelectNewCells(boolean flag) { selectNewCells = flag; } 

@@ -1,0 +1,1 @@
+ public boolean getAntialiasFont() { return useAAFont; } 

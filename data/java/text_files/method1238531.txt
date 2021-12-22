@@ -1,0 +1,1 @@
+ public boolean getGenerateServerSide() { return isServerSide(); } 

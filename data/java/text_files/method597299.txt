@@ -1,0 +1,1 @@
+ public void ifNonNull(final Label label) { mv.visitJumpInsn(Opcodes.IFNONNULL, label); } 

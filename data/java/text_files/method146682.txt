@@ -1,0 +1,1 @@
+ public void setAltitude(BigDecimal altitude) { this.altitude = altitude; } 

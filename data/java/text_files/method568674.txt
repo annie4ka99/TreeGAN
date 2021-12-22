@@ -1,0 +1,1 @@
+ public void addCell(Cell c) { if (world.contains(c) == false) { world.add(c); } publish(); } 

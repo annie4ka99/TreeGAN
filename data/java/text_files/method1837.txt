@@ -1,0 +1,1 @@
+ final public boolean isCorralForcerSquare(int x, int y) { return corralForcer[x + width * y]; } 

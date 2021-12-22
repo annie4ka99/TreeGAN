@@ -1,0 +1,1 @@
+ public WriterHandler setWriter(Writer writer) { _writer = writer; return this; } 

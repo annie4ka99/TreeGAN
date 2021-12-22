@@ -1,0 +1,1 @@
+ public int getPanelCount() { if (panels == null) { return 0; } return panels.size(); } 

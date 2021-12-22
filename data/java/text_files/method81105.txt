@@ -1,0 +1,1 @@
+ public void trace(boolean onoff) { try { serverControl.trace(onoff); } catch (Exception e) { e.printStackTrace(); } } 

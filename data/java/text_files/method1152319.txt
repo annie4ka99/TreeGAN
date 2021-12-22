@@ -1,0 +1,1 @@
+ public void addVertex(Vec2 newV) { vertices.add(newV); } 

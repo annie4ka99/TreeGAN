@@ -1,0 +1,1 @@
+ public void setNuovaPassword(String nuova_password) { this.nuova_password = nuova_password; } 

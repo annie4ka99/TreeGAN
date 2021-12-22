@@ -1,0 +1,1 @@
+ public Action getAction(String name) { return (Action)m_actions.get(name); } 

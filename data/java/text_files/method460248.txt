@@ -1,0 +1,1 @@
+ public SamlSignatureKeyInfoType getKeyInfo() { return keyInfo; } 

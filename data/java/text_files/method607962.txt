@@ -1,0 +1,1 @@
+ public int getNbIndices() { return this.nbIndices; } 

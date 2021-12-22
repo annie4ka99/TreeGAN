@@ -1,0 +1,1 @@
+ private NamespaceStack createNamespaceStack() { return new NamespaceStack(); } 

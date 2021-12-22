@@ -1,0 +1,1 @@
+ public void setMultiKickerMagnitude(int n) { multiKickerMagnitude = n; } 

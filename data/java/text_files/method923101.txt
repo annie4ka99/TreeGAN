@@ -1,0 +1,1 @@
+ protected IndexNode createIndexNode(boolean unique, char digit){ return new IndexNode(unique, digit); } 

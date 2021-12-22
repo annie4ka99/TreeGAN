@@ -1,0 +1,1 @@
+ public TwoDCoordinate getPosition() { return position; } 

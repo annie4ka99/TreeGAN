@@ -1,0 +1,1 @@
+ public Particle getBestParticle(Particle p) { return bestInNeighborhood.get(p); } 

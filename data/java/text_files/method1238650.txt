@@ -1,0 +1,1 @@
+ public void update(TypeEntry def) throws IOException { delegate.update(def); } 

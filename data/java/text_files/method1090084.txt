@@ -1,0 +1,1 @@
+ protected void setCompletedProcessCount(int aCompletedProcessCount) { mCompletedProcessCount = aCompletedProcessCount; } 

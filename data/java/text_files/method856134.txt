@@ -1,0 +1,1 @@
+ public int getDegrees() { return this.degree; } 

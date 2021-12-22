@@ -1,0 +1,1 @@
+ public void setDoi(String value) { this.doi = value; } 

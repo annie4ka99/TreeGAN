@@ -1,0 +1,1 @@
+ public void setExternalLinks(List externalLinks) { this.externalLinks = externalLinks; } 

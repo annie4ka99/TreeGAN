@@ -1,0 +1,1 @@
+ public void setBounds(Rectangle r) { this.setBounds(r.x, r.y, r.width, r.height); } 

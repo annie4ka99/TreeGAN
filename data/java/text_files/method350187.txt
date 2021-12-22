@@ -1,0 +1,1 @@
+ public void addSpectrogram2D( ){ if (spectro2D!=null){ spectrogramGroup.addChild(spectro2D); } } 

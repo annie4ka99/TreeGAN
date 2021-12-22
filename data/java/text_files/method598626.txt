@@ -1,0 +1,1 @@
+ public int removeAuthLength(ZrtpConstants.SupportedAuthLengths algo) { return authLengths.removeAlgo(algo); } 

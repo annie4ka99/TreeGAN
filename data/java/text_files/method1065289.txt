@@ -1,0 +1,1 @@
+ public void setDiagramElement(DiagramElement diagramElement){ this.diagramElement=diagramElement; } 

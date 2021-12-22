@@ -1,0 +1,1 @@
+ public Rectangle getSelectionRect() { if (hasSelection()) { return buildSelectionRect(); } else return null; } 

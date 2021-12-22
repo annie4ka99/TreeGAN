@@ -1,0 +1,1 @@
+ public void setShouldChangeCardName(boolean b) { changeCardName = b; } 

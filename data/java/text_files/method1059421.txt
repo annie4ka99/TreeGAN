@@ -1,0 +1,1 @@
+ public void setContainer(boolean value){ this.isContainer = value; this.repaint(); } 

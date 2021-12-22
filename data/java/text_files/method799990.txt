@@ -1,0 +1,1 @@
+ public Point getCellSpacing() { return new Point( cellSpacing.x, cellSpacing.y ); } 

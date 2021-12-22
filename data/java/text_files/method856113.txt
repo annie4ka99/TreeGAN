@@ -1,0 +1,1 @@
+ public Wall getNorthernWall() { return this.northernWall; } 

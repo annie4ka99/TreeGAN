@@ -1,0 +1,1 @@
+ public void setExp(java.lang.Float exp) { this.exp = exp; } 

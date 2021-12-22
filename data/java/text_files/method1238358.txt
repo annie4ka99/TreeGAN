@@ -1,0 +1,1 @@
+ public List getNamespaceIncludes() { return this.nsIncludes; } 

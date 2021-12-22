@@ -1,0 +1,1 @@
+ private boolean hasEmbeddedTabs() { return embeddedTabs == null ? false : embeddedTabs.booleanValue(); } 

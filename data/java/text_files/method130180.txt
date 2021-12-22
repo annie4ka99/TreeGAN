@@ -1,0 +1,1 @@
+ public boolean isStateReady () { if (readyState) { readyState = false; return true; } return false; } 

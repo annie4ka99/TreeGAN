@@ -1,0 +1,1 @@
+ public boolean isOperationDIME(String operationName) { return (dimeOps.indexOf(operationName) >= 0); } 

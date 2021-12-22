@@ -1,0 +1,1 @@
+ public void setDynamicVar(Object key, Object value) { dynamicVars.put(key, value); } 

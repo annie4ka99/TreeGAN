@@ -1,0 +1,1 @@
+ public void writeToTarget( TranslationTarget target ) { target.insertABC( abcFile ); } 

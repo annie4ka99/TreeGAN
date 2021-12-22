@@ -1,0 +1,1 @@
+ public boolean supportsGroupBy() throws java.sql.SQLException { return true; } 

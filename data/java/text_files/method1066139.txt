@@ -1,0 +1,1 @@
+ public TransitionGuardAndAllDisplayEditPart getGuardAndAllDisplayEditPart(){ return theGuardAndAll; } 

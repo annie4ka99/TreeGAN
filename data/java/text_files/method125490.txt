@@ -1,0 +1,1 @@
+ public void removeTS(String name) { if (tsList.contains(name)) tsList.remove(name); } 

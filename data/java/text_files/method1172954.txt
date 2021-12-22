@@ -1,0 +1,1 @@
+ private void addPayTapXTypeTappedList(Card c) { payTapXTypeTappedList.add(c); } 

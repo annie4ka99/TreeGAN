@@ -1,0 +1,1 @@
+public void setBpsLoader(BpsLoader newValue) { this.bpsLoader = newValue; } 

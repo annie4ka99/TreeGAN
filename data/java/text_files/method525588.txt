@@ -1,0 +1,1 @@
+ public void setDefaultTeam(boolean newDefaultTeam) { defaultTeam = newDefaultTeam; } 

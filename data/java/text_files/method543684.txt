@@ -1,0 +1,1 @@
+ public void setVerticalExtent(int ratio) { verticalExtent = ratio; } 

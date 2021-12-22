@@ -1,0 +1,1 @@
+ public JSearchPanel createSearchPanel() { return createSearchPanel(m_set instanceof PrefixSearchTupleSet); } 

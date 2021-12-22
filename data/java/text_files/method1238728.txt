@@ -1,0 +1,1 @@
+ public MimeInfo getMIMEInfo() { return mimeInfo; } 

@@ -1,0 +1,1 @@
+ public MapFigure duplicate() { return new Room(figure, getMapLayer()); } 

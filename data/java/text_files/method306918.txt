@@ -1,0 +1,1 @@
+ public Daemon getDaemon() { return this.masterDaemon; } 

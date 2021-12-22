@@ -1,0 +1,1 @@
+ public void setType(int type) { m_iType=type; } 

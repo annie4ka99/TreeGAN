@@ -1,0 +1,1 @@
+ protected Call recordCall( Method method, Object[] args ) { return new Call( method, args ); } 

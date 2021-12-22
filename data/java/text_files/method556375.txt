@@ -1,0 +1,1 @@
+ public String getMin_value() { return this.minValue; } 

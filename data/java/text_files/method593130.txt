@@ -1,0 +1,1 @@
+ public void setLifecycleStage(LifecycleStage lifecycleStage) { this.lifecycleStage = lifecycleStage; } 

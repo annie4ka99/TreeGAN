@@ -1,0 +1,1 @@
+ public void setSubparts(String newValue) { this.subparts = newValue; } 

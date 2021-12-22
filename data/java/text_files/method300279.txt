@@ -1,0 +1,1 @@
+ private boolean isSet(int opts, int specific) { return (opts & specific) != 0; } 

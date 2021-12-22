@@ -1,0 +1,1 @@
+ public boolean isCartaEmpty() { return carta.isEmpty(); } 

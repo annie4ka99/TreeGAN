@@ -1,0 +1,1 @@
+ public void synchRsRowHeights(int reqSet) { rsRowHeightResizer[reqSet].synchronizeRowHeights(); } 

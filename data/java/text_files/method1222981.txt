@@ -1,0 +1,1 @@
+ public void addTriangle(BSimTriangle t){ computeNormal(t); faces.add(t); } 

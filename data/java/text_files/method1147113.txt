@@ -1,0 +1,1 @@
+ public QueueEntryBean getParentQueueEntry() { return parentQueueEntry; } 

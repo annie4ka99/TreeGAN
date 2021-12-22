@@ -1,0 +1,1 @@
+ public int getKnot(int n) { return yKnots[n]; } 

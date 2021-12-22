@@ -1,0 +1,1 @@
+ public void clearData() { data = new TranslationResult(); notifyDataSetInvalidated(); } 

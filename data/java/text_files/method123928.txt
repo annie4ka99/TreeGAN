@@ -1,0 +1,1 @@
+ public String getSymbolNameLags() { if (lagsDef == null) return null; return lagsDef.name; } 

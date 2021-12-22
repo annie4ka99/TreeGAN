@@ -1,0 +1,1 @@
+ public void setMinimumPercent( double percent ) { this.dblMinPercent = new Double( percent ).doubleValue(); } 

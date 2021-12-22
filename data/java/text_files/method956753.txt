@@ -1,0 +1,1 @@
+ public void setOperatorQuery(OrganizationQueryType value) { this.operatorQuery = value; } 

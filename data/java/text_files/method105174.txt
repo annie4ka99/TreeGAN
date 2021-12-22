@@ -1,0 +1,1 @@
+ public void setMissingSapwoodRingsToBark(Integer value) { this.missingSapwoodRingsToBark = value; } 

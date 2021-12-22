@@ -1,0 +1,1 @@
+ public void setTurn(Card card) { m_turn = card; } 

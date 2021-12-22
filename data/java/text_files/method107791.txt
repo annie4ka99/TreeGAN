@@ -1,0 +1,1 @@
+ public String toString() { if (userObject == null) { return null; } else { return userObject.toString(); } } 

@@ -1,0 +1,1 @@
+ public void setIFicha(IFicha[] ficha) { fichas = ficha; } 

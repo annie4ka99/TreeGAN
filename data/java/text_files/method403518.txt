@@ -1,0 +1,1 @@
+ public long getCompositeLastModified() { return compositeLastModified; } 

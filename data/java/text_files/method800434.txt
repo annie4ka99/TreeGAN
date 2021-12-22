@@ -1,0 +1,1 @@
+ public void remove(MobyViewEvent event) { add(event); } 

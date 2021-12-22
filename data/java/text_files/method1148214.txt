@@ -1,0 +1,1 @@
+ protected void notifyValueToAdd(T currentObject) { getValues().add(getCurrentObject()); } 

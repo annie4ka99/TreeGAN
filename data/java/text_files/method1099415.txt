@@ -1,0 +1,1 @@
+ protected void startBpelEngine() { try { AeEngineFactory.getEngine().start(); } catch (AeException ae) { ae.logError(); } } 

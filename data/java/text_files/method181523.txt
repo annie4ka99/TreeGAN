@@ -1,0 +1,1 @@
+ public void retrieveAll(java.lang.Object[] pcs) { retrieveAll(pcs, false); } 

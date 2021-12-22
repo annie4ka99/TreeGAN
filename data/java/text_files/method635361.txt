@@ -1,0 +1,1 @@
+ public void addCcRecipient(String recipient) { ccRecipients.add(recipient); } 

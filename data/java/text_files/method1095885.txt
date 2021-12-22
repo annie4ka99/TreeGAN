@@ -1,0 +1,1 @@
+ public InboundMessage getDetail(int aIndex) { return mDetails.get(aIndex); } 

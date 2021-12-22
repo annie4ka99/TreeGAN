@@ -1,0 +1,1 @@
+ public void setComparator(IComparator newComparator) { fComparator = newComparator; } 

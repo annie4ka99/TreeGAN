@@ -1,0 +1,1 @@
+ public JRadioButton getWaterMarkRb5() { return WaterMarkRb5; } 

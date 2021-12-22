@@ -1,0 +1,1 @@
+ public String getStringValue() { if (value != null) return value.toString(); return ""; } 

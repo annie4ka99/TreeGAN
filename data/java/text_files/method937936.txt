@@ -1,0 +1,1 @@
+ public boolean getShowOkCancel() { return this.showOkCancel; } 

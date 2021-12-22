@@ -1,0 +1,1 @@
+ public void assign(Complex b) { real = b.real; imag = b.imag; } 

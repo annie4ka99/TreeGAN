@@ -1,0 +1,1 @@
+ protected DocumentRoot getFixture() { return fixture; } 

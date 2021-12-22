@@ -1,0 +1,1 @@
+ public void subdivide(CubicCurve2D left, CubicCurve2D right) { subdivide(this, left, right); } 

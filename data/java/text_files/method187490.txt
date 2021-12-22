@@ -1,0 +1,1 @@
+ public void setApprove(boolean approve) { this.approve = approve; } 

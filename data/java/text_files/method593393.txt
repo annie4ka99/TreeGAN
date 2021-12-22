@@ -1,0 +1,1 @@
+ public boolean isChildOfRender() { LayoutTag parent = getLayoutParent(); return parent instanceof LayoutRenderTag; } 

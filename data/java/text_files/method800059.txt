@@ -1,0 +1,1 @@
+ public void setFooter( PageDecoration footer ) { this.footer = footer; } 

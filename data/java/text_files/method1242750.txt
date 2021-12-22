@@ -1,0 +1,1 @@
+ public void setEmptyStringAllowed(boolean b) { emptyStringAllowed = b; } 

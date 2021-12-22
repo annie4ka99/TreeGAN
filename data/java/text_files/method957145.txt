@@ -1,0 +1,1 @@
+ public UserQueryType createUserQueryType() { return new UserQueryType(); } 

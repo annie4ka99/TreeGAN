@@ -1,0 +1,1 @@
+ public void testGetAddress2() { assertEquals(address2, user.getAddress2()); } 

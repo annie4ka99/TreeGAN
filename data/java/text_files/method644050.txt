@@ -1,0 +1,1 @@
+ public void setNativeTypes(NativeTypesType value) { this.nativeTypes = value; } 

@@ -1,0 +1,1 @@
+ public void setSaveWithComments(boolean toUseDiffCommentsOnSave) { this.toUseDiffCommentsOnSave = toUseDiffCommentsOnSave; } 

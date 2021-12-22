@@ -1,0 +1,1 @@
+ public void getLex( AVM2Name name ) { instructions.append( OP_getlex, name ); } 

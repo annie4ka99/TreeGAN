@@ -1,0 +1,1 @@
+ public void setProperty(String name, Number value) { propertyStorage.setProperty(name, value); } 

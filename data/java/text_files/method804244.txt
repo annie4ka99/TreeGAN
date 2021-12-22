@@ -1,0 +1,1 @@
+ public IEditorInput getInput() { return input; } 

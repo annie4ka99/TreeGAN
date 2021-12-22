@@ -1,0 +1,1 @@
+ public void setCoeffMatRequired(boolean isCoeffMatRequired) { coeffMatRequired = isCoeffMatRequired; } 

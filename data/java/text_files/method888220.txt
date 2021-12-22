@@ -1,0 +1,1 @@
+ public void init (ArgumentList arguments) { this.arguments = arguments; } 

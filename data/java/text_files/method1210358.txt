@@ -1,0 +1,1 @@
+ public void print(String aKey, String[] anArgs) { pStream.print(res.get(aKey, anArgs)); } 

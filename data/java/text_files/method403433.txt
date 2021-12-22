@@ -1,0 +1,1 @@
+ public void setLocation(LocationEnum location) { this.location = location.getIndex(); } 

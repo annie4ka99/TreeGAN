@@ -1,0 +1,1 @@
+ public void setCity(String value) { this.city = value; } 

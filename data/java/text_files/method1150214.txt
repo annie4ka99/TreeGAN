@@ -1,0 +1,1 @@
+ public FileInput getFileStream() { return fs; } 

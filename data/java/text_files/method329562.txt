@@ -1,0 +1,1 @@
+ public boolean pamStart() { if (loadLibraryOK == false) { return false; } return startProcessing(); } 

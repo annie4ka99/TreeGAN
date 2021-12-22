@@ -1,0 +1,1 @@
+ public void log(String message, int level) { if (level < getLogLevel()) { return; } log(message); } 

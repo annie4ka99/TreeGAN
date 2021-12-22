@@ -1,0 +1,1 @@
+ public Node removeNeighbor(int idx) { return ((Edge)removeEdge(idx)).getAdjacentNode(this); } 

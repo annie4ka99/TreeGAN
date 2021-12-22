@@ -1,0 +1,1 @@
+ public int deleteFile (String file){ if (fileManager.deleteFile(file)) return 0; else return 1; } 

@@ -1,0 +1,1 @@
+ public void stop(final BundleContext context) throws Exception { try { plugin = null; } finally { super.stop(context); } } 

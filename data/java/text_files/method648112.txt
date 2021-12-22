@@ -1,0 +1,1 @@
+ public void setPreservFittestIndividual(boolean a_preserveFittest) { m_preserveFittestIndividual = a_preserveFittest; } 

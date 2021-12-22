@@ -1,0 +1,1 @@
+ public void setLabel(String label) { externalSetText = true; textLabel.setText(label); } 

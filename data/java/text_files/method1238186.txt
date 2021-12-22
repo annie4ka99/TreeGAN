@@ -1,0 +1,1 @@
+ protected void registerFile(String file) { emitter.getGeneratedFileInfo().add(file, null, type); } 

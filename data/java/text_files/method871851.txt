@@ -1,0 +1,1 @@
+ public void setUserVerdienst(java.lang.Double userVerdienst) { this.userVerdienst = userVerdienst; } 

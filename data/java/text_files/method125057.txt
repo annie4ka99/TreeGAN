@@ -1,0 +1,1 @@
+ public void setStopButtonVisible(boolean isVisible) { getJButton().setVisible(isVisible); } 

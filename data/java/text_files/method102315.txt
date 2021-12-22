@@ -1,0 +1,1 @@
+ public boolean isFirst() { return (pairingNr == 0 && crossNr == 0); } 

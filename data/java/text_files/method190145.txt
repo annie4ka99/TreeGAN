@@ -1,0 +1,1 @@
+ public ColumnBuilder setPrecision(int newPrecision) { _precision = newPrecision; return this; } 

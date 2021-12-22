@@ -1,0 +1,1 @@
+ public Object lookupService(String serviceBeanName) { return appContext.getBean(serviceBeanName); } 

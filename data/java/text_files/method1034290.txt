@@ -1,0 +1,1 @@
+ public boolean allStatic() { return (emissionStyle == JavaEmitter.ALL_STATIC); } 

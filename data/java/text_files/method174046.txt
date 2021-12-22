@@ -1,0 +1,1 @@
+ public Iterator getDescendants() { return new DescendantIterator(this); } 

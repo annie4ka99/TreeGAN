@@ -1,0 +1,1 @@
+ public boolean acceptableMeasurement(Measurement m) { return (m instanceof BeaconMeasurement); } 

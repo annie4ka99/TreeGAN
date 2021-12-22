@@ -1,0 +1,1 @@
+ public void setCollectionName(String collectionName) { this.collectionName = collectionName; } 

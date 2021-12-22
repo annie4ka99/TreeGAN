@@ -1,0 +1,1 @@
+ public Vec2 negateLocal() { x = -x; y = -y; return this; } 

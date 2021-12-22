@@ -1,0 +1,1 @@
+ public boolean alreadyStored(int litoID) { return getDocID(litoID) >= 0; } 

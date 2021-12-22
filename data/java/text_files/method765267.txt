@@ -1,0 +1,1 @@
+ protected void setXmlns(String xmlns) { this.xmlns = xmlns; } 

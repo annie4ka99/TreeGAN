@@ -1,0 +1,1 @@
+ protected void addLabel(AeIconLabel aLabel) { if (aLabel != null) { add(aLabel); } } 

@@ -1,0 +1,1 @@
+ public boolean isInitDoneCorrectly() { return isInitDoneCorrectly.get(); } 

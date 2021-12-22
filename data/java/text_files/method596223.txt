@@ -1,0 +1,1 @@
+ public void acceptXMLDataChanged(StateInfo s){ config=s.getDocument(); frame.configurationChanged(); } 

@@ -1,0 +1,1 @@
+ public ProximityCondition (double units) { this.proximity = units; } 

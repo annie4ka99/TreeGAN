@@ -1,0 +1,1 @@
+ public void setImageRef(ImageRef image) { this.image = image; } 

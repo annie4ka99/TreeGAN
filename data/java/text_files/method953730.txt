@@ -1,0 +1,1 @@
+ public long getAge() { Date now = new Date(); return now.getTime()-this.startTime.getTime(); } 

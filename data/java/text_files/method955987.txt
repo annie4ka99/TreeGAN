@@ -1,0 +1,1 @@
+ public MeasureType getSnowCoverPercentage() { return snowCoverPercentage; } 

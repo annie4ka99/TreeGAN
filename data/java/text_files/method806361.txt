@@ -1,0 +1,1 @@
+ public boolean isDisabled(int level) { return this.hierarchy.isDisabled(level); } 

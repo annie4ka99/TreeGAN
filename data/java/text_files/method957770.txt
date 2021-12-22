@@ -1,0 +1,1 @@
+ public void setLogicalOperators(LogicalOperators value) { this.logicalOperators = value; } 

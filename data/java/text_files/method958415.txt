@@ -1,0 +1,1 @@
+ public String getTargetBinding() { return targetBinding; } 

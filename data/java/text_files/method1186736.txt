@@ -1,0 +1,1 @@
+ public boolean isViewOnlineEnabled() { return this.viewOnlineEnabled; } 

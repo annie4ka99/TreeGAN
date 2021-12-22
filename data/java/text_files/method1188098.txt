@@ -1,0 +1,1 @@
+ public QRCodeChartMaker ecH(int margin) { this.chld = "H|" + margin; return this; } 

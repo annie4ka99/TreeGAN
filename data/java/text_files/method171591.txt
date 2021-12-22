@@ -1,0 +1,1 @@
+ public void visitIF_ICMPGE(IF_ICMPGE o){ stack().pop(); stack().pop(); } 

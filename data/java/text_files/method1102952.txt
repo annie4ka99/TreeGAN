@@ -1,0 +1,1 @@
+ public Object getObject(int columnIndex) throws CDataGridException { return row.getValue(columnIndex); } 

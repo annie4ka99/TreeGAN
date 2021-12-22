@@ -1,0 +1,1 @@
+ public Adapter createLDAPAttributeAdapter() { return null; } 

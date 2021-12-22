@@ -1,0 +1,1 @@
+ public void setBestFit(boolean b) { isBestFit = b; applyFitting(); synchronized (this) { convertImage(); } } 

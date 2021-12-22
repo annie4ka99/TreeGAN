@@ -1,0 +1,1 @@
+ public void setCanvas(Canvas3D canvas) { view.addCanvas3D(canvas); } 

@@ -1,0 +1,1 @@
+ public void beginRendering(int width, int height) throws GLException { beginRendering(width, height, true); } 

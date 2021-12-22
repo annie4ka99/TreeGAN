@@ -1,0 +1,1 @@
+ public boolean isshowEdgesPossible(){ return !graph.edges.isEmpty(); } 

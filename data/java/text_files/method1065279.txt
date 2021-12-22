@@ -1,0 +1,1 @@
+ public void setEditPart(IUMLElementEditPart editPart){ this.editPart = editPart; } 

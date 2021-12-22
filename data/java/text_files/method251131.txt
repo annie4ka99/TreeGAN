@@ -1,0 +1,1 @@
+ public void setFeedbackEnabled(boolean feedbackEnabled) { this.feedbackEnabled = feedbackEnabled; } 

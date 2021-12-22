@@ -1,0 +1,1 @@
+ public void setUseAdminTheme(boolean useAdminTheme) { this.useAdminTheme = useAdminTheme; } 

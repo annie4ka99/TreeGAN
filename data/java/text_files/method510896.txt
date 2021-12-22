@@ -1,0 +1,1 @@
+ public Complex tanh() { return (this.sinh()).divide(this.cosh()); } 

@@ -1,0 +1,1 @@
+ public void close() { try { out.close(); } catch (XMLStreamException e) { throw new StreamException(e); } } 

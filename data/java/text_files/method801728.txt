@@ -1,0 +1,1 @@
+ public CMLSpectrum getPredictedTSpectrum(){ return cmlTSpectrum; } 

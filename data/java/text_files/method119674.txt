@@ -1,0 +1,1 @@
+ public void setSnapSelectedView(boolean snapSelectedView) { this.snapSelectedView = snapSelectedView; } 

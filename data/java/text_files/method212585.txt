@@ -1,0 +1,1 @@
+ public void internalFrameActivated(InternalFrameEvent e) { } 

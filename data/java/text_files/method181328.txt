@@ -1,0 +1,1 @@
+public void setXsd(String xsd) { this.xsd = xsd; } 

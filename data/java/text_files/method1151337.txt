@@ -1,0 +1,1 @@
+ public int getDid(Discrimination.Cla c) { return getDid( c.getDisc()); } 

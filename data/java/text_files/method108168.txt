@@ -1,0 +1,1 @@
+ public void append(Component c1, Component c2) { append(c1); append(c2); } 

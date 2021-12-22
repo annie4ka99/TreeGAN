@@ -1,0 +1,1 @@
+ public Renderer getDefaultRenderer() { return m_itemRenderer; } 

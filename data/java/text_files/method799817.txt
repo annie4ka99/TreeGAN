@@ -1,0 +1,1 @@
+ public void setUnderline( boolean underline ) { style = style.underline( underline ); } 

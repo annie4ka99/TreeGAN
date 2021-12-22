@@ -1,0 +1,1 @@
+ public void visitIF_ICMPLE(IF_ICMPLE o){ stack().pop(); stack().pop(); } 

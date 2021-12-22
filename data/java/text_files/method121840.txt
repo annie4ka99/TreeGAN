@@ -1,0 +1,1 @@
+ protected boolean isSelectable(int index) { return (!(getItem(index) == SEPARATOR)); } 

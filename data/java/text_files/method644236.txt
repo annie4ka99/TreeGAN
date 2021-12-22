@@ -1,0 +1,1 @@
+ public UsernamesType createUsernamesType() { return new UsernamesType(); } 

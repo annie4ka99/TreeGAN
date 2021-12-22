@@ -1,0 +1,1 @@
+ public Exception getNextException() { return nextException; } 

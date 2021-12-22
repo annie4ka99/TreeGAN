@@ -1,0 +1,1 @@
+ public EventManager getEventManager() { return m_eventManager; } 

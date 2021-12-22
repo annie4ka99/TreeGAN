@@ -1,0 +1,1 @@
+ public void setFromdate(String fromdate){ this.fromdate = fromdate; } 

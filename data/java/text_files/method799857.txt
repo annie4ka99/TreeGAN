@@ -1,0 +1,1 @@
+ public PrintJob setMargins( int margins ) { this.margins = new Margins( margins ); return this; } 

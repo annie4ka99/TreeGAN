@@ -1,0 +1,1 @@
+ public int getCC() { return CC; } 

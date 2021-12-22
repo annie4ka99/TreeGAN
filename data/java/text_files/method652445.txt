@@ -1,0 +1,1 @@
+ private boolean isWarning(Annotation annotation) { return ANNOTATION_TYPE_WARNING.equals(annotation.getType()); } 

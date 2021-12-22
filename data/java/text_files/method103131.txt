@@ -1,0 +1,1 @@
+ public int overlap(Range r) { return intersection(r).span(); } 

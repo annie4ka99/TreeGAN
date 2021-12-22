@@ -1,0 +1,1 @@
+ public ValidationMetadataProvider getValidationMetadataProvider() { return this.validationMetadataProvider; } 

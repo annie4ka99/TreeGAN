@@ -1,0 +1,1 @@
+ public void setMaxGain(float maxGain) { al.alSourcef(sourceID, AL.AL_MAX_GAIN, maxGain); } 

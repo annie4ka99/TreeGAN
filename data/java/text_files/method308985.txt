@@ -1,0 +1,1 @@
+ public void setUseShortHostName(boolean value) { short_hostname = value; } 

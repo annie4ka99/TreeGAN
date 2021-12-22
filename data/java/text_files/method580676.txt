@@ -1,0 +1,1 @@
+ private void setFiler( String filterExpression ){ filter = Module._SPACE_ + filterExpression + Module._SPACE_ ; } 

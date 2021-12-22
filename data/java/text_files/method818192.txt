@@ -1,0 +1,1 @@
+ public void setAssignDefaultNames (boolean assign){ MetaNodeFactory.assignDefaultNames(assign); } 

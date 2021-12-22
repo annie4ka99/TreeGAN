@@ -1,0 +1,1 @@
+ public void selectAll( ) { try { table.selectAll( ); } catch ( Throwable t ) { } } 

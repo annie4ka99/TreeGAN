@@ -1,0 +1,1 @@
+ public int getMaxTableNameLength() throws java.sql.SQLException { return 64; } 

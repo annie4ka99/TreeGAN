@@ -1,0 +1,1 @@
+ public JSpinner getSpinner() { return dateSpinner; } 

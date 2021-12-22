@@ -1,0 +1,1 @@
+public void setXsl(String xsl) { this.xsl = xsl; } 

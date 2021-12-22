@@ -1,0 +1,1 @@
+ public void properties() { PreferencesDialog.getInstance().show(); } 

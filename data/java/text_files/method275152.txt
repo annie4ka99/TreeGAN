@@ -1,0 +1,1 @@
+ public void print(java.awt.Graphics g) { terminal.print(g); } 

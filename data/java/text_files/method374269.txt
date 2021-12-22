@@ -1,0 +1,1 @@
+ public boolean hasSubHeader(int id) { return (optionsBitmap & (1 << id)) > 0; } 

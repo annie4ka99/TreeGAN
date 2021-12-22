@@ -1,0 +1,1 @@
+ public Iterator visibleItems(String group) { return items(group, VisiblePredicate.TRUE); } 

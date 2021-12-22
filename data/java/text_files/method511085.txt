@@ -1,0 +1,1 @@
+ protected void afterRun(TestResult result) { } 

@@ -1,0 +1,1 @@
+ public void setBlogs(List blogs) { System.out.println("Setting the blogs list"); this.blogs = blogs; } 

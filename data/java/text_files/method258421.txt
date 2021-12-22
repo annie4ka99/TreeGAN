@@ -1,0 +1,1 @@
+ public Serializable getId2() { return this.id2; } 

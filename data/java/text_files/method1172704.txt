@@ -1,0 +1,1 @@
+ public void setBaseAttackString(String s) { baseAttackString = s; this.updateObservers(); } 

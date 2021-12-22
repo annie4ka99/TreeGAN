@@ -1,0 +1,1 @@
+ public String getLastName() { logger.debug("entering getLastName"); return lastName; } 

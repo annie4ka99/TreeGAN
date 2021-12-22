@@ -1,0 +1,1 @@
+ public Color getGridColor() { return gridColor; } 

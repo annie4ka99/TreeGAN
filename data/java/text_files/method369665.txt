@@ -1,0 +1,1 @@
+ public void setColumnsToHide(short[] columnsToHide) { this.columnsToHide = columnsToHide; } 

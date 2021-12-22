@@ -1,0 +1,1 @@
+ public AnnotatedSeqGroup getSelectedGroup() { return primary_selection; } 

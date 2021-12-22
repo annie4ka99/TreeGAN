@@ -1,0 +1,1 @@
+ public void setUI(GraphUI ui) { if ((GraphUI) this.ui != ui) { super.setUI(ui); } } 

@@ -1,0 +1,1 @@
+ public void dispose() { cachedModelMap.clear(); ResourcesPlugin.getWorkspace().removeResourceChangeListener(this); } 

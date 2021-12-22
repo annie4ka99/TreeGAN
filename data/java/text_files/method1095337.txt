@@ -1,0 +1,1 @@
+ public void paintComponent(Graphics g) { paintLink(g); } 

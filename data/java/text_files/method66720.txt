@@ -1,0 +1,1 @@
+ public void setToolTipText(String tooltip) { m_nativTooltip = tooltip; } 

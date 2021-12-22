@@ -1,0 +1,1 @@
+ public void visitAASTORE(AASTORE o){ stack().pop(); stack().pop(); stack().pop(); } 

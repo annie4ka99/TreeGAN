@@ -1,0 +1,1 @@
+ public void setFriendlyName(String friendlyName) { this.friendlyName = friendlyName; } 

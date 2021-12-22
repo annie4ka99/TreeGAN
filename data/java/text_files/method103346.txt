@@ -1,0 +1,1 @@
+ public void setDefault() { GraphPrefs.PLOT_AGENT.set(this); } 

@@ -1,0 +1,1 @@
+ public String getMinVersion() { return minVersion; } 

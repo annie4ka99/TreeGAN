@@ -1,0 +1,1 @@
+ public int getStartPos() { return explicitException.getToken().getPos(); } 

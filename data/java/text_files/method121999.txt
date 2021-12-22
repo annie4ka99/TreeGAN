@@ -1,0 +1,1 @@
+ private InputChar getDefaultClosingChar() { return __defaultClosingChar; } 

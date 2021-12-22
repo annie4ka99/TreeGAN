@@ -1,0 +1,1 @@
+ public String toString() { updateCalendar(); return _format.format(_cal.getTime()); } 

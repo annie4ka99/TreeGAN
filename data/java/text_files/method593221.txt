@@ -1,0 +1,1 @@
+ public void autoInclude(boolean auto) { this.autoInclude = auto; } 

@@ -1,0 +1,1 @@
+ public void updateDisplays() { if (display != null){ display.updateDisplay(); repaintDisplays(); } else { } } 

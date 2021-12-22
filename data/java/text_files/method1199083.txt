@@ -1,0 +1,1 @@
+ public boolean isMPEGProtected() { return head.isProtected(); } 

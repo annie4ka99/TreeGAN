@@ -1,0 +1,1 @@
+ public String toString() { return "[Namespace: prefix \"" + prefix + "\" is mapped to URI \"" + uri + "\"]"; } 

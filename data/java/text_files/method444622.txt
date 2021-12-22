@@ -1,0 +1,1 @@
+ public void visitMemberShipMolecule(MembershipMolecule expr) { if (!body) { containsVariables(expr); } } 

@@ -1,0 +1,1 @@
+ public byte getEventType() { return this.eventType; } 

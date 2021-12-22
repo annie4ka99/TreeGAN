@@ -1,0 +1,1 @@
+ public void add(Date x, Number y) { super.add(x.getTime(), y); } 

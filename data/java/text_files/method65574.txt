@@ -1,0 +1,1 @@
+ public void setChainedOption(ChainedOption chainedOption) { this.chainedOption = chainedOption; } 

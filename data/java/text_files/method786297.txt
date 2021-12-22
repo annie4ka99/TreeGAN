@@ -1,0 +1,1 @@
+ public void setHasHeader(boolean hasHeaderRow) { m_hasHeader = hasHeaderRow; } 

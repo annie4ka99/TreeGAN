@@ -1,0 +1,1 @@
+ public boolean isService() { return (classType != null && classType == ClassType.SERVICE); } 

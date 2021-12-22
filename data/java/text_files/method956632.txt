@@ -1,0 +1,1 @@
+ public GetDomainResponseType createGetDomainResponseType() { return new GetDomainResponseType(); } 

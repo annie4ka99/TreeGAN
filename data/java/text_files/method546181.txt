@@ -1,0 +1,1 @@
+ public int getLabelPos() { return labelPos; } 

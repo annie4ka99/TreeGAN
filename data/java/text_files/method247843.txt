@@ -1,0 +1,1 @@
+ public void setRefresh(URL refresh) { this.refresh = refresh; } 

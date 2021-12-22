@@ -1,0 +1,1 @@
+ public void setSql_getMitarbeiter(String sql_getMitarbeiter) { this.sql_getMitarbeiter = sql_getMitarbeiter; } 

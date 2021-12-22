@@ -1,0 +1,1 @@
+ public void setRotationQuaternion(Quaternion rot) { this.rot.set(rot); } 

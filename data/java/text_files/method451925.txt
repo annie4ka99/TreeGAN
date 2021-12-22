@@ -1,0 +1,1 @@
+ public void removeDestination(int index) { destinations.remove(index); } 

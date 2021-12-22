@@ -1,0 +1,1 @@
+ public int getAxis() { return m_axis; } 

@@ -1,0 +1,1 @@
+ public int flags() { return this.flags; } 

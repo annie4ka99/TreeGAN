@@ -1,0 +1,1 @@
+ static public String getFieldName( String field ){ return field.replace( '.', '_' ); } 

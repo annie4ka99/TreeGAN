@@ -1,0 +1,1 @@
+ public boolean isFixedCell(int col, int row) { return col < getFixedColumnCount() || row < getFixedRowCount(); } 

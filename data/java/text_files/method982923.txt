@@ -1,0 +1,1 @@
+ public void put_pixel_by_index (int index, int color) { CC.ColorBuffer.Buffer [index] = color; } 

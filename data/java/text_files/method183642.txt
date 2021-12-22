@@ -1,0 +1,1 @@
+ public void render (GL gl, GLU glu, GLUquadric quadric){} 

@@ -1,0 +1,1 @@
+ public void setSourceRegistry(ObjectRefType value) { this.sourceRegistry = value; } 

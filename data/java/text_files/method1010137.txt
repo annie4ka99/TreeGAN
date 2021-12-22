@@ -1,0 +1,1 @@
+ public IImage getImage(int index){ return images.getImage(index); } 

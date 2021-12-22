@@ -1,0 +1,1 @@
+ public void setRankId(int rankId) { this.rankId = rankId; } 

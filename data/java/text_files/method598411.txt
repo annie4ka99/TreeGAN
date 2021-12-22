@@ -1,0 +1,1 @@
+ synchronized public void setFortuna(FortunaGenerator fortuna) { this.fortuna = fortuna; } 

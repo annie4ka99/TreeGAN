@@ -1,0 +1,1 @@
+ public boolean isDataReady () { if (readyPpc3data) { readyPpc3data = false; return true; } return false; } 

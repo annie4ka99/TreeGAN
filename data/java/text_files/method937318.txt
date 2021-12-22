@@ -1,0 +1,1 @@
+ public boolean accept(String key) { return key.equals(acceptKey); } 

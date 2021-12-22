@@ -1,0 +1,1 @@
+ public void setGraphics(byte[] graphics) { this.graphics = graphics; } 

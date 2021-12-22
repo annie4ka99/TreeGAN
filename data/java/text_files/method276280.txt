@@ -1,0 +1,1 @@
+ public void redraw() { if (backingStore != null) { redraw(backingStore.getGraphics()); repaint(); } } 

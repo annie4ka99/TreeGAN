@@ -1,0 +1,1 @@
+ public void enableNextButton(boolean enabled) { bottomPane.nextButton().setEnabled(enabled); } 

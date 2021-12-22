@@ -1,0 +1,1 @@
+ public void setPropertyProvider(PropertyProvider p) { propProvider = p; } 

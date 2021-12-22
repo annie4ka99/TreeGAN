@@ -1,0 +1,1 @@
+ public MethodBinding getAction() { return this.action; } 

@@ -1,0 +1,1 @@
+ public String getLongHelp(){ return "El comando "+this.name+" no posee ayuda extra!!"; } 

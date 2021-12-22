@@ -1,0 +1,1 @@
+ public boolean hasMultiGlyphsPerModel() { return models_have_multiple_glyphs; } 

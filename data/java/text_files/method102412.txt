@@ -1,0 +1,1 @@
+ public Printable print() { return table.print(); } 

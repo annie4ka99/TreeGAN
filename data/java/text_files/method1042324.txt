@@ -1,0 +1,1 @@
+ public Matrix3f mult(Matrix3f mat) { return mult(mat, null); } 

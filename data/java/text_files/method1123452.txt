@@ -1,0 +1,1 @@
+ public boolean add(int[] word) { return add(word, 0); } 

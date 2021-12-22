@@ -1,0 +1,748 @@
+pre-training generator...
+epoch: 0
+10 % done
+20 % done
+30 % done
+40 % done
+50 % done
+60 % done
+70 % done
+80 % done
+90 % done
+epoch: 1
+10 % done
+20 % done
+30 % done
+40 % done
+50 % done
+60 % done
+70 % done
+80 % done
+90 % done
+epoch: 2
+10 % done
+20 % done
+30 % done
+40 % done
+50 % done
+60 % done
+70 % done
+80 % done
+90 % done
+epoch: 3
+10 % done
+20 % done
+30 % done
+40 % done
+50 % done
+60 % done
+70 % done
+80 % done
+90 % done
+epoch: 4
+10 % done
+20 % done
+30 % done
+40 % done
+50 % done
+60 % done
+70 % done
+80 % done
+90 % done
+epoch: 5
+10 % done
+20 % done
+30 % done
+40 % done
+50 % done
+60 % done
+70 % done
+80 % done
+90 % done
+ELAPSED TIME (sec): 146.046875
+===========================
+training started
+epoch: 0
+generator:
+step: 10111  of  100000
+reward:  -0.1406196653842926
+
+step: 20150  of  100000
+reward:  -0.14977185428142548
+
+step: 30122  of  100000
+reward:  0.2096324861049652
+
+step: 40150  of  100000
+reward:  0.1643911451101303
+
+step: 50150  of  100000
+reward:  0.05529911071062088
+
+step: 60149  of  100000
+reward:  -0.26176026463508606
+
+step: 70150  of  100000
+reward:  -0.08042322099208832
+
+step: 80150  of  100000
+reward:  0.39180609583854675
+
+step: 90150  of  100000
+reward:  0.17728100717067719
+
+ELAPSED TIME (sec): 150.484375
+avg episode reward: 0.13734949341568017
+sample:
+ public void setAntuterEventR(Forking metautePropertidy) { supparentV.refaultAmentJTextMame(null); }
+---------------------------
+discriminator:
+epoch: 0
+11 % done
+loss: 1.4016317129135132
+
+20 % done
+loss: 1.5071680545806885
+
+31 % done
+loss: 1.19195556640625
+
+40 % done
+loss: 1.0357518196105957
+
+52 % done
+loss: 1.1604232788085938
+
+61 % done
+loss: 1.1567962169647217
+
+70 % done
+loss: 1.0096654891967773
+
+81 % done
+loss: 0.9933876991271973
+
+90 % done
+loss: 1.107244610786438
+
+101 % done
+loss: 1.0709972381591797
+
+ELAPSED TIME (sec): 443.84375
+===========================
+epoch: 1
+generator:
+step: 10154  of  100000
+reward:  0.16746722161769867
+
+step: 20086  of  100000
+reward:  -0.039588455110788345
+
+step: 30154  of  100000
+reward:  -0.26032891869544983
+
+step: 40154  of  100000
+reward:  -0.07952466607093811
+
+step: 50149  of  100000
+reward:  0.08491469919681549
+
+step: 60154  of  100000
+reward:  -0.246285080909729
+
+step: 70154  of  100000
+reward:  0.26714026927948
+
+step: 80154  of  100000
+reward:  0.07994510978460312
+
+step: 90154  of  100000
+reward:  -0.2533777058124542
+
+ELAPSED TIME (sec): 142.890625
+avg episode reward: -0.10847880587845599
+sample:
+ public Strrapt createRoditilametercutMaadextion(){ return m_NExceptionTr.getComentTable(c.setsIngityTy); }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 1.0075249671936035
+
+20 % done
+loss: 0.9011646509170532
+
+30 % done
+loss: 0.7142513990402222
+
+40 % done
+loss: 0.767214298248291
+
+50 % done
+loss: 0.7100191116333008
+
+60 % done
+loss: 0.8813680410385132
+
+70 % done
+loss: 0.6497746706008911
+
+80 % done
+loss: 0.6883919835090637
+
+90 % done
+loss: 0.601742148399353
+
+100 % done
+loss: 0.65482097864151
+
+ELAPSED TIME (sec): 954.671875
+===========================
+epoch: 2
+generator:
+step: 10167  of  100000
+reward:  -0.054811540991067886
+
+step: 20132  of  100000
+reward:  -0.17770233750343323
+
+step: 30128  of  100000
+reward:  -0.22415119409561157
+
+step: 40063  of  100000
+reward:  0.0684240385890007
+
+step: 50107  of  100000
+reward:  -0.17628596723079681
+
+step: 60167  of  100000
+reward:  0.2947848439216614
+
+step: 70168  of  100000
+reward:  -0.29620176553726196
+
+step: 80124  of  100000
+reward:  0.36636608839035034
+
+step: 90167  of  100000
+reward:  -0.3233955204486847
+
+ELAPSED TIME (sec): 150.15625
+avg episode reward: 0.003738904488355529
+sample:
+ public int PointentsRowTypemay() { return HastAttribet.getStarts(1); }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 1.0054312944412231
+
+20 % done
+loss: 0.8605760335922241
+
+30 % done
+loss: 0.8355149626731873
+
+40 % done
+loss: 0.8938207626342773
+
+50 % done
+loss: 0.831903874874115
+
+60 % done
+loss: 0.8727401494979858
+
+70 % done
+loss: 0.9283345937728882
+
+80 % done
+loss: 0.7157049775123596
+
+90 % done
+loss: 0.779582142829895
+
+100 % done
+loss: 0.8895073533058167
+
+ELAPSED TIME (sec): 1281.8125
+===========================
+epoch: 3
+generator:
+step: 10187  of  100000
+reward:  -0.20340639352798462
+
+step: 20178  of  100000
+reward:  -0.15979881584644318
+
+step: 30097  of  100000
+reward:  0.03620694577693939
+
+step: 40099  of  100000
+reward:  -0.1681496649980545
+
+step: 50083  of  100000
+reward:  0.1863897740840912
+
+step: 60104  of  100000
+reward:  -0.1916125863790512
+
+step: 70187  of  100000
+reward:  0.2580474615097046
+
+step: 80091  of  100000
+reward:  -0.1387949138879776
+
+step: 90108  of  100000
+reward:  -0.25358670949935913
+
+ELAPSED TIME (sec): 147.296875
+avg episode reward: 0.002191037838098963
+sample:
+ public Ppti2 getPuidtyp() { return namen; }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 0.9971151351928711
+
+20 % done
+loss: 1.0332982540130615
+
+30 % done
+loss: 0.8028682470321655
+
+40 % done
+loss: 0.8878682851791382
+
+50 % done
+loss: 1.0188184976577759
+
+60 % done
+loss: 0.8536123037338257
+
+70 % done
+loss: 0.8512539863586426
+
+80 % done
+loss: 0.7750921249389648
+
+90 % done
+loss: 0.8418467044830322
+
+100 % done
+loss: 0.7415270209312439
+
+ELAPSED TIME (sec): 1611.140625
+===========================
+epoch: 4
+generator:
+step: 10068  of  100000
+reward:  0.08177095651626587
+
+step: 20078  of  100000
+reward:  -0.12595126032829285
+
+step: 30136  of  100000
+reward:  -0.25213882327079773
+
+step: 40105  of  100000
+reward:  0.04412984475493431
+
+step: 50091  of  100000
+reward:  -0.19975025951862335
+
+step: 60180  of  100000
+reward:  -0.36492496728897095
+
+step: 70099  of  100000
+reward:  -0.07326509803533554
+
+step: 80164  of  100000
+reward:  0.03580278903245926
+
+step: 90158  of  100000
+reward:  0.29177695512771606
+
+ELAPSED TIME (sec): 167.25
+avg episode reward: -0.08063307068825225
+sample:
+ public DappUn DBardLedactionListenernerzerolemtinasidate() { isCh(); return a; Stlent del = fackentSe; }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 0.8574153780937195
+
+20 % done
+loss: 0.7684277892112732
+
+30 % done
+loss: 0.7315866947174072
+
+40 % done
+loss: 0.7479782104492188
+
+50 % done
+loss: 0.6917133331298828
+
+60 % done
+loss: 0.6648766994476318
+
+70 % done
+loss: 0.8170315027236938
+
+80 % done
+loss: 0.7377258539199829
+
+90 % done
+loss: 0.7411864399909973
+
+100 % done
+loss: 0.8033024072647095
+
+ELAPSED TIME (sec): 2404.609375
+===========================
+epoch: 5
+generator:
+step: 10132  of  100000
+reward:  0.3569996953010559
+
+step: 20106  of  100000
+reward:  0.05478356033563614
+
+step: 30104  of  100000
+reward:  -0.2944431006908417
+
+step: 40121  of  100000
+reward:  -0.25420430302619934
+
+step: 50238  of  100000
+reward:  -0.19300082325935364
+
+step: 60128  of  100000
+reward:  -0.23086272180080414
+
+step: 70127  of  100000
+reward:  -0.20858804881572723
+
+step: 80096  of  100000
+reward:  -0.15016469359397888
+
+step: 90109  of  100000
+reward:  0.26262563467025757
+
+ELAPSED TIME (sec): 175.546875
+avg episode reward: -0.08023773155563432
+sample:
+ public jan.valo.UPoadextPriw setAttriternisu ( String perkents) { }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 0.6924607157707214
+
+20 % done
+loss: 0.8588185906410217
+
+30 % done
+loss: 0.8305082321166992
+
+40 % done
+loss: 0.8814921975135803
+
+50 % done
+loss: 0.771797776222229
+
+60 % done
+loss: 0.8680927157402039
+
+70 % done
+loss: 0.9453336596488953
+
+80 % done
+loss: 0.7764737606048584
+
+90 % done
+loss: 0.8092149496078491
+
+100 % done
+loss: 0.7567695379257202
+
+ELAPSED TIME (sec): 2445.5
+===========================
+epoch: 6
+generator:
+step: 10064  of  100000
+reward:  -0.07991102337837219
+
+step: 20128  of  100000
+reward:  -0.2541784644126892
+
+step: 30102  of  100000
+reward:  0.06594344973564148
+
+step: 40096  of  100000
+reward:  -0.0660528689622879
+
+step: 50076  of  100000
+reward:  -0.012279734946787357
+
+step: 60262  of  100000
+reward:  -0.30642053484916687
+
+step: 70091  of  100000
+reward:  -0.18232814967632294
+
+step: 80056  of  100000
+reward:  0.03349757939577103
+
+step: 90140  of  100000
+reward:  -0.2652488052845001
+
+ELAPSED TIME (sec): 149.890625
+avg episode reward: -0.12350333523542999
+sample:
+private Zonead IFormthetthindolounta() { }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 0.7748253345489502
+
+20 % done
+loss: 0.6659560203552246
+
+30 % done
+loss: 0.6281957626342773
+
+40 % done
+loss: 0.6750539541244507
+
+50 % done
+loss: 0.6323633193969727
+
+60 % done
+loss: 0.5508977174758911
+
+70 % done
+loss: 0.5991581678390503
+
+80 % done
+loss: 0.7822116613388062
+
+90 % done
+loss: 0.8301980495452881
+
+100 % done
+loss: 0.7735715508460999
+
+ELAPSED TIME (sec): 2446.15625
+===========================
+epoch: 7
+generator:
+step: 10067  of  100000
+reward:  0.07911550253629684
+
+step: 20078  of  100000
+reward:  -0.11809808760881424
+
+step: 30043  of  100000
+reward:  0.22896644473075867
+
+step: 40094  of  100000
+reward:  0.1550757884979248
+
+step: 50059  of  100000
+reward:  0.2255321443080902
+
+step: 60093  of  100000
+reward:  0.27685895562171936
+
+step: 70081  of  100000
+reward:  0.36552920937538147
+
+step: 80055  of  100000
+reward:  0.18531392514705658
+
+step: 90074  of  100000
+reward:  0.23199698328971863
+
+ELAPSED TIME (sec): 156.703125
+avg episode reward: 0.11731213947495563
+sample:
+ public void setAdartext(Stroco inegn) { }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 0.849707841873169
+
+20 % done
+loss: 0.8168960809707642
+
+30 % done
+loss: 0.7756920456886292
+
+40 % done
+loss: 0.6843568086624146
+
+50 % done
+loss: 0.7554689645767212
+
+60 % done
+loss: 0.7230170965194702
+
+70 % done
+loss: 0.6943431496620178
+
+80 % done
+loss: 0.7233529090881348
+
+90 % done
+loss: 0.7190607786178589
+
+99 % done
+loss: 0.7519904375076294
+
+ELAPSED TIME (sec): 1940.0625
+===========================
+epoch: 8
+generator:
+step: 10069  of  100000
+reward:  -0.29180461168289185
+
+step: 20065  of  100000
+reward:  -0.16941875219345093
+
+step: 30246  of  100000
+reward:  0.3804822564125061
+
+step: 40155  of  100000
+reward:  0.45126667618751526
+
+step: 50089  of  100000
+reward:  -0.26164916157722473
+
+step: 60091  of  100000
+reward:  -0.03570855036377907
+
+step: 70162  of  100000
+reward:  0.4601508378982544
+
+step: 80121  of  100000
+reward:  0.39850008487701416
+
+step: 90182  of  100000
+reward:  0.4759727716445923
+
+ELAPSED TIME (sec): 158.265625
+avg episode reward: 0.09923255175570896
+sample:
+ public RcogCholagerCommentro getAgmardConfisuleNumberIncordStPr() { returne entitam; }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 0.5715805888175964
+
+20 % done
+loss: 0.559036374092102
+
+30 % done
+loss: 0.5491160154342651
+
+40 % done
+loss: 0.5409998893737793
+
+50 % done
+loss: 0.6153525114059448
+
+60 % done
+loss: 0.5371819734573364
+
+70 % done
+loss: 0.5320208072662354
+
+80 % done
+loss: 0.598738431930542
+
+90 % done
+loss: 0.5207600593566895
+
+100 % done
+loss: 0.5330331325531006
+
+ELAPSED TIME (sec): 4151.328125
+===========================
+epoch: 9
+generator:
+step: 10217  of  100000
+reward:  -0.30818235874176025
+
+step: 20081  of  100000
+reward:  0.08640851080417633
+
+step: 30117  of  100000
+reward:  0.4378717839717865
+
+step: 40096  of  100000
+reward:  -0.0649348795413971
+
+step: 50088  of  100000
+reward:  0.1150435209274292
+
+step: 60073  of  100000
+reward:  -0.20377041399478912
+
+step: 70102  of  100000
+reward:  0.4448806345462799
+
+step: 80056  of  100000
+reward:  0.23513579368591309
+
+step: 90089  of  100000
+reward:  0.29853585362434387
+
+ELAPSED TIME (sec): 165.828125
+avg episode reward: 0.13122309833388787
+sample:
+public void setRA_AKA (Object e) { }
+---------------------------
+discriminator:
+epoch: 0
+10 % done
+loss: 0.8282601237297058
+
+20 % done
+loss: 0.767037034034729
+
+30 % done
+loss: 0.9125935435295105
+
+40 % done
+loss: 0.7686377763748169
+
+50 % done
+loss: 0.6796869039535522
+
+60 % done
+loss: 0.7304686307907104
+
+70 % done
+loss: 0.7247536182403564
+
+80 % done
+loss: 0.6849225759506226
+
+90 % done
+loss: 0.74628746509552
+
+ELAPSED TIME (sec): 2454.3125
+===========================
+---------------------------------
+ public void setUsePlayPr(Strin acti){ }
+---------------------------------
+ELAPSED TIME (sec): 21853.3125
+---------------------------------
+
+Process finished with exit code 0

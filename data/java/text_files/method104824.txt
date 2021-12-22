@@ -1,0 +1,1 @@
+ public void setRequestDate(Date value) { this.requestDate = value; } 

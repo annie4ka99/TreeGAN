@@ -1,0 +1,1 @@
+ public void target( String label ) { target( stringToIntLabel( label ) ); } 

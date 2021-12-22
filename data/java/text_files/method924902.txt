@@ -1,0 +1,1 @@
+ public PortletStreamParametersMap getParamsMap() { return _param_map; } 

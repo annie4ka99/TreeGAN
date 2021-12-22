@@ -1,0 +1,1 @@
+ public void setServletName(String name) { this.servletName = name; } 

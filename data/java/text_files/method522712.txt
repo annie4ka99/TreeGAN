@@ -1,0 +1,1 @@
+ public void setJbpaLocation(String jbpaLocation) { this.jbpaLocation = jbpaLocation; } 

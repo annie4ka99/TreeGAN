@@ -1,0 +1,1 @@
+ public void setFixedField(String fixedField) { m_fixedfield = fixedField; } 

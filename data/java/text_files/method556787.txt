@@ -1,0 +1,1 @@
+ public void setData_type(int data_type) { this.data_type = data_type; } 

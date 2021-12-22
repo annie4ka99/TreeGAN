@@ -1,0 +1,1 @@
+ protected double readSampleRate() { return acquisitionDialog.readSampleRate(); } 

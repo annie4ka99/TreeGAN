@@ -1,0 +1,1 @@
+ private Heep5 getHeep5() { if (heep5 == null) { heep5 = new Heep5(); } return heep5; } 

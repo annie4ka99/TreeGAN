@@ -1,0 +1,1 @@
+ public void calculateEnabled() { setContents(); setEnabled(isEnabled()); } 

@@ -1,0 +1,1 @@
+ public void setOccurTimes(int oc) { occurtimes = oc; } 

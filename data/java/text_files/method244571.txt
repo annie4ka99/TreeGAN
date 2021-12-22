@@ -1,0 +1,1 @@
+ public RefPackage getExtent() { if(extent != null) return extent; else return parent.getExtent(); } 

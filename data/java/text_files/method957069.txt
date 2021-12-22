@@ -1,0 +1,1 @@
+ public InternationalStringBranchType createInternationalStringBranchType() { return new InternationalStringBranchType(); } 

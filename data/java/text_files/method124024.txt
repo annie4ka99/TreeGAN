@@ -1,0 +1,1 @@
+ public void valueChanged(SymbolEvent evt) { lagsSymbol = evt.getSource(); updateLayout(); } 

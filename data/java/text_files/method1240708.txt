@@ -1,0 +1,1 @@
+ public void setNamespaceURI(String nsURI) { namespaceURI = nsURI; } 

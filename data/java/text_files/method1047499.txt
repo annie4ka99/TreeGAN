@@ -1,0 +1,1 @@
+ public void removeBatch(Batch batch) { db.delete(batch); db.commit(); } 

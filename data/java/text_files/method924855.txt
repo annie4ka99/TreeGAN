@@ -1,0 +1,1 @@
+ public void setOutput(File output) { this.output = output; } 

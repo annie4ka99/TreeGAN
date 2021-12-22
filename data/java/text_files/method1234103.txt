@@ -1,0 +1,1 @@
+ public String getOpen() { return openClass; } 

@@ -1,0 +1,1 @@
+ public String getMimeType() { logger.debug("entering getMimeType"); return mimeType; } 

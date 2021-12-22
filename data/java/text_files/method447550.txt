@@ -1,0 +1,1 @@
+ public QName getWsdlName() { return wsdlName; } 

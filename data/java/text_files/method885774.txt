@@ -1,0 +1,1 @@
+ public ComplexInstance getComplexInstance() { return complexInstance; } 

@@ -1,0 +1,1 @@
+ public void setCategory(String category) throws WorkFileException { this.setCategory(category); this.log(); } 

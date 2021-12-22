@@ -1,0 +1,1 @@
+ public String toString() { return type + "\t" + timestamp + "\t" + msg; } 

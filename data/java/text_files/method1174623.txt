@@ -1,0 +1,1 @@
+ public void resetReceivedDamageFromThisTurn() { receivedDamageFromThisTurn.clear(); } 

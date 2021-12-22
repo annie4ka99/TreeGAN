@@ -1,0 +1,1 @@
+ public Predicate getFilterPredicate() { return m_predicate; } 

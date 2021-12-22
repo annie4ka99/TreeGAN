@@ -1,0 +1,1 @@
+ public void setAnimationEnabled(final boolean enabled) { animationEnabled = enabled; } 

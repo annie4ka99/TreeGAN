@@ -1,0 +1,1 @@
+ public void setHorizontalOffset(int offset) { hOffset = offset; } 

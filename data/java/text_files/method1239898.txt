@@ -1,0 +1,1 @@
+ public String getSOAPPartAsString() throws org.apache.axis.AxisFault { return mSOAPPart.getAsString(); } 

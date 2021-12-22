@@ -1,0 +1,1 @@
+ public void go() { synchronized (monitor) { this.returnValue = GO; monitor.notifyAll(); } } 

@@ -1,0 +1,1 @@
+ public void setTextArea(JTextArea argTextArea) { textArea = argTextArea; } 

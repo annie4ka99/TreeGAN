@@ -1,0 +1,1 @@
+ public void setBottomLabel(String s) { smallBottomLabel = s; } 

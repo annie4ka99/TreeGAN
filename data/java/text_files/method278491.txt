@@ -1,0 +1,1 @@
+ public boolean isGlobalFind() { return globalFind; } 

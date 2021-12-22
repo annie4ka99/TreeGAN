@@ -1,0 +1,1 @@
+public void startHtml() throws java.io.IOException { startElement(TAG_HTML); } 

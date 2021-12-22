@@ -1,0 +1,1 @@
+ public void setSelected(boolean state) { if (state) selectedZones.add(this); else selectedZones.remove(this); } 

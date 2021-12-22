@@ -1,0 +1,1 @@
+ public int hashCode() { return this.getFolderId().hashCode() ^ this.getOffset().hashCode(); } 

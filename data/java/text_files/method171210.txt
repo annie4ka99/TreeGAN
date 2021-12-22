@@ -1,0 +1,1 @@
+ public void visitALOAD(ALOAD o){ stack().push(locals().get(o.getIndex())); } 

@@ -1,0 +1,1 @@
+ public void setEnumHandler(EnumHandler enumHandler) { this.enumHandler = enumHandler; } 

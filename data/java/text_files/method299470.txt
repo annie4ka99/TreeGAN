@@ -1,0 +1,1 @@
+ protected void deactivate(boolean removeIcon) { if (removeIcon) { figure().getIcon().dispose(); } super.deactivate(); } 

@@ -1,0 +1,1 @@
+ public void delete(InstructionHandle ih) throws TargetLostException { remove(ih.prev, ih.next); } 

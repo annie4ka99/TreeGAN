@@ -1,0 +1,1 @@
+ public void addShutdownHook(ShutdownHook hook) { this.shutdownHooks.add(hook); } 

@@ -1,0 +1,1 @@
+ public void removeValueTargets() { if (targets != null) { targets = null; } } 

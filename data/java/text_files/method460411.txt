@@ -1,0 +1,1 @@
+ public void add(String assertion) { assertions.add(new AssertionResult(assertion)); } 

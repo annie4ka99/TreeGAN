@@ -1,0 +1,1 @@
+ public void getAnimTrans(Transform3D t3d) { t3d.set(animTrans); } 

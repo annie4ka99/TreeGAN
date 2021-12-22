@@ -1,0 +1,1 @@
+public int getAddrIFDTable() { return addrIFDTable; } 

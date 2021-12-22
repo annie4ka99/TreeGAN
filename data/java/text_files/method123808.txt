@@ -1,0 +1,1 @@
+ public CharSequenceImpl getNamespaceUri(int pos) { return _namespaces[(pos << 1) + 1]; } 

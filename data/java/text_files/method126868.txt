@@ -1,0 +1,1 @@
+ public char read() { char c = peek(); if (c != 0) { pointer++; } return c; } 

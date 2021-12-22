@@ -1,0 +1,1 @@
+ public double getMinScale() { return m_minScale; } 

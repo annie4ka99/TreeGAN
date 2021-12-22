@@ -1,0 +1,1 @@
+ public Object handleGetObject(String key) { return defaultNames.get(key); } 

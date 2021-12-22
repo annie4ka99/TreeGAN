@@ -1,0 +1,1 @@
+ synchronized public void exit() { isActive = false; notifyAll(); } 

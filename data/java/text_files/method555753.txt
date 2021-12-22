@@ -1,0 +1,1 @@
+ public void setDetermined(final boolean isDetermined) { this.isDetermined = isDetermined; } 

@@ -1,0 +1,1 @@
+ public void handleNamespace(String prefix, String uri) { namespaces.put(prefix, uri); } 

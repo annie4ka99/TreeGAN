@@ -1,0 +1,1 @@
+ public void setInterestingnessDate(Date intrestingnessDate) { this.interestingnessDate = intrestingnessDate; } 

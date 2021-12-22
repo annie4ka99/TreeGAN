@@ -1,0 +1,1 @@
+ public int category(Object element) { return ((JSElement) element).category(); } 

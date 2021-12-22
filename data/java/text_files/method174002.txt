@@ -1,0 +1,1 @@
+ public Document addContent(Collection c) { content.addAll(c); return this; } 

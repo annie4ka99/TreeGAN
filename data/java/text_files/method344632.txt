@@ -1,0 +1,1 @@
+ public int getMinorVersion() { if (loadLibraryOK) { return javaDAQmxGetMinorVersion(); } else { return -1; } } 

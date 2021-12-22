@@ -1,0 +1,1 @@
+ public void setHorizontalOffset(int y) { off_x = y; repaint(); } 

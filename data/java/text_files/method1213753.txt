@@ -1,0 +1,1 @@
+ public boolean isDaoOpen() { if (this.view == null) { return false; } return this.view.isDaoOpen(); } 

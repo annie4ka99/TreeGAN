@@ -1,0 +1,1 @@
+ public void setLowerCorner(DirectPositionType value) { this.lowerCorner = value; } 

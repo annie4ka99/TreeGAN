@@ -1,0 +1,1 @@
+ protected void runActionBottom(){ Debug.debug(this, "BottomButton cliked", channel); } 

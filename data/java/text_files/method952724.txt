@@ -1,0 +1,1 @@
+ public boolean agentIDExists(AgentData agentData) { return this.database.agentExists(agentData); } 

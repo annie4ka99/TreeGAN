@@ -1,0 +1,1 @@
+ public void add(Predicate p, ColorAction f) { super.add(p, f); } 

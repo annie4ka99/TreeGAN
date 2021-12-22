@@ -1,0 +1,1 @@
+ public void setPoint(PointType value) { this.point = value; } 

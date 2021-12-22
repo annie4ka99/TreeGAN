@@ -1,0 +1,1 @@
+ public String getLinksDbURL() { return lnDbURLTextField.getText(); } 

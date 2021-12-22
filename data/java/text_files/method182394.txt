@@ -1,0 +1,1 @@
+ public boolean hasCollidableObject() { return this.collidableObject != null; } 

@@ -1,0 +1,1 @@
+ final public boolean isGoal(int position) { return goalsArray[position]; } 

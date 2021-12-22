@@ -1,0 +1,1 @@
+ public ReadUserInputMsgType createReadUserInputMsgType() { return new ReadUserInputMsgType(); } 

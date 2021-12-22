@@ -1,0 +1,1 @@
+ public void visitISUB(ISUB o){ stack().pop(); stack().pop(); stack().push(Type.INT); } 

@@ -1,0 +1,1 @@
+ public void setContentName(String name) { super.setContentName(name); } 

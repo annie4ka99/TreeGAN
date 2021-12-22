@@ -1,0 +1,1 @@
+ public boolean isValidNewSolution() { return this != INVALID_SOLUTION && this != DUPLICATE_SOLUTION; } 

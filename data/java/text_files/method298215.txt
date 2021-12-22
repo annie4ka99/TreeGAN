@@ -1,0 +1,1 @@
+ public void setLitDataID(int litDataID) { this.litDataID = litDataID; } 

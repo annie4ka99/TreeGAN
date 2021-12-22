@@ -1,0 +1,1 @@
+ public TridasEntityBase getPanelObject() { return null; } 

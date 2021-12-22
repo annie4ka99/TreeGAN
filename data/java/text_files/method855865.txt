@@ -1,0 +1,1 @@
+ public boolean isKey() { return !key.equals(""); } 

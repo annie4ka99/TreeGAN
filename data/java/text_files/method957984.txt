@@ -1,0 +1,1 @@
+ public void setOperationsMetadata(OperationsMetadata value) { this.operationsMetadata = value; } 

@@ -1,0 +1,1 @@
+ final public void setBox(int x, int y) { boxesArray[x + width * y] = true; } 

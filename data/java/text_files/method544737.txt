@@ -1,0 +1,1 @@
+ public IDevStateScalar getModel() { return model; } 

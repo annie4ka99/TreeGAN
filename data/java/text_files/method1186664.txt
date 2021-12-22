@@ -1,0 +1,1 @@
+ public int getEditCount() { return this.editCount; } 

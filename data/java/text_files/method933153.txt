@@ -1,0 +1,1 @@
+ public boolean getConfigured() { return false; } 

@@ -1,0 +1,1 @@
+ public void cleanUp(){ this.InputLayer.CleanUp(); this.HiddenLayer.CleanUp(); this.OutputLayer.CleanUp(); } 

@@ -1,0 +1,1 @@
+ public void shutdown() { if (certainty == maxCertainty) { foundPlace(time); } } 

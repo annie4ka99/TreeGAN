@@ -1,0 +1,1 @@
+ public double getPaddingPercentage() { return m_padding; } 

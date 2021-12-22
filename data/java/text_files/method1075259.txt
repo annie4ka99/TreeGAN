@@ -1,0 +1,1 @@
+ public IFellowNoteDao getFellowNotedao() { return fellowNotedao; } 

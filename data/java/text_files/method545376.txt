@@ -1,0 +1,1 @@
+ public boolean isXY() { return (dataViews.size() > 0); } 

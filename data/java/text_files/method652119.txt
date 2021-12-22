@@ -1,0 +1,1 @@
+ public RuleBasedScanner getXMLPIScanner() { return xmlPIScanner; } 

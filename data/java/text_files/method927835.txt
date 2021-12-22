@@ -1,0 +1,1 @@
+ public File createImageFromChart(ChartPanel cp) { return createImageFromChart(cp.getChart()); } 

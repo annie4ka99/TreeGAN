@@ -1,0 +1,1 @@
+public void addTextLine(TextLine theTextLine) { listTextLine.add(theTextLine); } 

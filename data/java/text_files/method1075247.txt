@@ -1,0 +1,1 @@
+ public FellowNote getLastFellowNote() { return lastFellowNote; } 

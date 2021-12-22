@@ -1,0 +1,1 @@
+public void setFullPath(String newValue) { this.fullPath = newValue; } 

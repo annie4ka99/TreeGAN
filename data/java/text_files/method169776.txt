@@ -1,0 +1,1 @@
+ public double getColumn(int i) { return crSpec[C][i]; } 

@@ -1,0 +1,1 @@
+ public long getOffset() { return binaryHeader.getLong(8); } 

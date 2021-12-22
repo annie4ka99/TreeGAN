@@ -1,0 +1,1 @@
+ public boolean storesUpperCaseIdentifiers() throws java.sql.SQLException { return false; } 

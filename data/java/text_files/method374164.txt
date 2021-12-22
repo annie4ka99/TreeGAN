@@ -1,0 +1,1 @@
+ public boolean hasPayload() { return getPayloadLength() != 0; } 

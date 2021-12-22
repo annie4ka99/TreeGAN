@@ -1,0 +1,1 @@
+ public boolean closingConnection() throws SQLException { notifyClose(); currentConnectionHandle = null; return false; } 

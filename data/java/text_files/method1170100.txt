@@ -1,0 +1,1 @@
+ public void setTrigger(boolean b) { trigger = b; } 

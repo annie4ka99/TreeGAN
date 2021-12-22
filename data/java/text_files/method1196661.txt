@@ -1,0 +1,1 @@
+ public void deleteRecord(int id) { getHibernateTemplate().delete(getRecord(id)); } 

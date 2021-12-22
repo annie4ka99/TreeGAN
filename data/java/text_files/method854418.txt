@@ -1,0 +1,1 @@
+public void setOffset(java.lang.String newOffset) { fOffset = newOffset; } 

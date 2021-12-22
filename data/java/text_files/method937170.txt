@@ -1,0 +1,1 @@
+ public void setBeepEnabled(boolean beepEnabled) { this.beepEnabled = beepEnabled; } 

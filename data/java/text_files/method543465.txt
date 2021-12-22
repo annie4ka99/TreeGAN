@@ -1,0 +1,1 @@
+ public void setGradientVisible(boolean b) { gradientTool.setVisible(b); } 

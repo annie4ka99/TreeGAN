@@ -1,0 +1,1 @@
+ public boolean checkError() { flush(); return (error); } 

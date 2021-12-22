@@ -1,0 +1,1 @@
+ public EnhancedDialog(Dialog owner, String title) { this(owner, title, true); } 

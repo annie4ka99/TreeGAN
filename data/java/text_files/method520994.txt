@@ -1,0 +1,1 @@
+ public void setStatusLabel(java.lang.String newStatusLabel) { statusLabel = newStatusLabel; } 

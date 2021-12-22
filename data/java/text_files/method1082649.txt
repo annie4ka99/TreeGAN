@@ -1,0 +1,1 @@
+ protected void setColumnMovingOffered(boolean columnMovingOffered) { this.columnMovingOffered = columnMovingOffered; } 

@@ -1,0 +1,1 @@
+ public void setPresence(ComplexPresenceAbsence value) { this.presence = value; } 

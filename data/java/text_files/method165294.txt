@@ -1,0 +1,1 @@
+ public String getTemplate() { return template; } 

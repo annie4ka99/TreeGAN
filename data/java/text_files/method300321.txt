@@ -1,0 +1,1 @@
+ public void setClass(String val) { this.cssClass = val; } 

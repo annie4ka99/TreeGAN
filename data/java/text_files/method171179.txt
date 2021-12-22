@@ -1,0 +1,1 @@
+ private OperandStack stack(){ return frame.getStack(); } 

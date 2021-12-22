@@ -1,0 +1,1 @@
+ private String gap(int gapSize) { return repeat(" ", gapSize); } 

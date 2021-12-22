@@ -1,0 +1,1 @@
+ public void setEmbeddedClass(boolean isEmbeddedClass) { this.isEmbeddedClass = isEmbeddedClass; } 

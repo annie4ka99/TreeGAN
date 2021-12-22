@@ -1,0 +1,1 @@
+ public void setConfigValue(int index, String value) { this.configValues[index] = value; } 

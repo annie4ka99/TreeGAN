@@ -1,0 +1,1 @@
+ public boolean supportsExtendedSQLGrammar() throws SQLException { return false; } 

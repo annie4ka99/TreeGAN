@@ -1,0 +1,1 @@
+ public void removeGPSListener(GPSListener listener) { GPSListeners.remove(GPSListener.class, listener); } 

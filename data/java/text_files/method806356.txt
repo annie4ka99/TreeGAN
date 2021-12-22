@@ -1,0 +1,1 @@
+ public void removeAppenderEvent(Category cat, Appender appender) { } 

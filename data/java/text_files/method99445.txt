@@ -1,0 +1,1 @@
+ public void setDictionaries(WSIRequest.Dictionaries value) { this.dictionaries = value; } 

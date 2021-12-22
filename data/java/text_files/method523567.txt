@@ -1,0 +1,1 @@
+public void setDocSet(DocSet newValue) { this.docset = newValue; } 

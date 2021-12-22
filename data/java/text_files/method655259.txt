@@ -1,0 +1,1 @@
+ public int getIndividualID(){ return individualID; } 

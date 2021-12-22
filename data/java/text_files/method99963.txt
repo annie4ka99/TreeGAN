@@ -1,0 +1,1 @@
+ public void setRequest(WSIRequest value) { this.request = value; } 

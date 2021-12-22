@@ -1,0 +1,1 @@
+ public void wipeSprites() { sprites.clear(); } 

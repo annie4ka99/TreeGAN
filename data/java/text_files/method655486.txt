@@ -1,0 +1,1 @@
+ public void setBeginIndex( int beginIndex ) { this.beginIndex = beginIndex ; } 

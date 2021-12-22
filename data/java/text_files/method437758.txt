@@ -1,0 +1,1 @@
+ public void setColumnWidth(int column, int width) { columnWidths.put(column, width); } 

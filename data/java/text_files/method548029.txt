@@ -1,0 +1,1 @@
+ public void setPopUp(IDevicePopUp v) { this.popUp = v; } 

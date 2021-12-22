@@ -1,0 +1,1 @@
+ final public void setBoxPosition(int boxNo, int boxPosition) { boxPositions[boxNo] = boxPosition; } 

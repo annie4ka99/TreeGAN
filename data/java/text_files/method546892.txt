@@ -1,0 +1,1 @@
+ public void setWaitTime(int ms) { waitTime = ms; } 

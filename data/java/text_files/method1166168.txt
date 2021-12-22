@@ -1,0 +1,1 @@
+ protected Point getInitialSize() { return new Point(100, 60); } 

@@ -1,0 +1,1 @@
+ public void setUnitVisible(boolean b) { unitVisible = b; } 

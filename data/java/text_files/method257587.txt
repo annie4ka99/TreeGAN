@@ -1,0 +1,1 @@
+ public void setCatalogs(Set catalogs) { this.catalogs = catalogs; } 

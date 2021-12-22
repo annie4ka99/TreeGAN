@@ -1,0 +1,1 @@
+ public String getParameter(String param) { return ParseUtil.getParameter(request, param); } 

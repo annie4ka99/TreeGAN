@@ -1,0 +1,1 @@
+ public boolean getDoubleClick( ) { return fieldDoubleClick; } 

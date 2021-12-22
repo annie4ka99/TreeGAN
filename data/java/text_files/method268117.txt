@@ -1,0 +1,1 @@
+ public int getMaxConnections() throws java.sql.SQLException { return 0; } 

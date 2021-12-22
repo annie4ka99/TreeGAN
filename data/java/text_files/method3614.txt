@@ -1,0 +1,1 @@
+ public ClassLoader next() { return (ClassLoader) _iterator.next(); } 

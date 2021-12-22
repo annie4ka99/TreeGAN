@@ -1,0 +1,1 @@
+ public void setUom(String value) { this.uom = value; } 

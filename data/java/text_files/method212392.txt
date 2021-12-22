@@ -1,0 +1,1 @@
+ public Enumeration getAllCommands() { return taskgraphHandler.getGraph().elements(); } 

@@ -1,0 +1,1 @@
+ private boolean isRootGenerator() { return this.rootGenerator == null; } 

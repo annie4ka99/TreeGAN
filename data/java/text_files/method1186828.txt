@@ -1,0 +1,1 @@
+ public void setSmiliesEnabled(boolean smiliesEnabled) { this.smiliesEnabled = smiliesEnabled; } 

@@ -1,0 +1,1 @@
+ public QuietOption getQuietness() { return quietness; } 

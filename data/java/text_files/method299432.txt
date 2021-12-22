@@ -1,0 +1,1 @@
+ private NoteModel model() { return (NoteModel) getModel(); } 

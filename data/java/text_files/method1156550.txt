@@ -1,0 +1,1 @@
+ public void addMouseListener(MouseListener mouseListener) { imageList.addMouseListener(mouseListener); } 

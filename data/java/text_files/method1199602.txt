@@ -1,0 +1,1 @@
+ public void setThrowException(final boolean throwException) { this.throwException = throwException; } 

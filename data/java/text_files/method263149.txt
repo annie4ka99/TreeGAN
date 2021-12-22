@@ -1,0 +1,1 @@
+ public void setDown_dive_speed(Integer down_dive_speed) { this.down_dive_speed = down_dive_speed; } 

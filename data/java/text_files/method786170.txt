@@ -1,0 +1,1 @@
+ public void dispose() { if ( metadata != null ) metadata.dispose(); if ( index != null ) index.dispose(); } 

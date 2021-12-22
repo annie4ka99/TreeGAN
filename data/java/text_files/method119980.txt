@@ -1,0 +1,1 @@
+ public GraphNetworkModel getNetworkModel() { return networkModel; } 

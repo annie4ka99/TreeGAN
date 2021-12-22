@@ -1,0 +1,1 @@
+ protected void end() { calculate(0); super.end(); } 

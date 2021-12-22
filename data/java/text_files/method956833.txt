@@ -1,0 +1,1 @@
+ public QueryConstraintType createQueryConstraintType() { return new QueryConstraintType(); } 

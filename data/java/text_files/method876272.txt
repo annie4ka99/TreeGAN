@@ -1,0 +1,1 @@
+ public void setIdentifier(int identifier) { binaryHeader.putInt(4, identifier); } 

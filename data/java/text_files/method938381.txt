@@ -1,0 +1,1 @@
+ public HeaderRenderer getHeaderRenderer() { return monthpanel.getHeaderRenderer(); } 

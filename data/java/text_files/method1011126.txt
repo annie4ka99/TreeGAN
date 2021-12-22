@@ -1,0 +1,1 @@
+ public void setPbufferRenderToTextureRectangle(boolean onOrOff) { pbufferRenderToTextureRectangle = onOrOff; } 

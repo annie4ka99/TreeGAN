@@ -1,0 +1,1 @@
+ public AbstractFilenameComposite getMiddleComposite() { return middleComposite; } 

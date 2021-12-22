@@ -1,0 +1,1 @@
+ public Color getColorForString(String s) { return (Color)legendMap.get(s); } 

@@ -1,0 +1,1 @@
+ public int getBOTTOM() { return BOTTOM; } 

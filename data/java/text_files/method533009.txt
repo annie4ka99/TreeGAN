@@ -1,0 +1,1 @@
+ public void setPreferredPowerConsumption(int level) { } 

@@ -1,0 +1,1 @@
+ public void putFile(SimplePath sp, AbstractFile af) { getFileCache().put(sp, af); } 

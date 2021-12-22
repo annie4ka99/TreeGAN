@@ -1,0 +1,1 @@
+ public void checkException() throws Exception { if (this.caught != null) { throw this.caught; } } 

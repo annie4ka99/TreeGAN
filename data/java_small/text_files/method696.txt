@@ -1,0 +1,1 @@
+ public Border makeBorder(boolean forStart) { int rgb = (forStart ? borderColorStart : borderColorStop); return makeRgbBorder(rgb, useRoundedCorners); } 

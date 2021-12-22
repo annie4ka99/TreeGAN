@@ -1,0 +1,1 @@
+ public boolean offerFirst(Object e) { addFirst(e); return true; } 

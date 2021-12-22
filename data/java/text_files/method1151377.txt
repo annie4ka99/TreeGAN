@@ -1,0 +1,1 @@
+ public boolean isDummy(int id) { return ADD_DUMMY_COMPONENT && id==0; } 

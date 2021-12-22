@@ -1,0 +1,1 @@
+ public float getKd () { return this.kd; } 

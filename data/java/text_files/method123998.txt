@@ -1,0 +1,1 @@
+ public void setSymbolNameEndVarNames(String symbolName) { ecTerm1.setSymbolNameVariables(symbolName); } 

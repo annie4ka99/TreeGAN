@@ -1,0 +1,1 @@
+ public RequestToken getOAuthRequestToken() throws WeiboException { return http.getOAuthRequestToken(); } 

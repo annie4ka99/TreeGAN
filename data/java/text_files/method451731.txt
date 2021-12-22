@@ -1,0 +1,1 @@
+ public void remove(IFlowMap value) { list.remove(value); } 

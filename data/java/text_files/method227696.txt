@@ -1,0 +1,1 @@
+ public GridFile getSelectedNodesGridFile() { return (GridFile) this.getSelectedNode().getUserObject(); } 

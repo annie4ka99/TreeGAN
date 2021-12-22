@@ -1,0 +1,1 @@
+ public boolean supportsPositionedUpdate() { return true; } 

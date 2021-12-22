@@ -1,0 +1,1 @@
+ public void setFast(boolean fast) { formBeans.setFast(fast); } 

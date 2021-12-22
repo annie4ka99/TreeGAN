@@ -1,0 +1,1 @@
+ public void encounter(String stringToAdd) { encountered.addElement(stringToAdd); } 

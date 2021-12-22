@@ -1,0 +1,1 @@
+ protected void logWarningAtLine(String message) { logger.warn("Line " + lineNumber + ": " + message); } 

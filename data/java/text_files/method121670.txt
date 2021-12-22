@@ -1,0 +1,1 @@
+ public void setMax(int aMax) { max = aMax; } 

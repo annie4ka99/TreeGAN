@@ -1,0 +1,1 @@
+public void copyObject(java.lang.Object source) {} 

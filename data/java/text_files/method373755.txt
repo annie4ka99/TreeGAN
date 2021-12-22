@@ -1,0 +1,1 @@
+ public HardwareType hardwareTypeEnum() { return HardwareType.valueOf(hardwareType()); } 

@@ -1,0 +1,1 @@
+ public User follow(String id) throws WeiboException { return enableNotification(id); } 

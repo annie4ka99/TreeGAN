@@ -1,0 +1,1 @@
+ public String getTestRunTimeAsString() { return numberFormat.format(this.testRunTime / 1000.0); } 

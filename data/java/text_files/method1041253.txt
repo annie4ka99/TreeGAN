@@ -1,0 +1,1 @@
+ public void run() { try { start(); finish(); } catch (StageException e) { throw new RuntimeException(e); } } 

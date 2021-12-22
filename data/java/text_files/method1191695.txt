@@ -1,0 +1,1 @@
+ public Iterator getContexts() { return contexts.iterator(); } 

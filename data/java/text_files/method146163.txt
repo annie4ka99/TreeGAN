@@ -1,0 +1,1 @@
+ public Node addNode( String label ) throws TGException { return addNode(null,label); } 

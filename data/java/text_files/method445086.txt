@@ -1,0 +1,1 @@
+ public Variable getVariable(String name) { throw new UnsupportedOperationException(); } 

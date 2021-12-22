@@ -1,0 +1,1 @@
+ public void bugFix() { oldPage = 0; pageChange( 0 ); } 

@@ -1,0 +1,1 @@
+ public void setEditable(final boolean newEditable) { editable = newEditable; resultTextArea.setEditable(editable); } 

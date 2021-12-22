@@ -1,0 +1,1 @@
+ public ResourceSet getResourceSet() { return diResourceSet.getResourceSet(); } 

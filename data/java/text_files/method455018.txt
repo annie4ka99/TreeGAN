@@ -1,0 +1,1 @@
+ public SoniaCanvas getDisplay() { return LayoutArea; } 

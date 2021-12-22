@@ -1,0 +1,1 @@
+ public void setGlobalResponse(Handler globalResponse) { this.globalResponse = globalResponse; } 

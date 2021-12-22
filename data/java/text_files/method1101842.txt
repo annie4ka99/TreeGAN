@@ -1,0 +1,1 @@
+ public void setLoadIdentityMatrix(final boolean loadIdentityMatrix) { this.loadIdentityMatrix = loadIdentityMatrix; } 

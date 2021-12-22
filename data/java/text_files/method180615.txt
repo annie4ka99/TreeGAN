@@ -1,0 +1,1 @@
+ public void setWearSlot(String newSlot) { wearSlot = newSlot.toUpperCase(); } 

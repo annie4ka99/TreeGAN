@@ -1,0 +1,1 @@
+ public void addOutEdge(Edge e) { outEdges.add(e); } 

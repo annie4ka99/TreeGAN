@@ -1,0 +1,1 @@
+ public void setReceivers(IFlowDestinationInterface[] receivers) { this.receivers = receivers; } 

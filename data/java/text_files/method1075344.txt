@@ -1,0 +1,1 @@
+ public void setChildModuleName(String childModuleName) { this.childModuleName = childModuleName; } 

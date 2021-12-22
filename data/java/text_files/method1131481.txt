@@ -1,0 +1,1 @@
+ public void setTint(java.awt.Color color) { obj.setColor(color); } 

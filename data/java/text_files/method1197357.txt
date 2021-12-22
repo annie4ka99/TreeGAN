@@ -1,0 +1,1 @@
+ public void setLuceneBuilder(LuceneBuilder queryBuilder) { this.luceneBuilder = queryBuilder; } 

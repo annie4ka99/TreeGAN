@@ -1,0 +1,1 @@
+ protected void runRemoveItem(TableItem item){ if(item != null) { runActionRemove(item.getData()); } } 

@@ -1,0 +1,1 @@
+ private JComboBox getCatbox() { if (catbox == null) { catbox = new JComboBox(); } return catbox; } 

@@ -1,0 +1,1 @@
+ public Integer getMissingHeartwoodRingsToPith() { return missingHeartwoodRingsToPith; } 

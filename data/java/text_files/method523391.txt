@@ -1,0 +1,1 @@
+ public void setPageHeight(int newPageHeight) { pageHeight = newPageHeight; } 

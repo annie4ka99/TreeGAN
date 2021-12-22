@@ -1,0 +1,1 @@
+ final public void setNewLanguage() { application.setJMenuBar(createMenuBar()); createToolBar(); } 

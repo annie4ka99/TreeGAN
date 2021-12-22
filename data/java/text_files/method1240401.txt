@@ -1,0 +1,1 @@
+ public Element getDocumentElement() { return soapPart.getDocumentElement(); } 

@@ -1,0 +1,1 @@
+ public boolean isMatchCase() { if (matchCase == null) { return true; } else { return matchCase; } } 

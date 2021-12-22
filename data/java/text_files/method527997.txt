@@ -1,0 +1,1 @@
+private void setNbIFDEntry(short newValue) { this.nbIFDEntry = newValue; } 

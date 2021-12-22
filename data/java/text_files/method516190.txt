@@ -1,0 +1,1 @@
+public int getNbMsgs2beProcessed() { return nbMsgs2beProcessed; } 

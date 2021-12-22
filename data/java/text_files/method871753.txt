@@ -1,0 +1,1 @@
+ public void setAppType(java.lang.String appType) { this.appType = appType; } 

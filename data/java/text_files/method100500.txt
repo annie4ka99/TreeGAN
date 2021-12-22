@@ -1,0 +1,1 @@
+ public Sample load(BufferedReader r) throws IOException { throw new WrongFiletypeException(); } 

@@ -1,0 +1,1 @@
+ public Shadow getShadow() { return hairline; } 

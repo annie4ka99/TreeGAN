@@ -1,0 +1,1 @@
+ protected void addToBook(BaseBook b, Set s) { s.add(this); this.book = b; } 

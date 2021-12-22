@@ -1,0 +1,1 @@
+ public String getLanguageVersion() { return CajuScript.LANGUAGE_VERSION; } 

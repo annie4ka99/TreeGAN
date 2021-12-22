@@ -1,0 +1,1 @@
+ public void setResolvedFirstStrikeDamageThisCombat(boolean b) { resolvedFirstStrikeDamageThisCombat = b; } 

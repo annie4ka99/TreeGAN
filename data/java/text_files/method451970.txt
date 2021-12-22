@@ -1,0 +1,1 @@
+ public IFlowDestinationInterface getSender() { return sender; } 

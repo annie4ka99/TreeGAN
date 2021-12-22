@@ -1,0 +1,1 @@
+ protected void showError(String key) { getWindowControl().setError(getTranslator().translate(key)); } 

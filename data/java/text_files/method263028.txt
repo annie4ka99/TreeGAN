@@ -1,0 +1,1 @@
+ public double getAirPressure(){ return 1-(0.1/1000*this.altitude); } 

@@ -1,0 +1,1 @@
+ public BasicStroke getDefaultStroke() { return defaultStroke; } 

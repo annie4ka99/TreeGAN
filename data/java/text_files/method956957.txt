@@ -1,0 +1,1 @@
+ public AuditableEventQueryType createAuditableEventQueryType() { return new AuditableEventQueryType(); } 

@@ -1,0 +1,1 @@
+ public void insert(Object[] path, TreeDataSetNode node) { insert(0, path, node); } 

@@ -1,0 +1,1 @@
+ public boolean isGeomReady () { if (geometryReady) { geometryReady = false; return true; } return false; } 

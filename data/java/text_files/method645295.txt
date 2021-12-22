@@ -1,0 +1,1 @@
+ public void addInfo(String line) { if (info == null) info = line; else info += ", " + line; } 

@@ -1,0 +1,1 @@
+ public void lockCommand() { if (commandLock != null) { commandLock.lock(); } } 

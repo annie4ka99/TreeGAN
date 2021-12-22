@@ -1,0 +1,1 @@
+ public void clearContent() { datahandler = null; contentObject = null; } 

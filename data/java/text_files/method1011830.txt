@@ -1,0 +1,1 @@
+ private Arc firstarc() { current = head; return nextarc(); } 

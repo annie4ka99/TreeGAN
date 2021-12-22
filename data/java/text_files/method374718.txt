@@ -1,0 +1,1 @@
+ public double getDouble(long sequence) { return this.storage.getDouble(map(sequence)); } 

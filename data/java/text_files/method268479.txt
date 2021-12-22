@@ -1,0 +1,1 @@
+ protected void setRetrieveGeneratedKeys(boolean flag) { this.retrieveGeneratedKeys = flag; } 

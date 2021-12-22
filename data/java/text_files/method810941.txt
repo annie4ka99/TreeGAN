@@ -1,0 +1,1 @@
+ protected void setFixture(SelectedIonListType fixture) { this.fixture = fixture; } 

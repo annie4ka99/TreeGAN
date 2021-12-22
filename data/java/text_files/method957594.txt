@@ -1,0 +1,1 @@
+ public LocationPropertyType createLocationPropertyType() { return new LocationPropertyType(); } 

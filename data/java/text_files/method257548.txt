@@ -1,0 +1,1 @@
+ public Object putList(Object key, List list) { return super.put(key, list); } 

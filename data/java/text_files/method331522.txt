@@ -1,0 +1,1 @@
+ public double getScaleMinVal() { if (binCentres) { return minVal - getStep()/2.; } else { return minVal; } } 

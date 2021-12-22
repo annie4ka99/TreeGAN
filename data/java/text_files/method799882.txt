@@ -1,0 +1,1 @@
+ public RGB getRGB() { return new RGB( rgb.red, rgb.green, rgb.blue ); } 

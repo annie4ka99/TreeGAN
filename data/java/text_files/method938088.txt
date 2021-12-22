@@ -1,0 +1,1 @@
+ public void setMonth(final Date d) { setDay(d, false); } 

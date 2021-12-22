@@ -1,0 +1,1 @@
+ public OfflineBarcodeHandler getOfflineHandler() { return offlineHandler; } 

@@ -1,0 +1,1 @@
+ public void setRate(final double rate) { this.rate = rate; } 

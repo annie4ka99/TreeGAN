@@ -1,0 +1,1 @@
+ public void setNside(int nside) { makeMap(nside); } 

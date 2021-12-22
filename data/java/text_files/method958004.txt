@@ -1,0 +1,1 @@
+ public WGS84BoundingBoxType createWGS84BoundingBoxType() { return new WGS84BoundingBoxType(); } 

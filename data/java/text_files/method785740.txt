@@ -1,0 +1,1 @@
+ public TupleSet getNodes() { return getSet(NODES); } 

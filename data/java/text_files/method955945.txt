@@ -1,0 +1,1 @@
+ public void setOwnerAtDestination(ObjectRefType value) { this.ownerAtDestination = value; } 

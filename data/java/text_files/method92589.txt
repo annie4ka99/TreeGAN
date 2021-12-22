@@ -1,0 +1,1 @@
+ public int getMaxSchemaNameLength() { return Limits.MAX_IDENTIFIER_LENGTH; } 

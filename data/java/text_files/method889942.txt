@@ -1,0 +1,1 @@
+ private void configurePluginLoggingOptions() { INFO = parseDebugOption(INFO_KEY); } 

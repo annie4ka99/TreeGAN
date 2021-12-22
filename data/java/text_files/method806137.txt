@@ -1,0 +1,1 @@
+ public void setQuicktree(java.lang.Boolean quicktree) { this.quicktree = quicktree; } 

@@ -1,0 +1,1 @@
+ protected Store getCachedObject() { return store; } 

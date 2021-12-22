@@ -1,0 +1,1 @@
+ public JDOMLocator getLocator() { return (locator != null)? new JDOMLocator(locator): null; } 

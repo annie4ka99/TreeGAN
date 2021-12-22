@@ -1,0 +1,1 @@
+ public void setCurationLocation(String value) { this.curationLocation = value; } 

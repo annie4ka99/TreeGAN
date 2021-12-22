@@ -1,0 +1,1 @@
+ public void setIndex(int arg) { if (part != arg) part = arg; } 

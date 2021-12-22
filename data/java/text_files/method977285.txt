@@ -1,0 +1,1 @@
+ public CWPoint fromD(double lat, double lon) { return new CWPoint(lat, lon); } 

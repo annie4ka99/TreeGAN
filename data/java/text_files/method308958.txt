@@ -1,0 +1,1 @@
+ public Wizard getWizard() { return wizard; } 

@@ -1,0 +1,1 @@
+ protected void resetReceiveActivityRefCount() { mReceiveActivityRefCount = 0; } 

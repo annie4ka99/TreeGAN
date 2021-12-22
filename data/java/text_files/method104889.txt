@@ -1,0 +1,1 @@
+ public void setInterpretationUnsolved(TridasInterpretationUnsolved value) { this.interpretationUnsolved = value; } 

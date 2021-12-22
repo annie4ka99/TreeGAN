@@ -1,0 +1,1 @@
+ public void setParent(P parent) { _parent = parent; } 

@@ -1,0 +1,1 @@
+ public void setSpatialCapabilities(SpatialCapabilitiesType value) { this.spatialCapabilities = value; } 

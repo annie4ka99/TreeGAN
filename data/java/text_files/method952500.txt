@@ -1,0 +1,1 @@
+ public boolean equals(Hashable o) { return this.address.equals(((Community) o).getAddress()); } 

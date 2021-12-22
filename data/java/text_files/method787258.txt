@@ -1,0 +1,1 @@
+ public void setNumberFormat(NumberFormat nf) { m_nf = nf; } 

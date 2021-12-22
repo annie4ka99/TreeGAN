@@ -1,0 +1,1 @@
+ public void visitIF_ICMPEQ(IF_ICMPEQ o){ stack().pop(); stack().pop(); } 

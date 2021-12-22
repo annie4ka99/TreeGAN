@@ -1,0 +1,1 @@
+ public Adapter createDescriptionType1Adapter() { return null; } 

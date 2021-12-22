@@ -1,0 +1,1 @@
+ public void setSamples(int samples) { this.samples = samples; } 

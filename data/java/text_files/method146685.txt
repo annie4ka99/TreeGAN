@@ -1,0 +1,1 @@
+ public void setVelocity(BigDecimal velocity) { this.velocity = velocity; } 

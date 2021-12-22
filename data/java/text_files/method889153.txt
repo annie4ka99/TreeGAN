@@ -1,0 +1,1 @@
+ protected void requestDesktopFocus(boolean flag){ gui.requestFocus(flag); } 

@@ -1,0 +1,1 @@
+ public void setRightAttack(double i) { rightAttack = i; } 

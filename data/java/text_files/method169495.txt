@@ -1,0 +1,1 @@
+ public Color getBackGround() { return Color.WHITE; } 

@@ -1,0 +1,1 @@
+ public int getParentNumber() { return parents.size(); } 

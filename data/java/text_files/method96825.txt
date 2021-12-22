@@ -1,0 +1,1 @@
+ public int getTypeFormatId() { return StoredFormatIds.SQL_CHAR_ID; } 

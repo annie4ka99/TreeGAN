@@ -1,0 +1,1 @@
+ public Shell getShell() { return PlatformUI.getWorkbench().getActiveWorkbenchWindow().getShell(); } 

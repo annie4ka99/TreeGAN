@@ -1,0 +1,1 @@
+ public void setPointProperty(PointPropertyType value) { this.pointProperty = value; } 

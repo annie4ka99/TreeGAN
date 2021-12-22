@@ -1,0 +1,1 @@
+ public boolean glIsList (int list) { return Context.gl_is_list (list); } 

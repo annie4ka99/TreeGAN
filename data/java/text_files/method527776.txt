@@ -1,0 +1,1 @@
+public boolean isEod() { return eod; } 

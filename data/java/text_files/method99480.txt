@@ -1,0 +1,1 @@
+ public WSIAuthenticate getAuthenticate() { return authenticate; } 

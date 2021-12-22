@@ -1,0 +1,1 @@
+ private Process getProcess() { return getResource().getProcess(); } 

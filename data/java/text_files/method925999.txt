@@ -1,0 +1,1 @@
+ public void setFramesPerSecond(int framesPerSecond) { this.framesPerSecond = framesPerSecond; } 

@@ -1,0 +1,1 @@
+ public void addCommand(Command command){ this.commands.add(command); } 

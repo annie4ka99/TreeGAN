@@ -1,0 +1,1 @@
+ public void searchAgentReset() { searchSet = 0; } 

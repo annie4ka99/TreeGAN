@@ -1,0 +1,1 @@
+ public int getMax_dim_x() { return max_dim_x; } 

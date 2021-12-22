@@ -1,0 +1,1 @@
+ public Color getColor(double val) { return trans.getColor(val, min, max); } 

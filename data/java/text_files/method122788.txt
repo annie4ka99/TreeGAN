@@ -1,0 +1,1 @@
+ public int getCellWidth() { return DisplayConstants.CELL_WIDTH; } 

@@ -1,0 +1,1 @@
+ public double getValSup() { return valSup; } 

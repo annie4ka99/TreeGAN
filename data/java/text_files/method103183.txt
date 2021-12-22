@@ -1,0 +1,1 @@
+ public void suspendEncoding() throws java.io.IOException { flushBase64(); this.suspendEncoding = true; } 

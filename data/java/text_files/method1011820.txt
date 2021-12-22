@@ -1,0 +1,1 @@
+ public boolean isnonempty() { return this.head != null ? true : false; } 

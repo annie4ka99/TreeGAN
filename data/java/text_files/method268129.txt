@@ -1,0 +1,1 @@
+ public int getMaxIndexLength() throws java.sql.SQLException { return 256; } 

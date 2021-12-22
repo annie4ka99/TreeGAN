@@ -1,0 +1,1 @@
+ public void update(RegistryObjectListType regObjList) throws ServiceException { commit(regObjList); } 

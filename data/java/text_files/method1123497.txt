@@ -1,0 +1,1 @@
+ public void union(WordSet w) { addAll(w.getWords()); } 

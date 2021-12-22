@@ -1,0 +1,1 @@
+ public void setMayFilter(boolean filter) { this.mayFilter = filter; this.setModified(this.isModified); } 

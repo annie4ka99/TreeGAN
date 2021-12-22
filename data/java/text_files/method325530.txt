@@ -1,0 +1,1 @@
+ public void clearImage() { clearImage(0, imageWidth); } 

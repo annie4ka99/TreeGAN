@@ -1,0 +1,1 @@
+ public void setUseVerticalScrollbar(boolean useVerticalScrollbar) { this.useVerticalScrollbar = useVerticalScrollbar; } 

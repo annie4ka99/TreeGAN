@@ -1,0 +1,1 @@
+ public O getOperator() { return operator; } 

@@ -1,0 +1,1 @@
+ public void setCheckNaN(boolean checkNaN) { this.checkNaN = checkNaN; } 

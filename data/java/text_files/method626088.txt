@@ -1,0 +1,1 @@
+ public void inAStringLiteral(AStringLiteral node) { this.annotate(node, Type.AString); } 

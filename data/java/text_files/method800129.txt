@@ -1,0 +1,1 @@
+ protected ImageData getImageData( String filename ) { return new ImageData( filename ); } 

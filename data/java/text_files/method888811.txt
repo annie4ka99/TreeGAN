@@ -1,0 +1,1 @@
+ protected void addRow(Object[] rowData){ model.addRow(rowData); } 

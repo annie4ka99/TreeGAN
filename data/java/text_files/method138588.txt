@@ -1,0 +1,1 @@
+ public void removeFeatureFilter(String feature_type) { removeFeatureFilter(feature_type, false); } 

@@ -1,0 +1,1 @@
+ public void setGlobalUnit(TridasVocabulary.GlobalUnit value) { this.globalUnit = value; } 

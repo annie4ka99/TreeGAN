@@ -1,0 +1,1 @@
+ public StringBuilder append(String str) { return criteria.append(str); } 

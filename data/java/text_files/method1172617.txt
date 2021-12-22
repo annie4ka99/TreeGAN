@@ -1,0 +1,1 @@
+ public void attachCard(Card c) { attached.add(c); this.updateObservers(); } 

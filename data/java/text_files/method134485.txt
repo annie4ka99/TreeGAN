@@ -1,0 +1,1 @@
+ public void setHitable(boolean hitable) { this.hitable = hitable; } 

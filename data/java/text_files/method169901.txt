@@ -1,0 +1,1 @@
+ public double getWing() { return wing; } 

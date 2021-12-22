@@ -1,0 +1,1 @@
+ public long getLong64attrrw() { xlogger.entry(); xlogger.exit(); return long64attrrw; } 

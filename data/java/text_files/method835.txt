@@ -1,0 +1,1 @@
+ public void paintImmediately() { paintImmediately(0, 0, getWidth(), getHeight()); } 

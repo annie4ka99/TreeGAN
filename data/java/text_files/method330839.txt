@@ -1,0 +1,1 @@
+ private int getGroupIndex(int iD) { return Arrays.binarySearch(uniqueGroups, iD); } 

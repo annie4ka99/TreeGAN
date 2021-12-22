@@ -1,0 +1,1 @@
+ public void setInicio(Date inicio) { this.inicio = inicio; } 

@@ -1,0 +1,1 @@
+ public TridasCoverage createTridasCoverage() { return new TridasCoverage(); } 

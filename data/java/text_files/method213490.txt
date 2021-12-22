@@ -1,0 +1,1 @@
+ private boolean isDefaultSignal(String startSignal) { return !signals.containsKey(startSignal); } 

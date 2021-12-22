@@ -1,0 +1,1 @@
+ public MappingSettings getContent() { return content; } 

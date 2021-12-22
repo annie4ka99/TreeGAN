@@ -1,0 +1,1 @@
+ public WizardModel getWizardModel() { return getWizard() == null ? null : getWizard().getModel(); } 

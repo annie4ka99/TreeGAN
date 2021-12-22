@@ -1,0 +1,1 @@
+ public long incr( String key, long inc ) { return incrdecr( "incr", key, inc, null ); } 

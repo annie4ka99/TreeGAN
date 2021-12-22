@@ -1,0 +1,1 @@
+public void setCornerSize(int newSize) { cornerSize = newSize; } 

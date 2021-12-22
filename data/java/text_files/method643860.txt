@@ -1,0 +1,1 @@
+ public void setEditSession(EditSessionType value) { this.editSession = value; } 

@@ -1,0 +1,1 @@
+ public PageInfo getNextPage() { findNextPage(); nextPageChecked = false; return nextPage; } 

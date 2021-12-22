@@ -1,0 +1,1 @@
+ public void setKickerAbility(boolean kab) { this.kickerAbility = kab; } 

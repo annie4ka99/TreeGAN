@@ -1,0 +1,1 @@
+ public void setRaysOnly(boolean raysOnly) { this.raysOnly = raysOnly; } 

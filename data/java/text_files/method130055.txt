@@ -1,0 +1,1 @@
+ synchronized public void setFillBrush(final Brush fillBrush) { this.fillBrush = fillBrush; } 

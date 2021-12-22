@@ -1,0 +1,1 @@
+ protected void updateTable() { seqTable.tableChanged(new TableModelEvent(seqTable.getModel())); } 

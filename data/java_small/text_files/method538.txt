@@ -1,0 +1,1 @@
+ public void jumpXBoardPositionsBackwards(int jumpCount) { while(jumpCount > nextIndexToWrite) { memoryBlockToWrite = memoryBlockToWrite.previousMemoryBlock; jumpCount -= nextIndexToWrite; nextIndexToWrite = MEMORY_BLOCK_SIZE; } nextIndexToWrite -= jumpCount; } 

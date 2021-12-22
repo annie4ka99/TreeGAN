@@ -1,0 +1,1 @@
+ public String getAction(String path) { return getEncodeURL(getActionMappingURL(path)); } 

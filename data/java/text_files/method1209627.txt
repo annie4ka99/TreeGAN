@@ -1,0 +1,1 @@
+ public SourceInfo sourceInfo(String url) { return (SourceInfo)urlToSourceInfo.get(url); } 

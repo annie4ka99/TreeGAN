@@ -1,0 +1,1 @@
+ public RelocateObjectsRequest createRelocateObjectsRequest() { return new RelocateObjectsRequest(); } 

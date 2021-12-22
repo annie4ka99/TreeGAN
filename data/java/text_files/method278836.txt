@@ -1,0 +1,1 @@
+ protected void pop(Entry entry, List entryList){ entryList.remove(entry); } 

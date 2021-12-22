@@ -1,0 +1,1 @@
+ public ElementList getAllMoving() { return moving; } 

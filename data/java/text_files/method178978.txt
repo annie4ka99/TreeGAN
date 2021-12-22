@@ -1,0 +1,1 @@
+ public void hideEdge(Edge e) { if (contains(e)) { e.setHidden(); hidden_edges.add(e); } } 

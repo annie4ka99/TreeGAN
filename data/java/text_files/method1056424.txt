@@ -1,0 +1,1 @@
+ protected void deleteObject(T t) { getHibernateTemplate().delete(t); } 

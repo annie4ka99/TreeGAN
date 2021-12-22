@@ -1,0 +1,1 @@
+ public void setNv(java.lang.String nv) { this.nv = nv; } 

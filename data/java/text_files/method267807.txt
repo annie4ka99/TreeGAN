@@ -1,0 +1,1 @@
+ public String getCharacterSet() { return this.charsetName; } 

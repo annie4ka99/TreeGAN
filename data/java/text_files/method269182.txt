@@ -1,0 +1,1 @@
+ private JToolBar getJToolBar() { if (jToolBar == null) { jToolBar = new JToolBar(); } return jToolBar; } 

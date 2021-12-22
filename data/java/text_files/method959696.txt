@@ -1,0 +1,1 @@
+ public void setSql_getInsertRaumId(String sql_getInsertRaumId) { this.sql_getInsertRaumId = sql_getInsertRaumId; } 

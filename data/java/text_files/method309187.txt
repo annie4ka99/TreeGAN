@@ -1,0 +1,1 @@
+ public InformationDialog(Dialog owner) { this(owner, new Container()); } 

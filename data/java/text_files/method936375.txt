@@ -1,0 +1,1 @@
+ public Announcement (java.lang.Long _id) { super(_id); } 

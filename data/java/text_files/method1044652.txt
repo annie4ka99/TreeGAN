@@ -1,0 +1,1 @@
+ public Point getOrigin() { return new Point(originX, originY); } 

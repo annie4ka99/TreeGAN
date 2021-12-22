@@ -1,0 +1,1 @@
+ public void fatal(Object message, Throwable t) { _log.log(Level.FATAL, message, t); } 

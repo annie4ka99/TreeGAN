@@ -1,0 +1,1 @@
+ protected Writer getOut() { return writers.peek(); } 

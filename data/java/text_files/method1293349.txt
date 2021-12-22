@@ -1,0 +1,1 @@
+ public ExtensionRegistry getExtensionRegistry() { return extReg; } 

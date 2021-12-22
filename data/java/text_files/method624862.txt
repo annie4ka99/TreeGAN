@@ -1,0 +1,1 @@
+ public void testInvariants() throws Exception { Report report = this.evaluate("invariants.ocl"); } 

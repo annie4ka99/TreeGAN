@@ -1,0 +1,1 @@
+ public RelationType getReleationType() { return RelationType.ManyToOne; } 

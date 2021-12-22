@@ -1,0 +1,1 @@
+ public void setRowName(String row) { rowName=row; } 

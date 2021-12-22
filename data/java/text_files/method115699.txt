@@ -1,0 +1,1 @@
+ public void setComposite(AbstractFilenameComposite composite) { this.composite = composite; } 

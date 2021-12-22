@@ -1,0 +1,1 @@
+ public String getDeviceAlias(IDevice device) { return device.getName(); } 

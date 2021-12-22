@@ -1,0 +1,1 @@
+ public void addCycleCommand(Command c) { cycleCommandList.add(c); } 

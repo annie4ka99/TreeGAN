@@ -1,0 +1,1 @@
+ public int getTempDefenseBoost() { return tempDefenseBoost; } 

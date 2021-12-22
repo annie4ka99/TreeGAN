@@ -1,0 +1,1 @@
+ public void setAutoZoomFactor(double ratio) { autoZoomFactor = ratio; } 

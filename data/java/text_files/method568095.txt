@@ -1,0 +1,1 @@
+ public AStatParameter getStatParameter() { return m_statParameter; } 

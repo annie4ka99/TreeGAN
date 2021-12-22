@@ -1,0 +1,1 @@
+ public void setGui(boolean gui) { this.gui = gui; } 

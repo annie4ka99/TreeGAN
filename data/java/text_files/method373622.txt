@@ -1,0 +1,1 @@
+ public boolean checksum(int crc) { super.setUInt(8, crc); return true; } 

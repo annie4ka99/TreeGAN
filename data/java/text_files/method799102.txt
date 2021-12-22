@@ -1,0 +1,1 @@
+ public void setWord(String word) { this.word = word.toLowerCase(); } 

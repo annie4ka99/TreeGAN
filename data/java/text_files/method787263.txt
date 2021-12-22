@@ -1,0 +1,1 @@
+ public void setDataField(String field) { m_field = field; if ( !m_modelSet ) m_model = null; } 

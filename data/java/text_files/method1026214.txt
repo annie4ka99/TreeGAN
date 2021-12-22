@@ -1,0 +1,1 @@
+ public void argcheck(boolean cond, int narg, String extramsg) { if ( ! cond ) argerror(narg,extramsg); } 

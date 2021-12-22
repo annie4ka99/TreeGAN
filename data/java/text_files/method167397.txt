@@ -1,0 +1,1 @@
+ protected void setLinks() { nodes.setLinks(); variables.setLinks(reactors); } 

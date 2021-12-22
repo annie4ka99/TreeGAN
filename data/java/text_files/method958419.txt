@@ -1,0 +1,1 @@
+ public void setTargetBinding(String value) { this.targetBinding = value; } 

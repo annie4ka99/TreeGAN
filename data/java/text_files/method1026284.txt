@@ -1,0 +1,1 @@
+ public boolean luaStackCall(LuaState vm) { vm.invokeJavaFunction( this ); return false; } 

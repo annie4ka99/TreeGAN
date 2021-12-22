@@ -1,0 +1,1 @@
+ public AbstractFilenameComposite getComposite() { return composite; } 

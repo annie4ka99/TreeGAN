@@ -1,0 +1,1 @@
+ public Vector2f subtract(Vector2f vec) { return subtract(vec, null); } 

@@ -1,0 +1,1 @@
+ public void removeTableSelectionListener(SelectionListener listener) { table.removeSelectionListener(listener); } 

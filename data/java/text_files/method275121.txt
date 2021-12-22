@@ -1,0 +1,1 @@
+ public String getLastLine() { if (prevLine != null) { return prevLine.toString(); } else { return null; } } 

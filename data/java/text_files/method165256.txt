@@ -1,0 +1,1 @@
+ public void setInitialDir(File dir) { initialDir = dir; } 

@@ -1,0 +1,1 @@
+ public BootstrapPropertyResolver getBootstrapPropertyResolver() { return this.resolver; } 

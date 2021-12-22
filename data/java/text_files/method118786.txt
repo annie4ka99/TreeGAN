@@ -1,0 +1,1 @@
+ public void setCancelVisible(boolean visible) { cmdCancel.setVisible(visible); } 

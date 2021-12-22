@@ -1,0 +1,1 @@
+ private void assertionFailed(Token token) { assertionFailed(token, false); } 

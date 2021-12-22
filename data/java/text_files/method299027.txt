@@ -1,0 +1,1 @@
+ public void toggleProperty(String property) { getRootModel().toggleProperty(property); } 

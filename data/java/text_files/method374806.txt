@@ -1,0 +1,1 @@
+ public boolean isFragment() { return offset() != 0 || flags_MF() > 0; } 

@@ -1,0 +1,1 @@
+private void discardJDistProxy() { discardService(proxy); proxy = null; } 

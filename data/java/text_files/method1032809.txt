@@ -1,0 +1,1 @@
+ public boolean isAfterLast() { return lastRowFetched && this.currentPositionInFetchedRows > this.fetchedRows.size(); } 

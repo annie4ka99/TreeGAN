@@ -1,0 +1,1 @@
+ public void push(final boolean value) { push(value ? 1 : 0); } 

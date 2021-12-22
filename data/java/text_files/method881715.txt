@@ -1,0 +1,1 @@
+ public JSONBoolean isBoolean() { return null; } 

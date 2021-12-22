@@ -1,0 +1,1 @@
+ private void OwnEncTextFieldCheck(){ if (OwnEncTextField.isEnabled()){ OwnEncTextField.setEnabled(false); } } 

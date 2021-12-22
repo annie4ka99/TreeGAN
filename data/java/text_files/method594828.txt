@@ -1,0 +1,1 @@
+ public void setPlaceType(int placeType) { this.placeType = placeType; } 

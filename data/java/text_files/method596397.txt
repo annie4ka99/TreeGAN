@@ -1,0 +1,1 @@
+ public String getNodeName (){ if (oneContentRequired) return ("[+]"); else return ("[*]"); } 

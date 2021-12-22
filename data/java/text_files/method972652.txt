@@ -1,0 +1,1 @@
+ public void setFirst(E coso){ this.add(coso, 0); } 

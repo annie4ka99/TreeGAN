@@ -1,0 +1,1 @@
+ public void setElementName(String val) { this.elementName = val; } 

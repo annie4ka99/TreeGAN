@@ -1,0 +1,1 @@
+public String getPrinterName() { return printerName; } 

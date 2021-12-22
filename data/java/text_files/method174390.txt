@@ -1,0 +1,1 @@
+ public boolean offer(Object e, long timeout, TimeUnit unit) { return offer(e); } 

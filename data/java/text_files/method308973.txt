@@ -1,0 +1,1 @@
+ public Dialog getWizardDialog() { return (Dialog)JuifeUtils.getWindow(this); } 

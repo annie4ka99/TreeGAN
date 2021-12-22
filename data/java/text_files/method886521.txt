@@ -1,0 +1,1 @@
+ public TableReader getTableReader(Element node) { return new TableReader(this,node); } 

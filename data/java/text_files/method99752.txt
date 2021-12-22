@@ -1,0 +1,1 @@
+ public void setQueryTime(WSIHeader.QueryTime value) { this.queryTime = value; } 

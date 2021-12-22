@@ -1,0 +1,1 @@
+ public void setKnot(int n, int color) { yKnots[n] = color; rebuildGradient(); } 

@@ -1,0 +1,1 @@
+ static public Delays makeDelayNormal(int seqLength) { return new Delays(Settings.delayValue, seqLength); } 

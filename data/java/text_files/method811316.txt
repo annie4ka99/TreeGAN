@@ -1,0 +1,1 @@
+ public void setAsString(java.lang.String asString) { this.asString = asString; } 

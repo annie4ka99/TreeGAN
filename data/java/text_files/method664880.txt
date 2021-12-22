@@ -1,0 +1,1 @@
+ public PortletInvokerFactory getPortletInvokerFactory() { return portletInvokerFactory; } 

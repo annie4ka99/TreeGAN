@@ -1,0 +1,1 @@
+ protected boolean removeEldestEntry(Map.Entry eldest) { return size() > _maxSize; } 

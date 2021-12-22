@@ -1,0 +1,1 @@
+ public Iterator getDoneIterator() { return this.done.iterator(); } 

@@ -1,0 +1,1 @@
+ public void setReqKeyColumn(int col) { this.idCol = col; } 

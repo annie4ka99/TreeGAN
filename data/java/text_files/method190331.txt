@@ -1,0 +1,1 @@
+ public void deleteCurrentRow() throws IOException { _table.deleteRow(_rowState, _curPos.getRowId()); } 

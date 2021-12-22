@@ -1,0 +1,1 @@
+public TextLine getTextLine() { return textLine; } 

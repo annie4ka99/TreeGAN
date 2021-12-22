@@ -1,0 +1,1 @@
+ public void setExportErrors(boolean exportErrors) { fExportErrors= exportErrors; } 

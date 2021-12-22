@@ -1,0 +1,1 @@
+ public Object lookup(String name) { return Contexts.lookupInStatefulContexts(name); } 

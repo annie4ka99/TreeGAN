@@ -1,0 +1,1 @@
+ protected JMemoryReference createReference(final long address) { return new JMemoryReference(this, address); } 

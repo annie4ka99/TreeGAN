@@ -1,0 +1,1 @@
+ public Message getMessage(){ return msgObject; } 

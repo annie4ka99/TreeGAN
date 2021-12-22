@@ -1,0 +1,1 @@
+ public void setStrand(java.lang.String strand) { this.strand = strand; } 

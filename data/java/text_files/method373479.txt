@@ -1,0 +1,1 @@
+ public HardwareAddressType haTypeEnum() { return HardwareAddressType.values()[haType()]; } 

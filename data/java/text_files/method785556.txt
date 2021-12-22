@@ -1,0 +1,1 @@
+ public int getStartFillColor(int row) { return getInt(row, VisualItem.STARTFILLCOLOR); } 

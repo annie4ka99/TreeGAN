@@ -1,0 +1,1 @@
+ public void setCopiedToken(boolean b) { copiedToken = b; } 

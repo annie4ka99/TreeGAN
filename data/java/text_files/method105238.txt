@@ -1,0 +1,1 @@
+ public void setDepth(BigDecimal value) { this.depth = value; } 

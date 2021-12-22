@@ -1,0 +1,1 @@
+ public void signature( String sig ) { if( mSignature != null ) return; mSignature = sig; } 

@@ -1,0 +1,1 @@
+ public void setLogFileParser( LogFileParser logFileParser ) { this.logFileParser = logFileParser; } 

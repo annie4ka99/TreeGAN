@@ -1,0 +1,1 @@
+ public void setLookAndFeel(String sClassName) { preferences.put(LOOK_AND_FEEL, sClassName); } 

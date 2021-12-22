@@ -1,0 +1,1 @@
+ public void loadComponentRegistry(Reader source) { registry.loadRegistry(source); } 

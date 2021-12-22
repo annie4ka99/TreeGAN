@@ -1,0 +1,1 @@
+ public void setUnorderedList(boolean on) { toggleList(HTML.Tag.UL, on); } 

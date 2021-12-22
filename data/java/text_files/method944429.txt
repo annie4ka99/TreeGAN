@@ -1,0 +1,1 @@
+ public String getLabel(Term term) { return this.getLabel(term.getURI()); } 

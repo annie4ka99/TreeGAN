@@ -1,0 +1,1 @@
+ public void setVar(String var) { this.var = var; } 

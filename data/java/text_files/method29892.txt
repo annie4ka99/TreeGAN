@@ -1,0 +1,1 @@
+ public XMLDocument addStylesheet(String href) { return addStylesheet(href, "text/xsl"); } 

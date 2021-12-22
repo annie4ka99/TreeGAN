@@ -1,0 +1,1 @@
+ public void setDistanceToDisco(int disco) { this.disco = disco; } 

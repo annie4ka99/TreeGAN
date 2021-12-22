@@ -1,0 +1,1 @@
+ public boolean contains( Edge edge ) { return edges.contains(edge); } 

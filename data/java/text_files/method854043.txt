@@ -1,0 +1,1 @@
+ private void exitWithZipArchive(final String path) { exitWithData(ZIP_PATH, path); } 

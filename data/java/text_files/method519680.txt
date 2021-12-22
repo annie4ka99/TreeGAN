@@ -1,0 +1,1 @@
+public String getAsString(int index) throws LegacyException { return this.multiVals[index]; } 

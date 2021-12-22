@@ -1,0 +1,1 @@
+ public BasicSplitPaneDivider createDefaultDivider() { return new PlasticSplitPaneDivider(this); } 

@@ -1,0 +1,1 @@
+public void sendEvtCheckPoint() { manipulateEvtList(EVT_ADD_LAST, new MgEvtCheckPoint()); } 

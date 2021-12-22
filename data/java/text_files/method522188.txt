@@ -1,0 +1,1 @@
+ public void setTagColList(XmlSubTagList newValue) { this.tagColList = newValue; } 

@@ -1,0 +1,1 @@
+ public void setPolarisationMode(PolarisationModePropertyType value) { this.polarisationMode = value; } 

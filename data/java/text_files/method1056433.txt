@@ -1,0 +1,1 @@
+ public void save(T t) { throw new RuntimeException("Save method not implemented for "+this.getClass()); } 

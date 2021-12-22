@@ -1,0 +1,1 @@
+ public boolean isUser() { return this.level == OutlawUser.LEVEL_USER; } 

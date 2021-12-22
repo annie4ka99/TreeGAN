@@ -1,0 +1,1 @@
+ public int getMaxColumnNameLength() { return Limits.MAX_IDENTIFIER_LENGTH; } 

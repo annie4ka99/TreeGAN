@@ -1,0 +1,1 @@
+ public void processNext(Scan s) { count++; } 

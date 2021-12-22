@@ -1,0 +1,1 @@
+ public Iterator getElements(){ return Collections.unmodifiableList(elementList_).iterator(); } 

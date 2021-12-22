@@ -1,0 +1,1 @@
+ protected Caret createCaret() { return new PlasticFieldCaret(); } 

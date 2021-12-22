@@ -1,0 +1,1 @@
+ public void setExchangeinfo(java.lang.String exchangeinfo) { this.exchangeinfo = exchangeinfo; } 

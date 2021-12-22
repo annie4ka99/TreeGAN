@@ -1,0 +1,1 @@
+ public SpawnAction (double rate) { setRate(rate); } 

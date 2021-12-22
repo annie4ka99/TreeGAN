@@ -1,0 +1,1 @@
+ public void setActiveView(short activeView) { this.activeView = activeView; } 

@@ -1,0 +1,1 @@
+ public void setAddressLine2(String value) { this.addressLine2 = value; } 

@@ -1,0 +1,1 @@
+ public boolean supportsCatalogsInIndexDefinitions() throws SQLException { return false; } 

@@ -1,0 +1,1 @@
+ public void setDir(final File d) { this.dir = d; } 

@@ -1,0 +1,1 @@
+ public void visitDLOAD(DLOAD o){ stack().push(Type.DOUBLE); } 

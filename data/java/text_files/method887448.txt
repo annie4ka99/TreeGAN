@@ -1,0 +1,1 @@
+ public void moveNode(Node node) { node.getParentNode().removeChild(node); insert(node); } 

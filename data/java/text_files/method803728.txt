@@ -1,0 +1,1 @@
+ public void replaceLocant(String locant) { locants.clear(); locants.add(locant); } 

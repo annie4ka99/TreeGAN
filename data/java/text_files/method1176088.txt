@@ -1,0 +1,1 @@
+ public void accelerate() { a = a.add(getOwner().getDirection()).normalise(); } 

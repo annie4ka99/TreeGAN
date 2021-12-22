@@ -1,0 +1,1 @@
+ public JavaClass findClass(String className) { return (JavaClass)_loadedClasses.get(className); } 

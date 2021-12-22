@@ -1,0 +1,1 @@
+ public boolean isLabelVisible() { return textLabel.isVisible(); } 

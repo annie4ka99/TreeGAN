@@ -1,0 +1,1 @@
+ public PreferencesValidator getValidator() { return validator; } 

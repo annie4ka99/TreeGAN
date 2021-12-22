@@ -1,0 +1,1 @@
+ public void setEscapeXml( boolean escapeXml ) { this.escapeXml = escapeXml; } 

@@ -1,0 +1,1 @@
+ public void setIconLightOff(ImageIcon icon) { m_iconLightOff = icon; } 

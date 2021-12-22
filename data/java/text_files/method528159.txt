@@ -1,0 +1,1 @@
+private void setLengthOfImageData(byte[] newLengthOfImageData) { lengthOfImageData = newLengthOfImageData; } 

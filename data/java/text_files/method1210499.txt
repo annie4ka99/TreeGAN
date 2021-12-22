@@ -1,0 +1,1 @@
+ public void fwdPage() throws Exception { position = screen.getPosition(screen.size()); fillPage(); } 

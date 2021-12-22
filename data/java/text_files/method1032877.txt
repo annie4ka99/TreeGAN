@@ -1,0 +1,1 @@
+ public void setBaseDir(String baseDir) { getServerProps().setProperty(BASEDIR_KEY, baseDir); } 

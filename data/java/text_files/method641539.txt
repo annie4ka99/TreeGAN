@@ -1,0 +1,1 @@
+ public void setDefaultFileType(int defaultFileType) { this.m_defaultFileType = defaultFileType; } 

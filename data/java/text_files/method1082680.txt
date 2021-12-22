@@ -1,0 +1,1 @@
+ public void setTreeModel(TreeModel treeModel) { setDirty(true); this.treeModel = treeModel; } 

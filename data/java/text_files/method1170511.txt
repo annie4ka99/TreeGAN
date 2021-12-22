@@ -1,0 +1,1 @@
+ public void addCredits(long c) { credits += c; } 

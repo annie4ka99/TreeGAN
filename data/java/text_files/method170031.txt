@@ -1,0 +1,1 @@
+ public void addDoctor(int i) { doctor += i; } 

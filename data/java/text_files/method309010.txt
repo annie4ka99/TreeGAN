@@ -1,0 +1,1 @@
+ public JButton nextButton() { return btnNext; } 

@@ -1,0 +1,1 @@
+ public float getFloatProp(String pName) { return Float.parseFloat(getProp(pName)); } 

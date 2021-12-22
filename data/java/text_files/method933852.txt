@@ -1,0 +1,1 @@
+ public void setPath(String aPath) { path = aPath; } 

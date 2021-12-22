@@ -1,0 +1,1 @@
+ public void setAutoSave(boolean status) { autosaveStatus = status; } 

@@ -1,0 +1,1 @@
+ private void stopHttp() { this.mHttpServer.shutdown(); } 

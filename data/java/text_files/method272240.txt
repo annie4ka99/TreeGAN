@@ -1,0 +1,1 @@
+ public void setSubjectCharset(String charset) { __subject_charset=charset; } 

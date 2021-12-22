@@ -1,0 +1,1 @@
+ public void close() { if (!closed) { closed = true; disposeView(); fireChangeEvent(); } } 

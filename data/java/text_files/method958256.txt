@@ -1,0 +1,1 @@
+ public void setServiceBinding(String value) { this.serviceBinding = value; } 

@@ -1,0 +1,1 @@
+ public void setRootName( String newName ) { this.rootName = newName; } 

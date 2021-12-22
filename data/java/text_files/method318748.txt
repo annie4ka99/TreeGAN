@@ -1,0 +1,1 @@
+ public void about() { aboutDialog.display(); } 

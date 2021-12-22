@@ -1,0 +1,1 @@
+ public boolean isRejectedContext (String context) { return this.rejectedContexts.contains(context); } 

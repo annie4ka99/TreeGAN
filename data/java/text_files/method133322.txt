@@ -1,0 +1,1 @@
+ public void destroy() { super.destroy(); clearWidget(); viewbox_listeners.clear(); } 

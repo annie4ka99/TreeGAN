@@ -1,0 +1,1 @@
+ public Socket beforeHandshake() throws SocketException, IOException { return this.rawSocket; } 

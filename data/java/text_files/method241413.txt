@@ -1,0 +1,1 @@
+ public boolean isAllowUnreferencedCreation() { return allowUnreferencedCreation; } 

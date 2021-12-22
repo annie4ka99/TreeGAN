@@ -1,0 +1,1 @@
+ public Texture getTexture() { return this.textures[0]; } 

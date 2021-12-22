@@ -1,0 +1,1 @@
+ public void setSegments(CurveSegmentArrayPropertyType value) { this.segments = value; } 

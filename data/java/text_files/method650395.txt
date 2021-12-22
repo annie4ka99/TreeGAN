@@ -1,0 +1,1 @@
+ public void unloadCatalog(String aCatalogName){ unloadCatalog ( aCatalogName, true ); } 

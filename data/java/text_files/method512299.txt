@@ -1,0 +1,1 @@
+ public void setBeanInterface(final String beanInterface) { this.beanInterface = beanInterface; } 

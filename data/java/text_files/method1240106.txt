@@ -1,0 +1,1 @@
+ public void setIsReturn(boolean value) { isReturn = value; } 

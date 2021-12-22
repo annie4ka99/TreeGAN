@@ -1,0 +1,1 @@
+ public void toggleVisibility() { if(visible) { hide(); } else { show(); } setVisible(visible); } 

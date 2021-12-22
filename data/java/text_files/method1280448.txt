@@ -1,0 +1,1 @@
+ public void onShake(float force) { Toast.makeText(this, "Phone shaked : " + force, 1000).show(); } 

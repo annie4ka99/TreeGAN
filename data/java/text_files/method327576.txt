@@ -1,0 +1,1 @@
+ public long getRequiredDataHistory(PamObservable o, Object arg) { return 1000; } 

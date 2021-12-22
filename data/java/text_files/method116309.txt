@@ -1,0 +1,1 @@
+ public boolean isComment(){ return((id >> 8) == 0xD); } 

@@ -1,0 +1,1 @@
+ public AssertableCell extend(Cell cell) { return new AssertableCell(cell); } 

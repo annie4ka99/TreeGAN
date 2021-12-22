@@ -1,0 +1,1 @@
+ public void recover() { SimpleDB.bufferMgr().flushAll(txnum); recoveryMgr.recover(); } 

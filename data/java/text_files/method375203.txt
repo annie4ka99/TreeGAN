@@ -1,0 +1,1 @@
+ private void setPacketRecordCount(int value) { super.setUInt(0, value); count = value; } 

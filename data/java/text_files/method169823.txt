@@ -1,0 +1,1 @@
+ public void setPrice(int i) { price = i; } 

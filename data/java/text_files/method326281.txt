@@ -1,0 +1,1 @@
+ private boolean frameExists(int iFrame) { return (findFrame(iFrame) != null); } 

@@ -1,0 +1,1 @@
+ public void setShine( float shine ) { this.shine = shine; } 

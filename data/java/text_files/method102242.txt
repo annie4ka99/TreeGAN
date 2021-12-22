@@ -1,0 +1,1 @@
+ public void connectToggleableButton(AbstractButton button) { connectToggleableButton(button, null); } 

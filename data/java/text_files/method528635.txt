@@ -1,0 +1,1 @@
+private void setDocTotalSize(long newDocTotalSize) { docTotalSize = newDocTotalSize; } 

@@ -1,0 +1,1 @@
+ public float getAspectRatio() { return aspectRatio; } 

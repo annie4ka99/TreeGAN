@@ -1,0 +1,1 @@
+ public void setOperatorAddition(Pattern operatorAddition) { this.operatorAddition = operatorAddition; } 

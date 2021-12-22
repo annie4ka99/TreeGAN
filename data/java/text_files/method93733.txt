@@ -1,0 +1,1 @@
+ public int getTypeFormatId() { return StoredFormatIds.FILE_STREAM_LOG_FILE; } 

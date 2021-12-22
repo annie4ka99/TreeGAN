@@ -1,0 +1,1 @@
+ public void setRestoreValues(boolean restoreValues) { throw new JDOUnsupportedOptionException("RestoreValues"); } 

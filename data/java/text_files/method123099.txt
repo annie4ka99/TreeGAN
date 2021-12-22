@@ -1,0 +1,1 @@
+ public Thread getOwner() { synchronized (this) { return _owner; } } 

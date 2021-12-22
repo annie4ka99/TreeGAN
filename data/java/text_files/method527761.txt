@@ -1,0 +1,1 @@
+public void setSizeInMegaBytes(int newSizeInMegaBytes) { sizeInMegaBytes = newSizeInMegaBytes; } 

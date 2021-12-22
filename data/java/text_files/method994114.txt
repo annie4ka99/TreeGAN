@@ -1,0 +1,1 @@
+ public float getBloom() { return bloom; } 

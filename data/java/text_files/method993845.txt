@@ -1,0 +1,1 @@
+ public void setBlack(int black) { this.black = black; } 

@@ -1,0 +1,1 @@
+ public void setFederation(String value) { this.federation = value; } 

@@ -1,0 +1,1 @@
+ public void setTyp(int type) { typ = type; } 

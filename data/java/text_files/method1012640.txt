@@ -1,0 +1,1 @@
+ public float verticalFragmentationRatio() { return levels.verticalFragmentationRatio(); } 

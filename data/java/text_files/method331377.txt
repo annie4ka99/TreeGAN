@@ -1,0 +1,1 @@
+ public void saveSettings(JFrame frame) { saveFinalSettings(); } 

@@ -1,0 +1,1 @@
+ public int getVGap() { return vGap; } 

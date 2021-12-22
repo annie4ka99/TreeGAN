@@ -1,0 +1,1 @@
+ public StyledTextPrint append( Print element ) { elements.add( element ); return this; } 

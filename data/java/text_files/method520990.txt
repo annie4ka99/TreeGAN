@@ -1,0 +1,1 @@
+ public void setRmiURL(java.lang.String newRmiURL) { rmiURL = newRmiURL; } 

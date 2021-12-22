@@ -1,0 +1,1 @@
+ public void setOwner(ProductHandle owner) { this.owner = owner; } 

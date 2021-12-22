@@ -1,0 +1,1 @@
+ public Hashtable getColumnTypes(){ return(columnTypes); } 

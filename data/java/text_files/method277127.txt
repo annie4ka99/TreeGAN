@@ -1,0 +1,1 @@
+ public void setLinkFieldNum(int linkFieldNum) { this.linkFieldNum = linkFieldNum; } 

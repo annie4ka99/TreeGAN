@@ -1,0 +1,1 @@
+ public void setGridYRange(Range range) { this.gridYRange = range; } 

@@ -1,0 +1,1 @@
+ public void setUseTextQualifier(boolean useTextQualifier) { userSettings.UseTextQualifier = useTextQualifier; } 

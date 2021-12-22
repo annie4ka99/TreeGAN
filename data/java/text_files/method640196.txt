@@ -1,0 +1,1 @@
+ public int getOccurTimes() { return occurtimes; } 

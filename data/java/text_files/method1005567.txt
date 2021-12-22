@@ -1,0 +1,1 @@
+ public PathIterator getPathIterator(AffineTransform at) { return new PolygonPathIterator(this, at); } 

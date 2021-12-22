@@ -1,0 +1,1 @@
+ public int getReply() { return this.reply; } 

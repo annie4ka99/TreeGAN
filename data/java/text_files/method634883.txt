@@ -1,0 +1,1 @@
+ public boolean isModified(String filename) { return isModified(new File(filename)); } 

@@ -1,0 +1,1 @@
+public boolean setFieldPosition( Position position ) { this.position = position; return true; } 

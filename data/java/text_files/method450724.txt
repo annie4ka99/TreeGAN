@@ -1,0 +1,1 @@
+ public void wait (int milliseconds) { try { Thread.sleep(milliseconds); } catch (InterruptedException exception) {} } 

@@ -1,0 +1,1 @@
+ public boolean hasContentType() { return hasField(Response.Content_Type); } 

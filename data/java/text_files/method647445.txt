@@ -1,0 +1,1 @@
+ public Chromosome getChromosome(int a_index) { return (Chromosome) m_chromosomes.get(a_index); } 

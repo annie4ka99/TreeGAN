@@ -1,0 +1,1 @@
+ public void setPolygon(PolygonType value) { this.polygon = value; } 

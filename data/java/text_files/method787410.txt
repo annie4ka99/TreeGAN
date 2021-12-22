@@ -1,0 +1,1 @@
+ public int getMinRadius() { return m_minRadius; } 

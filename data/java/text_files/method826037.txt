@@ -1,0 +1,1 @@
+ public void setWasDnDAction() { this.wasDnDAction = true; } 

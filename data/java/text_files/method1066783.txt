@@ -1,0 +1,1 @@
+ public void addSelectionChangedListener(ISelectionChangedListener listener) { selectionListeners.add(listener); } 

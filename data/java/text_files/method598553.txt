@@ -1,0 +1,1 @@
+ public int removePubKeyAlgo(ZrtpConstants.SupportedPubKeys algo) { return publicKeyAlgos.removeAlgo(algo); } 

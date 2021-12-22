@@ -1,0 +1,1 @@
+ public Component getAnchorComponent() { if (getLabel() != null) { return getLabel(); } else { return this; } } 

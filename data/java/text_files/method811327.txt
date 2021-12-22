@@ -1,0 +1,1 @@
+ public void setInfile_url(java.lang.String infile_url) { this.infile_url = infile_url; } 

@@ -1,0 +1,1 @@
+ protected void flushCharacters() throws SAXException { flushCharacters(textBuffer.toString()); textBuffer.clear(); } 

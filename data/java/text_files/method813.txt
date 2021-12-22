@@ -1,0 +1,1 @@
+ public void setInfoBarVisible(boolean visibleStatus) { isInfoBarVisible = visibleStatus; } 

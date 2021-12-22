@@ -1,0 +1,1 @@
+ public String getField(int i) { return m_fields[i]; } 

@@ -1,0 +1,1 @@
+ public void uninitialize() { super.uninitialize(); ShadowPopupFactory.uninstall(); } 

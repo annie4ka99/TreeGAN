@@ -1,0 +1,1 @@
+ public void pushinteger(int n) { pushlvalue( LInteger.valueOf(n) ); } 

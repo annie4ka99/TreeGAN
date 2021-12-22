@@ -1,0 +1,1 @@
+ public boolean getTextContentAsBoolean(String name) { return getTextContentAsBoolean(name, 0); } 

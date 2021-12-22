@@ -1,0 +1,1 @@
+ public void removeElement(Object id) { removeArcsFromElement(id); removeOnlyElement(id); } 

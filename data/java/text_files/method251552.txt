@@ -1,0 +1,1 @@
+ protected StageManager getStageManager() { return stageManager; } 

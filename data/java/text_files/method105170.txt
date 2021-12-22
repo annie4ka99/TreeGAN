@@ -1,0 +1,1 @@
+ public void setLastRingUnderBark(TridasLastRingUnderBark value) { this.lastRingUnderBark = value; } 

@@ -1,0 +1,1 @@
+ public void setFlagNumber(int num){ this.m_flagNumber = num; } 

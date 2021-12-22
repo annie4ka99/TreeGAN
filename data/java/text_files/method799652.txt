@@ -1,0 +1,1 @@
+ public void setFormat( PageNumberFormat format ) { Util.notNull( format ); this.format = format; } 

@@ -1,0 +1,1 @@
+ public void setZoomFactor(int z) { zoomFactor=z; invalidate(); fireSizeChanged(); } 

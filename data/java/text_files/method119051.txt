@@ -1,0 +1,1 @@
+ protected EdgeView createEdgeView(Edge e, CellMapper cm) { return new EdgeView(e, this, cm); } 

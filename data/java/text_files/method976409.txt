@@ -1,0 +1,1 @@
+ public void removeFilter(String filterID) { this.filterList.remove(filterID); } 

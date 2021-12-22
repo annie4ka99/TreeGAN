@@ -1,0 +1,1 @@
+ public void actionPerformed(ActionEvent evt) { gui.logPrint("Pressed Reset button."); } 

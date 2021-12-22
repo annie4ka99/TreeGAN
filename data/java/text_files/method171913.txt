@@ -1,0 +1,1 @@
+ public void visitJSR(JSR o){ stack().push(new ReturnaddressType(o.physicalSuccessor())); } 

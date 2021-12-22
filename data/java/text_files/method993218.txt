@@ -1,0 +1,1 @@
+ public void setHTolerance( float hTolerance ) { this.hTolerance = hTolerance; } 

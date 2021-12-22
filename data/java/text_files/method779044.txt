@@ -1,0 +1,1 @@
+ public void setQueryParam(String queryParam) { this.queryParam = queryParam; } 

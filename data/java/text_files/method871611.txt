@@ -1,0 +1,1 @@
+ public void init() throws ServletException { this.smsAreasDAO = new HibernateSmsAreasDAO(); } 

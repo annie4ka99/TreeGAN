@@ -1,0 +1,1 @@
+ public boolean isPluginModule() { String value = outputType.getValue(); return value.equals("plugin"); } 

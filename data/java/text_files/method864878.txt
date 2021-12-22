@@ -1,0 +1,1 @@
+ public void getScopeObject( int index ) { instructions.append( OP_getscopeobject, index ); } 

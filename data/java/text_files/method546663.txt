@@ -1,0 +1,1 @@
+ private ItlkInfo getII(NetObject o) { return (ItlkInfo)o.getUserValue(); } 

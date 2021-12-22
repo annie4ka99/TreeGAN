@@ -1,0 +1,1 @@
+ public RegistryObjectQueryType getSourceObjectQuery() { return sourceObjectQuery; } 

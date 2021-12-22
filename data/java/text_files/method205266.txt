@@ -1,0 +1,1 @@
+ public int inDegree() { if (inEdges == null) { return 0; } return inEdges.size(); } 

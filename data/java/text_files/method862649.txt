@@ -1,0 +1,1 @@
+ public void setURL(HttpUrl url) { _url = url; } 

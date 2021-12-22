@@ -1,0 +1,1 @@
+ public void startTimer() { thread = new Thread(this); currentStatus = STARTED; thread.start(); } 

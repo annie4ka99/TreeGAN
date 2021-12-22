@@ -1,0 +1,1 @@
+ public POP3Client getPOP3() { return pop3; } 

@@ -1,0 +1,1 @@
+ public boolean exists(String aKey) { return properties.containsKey(aKey); } 

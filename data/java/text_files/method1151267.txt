@@ -1,0 +1,1 @@
+ public Discrimination getDisc(String disName) { return discr.get(disName); } 

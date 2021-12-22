@@ -1,0 +1,1 @@
+ public void moveUp() { _y -= 1; ensureBounds(); } 

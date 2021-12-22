@@ -1,0 +1,1 @@
+ public Vec2 getDirectionVector() { return m_direction; } 

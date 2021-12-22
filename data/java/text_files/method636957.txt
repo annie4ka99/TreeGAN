@@ -1,0 +1,1 @@
+ public boolean hasChildren() { return (m_children != null && m_children.size() > 0); } 

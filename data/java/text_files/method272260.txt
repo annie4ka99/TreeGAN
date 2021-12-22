@@ -1,0 +1,1 @@
+ public void setEmailDate(Date email_date) { __email_date=email_date; } 

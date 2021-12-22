@@ -1,0 +1,1 @@
+ public AssociationQueryType createAssociationQueryType() { return new AssociationQueryType(); } 

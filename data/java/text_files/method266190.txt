@@ -1,0 +1,1 @@
+ public void setMaxDayCharacters(int maxDayCharacters) { dayChooser.setMaxDayCharacters(maxDayCharacters); } 

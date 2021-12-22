@@ -1,0 +1,1 @@
+ public int tablero1Size() { return tablero1.size(); } 

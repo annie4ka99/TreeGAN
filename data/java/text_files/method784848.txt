@@ -1,0 +1,1 @@
+ public int getMinSub() { return minSub; } 

@@ -1,0 +1,1 @@
+ private double thetaBinToAngle(double bin) { return thetaRange[0] + bin*thetaStep; } 

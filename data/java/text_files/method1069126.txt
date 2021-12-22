@@ -1,0 +1,1 @@
+ public CreationToolEntry get(String key){ return (CreationToolEntry)super.get(key); } 

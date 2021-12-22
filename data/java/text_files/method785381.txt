@@ -1,0 +1,1 @@
+ public int getColumnNumber(Column col) { return m_columns.indexOf(col); } 

@@ -1,0 +1,1 @@
+ public void setErrorChecking(boolean errorChecking) { this.errorChecking = errorChecking; } 

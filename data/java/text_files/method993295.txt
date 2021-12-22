@@ -1,0 +1,1 @@
+ public void setMorphImage(BufferedImage morphImage) { this.morphImage = morphImage; } 

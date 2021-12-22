@@ -1,0 +1,1 @@
+ public void setServiceDesc(ServiceDesc serviceDesc) { this.serviceDesc = serviceDesc; } 

@@ -1,0 +1,1 @@
+ private void setBundleFilter(BundleFilter bundleFilter) { this.bundleFilter = bundleFilter; } 

@@ -1,0 +1,1 @@
+ public void setPartClass(Class partClass) { _partClass = partClass; } 

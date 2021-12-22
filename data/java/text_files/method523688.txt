@@ -1,0 +1,1 @@
+ public ArrayList getListTextLine() { return textLines; } 

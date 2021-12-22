@@ -1,0 +1,1 @@
+ public void setColumnTypes(ArrayList coltypes) { this.coltypes = coltypes; } 

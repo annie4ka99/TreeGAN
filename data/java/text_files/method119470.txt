@@ -1,0 +1,1 @@
+ public int getSelectionCount() { return getSelectionModel().getSelectionCount(); } 

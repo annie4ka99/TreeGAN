@@ -1,0 +1,1 @@
+ public int getColumnCount() throws SQLException { return this.fields.length; } 

@@ -1,0 +1,1 @@
+ public GLUniformData getUniform(String name) { return (GLUniformData) uniformMap2Data.get(name); } 

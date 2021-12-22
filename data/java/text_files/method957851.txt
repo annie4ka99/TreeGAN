@@ -1,0 +1,1 @@
+ public void setAcceptFormats(AcceptFormatsType value) { this.acceptFormats = value; } 

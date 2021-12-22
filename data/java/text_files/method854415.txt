@@ -1,0 +1,1 @@
+public void setLength(java.lang.String newLength) { fLength = newLength; } 

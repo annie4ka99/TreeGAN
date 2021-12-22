@@ -1,0 +1,1 @@
+ public boolean hasCounters() { return counters.size() > 0; } 

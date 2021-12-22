@@ -1,0 +1,1 @@
+ public boolean abort() throws LoginException { return true; } 

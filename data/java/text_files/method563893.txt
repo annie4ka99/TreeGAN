@@ -1,0 +1,1 @@
+ public void setYDim(final int yDim) { this.yDim = yDim; } 

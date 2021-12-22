@@ -1,0 +1,1 @@
+ public NavigationPage getCurrentPage() { return getModel().getCurrentPage(); } 

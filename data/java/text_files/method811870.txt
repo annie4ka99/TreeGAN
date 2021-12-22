@@ -1,0 +1,1 @@
+ public void setRemoveButtonText(String text) { remove.setText(text); } 

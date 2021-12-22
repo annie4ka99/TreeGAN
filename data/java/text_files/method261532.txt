@@ -1,0 +1,1 @@
+ public Double getTankvolume() { return tankvolume; } 

@@ -1,0 +1,1 @@
+ public boolean isDateVisible() { if (dateLabel != null) return dateLabel.isVisible(); else return false; } 

@@ -1,0 +1,1 @@
+ public RectangularCoordinate getCenter() { throw new IllegalStateException("Not implemented"); } 

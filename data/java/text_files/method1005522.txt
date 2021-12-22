@@ -1,0 +1,1 @@
+ public void reset() { npoints = 0; bounds = null; } 

@@ -1,0 +1,1 @@
+public void setHeader(DictZipHeader newHeader) { fHeader = newHeader; } 

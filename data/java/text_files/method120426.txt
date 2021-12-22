@@ -1,0 +1,1 @@
+ public int getAnswer() { return answer; } 

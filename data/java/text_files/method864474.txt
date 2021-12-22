@@ -1,0 +1,1 @@
+ public void modulo() { instructions.append( OP_modulo ); } 

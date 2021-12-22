@@ -1,0 +1,1 @@
+ static public CoreMetaData getInstance(final String name) throws NoSuchMethodException { return getFuncHandle(name); } 

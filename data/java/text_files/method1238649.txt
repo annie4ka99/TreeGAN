@@ -1,0 +1,1 @@
+ public void register(TypeEntry referrant) { delegate.register(referrant); } 

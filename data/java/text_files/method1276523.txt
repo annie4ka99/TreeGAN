@@ -1,0 +1,1 @@
+ public void setRunning(boolean b) { mRun = b; } 

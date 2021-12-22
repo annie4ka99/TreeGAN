@@ -1,0 +1,1 @@
+ public int getXOrigin() { return xOrg + yAxis.getThickness(); } 

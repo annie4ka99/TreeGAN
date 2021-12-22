@@ -1,0 +1,1 @@
+public void deleteDocument() throws JpxiException { getStorageInterface().dbDeleteDocument(); } 

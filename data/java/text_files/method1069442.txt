@@ -1,0 +1,1 @@
+ public ContainerFigure getMethodContent(){ return this.methodContent;} 

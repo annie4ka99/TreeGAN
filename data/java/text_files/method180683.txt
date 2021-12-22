@@ -1,0 +1,1 @@
+ public void setDestination(Room destination) { this.destination = destination; } 

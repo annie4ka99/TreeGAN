@@ -1,0 +1,1 @@
+ public JService getJService() { return jService; } 

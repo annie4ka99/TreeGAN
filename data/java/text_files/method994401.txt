@@ -1,0 +1,1 @@
+ public int getColor2() { return color2; } 

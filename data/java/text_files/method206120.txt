@@ -1,0 +1,1 @@
+ public void setVisibleAreaOrigin(Point p) { sp.getViewport().setViewPosition(p); } 

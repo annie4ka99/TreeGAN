@@ -1,0 +1,1 @@
+ public void setMultiSelect(boolean isMultiSelect) { table.setMultiSelect(isMultiSelect); } 

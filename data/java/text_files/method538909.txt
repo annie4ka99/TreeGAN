@@ -1,0 +1,1 @@
+ public String getQuantityFormatet() { return getQuantityCurrencyFormat().format(getQuantity()); } 

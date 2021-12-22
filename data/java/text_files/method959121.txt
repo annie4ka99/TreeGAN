@@ -1,0 +1,1 @@
+ public Iterator jugadorIterator() { return jugador.iterator(); } 

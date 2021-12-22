@@ -1,0 +1,1 @@
+ public int getFileType() { return fileType; } 

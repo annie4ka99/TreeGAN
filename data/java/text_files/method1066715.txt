@@ -1,0 +1,1 @@
+ private ExtensionMultiDiagramEditor getMultiDiagramEditor() { return (ExtensionMultiDiagramEditor)rootEditor; } 

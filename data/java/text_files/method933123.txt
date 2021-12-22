@@ -1,0 +1,1 @@
+ public void setForward(ActionForward forward) { this.forward = forward; } 

@@ -1,0 +1,1 @@
+ public void setUnit(String unit) { unitName = unit; } 

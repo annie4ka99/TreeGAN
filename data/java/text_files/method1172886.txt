@@ -1,0 +1,1 @@
+ public void setSemiPermanentAttackBoost(int n) { semiPermanentAttackBoost = n; } 

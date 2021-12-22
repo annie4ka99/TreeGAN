@@ -1,0 +1,1 @@
+ public void math(final int op, final Type type) { mv.visitInsn(type.getOpcode(op)); } 

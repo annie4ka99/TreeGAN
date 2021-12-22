@@ -1,0 +1,1 @@
+ public void removeAllFieldMappings() { paths.clear(); fieldNames.clear(); } 

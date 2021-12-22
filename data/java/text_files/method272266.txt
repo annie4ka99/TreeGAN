@@ -1,0 +1,1 @@
+ public int getMsgNo() { return __msg_no; } 

@@ -1,0 +1,1 @@
+ public BitSet getSelection() { return selection; } 

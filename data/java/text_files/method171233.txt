@@ -1,0 +1,1 @@
+ public void visitCALOAD(CALOAD o){ stack().pop(); stack().pop(); stack().push(Type.INT); } 

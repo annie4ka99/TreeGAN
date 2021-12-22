@@ -1,0 +1,1 @@
+ public void testGetCountry() { assertEquals(country, user.getCountry()); } 

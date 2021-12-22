@@ -1,0 +1,1 @@
+ public boolean isAddToSelectionEvent(MouseEvent e) { return e.isShiftDown(); } 

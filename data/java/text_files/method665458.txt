@@ -1,0 +1,1 @@
+ public boolean hasProperty(String key) { return config.containsKey( key ); } 

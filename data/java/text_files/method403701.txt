@@ -1,0 +1,1 @@
+ public void trace(Object message) { log(Level.FINEST, String.valueOf(message), null); } 

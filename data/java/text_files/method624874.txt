@@ -1,0 +1,1 @@
+ public void testAttributes() throws Exception { this.evaluate("attributes.ocl"); } 

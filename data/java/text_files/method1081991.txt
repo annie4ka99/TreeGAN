@@ -1,0 +1,1 @@
+ public void setProtocolFileName(java.lang.String newProtocolFileName) { protocolFileName = newProtocolFileName; } 

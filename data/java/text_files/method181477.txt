@@ -1,0 +1,1 @@
+protected void initializeView() { createLookAndFeelMenu(getMnuLookAndFeel()); getTlbToolbar().toggleVisbility(); } 

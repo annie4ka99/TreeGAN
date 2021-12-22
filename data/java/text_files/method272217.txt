@@ -1,0 +1,1 @@
+ public void setMsgsSize(long ms) { __msgs_size=ms; } 

@@ -1,0 +1,1 @@
+ public boolean isEmpty() { return ((FastMap) _mapRef.get()).isEmpty(); } 

@@ -1,0 +1,1 @@
+ public boolean isNil() { return false; } 

@@ -1,0 +1,1 @@
+ public void setBlocktype_Open(java.lang.Boolean blocktype_Open) { this.blocktype_Open = blocktype_Open; } 

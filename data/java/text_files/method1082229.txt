@@ -1,0 +1,1 @@
+ public void setDiagramTitleText(java.lang.String arg1) { getDiagram().setTitleText(arg1); } 

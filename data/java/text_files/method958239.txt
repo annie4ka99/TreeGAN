@@ -1,0 +1,1 @@
+ public void setUsageDescription(InternationalStringType value) { this.usageDescription = value; } 

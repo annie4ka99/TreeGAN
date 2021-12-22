@@ -1,0 +1,1 @@
+ public void do_setnurbsproperty(Property prop) { renderhints.setProperty(prop); } 

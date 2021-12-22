@@ -1,0 +1,1 @@
+ public void setConfig(DbFormsConfig config) { this.config = config; } 

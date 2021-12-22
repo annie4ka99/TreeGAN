@@ -1,0 +1,1 @@
+ public void setGewinn(java.lang.Double gewinn) { this.gewinn = gewinn; } 

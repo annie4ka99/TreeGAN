@@ -1,0 +1,1 @@
+ public void setParentGroup(FormatGroup group) { parentGroup = group; } 

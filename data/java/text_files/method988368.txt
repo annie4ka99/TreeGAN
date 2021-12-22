@@ -1,0 +1,1 @@
+ public void setEndDate(java.util.Calendar endDate) { this.endDate = endDate; } 

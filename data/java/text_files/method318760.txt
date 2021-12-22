@@ -1,0 +1,1 @@
+ public void setLastBrowseLocation(File lastBrowseLocation) { this.lastBrowseLocation = lastBrowseLocation; } 

@@ -1,0 +1,1 @@
+ private boolean isMapped() { return this.pairs.size() != 0; } 

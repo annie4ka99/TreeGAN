@@ -1,0 +1,1 @@
+ public String getTextContent(String name) { return getTextContent(name, 0); } 

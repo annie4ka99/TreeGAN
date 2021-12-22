@@ -1,0 +1,1 @@
+ public Adapter createGraphNodeAdapter() { return null; } 

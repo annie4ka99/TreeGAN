@@ -1,0 +1,1 @@
+ public void setModulParameters(java.lang.String modulParameters) { this.modulParameters = modulParameters; } 

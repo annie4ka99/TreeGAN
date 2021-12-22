@@ -1,0 +1,1 @@
+ public void close() { s1.close(); if (s2 != null) s2.close(); } 

@@ -1,0 +1,1 @@
+ private AbstractPluginRepository getPluginRepository() { return mPluginRepository; } 

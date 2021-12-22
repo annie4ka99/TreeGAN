@@ -1,0 +1,1 @@
+ public int getReferenceFontSize() { return _referenceFontSize; } 

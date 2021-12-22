@@ -1,0 +1,1 @@
+ public void setY(int row, double y) { setDouble(row, VisualItem.Y, y); } 

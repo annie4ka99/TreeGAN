@@ -1,0 +1,1 @@
+ public boolean isSigned(int column) throws SQLException { throw new SQLException("isSigned"); } 

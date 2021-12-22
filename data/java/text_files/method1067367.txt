@@ -1,0 +1,1 @@
+ protected int getDisappearanceDelayUponExit() { return DISAPPEARANCE_DELAY_UPON_EXIT; } 

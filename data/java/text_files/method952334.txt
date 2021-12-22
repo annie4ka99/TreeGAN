@@ -1,0 +1,1 @@
+ public boolean isMirror() { return mirror; } 

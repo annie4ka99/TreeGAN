@@ -1,0 +1,1 @@
+ public void setGoalKeeping(double d) { goalKeeping = d; } 

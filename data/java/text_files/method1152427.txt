@@ -1,0 +1,1 @@
+ public Vec2 abs() { return new Vec2(Math.abs(x), Math.abs(y)); } 

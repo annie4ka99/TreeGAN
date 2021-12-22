@@ -1,0 +1,1 @@
+ public boolean more() { return pointer < json.length(); } 

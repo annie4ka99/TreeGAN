@@ -1,0 +1,1 @@
+ public void setInteractive(boolean b) { userValue=b; } 

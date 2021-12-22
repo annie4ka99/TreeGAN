@@ -1,0 +1,1 @@
+ public DevState getStateattrrw() { xlogger.entry(); xlogger.exit(); return stateattrrw; } 

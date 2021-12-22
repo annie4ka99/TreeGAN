@@ -1,0 +1,1 @@
+ public Pos getPos() { return pos; } 

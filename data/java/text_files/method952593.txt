@@ -1,0 +1,1 @@
+ private Group getBBAGroup() { return groupRepository.getGroupByName("BBAGroup"); } 

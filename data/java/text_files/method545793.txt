@@ -1,0 +1,1 @@
+ public boolean isZoomed() { return xAxis.isZoomed() || y1Axis.isZoomed() || y2Axis.isZoomed(); } 

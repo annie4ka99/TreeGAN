@@ -1,0 +1,1 @@
+ public int getPacketCount() { return super.getInt(0); } 

@@ -1,0 +1,1 @@
+ public void marshal(Object obj, HierarchicalStreamWriter writer) { marshal(obj, writer, null); } 

@@ -1,0 +1,1 @@
+ public Input getBeforePayMana() { return beforePayMana; } 

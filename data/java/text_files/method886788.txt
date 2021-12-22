@@ -1,0 +1,1 @@
+ public Xhtml10PluginFactoryImpl (ConverterInfo ci) { super(ci); } 

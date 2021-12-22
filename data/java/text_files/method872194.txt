@@ -1,0 +1,1 @@
+ public void setVerkauf(java.lang.Double verkauf) { this.verkauf = verkauf; } 

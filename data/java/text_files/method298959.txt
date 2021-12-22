@@ -1,0 +1,1 @@
+ public void setLocation(Point location) { _location = location; } 

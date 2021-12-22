@@ -1,0 +1,1 @@
+ public float getSoftness() { return softness; } 

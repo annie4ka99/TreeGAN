@@ -1,0 +1,1 @@
+ public void setHorizontalAlignment(int alignment) { textField.setHorizontalAlignment(alignment); } 

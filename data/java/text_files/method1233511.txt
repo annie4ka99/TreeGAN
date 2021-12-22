@@ -1,0 +1,1 @@
+ public BookCompareEnum getBookType() { return bookType; } 

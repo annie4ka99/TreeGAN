@@ -1,0 +1,1 @@
+ public boolean containsData() { if (getData() == null) return false; return true; } 

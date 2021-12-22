@@ -1,0 +1,1 @@
+ public XmppException getDiscoError() { return xmpp_exception; } 

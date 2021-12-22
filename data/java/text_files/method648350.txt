@@ -1,0 +1,1 @@
+ public boolean mkdir(String directory) { return control.executeCommand("MKD " + directory); } 

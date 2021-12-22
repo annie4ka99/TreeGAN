@@ -1,0 +1,1 @@
+ public void setLanguageRestricts(String arg0) { search.setLanguageRestricts(arg0); } 

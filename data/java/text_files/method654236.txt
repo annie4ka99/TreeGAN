@@ -1,0 +1,1 @@
+ public void setInitial(char initial) { this.initial = initial; } 

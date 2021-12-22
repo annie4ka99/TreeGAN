@@ -1,0 +1,1 @@
+ public void flags_PSH(final boolean value) { setFlag(value, FLAG_PSH); } 

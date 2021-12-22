@@ -1,0 +1,1 @@
+ public AcquisitionPropertyType createAcquisitionPropertyType() { return new AcquisitionPropertyType(); } 

@@ -1,0 +1,1 @@
+ public int getHRFbeforeUpdate() { return this.hrfIdBefore; } 

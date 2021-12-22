@@ -1,0 +1,1 @@
+ public boolean isAllComponentsValid() { boolean result=true; return result; } 

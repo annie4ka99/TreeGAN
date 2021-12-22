@@ -1,0 +1,1 @@
+ public boolean hasFirstStrike() { return firstStrike || hasKeyword("First Strike"); } 

@@ -1,0 +1,1 @@
+ public void deleteChannel(String channel) { _channels.remove(channel); } 

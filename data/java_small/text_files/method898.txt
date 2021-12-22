@@ -1,0 +1,1 @@
+ public void addExternal(int externalPos) { if (externalPos != -1) { int externalWidth = Transformation.getOutputLevelWidth(); int extX = externalPos % externalWidth; int extY = externalPos / externalWidth; add(extX, extY); } } 

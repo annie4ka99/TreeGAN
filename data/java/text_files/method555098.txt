@@ -1,0 +1,1 @@
+ public void setTree(ContextAttributesTree tree) { this.contextAttributesTreeInstance = tree; } 

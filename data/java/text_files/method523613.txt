@@ -1,0 +1,1 @@
+public void setFieldText1(String newValue) { this.fieldText1 = newValue; } 

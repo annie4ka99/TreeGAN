@@ -1,0 +1,1 @@
+ public int lastIndexOf(Object elem) { return this.list.lastIndexOf(elem); } 

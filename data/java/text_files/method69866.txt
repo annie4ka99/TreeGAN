@@ -1,0 +1,1 @@
+ public DistributorMO setEndPoint(Location endPoint) { this.endPoint = endPoint; return this; } 

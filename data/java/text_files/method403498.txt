@@ -1,0 +1,1 @@
+ protected String getIncludeDirSwitch(final String includeDir) { return "-I" + includeDir; } 

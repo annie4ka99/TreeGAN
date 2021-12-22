@@ -1,0 +1,1 @@
+ public void setBody( Print body ) { Util.notNull( body ); this.body = body; } 

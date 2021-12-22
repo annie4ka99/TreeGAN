@@ -1,0 +1,1 @@
+ public void setOccurence(String occurence) { this.occurence = occurence; } 

@@ -1,0 +1,1 @@
+ public void setHtmlKz(java.lang.String htmlKz) { this.htmlKz = htmlKz; } 

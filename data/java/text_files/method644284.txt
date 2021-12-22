@@ -1,0 +1,1 @@
+ public NativeTypesType createNativeTypesType() { return new NativeTypesType(); } 

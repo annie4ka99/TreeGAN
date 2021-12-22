@@ -1,0 +1,1 @@
+ public void setGravity(Vec2 gravity) { m_gravity = gravity; } 

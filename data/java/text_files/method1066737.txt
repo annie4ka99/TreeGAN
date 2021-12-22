@@ -1,0 +1,1 @@
+ public void addGlobalActionKey(String key) { globalActionKeys.add(key); } 

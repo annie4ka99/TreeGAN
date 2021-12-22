@@ -1,0 +1,1 @@
+ public boolean getHasRows( ) { return fieldHasRows; } 

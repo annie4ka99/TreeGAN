@@ -1,0 +1,1 @@
+ public GridBagHelper nextRow() { gridx = 0; gridy++; return this; } 

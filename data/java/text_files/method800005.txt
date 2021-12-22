@@ -1,0 +1,1 @@
+ public CellBackgroundProvider getHeaderBackgroundProvider() { return headerBackgroundProvider; } 

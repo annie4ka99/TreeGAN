@@ -1,0 +1,1 @@
+ public void setStroke(int row, BasicStroke stroke) { set(row, VisualItem.STROKE, stroke); } 

@@ -1,0 +1,1 @@
+ public boolean isExternalContext (String context) { return this.getExternalContexts().contains(context); } 

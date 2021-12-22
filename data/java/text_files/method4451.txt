@@ -1,0 +1,1 @@
+ public void GotInputs(CaseEvent ce){ m_lastInputs=ce.getAgentInputs(); } 

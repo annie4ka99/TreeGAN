@@ -1,0 +1,1 @@
+ public int getHydrophoneCount() { if (hydrophoneArray == null) return 0; return hydrophoneArray.size(); } 

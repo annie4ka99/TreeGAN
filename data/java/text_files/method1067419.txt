@@ -1,0 +1,1 @@
+ protected String getToolTipText() { String text = "tooltip to be implemented"; return text; } 

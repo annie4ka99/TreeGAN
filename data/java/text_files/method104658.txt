@@ -1,0 +1,1 @@
+ public void setSlope(TridasSlope value) { this.slope = value; } 

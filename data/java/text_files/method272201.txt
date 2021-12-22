@@ -1,0 +1,1 @@
+ public void setFrom(String emailFrom) { __from=emailFrom; } 

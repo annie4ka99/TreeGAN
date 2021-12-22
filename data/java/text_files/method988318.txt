@@ -1,0 +1,1 @@
+ public void setReportDate(java.util.Calendar reportDate) { this.reportDate = reportDate; } 

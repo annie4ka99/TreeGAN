@@ -1,0 +1,1 @@
+ protected void setFixture(CVType fixture) { this.fixture = fixture; } 

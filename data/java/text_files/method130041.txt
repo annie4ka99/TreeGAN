@@ -1,0 +1,1 @@
+ synchronized public void setLineBrush(final Brush lineBrush) { this.lineBrush = lineBrush; } 

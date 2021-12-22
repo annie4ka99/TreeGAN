@@ -1,0 +1,1 @@
+ public void setFeatureMembers(FeatureArrayPropertyType value) { this.featureMembers = value; } 

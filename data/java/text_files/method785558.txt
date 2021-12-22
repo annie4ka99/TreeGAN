@@ -1,0 +1,1 @@
+ protected Table createLinkTable() { return LINKS_SCHEMA.instantiate(getNodeTable().getMaximumRow()+1); } 

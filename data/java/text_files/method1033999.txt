@@ -1,0 +1,1 @@
+ public String toString(boolean emitNativeTag) { return getType().toString(getName(), emitNativeTag); } 

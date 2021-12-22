@@ -1,0 +1,1 @@
+ public void setFooter( boolean foot ) { footer = foot; } 

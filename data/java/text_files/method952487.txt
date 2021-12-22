@@ -1,0 +1,1 @@
+ public Community (String address) { this.name = address; this.address = address; } 

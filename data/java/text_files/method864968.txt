@@ -1,0 +1,1 @@
+ public void throwException() { instructions.append( OP_throw ); } 

@@ -1,0 +1,1 @@
+ public void pushnumber(double d) { pushlvalue(LDouble.numberOf(d)); } 

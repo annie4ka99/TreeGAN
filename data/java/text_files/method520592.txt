@@ -1,0 +1,1 @@
+ public boolean attemptToExit() { if (_okAll == true) { return true; } return cancelAll(); } 

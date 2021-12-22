@@ -1,0 +1,1 @@
+ public void setParamName(String paramName) { this.paramName = paramName; } 

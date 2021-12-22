@@ -1,0 +1,1 @@
+ public void updateUI() { super.updateUI(); setForeground(null); setBackground(null); } 

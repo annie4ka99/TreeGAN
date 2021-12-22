@@ -1,0 +1,1 @@
+ public Pattern pattern() { return pat; } 

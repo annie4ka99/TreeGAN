@@ -1,0 +1,1 @@
+ public void clearCursor() { xCursor = -1; yCursor = -1; cursorMove(); } 

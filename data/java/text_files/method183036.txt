@@ -1,0 +1,1 @@
+ public void addTurnStatistics(TurnStatistics turn) { currentGenerationStatistics.addTurn(turn); } 

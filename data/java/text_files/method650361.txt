@@ -1,0 +1,1 @@
+ public boolean isConsistent(){ return getStatistics().getDocuments()==checkDocuments(); } 

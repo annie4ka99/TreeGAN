@@ -1,0 +1,1 @@
+ public void setTimestStart(java.util.Date timestStart) { this.timestStart = timestStart; } 

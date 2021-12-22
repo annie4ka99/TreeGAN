@@ -1,0 +1,1 @@
+ public void setEventBus(EventBus eventBus) { this.eventBus = eventBus; } 

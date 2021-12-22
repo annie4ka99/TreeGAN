@@ -1,0 +1,1 @@
+ public void hit() { this.hitCount++; this.hitDate = new Date(); } 

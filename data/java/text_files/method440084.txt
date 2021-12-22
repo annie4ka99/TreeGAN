@@ -1,0 +1,1 @@
+ public Sprite2dMgr getSprite2dMgr() { return sm; } 

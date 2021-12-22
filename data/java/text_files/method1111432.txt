@@ -1,0 +1,1 @@
+ public CellHandle getHandle(GraphContext context) { return new MyEdgeHandle(this, context); } 

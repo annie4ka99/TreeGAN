@@ -1,0 +1,1 @@
+ public void select(double x, double y, double width, double height) { setSelected(true); } 

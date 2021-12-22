@@ -1,0 +1,1 @@
+ public TimerStatistics getStatistics() { return statistics; } 

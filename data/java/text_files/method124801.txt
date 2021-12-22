@@ -1,0 +1,1 @@
+ public int rowAtPoint(Point point) { point.y -= _insets.top; return super.rowAtPoint(point); } 

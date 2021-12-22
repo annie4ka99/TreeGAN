@@ -1,0 +1,1 @@
+ public void setFaveDate(Date faveDate) { this.faveDate = faveDate; } 

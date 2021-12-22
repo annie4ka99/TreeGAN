@@ -1,0 +1,1 @@
+ public Cliente getCurrentRecord() { return currentRecord; } 

@@ -1,0 +1,1 @@
+ public String getMessage(String key) { return (getMessage( (Locale)null, key)); } 

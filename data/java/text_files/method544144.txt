@@ -1,0 +1,1 @@
+ public void setDateVisible(boolean b) { if (dateLabel != null) dateLabel.setVisible(b); } 

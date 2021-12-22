@@ -1,0 +1,1 @@
+ public void releaseDbConnection() { Application.getDbConnections().close(dbConn); dbConn = null; } 

@@ -1,0 +1,1 @@
+ private double phiBintoAngle(double bin) { return phiRange[0] + bin*phiStep; } 

@@ -1,0 +1,1 @@
+ public void setMap(HealpixMap m) { setMap(m, 0); } 

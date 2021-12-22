@@ -1,0 +1,1 @@
+ public void setUseSOAPAction(boolean useSOAPAction) { this.useSOAPAction = useSOAPAction; } 

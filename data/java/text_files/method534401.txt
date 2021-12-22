@@ -1,0 +1,1 @@
+ public int size() { return ((Integer)this.data[0]).intValue(); } 

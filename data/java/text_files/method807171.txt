@@ -1,0 +1,1 @@
+ public void lostFocus() { this.hasFocus = false; } 

@@ -1,0 +1,1 @@
+ public void setHorizontalDilution(BigDecimal horizontalDilution) { this.horizontalDilution = horizontalDilution; } 

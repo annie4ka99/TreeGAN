@@ -1,0 +1,1 @@
+ public void setDocs2(DocumentBag bag) { docs2 = bag; } 

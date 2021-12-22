@@ -1,0 +1,1 @@
+ private void updateElements() { final boolean selected = checkboxGUI.isSelected(); textfieldGUI.setEnabled(selected); labelGUI.setEnabled(selected); } 

@@ -1,0 +1,1 @@
+ public void setPrivateEnabled(boolean enable) { _privateBut.setEnabled(enable); } 

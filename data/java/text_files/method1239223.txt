@@ -1,0 +1,1 @@
+ public void setDefaultType(QName qName) { defaultType = qName; } 

@@ -1,0 +1,1 @@
+ public boolean isAttacking() { return AllZone.getCombat().isAttacking(this); } 

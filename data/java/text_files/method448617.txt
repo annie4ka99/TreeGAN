@@ -1,0 +1,1 @@
+ public void setMP(int newValue) { this.mp = Math.min(newValue, type().getMaxMP()); } 

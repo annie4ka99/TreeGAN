@@ -1,0 +1,1 @@
+ static public String getMessage(String key) { return getMessage(key, (Object[]) null); } 

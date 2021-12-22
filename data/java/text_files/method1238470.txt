@@ -1,0 +1,1 @@
+ public void setFactory(GeneratorFactory factory) { this.genFactory = factory; } 

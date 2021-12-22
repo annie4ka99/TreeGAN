@@ -1,0 +1,1 @@
+ public String createToolTip() { return m_POJO.getLPN()+", FIN: "+m_POJO.getVIN(); } 

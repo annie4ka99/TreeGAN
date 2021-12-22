@@ -1,0 +1,1 @@
+ public Email getEmail() { return Email.parseStr(getParam(1)); } 

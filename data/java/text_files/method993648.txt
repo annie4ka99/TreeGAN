@@ -1,0 +1,1 @@
+ public void setShadowColor(int shadowColor) { this.shadowColor = shadowColor; } 

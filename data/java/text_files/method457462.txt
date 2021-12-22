@@ -1,0 +1,1 @@
+ public void setEndDate(final Date endDate) { this.endDate = endDate; } 

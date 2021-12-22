@@ -1,0 +1,1 @@
+ public void displayFinishButton(boolean b) { bottomPane.finishButton().setVisible(b); } 

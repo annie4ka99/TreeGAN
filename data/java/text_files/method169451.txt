@@ -1,0 +1,1 @@
+ private int convertRating(double rating) { return Commons.getModel().getLineUP().getIntValue4Rating(rating); } 

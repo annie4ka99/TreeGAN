@@ -1,0 +1,1 @@
+ protected void sendKeys(String id, CharSequence value) { sendKeys(By.id(id), value); } 

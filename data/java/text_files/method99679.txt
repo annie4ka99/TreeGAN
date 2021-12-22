@@ -1,0 +1,1 @@
+ public void setMemberOf(SecurityUser.MemberOf value) { this.memberOf = value; } 

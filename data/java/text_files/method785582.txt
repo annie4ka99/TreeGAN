@@ -1,0 +1,1 @@
+ public void setTextColor(int row, int color) { setInt(row, VisualItem.TEXTCOLOR, color); } 

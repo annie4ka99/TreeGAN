@@ -1,0 +1,1 @@
+ public void setGaugeRuntime(GaugeRuntime gaugeRuntime) { gaugeRuntime.addGauge(this); } 

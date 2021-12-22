@@ -1,0 +1,1 @@
+ public void addLeavesPlayCommand(Command c) { addTrigger(c, ZCTrigger.LEAVEFIELD); } 

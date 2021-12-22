@@ -1,0 +1,1 @@
+ public void setTestCaseWanted(boolean value) { this.bEmitTestCase = value; } 

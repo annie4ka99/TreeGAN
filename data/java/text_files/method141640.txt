@@ -1,0 +1,1 @@
+ public void setKey(String key) { skey = new StringBuffer().append(key); } 

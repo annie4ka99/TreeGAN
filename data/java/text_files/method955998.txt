@@ -1,0 +1,1 @@
+ public void setProcessingDate(XMLGregorianCalendar value) { this.processingDate = value; } 

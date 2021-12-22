@@ -1,0 +1,1 @@
+ public short nextShort() { return (short) (next(16)); } 

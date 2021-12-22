@@ -1,0 +1,1 @@
+ public Vec2 mul(float a) { return new Vec2(x * a, y * a); } 

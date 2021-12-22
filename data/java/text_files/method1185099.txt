@@ -1,0 +1,1 @@
+ public void setExternalAttributes(long value) { externalAttributes = value; } 

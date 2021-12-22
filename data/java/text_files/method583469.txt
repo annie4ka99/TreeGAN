@@ -1,0 +1,1 @@
+ static public void setLabelWarning( boolean enable ){ labelWarning = enable; } 

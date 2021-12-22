@@ -1,0 +1,1 @@
+ public Card rowToCard(int row) { return dataNoCopies.get(row); } 

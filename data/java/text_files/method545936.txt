@@ -1,0 +1,1 @@
+ public DataList getData() { if(hasFilter()) return theFilteredData; else return theData; } 

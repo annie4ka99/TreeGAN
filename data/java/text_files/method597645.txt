@@ -1,0 +1,1 @@
+ public void throwException() { mv.visitInsn(Opcodes.ATHROW); } 

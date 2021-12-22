@@ -1,0 +1,1 @@
+ public boolean isRootElement() { return parent instanceof Document; } 

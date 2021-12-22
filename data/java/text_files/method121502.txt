@@ -1,0 +1,1 @@
+ public void fputF(Object o) { head = new LogoLink(o, head); } 

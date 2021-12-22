@@ -1,0 +1,1 @@
+ public String getColumnName( int aColumn ) { return model.getColumnName( aColumn ); } 

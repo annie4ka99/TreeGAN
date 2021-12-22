@@ -1,0 +1,1 @@
+public String getWorkDirectory() { return workDirectory; } 

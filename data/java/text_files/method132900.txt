@@ -1,0 +1,1 @@
+ public void setMoveType(int movetype) { this.movetype = movetype; } 

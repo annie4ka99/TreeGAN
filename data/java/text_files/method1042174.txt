@@ -1,0 +1,1 @@
+ public void setScale(float x, float y, float z) { scale.set(x,y,z); } 

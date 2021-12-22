@@ -1,0 +1,1 @@
+ public void setAxisColor(Color c) { labelColor = c; } 

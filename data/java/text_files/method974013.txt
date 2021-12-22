@@ -1,0 +1,1 @@
+ public void send(Message message) throws MessagingException { javax.mail.Transport.send(message); } 

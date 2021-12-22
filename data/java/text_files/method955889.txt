@@ -1,0 +1,1 @@
+ public UpdateObjectsRequest createUpdateObjectsRequest() { return new UpdateObjectsRequest(); } 

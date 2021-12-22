@@ -1,0 +1,1 @@
+ public void setQuality(final AttrQuality quality) { this.quality = AttrQuality.from_int(quality.value()); } 

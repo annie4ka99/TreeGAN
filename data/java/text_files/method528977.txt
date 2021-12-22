@@ -1,0 +1,1 @@
+ protected String getSkeletonTemplatePath() { return getSystemParam().getSkeletonTemplatePath(); } 

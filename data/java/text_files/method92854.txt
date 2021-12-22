@@ -1,0 +1,1 @@
+ public ResultSet getTypeInfoForODBC() throws SQLException { return getSimpleQuery("odbc_getTypeInfo"); } 

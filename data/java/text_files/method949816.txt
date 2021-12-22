@@ -1,0 +1,1 @@
+ public Object get(Object o) { return map.get(o); } 

@@ -1,0 +1,1 @@
+ public JBuffer getBuffer() { return buffer; } 

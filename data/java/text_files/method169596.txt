@@ -1,0 +1,1 @@
+ public void setTeamName(String teamname) { m_jlTeamName.setText(teamname); } 

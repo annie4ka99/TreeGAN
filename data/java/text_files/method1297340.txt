@@ -1,0 +1,1 @@
+ public void add(String category, Number value) { mCategories.add(category); mValues.add(value); } 

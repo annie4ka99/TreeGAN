@@ -1,0 +1,1 @@
+ public String getReference() { return System.getProperty( REFERENCE_PROPERTY); } 

@@ -1,0 +1,1 @@
+ public void setAddButtonText(String text) { add.setText(text); } 

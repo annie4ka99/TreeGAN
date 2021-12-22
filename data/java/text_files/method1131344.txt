@@ -1,0 +1,1 @@
+ public void removeRobot(SimRobot r) { r.reset(); robots.remove(r); } 

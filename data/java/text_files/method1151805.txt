@@ -1,0 +1,1 @@
+ public void removeBody(Body b) { m_world.destroyBody(b); } 

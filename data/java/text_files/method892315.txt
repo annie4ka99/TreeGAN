@@ -1,0 +1,1 @@
+ public void appendToChildElementOutput(String str) { this.childElementOutput.append(str); } 

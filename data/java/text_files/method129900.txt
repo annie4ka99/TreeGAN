@@ -1,0 +1,1 @@
+ public void setViewportDraggable(final boolean viewportDraggable) { this.viewportDraggable = viewportDraggable; } 

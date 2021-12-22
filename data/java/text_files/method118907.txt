@@ -1,0 +1,1 @@
+ public GPBarFactory getBarFactory() { return barFactory; } 

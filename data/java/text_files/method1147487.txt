@@ -1,0 +1,1 @@
+ public void setPhysicsSpeed(float physicsSpeed) { this.physicsSpeed = physicsSpeed; } 

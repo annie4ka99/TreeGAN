@@ -1,0 +1,1 @@
+ public ComponentListModel getModel() { return dataModel; } 

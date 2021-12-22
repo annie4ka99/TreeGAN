@@ -1,0 +1,1 @@
+ public int hash() { return doc.hashCode()+xpath.hashCode(); } 

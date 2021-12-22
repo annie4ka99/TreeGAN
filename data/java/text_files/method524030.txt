@@ -1,0 +1,1 @@
+private void setXmlTagsTable(XmlTagsTable newValue) { this.xmlTagsTable = newValue; } 

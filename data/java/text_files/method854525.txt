@@ -1,0 +1,1 @@
+ public void setID(java.lang.String newID) { fID = newID; } 

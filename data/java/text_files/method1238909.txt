@@ -1,0 +1,1 @@
+ public void setCacheWSDL(boolean flag) { cachingWSDL = flag; } 

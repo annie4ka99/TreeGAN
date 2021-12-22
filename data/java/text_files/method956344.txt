@@ -1,0 +1,1 @@
+ public void setPolarisationChannels(PolarisationChannelsPropertyType value) { this.polarisationChannels = value; } 

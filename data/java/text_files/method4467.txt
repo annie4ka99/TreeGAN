@@ -1,0 +1,1 @@
+ public String getHorizontalPosition(){ return this.m_horizontal; } 

@@ -1,0 +1,1 @@
+ private void setOverlayIsPja(boolean overlayIsPja) { this.overlayIsPja = overlayIsPja; } 

@@ -1,0 +1,1 @@
+ public void setPopSize(Integer popSize) { this.popSize = popSize; } 

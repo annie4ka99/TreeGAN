@@ -1,0 +1,1 @@
+ protected boolean firstCall() { boolean ret = firstCall; firstCall = false; return ret; } 

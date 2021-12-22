@@ -1,0 +1,1 @@
+ public VisualItem getItem(int row) { return (VisualItem)getTuple(row); } 

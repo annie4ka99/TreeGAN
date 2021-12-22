@@ -1,0 +1,1 @@
+ public Field getField(int fieldId) { return (Field) fields.elementAt(fieldId); } 

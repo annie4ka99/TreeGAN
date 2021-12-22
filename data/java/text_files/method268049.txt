@@ -1,0 +1,1 @@
+ public int getMaxCharLiteralLength() throws java.sql.SQLException { return 16777208; } 

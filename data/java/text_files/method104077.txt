@@ -1,0 +1,1 @@
+ public boolean hasLabCode() { return (labCode != null); } 

@@ -1,0 +1,1 @@
+ public void setLocalAttribute(String value) { this.localAttribute = value; } 

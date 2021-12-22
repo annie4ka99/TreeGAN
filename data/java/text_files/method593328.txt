@@ -1,0 +1,1 @@
+ public Tag getParent() { return this.parentTag; } 

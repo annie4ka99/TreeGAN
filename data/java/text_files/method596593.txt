@@ -1,0 +1,1 @@
+ public void setValidating(boolean b) { validating=b; } 

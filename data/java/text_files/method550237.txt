@@ -1,0 +1,1 @@
+ public void removeErrorListener(IErrorListener l) { propChanges.removeErrorListener(l); } 

@@ -1,0 +1,1 @@
+ public void addIntrinsicAbility(String s) { if (s.trim().length() != 0) intrinsicAbility.add(s); } 

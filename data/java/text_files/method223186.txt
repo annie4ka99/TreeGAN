@@ -1,0 +1,1 @@
+ public String loadAverage1() { return sysLoadInfo.get("loadavg.1"); } 

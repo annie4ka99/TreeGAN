@@ -1,0 +1,1 @@
+ public boolean isTimerWasCalled() { return timerWasCalled; } 

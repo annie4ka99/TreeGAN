@@ -1,0 +1,1 @@
+ public void testExtractBindingFromJHeader() { AnnotatedBinding.inspectJHeaderClass(MyHeader.class, errors); } 

@@ -1,0 +1,1 @@
+ public void addStatusListener(StatusListener listener) { taskgraph.addStatusListener(listener); } 

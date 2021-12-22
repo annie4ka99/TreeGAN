@@ -1,0 +1,1 @@
+ public void setListComparator(ViewerComparator comparator) { fListViewer.setComparator(comparator); } 

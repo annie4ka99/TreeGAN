@@ -1,0 +1,1 @@
+ public void setSiteDescription(String siteDescription) { this.siteDescription = siteDescription; } 

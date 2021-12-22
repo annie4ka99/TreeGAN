@@ -1,0 +1,1 @@
+ protected void vzoomSet(float vzoom) { this.vzoom = vzoom; zoom(); } 

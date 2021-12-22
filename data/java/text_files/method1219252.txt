@@ -1,0 +1,1 @@
+ public HumanTime s(int n) { delta += SECOND * Math.abs(n); return this; } 

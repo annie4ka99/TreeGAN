@@ -1,0 +1,1 @@
+ public void setSecondWitnessName(PersonNameType value) { this.secondWitnessName = value; } 

@@ -1,0 +1,1 @@
+public void setUserTarget(java.lang.String newUserTarget) { userTarget = newUserTarget; } 

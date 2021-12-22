@@ -1,0 +1,1 @@
+ public AbstractPositionDevice (PlayerClient plc) { super (plc); } 

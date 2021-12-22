@@ -1,0 +1,1 @@
+ public int getHorizontalTextAlignment() { return m_hTextAlign; } 

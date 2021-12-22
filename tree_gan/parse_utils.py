@@ -251,6 +251,8 @@ class SimpleTreeActionGetter:
                 symbol_count_stack[-1] += 1
                 if isinstance(symbol, Terminal):
                     stream.write(symbol.name)
+                    # !!!!! changed
+                    # stream.write(" ")
                 else:  # NonTerminal
                     non_terminal_id_stack.append(symbol_id)
                     symbol_count_stack.append(0)

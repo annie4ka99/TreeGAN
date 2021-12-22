@@ -1,0 +1,1 @@
+ public Element getChild(String name) { return getChild(name, Namespace.NO_NAMESPACE); } 

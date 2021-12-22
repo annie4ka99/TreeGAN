@@ -1,0 +1,1 @@
+ private void deleteFile(String theFileName) { File myFile = new File(theFileName); myFile.delete(); } 

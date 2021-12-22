@@ -1,0 +1,1 @@
+ public Session createSession(String name, int cardType) throws SessionFactoryException{ return null; } 

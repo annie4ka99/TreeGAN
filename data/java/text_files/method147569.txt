@@ -1,0 +1,1 @@
+ protected void addTable() { this.add(new JScrollPane(getTable())); } 

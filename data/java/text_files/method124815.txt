@@ -1,0 +1,1 @@
+ public void setJSCData(JSCData data) { setSymbolName(null); setModelForJSCData(data); } 

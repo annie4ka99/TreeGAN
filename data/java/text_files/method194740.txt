@@ -1,0 +1,1 @@
+ public void addMapping(String href, String uri){ this.properties.setProperty(href, uri); } 

@@ -1,0 +1,1 @@
+ public void setHelperWanted(boolean value) { bHelperGeneration = value; } 

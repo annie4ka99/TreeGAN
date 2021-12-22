@@ -1,0 +1,1 @@
+ protected boolean isLoggedIn(EsimsBaseActionBeanContext actionBeanContext) { return actionBeanContext.getUser() != null; } 

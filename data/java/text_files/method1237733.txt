@@ -1,0 +1,1 @@
+ public void moveVertex(Object vertex, Point2D point) { addVertex(vertex, point); } 

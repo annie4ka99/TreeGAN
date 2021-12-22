@@ -1,0 +1,1 @@
+ public float norm() { return w * w + x * x + y * y + z * z; } 

@@ -1,0 +1,1 @@
+ private void type(String type) { client.respond("200 Type set to " + type + " -[bnc]"); } 

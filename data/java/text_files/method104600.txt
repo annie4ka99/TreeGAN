@@ -1,0 +1,1 @@
+ public void setAuthenticity(String value) { this.authenticity = value; } 

@@ -1,0 +1,1 @@
+ final public void setCursor(int cursor) { mainBoardDisplay.setCursor(Cursor.getPredefinedCursor(cursor)); } 

@@ -1,0 +1,1 @@
+ public double getOpen(int series, int item) { return getOpenValue(series,item).doubleValue(); } 

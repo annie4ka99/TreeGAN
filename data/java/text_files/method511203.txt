@@ -1,0 +1,1 @@
+ public boolean hasOption( char opt ) { return hasOption( String.valueOf( opt ) ); } 

@@ -1,0 +1,1 @@
+ public String getAutoName(){ return inspector.getField().getName() + nameStem + nameIndex; } 

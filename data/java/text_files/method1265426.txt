@@ -1,0 +1,1 @@
+ public Adapter createTProcessAdapter() { return null; } 

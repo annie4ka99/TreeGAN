@@ -1,0 +1,1 @@
+ public FileModificationManager getFileModificationManager() { return fileModificationManager; } 

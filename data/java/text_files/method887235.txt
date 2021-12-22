@@ -1,0 +1,1 @@
+ public void setRootTemplate(Template rootTemplate) { this.rootTemplate = rootTemplate; } 

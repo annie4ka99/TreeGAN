@@ -1,0 +1,1 @@
+ public void setIntfNamespace(String ns) { this.intfNS = ns; } 

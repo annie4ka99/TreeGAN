@@ -1,0 +1,1 @@
+ public PortletContainer getPortletContainer() { return this.portletContainer; } 

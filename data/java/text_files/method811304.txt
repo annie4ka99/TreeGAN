@@ -1,0 +1,1 @@
+ public void setPosticks_In(java.lang.Boolean posticks_In) { this.posticks_In = posticks_In; } 

@@ -1,0 +1,1 @@
+ protected void setMarquee(BasicMarqueeHandler marqueeHandler) { marquee = marqueeHandler; } 

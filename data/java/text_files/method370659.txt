@@ -1,0 +1,1 @@
+ public void setManifestVersion(String manifestVersion) { fManifestVersion= manifestVersion; } 

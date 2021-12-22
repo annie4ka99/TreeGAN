@@ -1,0 +1,1 @@
+ public List getAnnotatedAttributes(){ return this.annotatedAttributes; } 

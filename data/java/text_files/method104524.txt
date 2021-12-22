@@ -1,0 +1,1 @@
+ public void setType(ControlledVoc value) { this.type = value; } 

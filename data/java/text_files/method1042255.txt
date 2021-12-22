@@ -1,0 +1,1 @@
+ public Vector3f crossLocal(Vector3f v) { return crossLocal(v.x, v.y, v.z); } 

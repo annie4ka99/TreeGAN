@@ -1,0 +1,1 @@
+ private void setCanceled(boolean newCanceled) { canceled = newCanceled; } 

@@ -1,0 +1,1 @@
+ public void setRetainValues(boolean flag) { throw new JDOUnsupportedOptionException("RetainValues"); } 

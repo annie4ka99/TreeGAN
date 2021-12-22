@@ -1,0 +1,1 @@
+ public boolean isAssigmentMode() { return assigmentMode; } 

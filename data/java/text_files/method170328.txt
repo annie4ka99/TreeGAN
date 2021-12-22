@@ -1,0 +1,1 @@
+ public void rAL(ActionListener AL) { jcbBox.removeActionListener(AL); } 

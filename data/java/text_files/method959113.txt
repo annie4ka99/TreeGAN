@@ -1,0 +1,1 @@
+ public void setJugador1(Jugador jugador1) { this.jugador1 = jugador1; } 

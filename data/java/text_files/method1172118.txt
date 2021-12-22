@@ -1,0 +1,1 @@
+ public void addComesIntoPlayCommand(Command c) { addTrigger(c, ZCTrigger.ENTERFIELD); } 

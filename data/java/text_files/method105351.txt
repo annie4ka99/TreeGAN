@@ -1,0 +1,1 @@
+ public SeriesLink getPreferredSeries() { return preferredSeries; } 

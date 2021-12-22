@@ -1,0 +1,1 @@
+ public void content(String content) { escapeString(content); } 

@@ -1,0 +1,1 @@
+ public float getEpsilon1(){ return epsilon[0]; } 

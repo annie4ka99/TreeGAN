@@ -1,0 +1,1 @@
+ public CardList getTop() { return topModel.getCards(); } 

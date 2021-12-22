@@ -1,0 +1,1 @@
+public XmlSubTagList getTagColList() { return tagColList; } 

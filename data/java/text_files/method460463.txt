@@ -1,0 +1,1 @@
+ public String getOutputString() { return outputStream.toString(); } 

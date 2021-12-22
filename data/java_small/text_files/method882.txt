@@ -1,0 +1,1 @@
+ final public int getCurrentMovementNo() { return currentMovementNo; } 

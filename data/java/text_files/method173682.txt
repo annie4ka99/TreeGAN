@@ -1,0 +1,1 @@
+ public String getPseudoAttributeValue(String name) { return (String)mapData.get(name); } 

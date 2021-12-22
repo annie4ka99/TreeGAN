@@ -1,0 +1,1 @@
+ public void setIsMultiKicker(boolean b) { multiKicker = b; } 

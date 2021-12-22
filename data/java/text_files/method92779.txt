@@ -1,0 +1,1 @@
+ public ResultSet getTableTypes() throws SQLException { return getSimpleQuery("getTableTypes"); } 

@@ -1,0 +1,1 @@
+ public void setUpdateSequence(String value) { this.updateSequence = value; } 

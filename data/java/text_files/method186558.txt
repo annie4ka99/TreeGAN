@@ -1,0 +1,1 @@
+ public void addEnergy(double totalEnergy) { this.totalEnergy = totalEnergy; } 

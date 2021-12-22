@@ -1,0 +1,1 @@
+ public Nonogram getResult() { return result; } 

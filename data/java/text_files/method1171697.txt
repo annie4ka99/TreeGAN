@@ -1,0 +1,1 @@
+ public void setpreventNextDamage(int n) { preventNextDamage = n; } 

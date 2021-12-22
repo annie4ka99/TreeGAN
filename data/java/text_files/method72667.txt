@@ -1,0 +1,1 @@
+ public double getInitialVolume(int track) { return initialTrackVolume[track]; } 

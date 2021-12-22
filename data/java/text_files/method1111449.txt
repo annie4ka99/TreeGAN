@@ -1,0 +1,1 @@
+ public Rectangle2D getBounds() { return GraphConstants.getBounds(getAllAttributes()); } 

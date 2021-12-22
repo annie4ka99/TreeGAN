@@ -1,0 +1,1 @@
+ public int getNumberWaiting() { synchronized (lock) { return parties - count; } } 

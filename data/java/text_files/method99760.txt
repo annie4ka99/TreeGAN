@@ -1,0 +1,1 @@
+ public CorinaRequestType getRequestType() { return requestType; } 

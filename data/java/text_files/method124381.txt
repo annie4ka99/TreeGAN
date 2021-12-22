@@ -1,0 +1,1 @@
+ public void valueChanged(SymbolEvent evt) { symbol = evt.getSource(); setSymbolText(); } 

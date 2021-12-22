@@ -1,0 +1,1 @@
+ public void addBccRecipients(List bccRecipients) { this.bccRecipients.addAll(bccRecipients); } 

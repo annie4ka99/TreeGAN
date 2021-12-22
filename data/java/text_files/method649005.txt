@@ -1,0 +1,1 @@
+ public void setMessage(String message) { setMessage(message, NORMAL); } 

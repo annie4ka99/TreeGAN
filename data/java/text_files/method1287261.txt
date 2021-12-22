@@ -1,0 +1,1 @@
+ protected void cacheNamespace(Namespace ns) { nsBuff.put(ns.getPrefix(), ns); } 

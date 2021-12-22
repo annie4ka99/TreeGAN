@@ -1,0 +1,1 @@
+ public void enable() throws GLException { GLContext.getCurrentGL().glEnable(target); } 

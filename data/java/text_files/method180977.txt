@@ -1,0 +1,1 @@
+ protected void check(String testId) { jdoMakeDirty(testId); } 

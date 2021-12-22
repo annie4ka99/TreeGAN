@@ -1,0 +1,1 @@
+ public boolean addJugador2(Jugador jugador) { return jugador2.add(jugador); } 

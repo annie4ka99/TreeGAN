@@ -1,0 +1,1 @@
+ protected boolean isDarwin() { String osName = getOSName(); return "Mac OS X".equals(osName); } 

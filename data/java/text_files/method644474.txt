@@ -1,0 +1,1 @@
+ public void replaceTextResult(String text) { frameMain.getTextFieldResultCalculator().setText(text); } 

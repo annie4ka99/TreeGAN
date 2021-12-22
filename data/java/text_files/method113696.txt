@@ -1,0 +1,1 @@
+ public boolean isServiceId(int id) { if (serviceId == id) { return true; } else { return false; } } 

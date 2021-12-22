@@ -1,0 +1,1 @@
+ public void setNext(MapElement next) { this.next = next; } 

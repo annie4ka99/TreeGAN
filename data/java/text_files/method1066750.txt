@@ -1,0 +1,1 @@
+ protected Object convertToModel(EditPart part) { return part.getModel(); } 

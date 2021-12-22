@@ -1,0 +1,1 @@
+ public ServerRMIMessageInterceptor getServerMessageInterceptor() { synchronized (this) { return this.serverMsgInterceptor; } } 

@@ -1,0 +1,1 @@
+ public ResourceLoader getResourceLoader() { return this.resourceLoader; } 

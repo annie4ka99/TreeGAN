@@ -1,0 +1,1 @@
+ public boolean getMakeThreadsDaemons() { return makeThreadsDaemons; } 

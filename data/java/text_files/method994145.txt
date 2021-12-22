@@ -1,0 +1,1 @@
+ public void setContrast(float contrast) { this.contrast = contrast; initialized = false; } 

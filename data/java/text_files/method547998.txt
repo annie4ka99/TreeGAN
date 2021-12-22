@@ -1,0 +1,1 @@
+ private SingletonStatusViewer () { initComponents(); buttonBar1.setControlee(deviceStatus); } 

@@ -1,0 +1,1 @@
+ protected void addScheduledJob(JobSchedulingBundle job) { scheduledJobs.put(job.getFullName(), job); } 

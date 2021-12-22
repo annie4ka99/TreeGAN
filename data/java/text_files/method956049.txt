@@ -1,0 +1,1 @@
+ public void setMaskMembers(MaskMembersPropertyType value) { this.maskMembers = value; } 

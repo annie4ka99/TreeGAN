@@ -1,0 +1,1 @@
+ public void setSubject(boolean subject) { this.subject = subject; } 

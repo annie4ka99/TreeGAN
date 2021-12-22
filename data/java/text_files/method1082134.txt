@@ -1,0 +1,1 @@
+ public void setJTextFieldIntervalText(java.lang.String arg1) { getJTextFieldInterval().setText(arg1); } 

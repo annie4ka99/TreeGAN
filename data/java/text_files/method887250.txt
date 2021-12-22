@@ -1,0 +1,1 @@
+ public void dumpXSLTTo(File dumpXSLTTo) { dumpXSLT(true); this.dumpXSLTTo = dumpXSLTTo; } 

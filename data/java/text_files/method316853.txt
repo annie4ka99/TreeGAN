@@ -1,0 +1,1 @@
+ public void getTransform(Transform3D transform) { transform.set(modelTransform); } 

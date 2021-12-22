@@ -1,0 +1,1 @@
+ public void setLoses(int loses) { m_loses = loses; } 

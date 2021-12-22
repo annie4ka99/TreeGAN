@@ -1,0 +1,1 @@
+ protected void runActionDelete(){ Debug.debug(this, "DeleteButton cliked", channel); } 

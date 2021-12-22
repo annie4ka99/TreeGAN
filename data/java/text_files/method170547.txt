@@ -1,0 +1,1 @@
+ public JTable getScrollTable() { return scroll; } 

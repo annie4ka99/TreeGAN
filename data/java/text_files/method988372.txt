@@ -1,0 +1,1 @@
+ public void setAuthorId(int authorId) { this.authorId = authorId; } 

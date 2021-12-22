@@ -1,0 +1,1 @@
+ public void setDryTimeAlert(GregorianCalendar alertTime) { this.dryTimeAlert = alertTime; } 

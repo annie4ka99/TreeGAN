@@ -1,0 +1,1 @@
+ public void setForeground(int foreground) { this.foreground = foreground; } 

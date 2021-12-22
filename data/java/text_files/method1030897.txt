@@ -1,0 +1,1 @@
+ public void setDate(int parameterIndex, Date x) throws SQLException { setDate(parameterIndex, x, null); } 

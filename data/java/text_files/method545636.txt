@@ -1,0 +1,1 @@
+ public boolean isOutLineVisible() { return outLineVisible; } 

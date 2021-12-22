@@ -1,0 +1,1 @@
+ public void setMundo(Mundo mundo) { this.mundo = mundo; } 

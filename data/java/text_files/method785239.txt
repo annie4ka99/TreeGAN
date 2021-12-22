@@ -1,0 +1,1 @@
+ public TupleSet getVisualGroup(String group) { return (TupleSet)m_visual.get(group); } 

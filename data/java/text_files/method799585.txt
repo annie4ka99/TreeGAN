@@ -1,0 +1,1 @@
+ public ImageData getImageData() { return imageData; } 

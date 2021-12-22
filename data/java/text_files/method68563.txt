@@ -1,0 +1,1 @@
+ public void updateOriginal() { ((Recipe)original).copy(getRecipe()); original.update(); } 

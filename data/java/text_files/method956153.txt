@@ -1,0 +1,1 @@
+ public void setWrsLatitudeGrid(AcquisitionType.WrsLatitudeGrid value) { this.wrsLatitudeGrid = value; } 

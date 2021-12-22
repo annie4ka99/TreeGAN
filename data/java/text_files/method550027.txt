@@ -1,0 +1,1 @@
+ public void addComponent(Component c) { components.add(c); } 

@@ -1,0 +1,1 @@
+ public void removeTableListener(TableListener listnr) { m_listeners.remove(listnr); } 

@@ -1,0 +1,1 @@
+ public boolean getMinOccursIs0() { return minOccursIs0; } 

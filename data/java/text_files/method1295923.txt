@@ -1,0 +1,1 @@
+ public Adapter createVariableElementAdapter() { return null; } 

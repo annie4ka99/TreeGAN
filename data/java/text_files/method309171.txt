@@ -1,0 +1,1 @@
+ public InformationDialog(Frame owner) { this(owner, new Container()); } 

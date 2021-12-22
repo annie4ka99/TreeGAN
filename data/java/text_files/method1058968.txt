@@ -1,0 +1,1 @@
+ public Element getSelected() { return parentPanel.getSelected(); } 

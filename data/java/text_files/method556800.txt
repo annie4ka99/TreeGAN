@@ -1,0 +1,1 @@
+ public void setWritable(int writable) { this.writable = writable; } 

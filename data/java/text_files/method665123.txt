@@ -1,0 +1,1 @@
+ public PortletType getDescriptor() { return this.portletDescriptor; } 

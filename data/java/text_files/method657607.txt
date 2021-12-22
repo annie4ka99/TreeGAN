@@ -1,0 +1,1 @@
+ public void setText3(String text3) { this.text3 = text3; } 

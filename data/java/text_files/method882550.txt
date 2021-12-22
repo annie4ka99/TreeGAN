@@ -1,0 +1,1 @@
+ public void testGetConstraintName() { assertTrue(conflict.getConstraintName().equals(constraintName)); } 

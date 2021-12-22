@@ -1,0 +1,1 @@
+ public void setLyrics3Tag(AbstractMP3Tag mp3tag) { lyrics3tag = new Lyrics3v2(mp3tag); } 

@@ -1,0 +1,1 @@
+ public void subtractPreventNextDamage(int n) { preventNextDamage -= n; } 

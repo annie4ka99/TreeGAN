@@ -1,0 +1,1 @@
+ public double getShapeParameter() { return shape; } 

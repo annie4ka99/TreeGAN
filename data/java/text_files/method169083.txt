@@ -1,0 +1,1 @@
+ public void setExperience(int i) { experience = i; } 

@@ -1,0 +1,1 @@
+ public void setWrapOnWordBoundaries(boolean _wrapText) { wrapOnWordBoundaries = _wrapText; } 

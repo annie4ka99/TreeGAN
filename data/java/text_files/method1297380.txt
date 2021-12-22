@@ -1,0 +1,1 @@
+ public void addSeriesRenderer(SimpleSeriesRenderer renderer) { mRenderers.add(renderer); } 

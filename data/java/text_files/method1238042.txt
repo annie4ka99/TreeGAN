@@ -1,0 +1,1 @@
+ public void undeployTransport(QName qname) { transports.remove(qname); } 

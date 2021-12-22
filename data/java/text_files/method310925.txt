@@ -1,0 +1,1 @@
+ public Vec3 pix2vec(long pix) throws Exception { return pix2loc(pix).toVec3(); } 

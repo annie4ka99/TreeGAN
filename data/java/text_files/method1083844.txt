@@ -1,0 +1,1 @@
+ protected void setWindow(Window window) { this.window = window; } 

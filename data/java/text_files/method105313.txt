@@ -1,0 +1,1 @@
+ public void setNormalStd(String value) { this.normalStd = value; } 

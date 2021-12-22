@@ -1,0 +1,1 @@
+ private void setCygwin(int value) { cygwinInstalled = value; } 

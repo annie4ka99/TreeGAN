@@ -1,0 +1,1 @@
+ public void setSubject(java.lang.String subject) { this.subject = subject; } 

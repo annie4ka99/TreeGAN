@@ -1,0 +1,1 @@
+ public void setReport(java.lang.String report) { this.report = report; } 

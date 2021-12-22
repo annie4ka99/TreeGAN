@@ -1,0 +1,1 @@
+ public void setExtendedCapabilities(Object value) { this.extendedCapabilities = value; } 

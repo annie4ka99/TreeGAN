@@ -1,0 +1,1 @@
+ public void setUnpackLsbFirst(boolean unpackLsbFirst) { this.unpackLsbFirst = unpackLsbFirst; } 

@@ -1,0 +1,1 @@
+ public void setTokenDefinition(Object obj) { this.tokenDefinition = obj; } 

@@ -1,0 +1,1 @@
+ public void setDocument1Type(String document1Type) { this.document1Type = document1Type; } 

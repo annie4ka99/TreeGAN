@@ -1,0 +1,1 @@
+ public boolean isZoomed() { return isZoomed; } 

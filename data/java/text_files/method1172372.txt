@@ -1,0 +1,1 @@
+ public boolean isSick() { if (hasKeyword("Haste")) return false; return sickness && isCreature(); } 

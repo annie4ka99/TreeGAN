@@ -1,0 +1,1 @@
+ public void updateUI() { setUI((DialUI)UIManager.getUI(this)); } 

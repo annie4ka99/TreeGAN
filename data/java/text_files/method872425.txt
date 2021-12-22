@@ -1,0 +1,1 @@
+ public void setTerminal(String terminal) throws WorkFileException { this.setTerminal(terminal); this.log(); } 

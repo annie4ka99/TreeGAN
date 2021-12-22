@@ -1,0 +1,1 @@
+ public QName getArrayType() { return Constants.SOAP_ARRAY12; } 

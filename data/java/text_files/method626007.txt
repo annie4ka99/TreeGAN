@@ -1,0 +1,1 @@
+ public void setLongDescription(String string) { longDescription = string; } 

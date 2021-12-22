@@ -1,0 +1,1 @@
+ public void setElevation(Integer elevation) { this.elevation = elevation; } 

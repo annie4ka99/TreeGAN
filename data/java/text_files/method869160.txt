@@ -1,0 +1,1 @@
+ public boolean isTuple() throws XBRLException { return (! this.getDataRootElement().hasAttribute("contextRef")); } 

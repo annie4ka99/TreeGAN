@@ -1,0 +1,1 @@
+ public Integer getDuration() { return duration; } 

@@ -1,0 +1,1 @@
+ public void setArrowSize(int s) { arrowWidth = s; updateShape(); } 

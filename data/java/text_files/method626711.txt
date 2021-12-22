@@ -1,0 +1,1 @@
+ public void addOffset(int offset) { address += offset; } 

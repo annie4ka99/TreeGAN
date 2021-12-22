@@ -1,0 +1,1 @@
+ public void setValidator(PipelineValidator validator) { this.validator = validator; } 

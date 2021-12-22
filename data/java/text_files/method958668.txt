@@ -1,0 +1,1 @@
+ public RegistryPackageType createRegistryPackageType() { return new RegistryPackageType(); } 

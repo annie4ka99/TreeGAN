@@ -1,0 +1,1 @@
+ protected Buffer checkErrorPacket() throws SQLException { return checkErrorPacket(-1); } 

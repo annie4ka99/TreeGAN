@@ -1,0 +1,1 @@
+ public void replace(T genome, T with) { populationList.remove(genome); populationList.add(with); } 

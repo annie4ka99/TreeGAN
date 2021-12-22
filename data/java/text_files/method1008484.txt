@@ -1,0 +1,1 @@
+ public int rgbFor(int pixel) { return surfaceType.rgbFor(pixel, colorModel); } 

@@ -1,0 +1,1 @@
+ public boolean getMoreResults() throws SQLException { return getMoreResults(CLOSE_CURRENT_RESULT); } 

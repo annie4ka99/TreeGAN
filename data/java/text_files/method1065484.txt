@@ -1,0 +1,1 @@
+ public PropertyViewSection getParentSection() { return parentSection; } 

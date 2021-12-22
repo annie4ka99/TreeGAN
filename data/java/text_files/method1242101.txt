@@ -1,0 +1,1 @@
+ protected void writeColor(int color) throws IOException { writeIntegerGroup(62, color); } 

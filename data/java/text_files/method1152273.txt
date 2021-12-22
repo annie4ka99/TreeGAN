@@ -1,0 +1,1 @@
+ public int getPairCount() { return m_broadPhase.m_pairManager.m_pairCount; } 

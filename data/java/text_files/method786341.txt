@@ -1,0 +1,1 @@
+ public void removeGraphModelListener(GraphListener listnr) { m_listeners.remove(listnr); } 

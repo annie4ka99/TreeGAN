@@ -1,0 +1,1 @@
+ public AttributeSet getAttributes() { return this.attr; } 

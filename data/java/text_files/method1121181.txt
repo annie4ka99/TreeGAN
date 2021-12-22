@@ -1,0 +1,1 @@
+ public void setDayHigh(java.math.BigDecimal dayHigh) { this.dayHigh = dayHigh; } 

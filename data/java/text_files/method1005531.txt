@@ -1,0 +1,1 @@
+ public int getType() { if (type == TYPE_UNKNOWN) { calculateType(); } return type; } 

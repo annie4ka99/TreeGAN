@@ -1,0 +1,1 @@
+public String getVersion() throws java.rmi.RemoteException { return VERSION_NUMBER; } 

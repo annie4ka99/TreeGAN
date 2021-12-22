@@ -1,0 +1,1 @@
+ public String toString() { return buffer.substring(start, end); } 

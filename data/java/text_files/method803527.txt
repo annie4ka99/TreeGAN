@@ -1,0 +1,1 @@
+ public void addListener(IKeyringListener listener) { listeners.add(listener); } 

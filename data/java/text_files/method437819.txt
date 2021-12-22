@@ -1,0 +1,1 @@
+ public void removeAssertableCellListener(AssertableCellListener listener) { listeners.remove(listener); } 

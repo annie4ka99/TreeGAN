@@ -1,0 +1,1 @@
+ protected String getModuleToTestProtocolName() { return org.apache.derby.iapi.reference.Module.CacheFactory; } 

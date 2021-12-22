@@ -1,0 +1,1 @@
+ protected void setHtmlModel(HTMLTreeModel newModel) { this.htmlModel = newModel; } 

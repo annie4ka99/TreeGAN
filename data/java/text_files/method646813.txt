@@ -1,0 +1,1 @@
+ public void setTabTitle(String title) { tabItem.setText(title); } 

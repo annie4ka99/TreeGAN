@@ -1,0 +1,1 @@
+ public void setWorking(final boolean working) { this.working = working; } 

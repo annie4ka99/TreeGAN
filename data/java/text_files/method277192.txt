@@ -1,0 +1,1 @@
+ public void setBytes(byte[] recordData) { this.bytes = recordData; reset(); } 

@@ -1,0 +1,1 @@
+ public void setSendAlert(String sendAlert) { this.sendAlert = sendAlert; } 

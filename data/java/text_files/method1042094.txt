@@ -1,0 +1,1 @@
+ public Vector3f getRotationColumn(int i) { return getRotationColumn(i, null); } 

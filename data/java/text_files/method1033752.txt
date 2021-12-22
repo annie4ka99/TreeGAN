@@ -1,0 +1,1 @@
+ public JavaType getContainingType() { return containingType; } 

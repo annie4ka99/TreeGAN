@@ -1,0 +1,1 @@
+ public File getOutputDir() { File ret = new File(getBasedir(), DIR_OUTPUT); return ret; } 

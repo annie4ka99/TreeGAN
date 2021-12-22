@@ -1,0 +1,1 @@
+ public ArcByCenterPointType createArcByCenterPointType() { return new ArcByCenterPointType(); } 

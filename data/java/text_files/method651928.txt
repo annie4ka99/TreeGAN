@@ -1,0 +1,1 @@
+ public RuleBasedScanner getCommentScanner() { return commentScanner; } 

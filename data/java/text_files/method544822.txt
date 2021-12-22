@@ -1,0 +1,1 @@
+ public Gradient getGradient() { return gColor; } 

@@ -1,0 +1,1 @@
+ public void removeJoint(Joint j) { m_world.destroyJoint(j); } 

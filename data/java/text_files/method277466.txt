@@ -1,0 +1,1 @@
+ public void handleEvent(Command ae) { if (commandHandlerChain != null) commandHandlerChain.handle(ae); } 

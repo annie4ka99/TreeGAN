@@ -1,0 +1,1 @@
+ public void setFillColor(int fillColor) { this.fillColor = fillColor; } 

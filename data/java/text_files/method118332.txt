@@ -1,0 +1,1 @@
+ public LayoutAlgorithm getLayoutAlgorithm() { return new SpringEmbeddedLayoutAlgorithm(); } 

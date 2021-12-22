@@ -1,0 +1,1 @@
+ public AttributePropertiesManager getAttributeProperties() { return attributeProperties; } 

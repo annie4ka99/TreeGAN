@@ -1,0 +1,1 @@
+ public void setNid(String nid) { this.nid = nid; hcode = 0; } 

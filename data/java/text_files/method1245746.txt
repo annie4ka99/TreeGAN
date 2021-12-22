@@ -1,0 +1,1 @@
+ public void trueClose() throws IOException { trueClose( true ); } 

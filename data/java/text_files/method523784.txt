@@ -1,0 +1,1 @@
+ public void setDocId(String newDocId) { docId = newDocId; } 

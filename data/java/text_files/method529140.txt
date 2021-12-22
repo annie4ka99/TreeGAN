@@ -1,0 +1,1 @@
+ public void removeItem(int index) throws IndexOutOfBoundsException { items.remove(index); } 

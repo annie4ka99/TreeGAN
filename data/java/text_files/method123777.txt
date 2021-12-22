@@ -1,0 +1,1 @@
+ public void setRootName(String name) { _rootName = name; } 

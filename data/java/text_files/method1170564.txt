@@ -1,0 +1,1 @@
+ public void clearTypes(Card c) { if (types.containsKey(c)) { types.get(c).clear(); } } 

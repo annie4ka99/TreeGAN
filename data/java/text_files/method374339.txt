@@ -1,0 +1,1 @@
+ public void setFrameIndex(int index) { this.frameIndex = index; } 

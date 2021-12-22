@@ -1,0 +1,1 @@
+ public TNode lookupScopedName(String scopedName) { return (TNode)symTable.get(scopedName); } 

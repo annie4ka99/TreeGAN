@@ -1,0 +1,1 @@
+ public void setFaultActor(String faultActor) throws SOAPException { fault.setFaultActor(faultActor); } 

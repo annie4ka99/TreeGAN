@@ -1,0 +1,1 @@
+ public void addSerialBehavior(Object key, Behavior b) { serialBehaviors.addBehavior(key, b); } 

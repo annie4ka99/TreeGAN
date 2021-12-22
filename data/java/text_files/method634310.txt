@@ -1,0 +1,1 @@
+ public Locale getPreferredClientLocale() { return (Locale) preferredClientLocales.get(0); } 

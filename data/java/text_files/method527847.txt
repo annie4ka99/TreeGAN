@@ -1,0 +1,1 @@
+protected void resetSelection() { selectedObjCounter = 0; setSelectedObj(false); } 

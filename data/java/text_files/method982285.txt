@@ -1,0 +1,1 @@
+ public Node getWeapon() { return weapon; } 

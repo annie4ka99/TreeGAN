@@ -1,0 +1,1 @@
+ public SamlAuthzDecisionStatementEvidenceConditionsType getConditions() { return conditions; } 

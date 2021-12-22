@@ -1,0 +1,1 @@
+ public void startListeningForEnter(Control control) { control.addListener(SWT.KeyDown, this); } 

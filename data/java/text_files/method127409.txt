@@ -1,0 +1,1 @@
+ public int getModifier() { return (score/2) - 5; } 

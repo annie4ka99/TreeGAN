@@ -1,0 +1,1 @@
+ protected void write(StringBuffer buffer) { System.err.println(buffer.toString()); } 

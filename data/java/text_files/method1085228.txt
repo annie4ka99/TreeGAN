@@ -1,0 +1,1 @@
+ public CustomMediaChooserController getCustomMediaChooserController() { return customMediaChooserController; } 

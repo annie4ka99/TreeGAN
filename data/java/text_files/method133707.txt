@@ -1,0 +1,1 @@
+ protected void fireNeoWidgetEvent(NeoWidgetEvent e) { if (null != listeners) { listeners.widgetCleared(e); } } 

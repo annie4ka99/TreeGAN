@@ -1,0 +1,1 @@
+ public void resetDamper() { if (tgLayout!=null) tgLayout.resetDamper(); } 

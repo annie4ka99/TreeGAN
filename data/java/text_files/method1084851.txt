@@ -1,0 +1,1 @@
+ public void setVisitNumber(int visitNumber) { this.visitNumber = visitNumber; } 

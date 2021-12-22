@@ -1,0 +1,1 @@
+ public int getHighValue() { return model.getValue()+model.getExtent(); } 

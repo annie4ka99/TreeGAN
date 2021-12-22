@@ -1,0 +1,1 @@
+ public int getMajorVersion() { if (loadLibraryOK) { return javaDAQmxGetMajorVersion(); } else { return -1; } } 

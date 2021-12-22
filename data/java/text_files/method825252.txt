@@ -1,0 +1,1 @@
+ public Appearance getAppearance() { return appearance; } 

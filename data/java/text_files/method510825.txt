@@ -1,0 +1,1 @@
+ public Complex divide(double d) { return new Complex(this.x/d, this.y/d); } 

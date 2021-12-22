@@ -1,0 +1,1 @@
+ public void setArray(Quiltspec[] array) { this.array = array; } 

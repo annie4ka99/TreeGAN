@@ -1,0 +1,1 @@
+ public JSONValue get(String key) { return (JSONValue) valueMap.get(key); } 

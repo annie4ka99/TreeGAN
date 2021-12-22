@@ -1,0 +1,1 @@
+ public Vector3f getRow(int i) { return getRow(i, null); } 

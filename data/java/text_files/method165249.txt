@@ -1,0 +1,1 @@
+ public boolean isSorted() { return comparator != null; } 

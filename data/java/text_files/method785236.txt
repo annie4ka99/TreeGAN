@@ -1,0 +1,1 @@
+ public boolean isEndVisible(int row) { return getBoolean(row, VisualItem.ENDVISIBLE); } 

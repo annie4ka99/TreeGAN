@@ -1,0 +1,1 @@
+ public void addElement(Resource r) { selection.addResource(r); } 

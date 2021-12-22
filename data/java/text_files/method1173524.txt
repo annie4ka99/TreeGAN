@@ -1,0 +1,1 @@
+ public void setPayCosts(Cost abCost) { payCosts = abCost; } 

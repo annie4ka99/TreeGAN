@@ -1,0 +1,1 @@
+ public int getPostfixLength() { return state.getPostfix(); } 

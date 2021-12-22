@@ -1,0 +1,1 @@
+private void setJpxiMonitoring(JpxiMonitoring newJpxiMonitoring) { jpxiMonitoring = newJpxiMonitoring; } 

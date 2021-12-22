@@ -1,0 +1,1 @@
+ public void appendFromMe(Message _message) { messages.addElement(_message); broadcast(_message); } 

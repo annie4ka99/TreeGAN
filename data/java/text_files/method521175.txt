@@ -1,0 +1,1 @@
+private InfoTree getRoot() { return root; } 

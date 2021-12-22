@@ -1,0 +1,1 @@
+ public Vector getClipboardObjects() { return clipboard; } 

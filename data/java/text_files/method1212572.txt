@@ -1,0 +1,1 @@
+ public JCheckBoxMenuItem getBreakOnExceptions() { return breakOnExceptions; } 

@@ -1,0 +1,1 @@
+ public void setDisplayNumbering(boolean flag) { displayNumbering = flag; } 

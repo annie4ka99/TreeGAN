@@ -1,0 +1,1 @@
+ final public boolean isBoxInCorral(int boxNo) { return isBoxInCorral[boxNo]; } 

@@ -1,0 +1,1 @@
+ public Binding removeBinding(QName name) { return (Binding) bindings.remove(name); } 

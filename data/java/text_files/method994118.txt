@@ -1,0 +1,1 @@
+ public void setBloomThreshold(float bloomThreshold) { this.bloomThreshold = bloomThreshold; } 

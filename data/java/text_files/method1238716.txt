@@ -1,0 +1,1 @@
+ public void register(TypeEntry referrant) { list.add(referrant); } 

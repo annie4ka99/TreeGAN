@@ -1,0 +1,1 @@
+ public TimeLimit timeLimit(TickTock tickTock) { return new TimeLimit(this, tickTock); } 

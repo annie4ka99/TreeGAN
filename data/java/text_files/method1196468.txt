@@ -1,0 +1,1 @@
+ public PopupInfo getBuildingInfo(int buildingNum) { return buildingServer.getBuildingInfo(buildingNum); } 

@@ -1,0 +1,1 @@
+ protected void closeResultSet(ResultSet rs) { if (null != rs) { try { rs.close(); } catch (SQLException ignore) { } } } 

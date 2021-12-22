@@ -1,0 +1,1 @@
+ public CoeffInteger getStandardSpeed1Cruise() { return standardSpeed1Cruise; } 

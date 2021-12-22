@@ -1,0 +1,1 @@
+ public ImageIcon getRolloverDialPixmap() { return rolloverPixmap; } 

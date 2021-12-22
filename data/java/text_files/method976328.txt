@@ -1,0 +1,1 @@
+ public int getIndex(CacheHolder ch) { return getIndex(ch.getWayPoint()); } 

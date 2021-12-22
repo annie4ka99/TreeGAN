@@ -1,0 +1,1 @@
+ public void setLabel(String aLabel) { _label = aLabel; } 

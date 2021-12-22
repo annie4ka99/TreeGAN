@@ -1,0 +1,1 @@
+ public void toXML(Object obj, Writer writer) { marshal(obj, new PrettyPrintWriter(writer)); } 

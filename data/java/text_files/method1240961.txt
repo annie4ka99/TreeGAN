@@ -1,0 +1,1 @@
+ public int hashCode() { return null == timezone ? day : day ^ timezone.hashCode(); } 

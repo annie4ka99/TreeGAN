@@ -1,0 +1,1 @@
+ public Comment createComment(String data) { return new org.apache.axis.message.CommentImpl(data); } 

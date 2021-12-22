@@ -1,0 +1,1 @@
+ public String getExogenousDataName() { if (exogenousDataDef == null) return null; return exogenousDataDef.name; } 

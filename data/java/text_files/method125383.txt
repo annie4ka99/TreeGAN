@@ -1,0 +1,1 @@
+ public void append(String text) { getResultField().append(text); } 

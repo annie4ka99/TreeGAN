@@ -1,0 +1,1 @@
+ public void setHighFidelity(boolean highFidelity) { this.highFidelity = highFidelity; } 

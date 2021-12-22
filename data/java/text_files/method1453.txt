@@ -1,0 +1,1 @@
+ final public void setBox(int position) { boxesArray[position] = true; } 

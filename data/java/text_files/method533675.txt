@@ -1,0 +1,1 @@
+ public void setDistanceThreshold(double newThreshold) { distanceThreshold = newThreshold; } 

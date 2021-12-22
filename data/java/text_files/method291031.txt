@@ -1,0 +1,1 @@
+ protected Object getInstance(String name) { return Component.getInstance(name); } 

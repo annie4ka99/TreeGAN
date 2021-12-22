@@ -1,0 +1,1 @@
+ public int getType() { return TAG_TEXT; } 

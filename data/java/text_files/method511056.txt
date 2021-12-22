@@ -1,0 +1,1 @@
+ public void runBare() throws Throwable { runSetUp(); try { runTest(); } finally { runTearDown(); } } 

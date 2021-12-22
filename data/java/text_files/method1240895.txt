@@ -1,0 +1,1 @@
+ public WSDDHandler findHandler(String qname) { return ServiceAdmin.getHandler(new QName(qname)); } 

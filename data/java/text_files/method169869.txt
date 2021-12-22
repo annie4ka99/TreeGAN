@@ -1,0 +1,1 @@
+ public void setStamina(double d) { stamina = d; } 

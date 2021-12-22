@@ -1,0 +1,1 @@
+ public void startThread() { agentThread.start(); this.greetCommunity(); } 

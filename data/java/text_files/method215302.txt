@@ -1,0 +1,1 @@
+ public Collection getCanceledTasks() { return this.canceledList; } 

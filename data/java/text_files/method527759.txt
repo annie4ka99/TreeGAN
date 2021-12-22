@@ -1,0 +1,1 @@
+public void setCollectionName(java.lang.String newCollectionName) { collectionName = newCollectionName; } 

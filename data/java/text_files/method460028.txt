@@ -1,0 +1,1 @@
+ public String getFriendlyName(){ return _sFriendlyName; } 

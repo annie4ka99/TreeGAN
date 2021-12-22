@@ -1,0 +1,1 @@
+ public void setDatabase(PilotDBDatabase database) { this.database = database; } 

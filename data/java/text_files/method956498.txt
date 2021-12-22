@@ -1,0 +1,1 @@
+ public void setRoll(AngleType value) { this.roll = value; } 

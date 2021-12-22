@@ -1,0 +1,1 @@
+ public void loadSynonyms(InputStream istream) throws IOException { this.loadSynonyms(istream, false); } 

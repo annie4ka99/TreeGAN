@@ -1,0 +1,1 @@
+ public void setAsMainClass( TranslationTarget target ) { target.setMainClass( avm2Class ); } 

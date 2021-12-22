@@ -1,0 +1,1 @@
+ public void setDisconnectOnMove(boolean flag) { disconnectOnMove = flag; } 

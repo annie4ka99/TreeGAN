@@ -1,0 +1,1 @@
+ public void setFormat(Format format) { this.format = format; } 

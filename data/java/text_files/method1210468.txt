@@ -1,0 +1,1 @@
+ public int getViewPosition() { return view.getPosition(); } 

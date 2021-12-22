@@ -1,0 +1,1 @@
+ public FileSeparator getContent() { return GUI; } 

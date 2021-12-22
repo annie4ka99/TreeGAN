@@ -1,0 +1,1 @@
+ public Properties getRepositoryProperties() { return getPrefixedProperties(PFX_REPOS_ADAPTER, this); } 

@@ -1,0 +1,1 @@
+ public void color(int position, int adjustment) { colorer.color(position, adjustment); } 

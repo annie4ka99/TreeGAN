@@ -1,0 +1,1 @@
+ public void flags_FIN(final boolean value) { setFlag(value, FLAG_FIN); } 

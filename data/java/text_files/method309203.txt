@@ -1,0 +1,1 @@
+ public int getVisitedFontStyle() { return visitedFontStyle; } 

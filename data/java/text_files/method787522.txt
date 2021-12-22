@@ -1,0 +1,1 @@
+ public void add(Predicate p, double size) { super.add(p, new Double(size)); } 

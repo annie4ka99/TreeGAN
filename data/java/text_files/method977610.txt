@@ -1,0 +1,1 @@
+ public void spiderAroundCenterCoordinates(boolean spiderAllLogs) { checkSpiderGC(); spiderGC.doIt(spiderAllLogs); } 

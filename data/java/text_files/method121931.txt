@@ -1,0 +1,1 @@
+ protected void changeFocus(Widget aWidget) { changeFocus(_focusableChildren.indexOf(aWidget)); } 

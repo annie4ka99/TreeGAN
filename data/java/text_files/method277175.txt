@@ -1,0 +1,1 @@
+ public Database getDatabase() { return database; } 

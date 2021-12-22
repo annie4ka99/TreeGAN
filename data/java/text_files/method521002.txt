@@ -1,0 +1,1 @@
+ public void setServiceLabel(String serviceLabel) { this.serviceLabel = serviceLabel; } 

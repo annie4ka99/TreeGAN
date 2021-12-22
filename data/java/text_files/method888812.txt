@@ -1,0 +1,1 @@
+ protected void insertRow(int i, Object[] rowData){ model.insertRow(i, rowData); } 

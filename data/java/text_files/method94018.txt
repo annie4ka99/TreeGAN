@@ -1,0 +1,1 @@
+ public ByteHolder getByteHolder() throws IOException { return bh; } 

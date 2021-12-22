@@ -1,0 +1,1 @@
+ public void dialogOKButtonPressed() { SwingUtilities.invokeLater(new DialogOKButtonPressed()); } 

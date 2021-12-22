@@ -1,0 +1,1 @@
+ public boolean logErrors() { return true; } 

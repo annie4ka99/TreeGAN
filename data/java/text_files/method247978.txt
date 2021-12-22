@@ -1,0 +1,1 @@
+ public int getEndColumn() { return pos - 1 < mark? mark : pos - 1; } 

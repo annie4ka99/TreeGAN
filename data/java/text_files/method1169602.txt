@@ -1,0 +1,1 @@
+ public void begin_combat() { stackResponse(); } 

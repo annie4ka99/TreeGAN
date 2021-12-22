@@ -1,0 +1,1 @@
+ public void setFibres(float fibres) { this.fibres = fibres; } 

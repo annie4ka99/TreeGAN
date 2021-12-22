@@ -1,0 +1,1 @@
+ public void setTypeName(String name) { this.typeName = name; } 

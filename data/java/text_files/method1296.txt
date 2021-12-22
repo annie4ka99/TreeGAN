@@ -1,0 +1,1 @@
+ public boolean isPlayModeActivated() { return gameMode == GameMode.PLAY; } 

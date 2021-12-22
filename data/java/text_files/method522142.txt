@@ -1,0 +1,1 @@
+public void setTagAttributes(SgmlAttributeList newValue) { this.tagAttributes = newValue; } 

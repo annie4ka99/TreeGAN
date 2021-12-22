@@ -1,0 +1,1 @@
+ public void setRoles(List roles) { this.roles = roles; } 

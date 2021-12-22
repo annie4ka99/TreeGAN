@@ -1,0 +1,1 @@
+private ResultField getResultField() { return resultField; } 

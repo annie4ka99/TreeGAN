@@ -1,0 +1,1 @@
+ public boolean getLengthIndicator() { return lengthIndicator; } 

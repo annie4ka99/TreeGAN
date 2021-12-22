@@ -1,0 +1,1 @@
+ protected MilageReport createPOJO(IProgressMonitor monitor) throws STARException { return new MilageReport(); } 

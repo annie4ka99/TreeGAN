@@ -1,0 +1,1 @@
+public void setPhxNetworkLink(PhxNetworkLink newValue) { this.phxNetworkLink = newValue; } 

@@ -1,0 +1,1 @@
+ public void closeDialog(Object dialog) { thinlet.remove(dialog); } 

@@ -1,0 +1,1 @@
+ public void setfCoords(float[] fCoords) { this.fCoords = fCoords; } 

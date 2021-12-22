@@ -1,0 +1,1 @@
+ public void addInterface(final String itf) { interfaces.add(itf); } 

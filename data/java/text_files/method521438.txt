@@ -1,0 +1,1 @@
+public void setFreeText(String newValue) { this.freeText = newValue; } 

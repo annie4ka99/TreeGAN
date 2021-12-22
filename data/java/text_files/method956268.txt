@@ -1,0 +1,1 @@
+ public void setCenterOf(PointPropertyType value) { this.centerOf = value; } 

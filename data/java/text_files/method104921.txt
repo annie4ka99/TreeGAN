@@ -1,0 +1,1 @@
+ public ComplexPresenceAbsence getPresence() { return presence; } 

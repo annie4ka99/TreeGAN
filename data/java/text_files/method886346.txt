@@ -1,0 +1,1 @@
+ public DocumentSerializer createDocumentSerializer(Document doc) { return new DocumentSerializerImpl(doc); } 

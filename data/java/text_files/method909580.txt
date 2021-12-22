@@ -1,0 +1,1 @@
+ static public Rectangle getPrintableBounds(Printer printer) { return printer.getClientArea(); } 

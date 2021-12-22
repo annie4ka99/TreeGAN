@@ -1,0 +1,1 @@
+ public FederationQueryType createFederationQueryType() { return new FederationQueryType(); } 

@@ -1,0 +1,1 @@
+ protected String getText() { return "Whiteboard"; } 

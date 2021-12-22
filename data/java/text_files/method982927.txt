@@ -1,0 +1,1 @@
+ public void put_pixel (int x, int y, int color) { CC.ColorBuffer.Buffer [x+CC.Viewport.Width*y] = color; } 

@@ -1,0 +1,1 @@
+ public boolean hasTriggeringObject(String type) { return triggeringObjects.containsKey(type); } 

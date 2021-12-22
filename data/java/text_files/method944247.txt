@@ -1,0 +1,1 @@
+ public void setAutoSaveInterval(long millis) { sleepTime = millis; } 

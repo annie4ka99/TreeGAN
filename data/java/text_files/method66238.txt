@@ -1,0 +1,1 @@
+ public void setSelectedPanel(JPanel selectedPanel) { this.selectedPanel = selectedPanel; } 

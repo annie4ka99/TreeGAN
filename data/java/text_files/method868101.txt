@@ -1,0 +1,1 @@
+ public boolean is64Bit() { return false; } 

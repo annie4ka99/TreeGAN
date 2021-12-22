@@ -1,0 +1,1 @@
+ public int getDraws() { return m_draws; } 

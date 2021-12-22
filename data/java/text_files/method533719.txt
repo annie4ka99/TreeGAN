@@ -1,0 +1,1 @@
+ public void addEstimate(Estimate e) { estimates.addElement(e); } 

@@ -1,0 +1,1 @@
+ public SimModel getModel() { return this.model; } 

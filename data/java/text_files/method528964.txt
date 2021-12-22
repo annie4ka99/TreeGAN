@@ -1,0 +1,1 @@
+ public void setSystemParam(JpxiSystemParameter parameter) { systemParam = parameter; } 

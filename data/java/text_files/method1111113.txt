@@ -1,0 +1,1 @@
+ public double getGridSize() { return gridSize; } 

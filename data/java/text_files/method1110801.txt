@@ -1,0 +1,1 @@
+ public boolean isMoveIntoGroups() { return isMoveIntoGroups; } 

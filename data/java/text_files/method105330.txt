@@ -1,0 +1,1 @@
+ public void setNormal(String value) { this.normal = value; } 

@@ -1,0 +1,1 @@
+ public void setErrorPos(int pos) { this.pos=pos; } 

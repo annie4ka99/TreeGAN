@@ -1,0 +1,1 @@
+ private boolean newAnimalMeasurement_Shore(Point animalPoint) { return newAnimalMeasurement_Horizon(animalPoint); } 

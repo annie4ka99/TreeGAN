@@ -1,0 +1,1 @@
+ public Control getControl() { return table.getParent(); } 

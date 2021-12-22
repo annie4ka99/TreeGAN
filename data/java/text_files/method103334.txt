@@ -1,0 +1,1 @@
+ public void scaleToFitHeight() { scaleToFitHeight(1); } 

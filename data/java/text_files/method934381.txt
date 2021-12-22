@@ -1,0 +1,1 @@
+ protected MessageResources getInternal() { return (servlet.getInternal()); } 

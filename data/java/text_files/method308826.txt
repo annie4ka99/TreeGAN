@@ -1,0 +1,1 @@
+ public void setUseMDCHostName(boolean value) { use_MDC_for_hostname = value; } 

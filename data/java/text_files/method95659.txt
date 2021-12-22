@@ -1,0 +1,1 @@
+ public void notifyException(SQLException sqle) { this.notifyError(sqle); } 

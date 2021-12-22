@@ -1,0 +1,1 @@
+ public void removeAttribute(String key) { this.attributes.remove(key); } 

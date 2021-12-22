@@ -1,0 +1,1 @@
+ public void setActiveSocketMode(boolean activesocketmode) { this.activesocketmode = activesocketmode; } 

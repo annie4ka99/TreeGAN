@@ -1,0 +1,1 @@
+ public void setEngineConfiguration(EngineConfiguration config) { this.config = config; } 

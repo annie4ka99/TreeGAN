@@ -1,0 +1,1 @@
+ public void setMaxSelectableDate(Date max) { dayChooser.setMaxSelectableDate(max); } 

@@ -1,0 +1,1 @@
+ public void setMaxOccursIsExactlyOne(boolean exactOne) { maxOccursExactOne = exactOne; } 

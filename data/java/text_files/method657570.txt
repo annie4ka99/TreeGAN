@@ -1,0 +1,1 @@
+ public void setPercentComplete(String percentComplete) { this.percentComplete = percentComplete; } 

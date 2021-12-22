@@ -1,0 +1,1 @@
+ public boolean shouldIgnoreNulls() { return((_indexFlags & IGNORE_NULLS_INDEX_FLAG) != 0); } 

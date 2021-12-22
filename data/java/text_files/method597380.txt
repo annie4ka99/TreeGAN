@@ -1,0 +1,1 @@
+ public void returnValue() { mv.visitInsn(returnType.getOpcode(Opcodes.IRETURN)); } 

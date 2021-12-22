@@ -1,0 +1,1 @@
+ protected boolean doRename(String newName) { throw new UnsupportedOperationException("Read only filesystem."); } 

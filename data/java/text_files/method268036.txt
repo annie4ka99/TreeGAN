@@ -1,0 +1,1 @@
+ public void moveRowRelative(int rows) throws SQLException { notSupported(); } 

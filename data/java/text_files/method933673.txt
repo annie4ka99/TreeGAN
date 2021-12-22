@@ -1,0 +1,1 @@
+ public boolean isModuleAware() { return moduleAware; } 

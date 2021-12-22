@@ -1,0 +1,1 @@
+ public void setMinGain(float minGain) { al.alSourcef(sourceID, AL.AL_MIN_GAIN, minGain); } 

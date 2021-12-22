@@ -1,0 +1,1 @@
+ public void setDescription(String description) { this.desc = description; } 

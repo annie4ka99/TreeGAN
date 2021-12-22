@@ -1,0 +1,1 @@
+ protected void activate() { _listenerManager.handleEvent(new WindowEvent(this, WindowEvent.ACTIVATED)); } 

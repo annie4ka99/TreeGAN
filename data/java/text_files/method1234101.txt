@@ -1,0 +1,1 @@
+ public void add(RdfProperty prop) { properties.add(prop); } 

@@ -1,0 +1,1 @@
+ public void visitIF_ICMPGT(IF_ICMPGT o){ stack().pop(); stack().pop(); } 

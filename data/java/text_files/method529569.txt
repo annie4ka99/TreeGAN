@@ -1,0 +1,1 @@
+ public Cursor getCursor() { return cursor; } 

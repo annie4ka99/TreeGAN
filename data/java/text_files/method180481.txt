@@ -1,0 +1,1 @@
+ public String run(Player thePlayer, GameTokens tokens) { return thePlayer.getStats().toString(); } 

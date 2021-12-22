@@ -1,0 +1,1 @@
+ final public void setEditorMenuItemEnabled(boolean enabled) { editorMenuItem.setEnabled(enabled); } 

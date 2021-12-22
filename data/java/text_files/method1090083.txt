@@ -1,0 +1,1 @@
+ protected int getCompletedProcessCount() { return mCompletedProcessCount; } 

@@ -1,0 +1,1 @@
+ public int getRowCount() { return (model == null) ? 0 : model.getRowCount(); } 

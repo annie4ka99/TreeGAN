@@ -1,0 +1,1 @@
+ public boolean hasMultipartSet() { return "true".equalsIgnoreCase(multipart); } 

@@ -1,0 +1,1 @@
+ protected void addedToParent( CodeItem parent, int index ) { this.parent = parent; this.index = index; } 

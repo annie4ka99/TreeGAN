@@ -1,0 +1,1 @@
+ public boolean canExecute() { return newDiagram != null && parent != null && bounds != null; } 

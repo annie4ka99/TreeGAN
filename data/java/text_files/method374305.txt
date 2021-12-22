@@ -1,0 +1,1 @@
+ public int getNextHeaderOffset() { return packet.getState().getHeaderOffsetByIndex(index + 1); } 

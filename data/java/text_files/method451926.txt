@@ -1,0 +1,1 @@
+ public void setJndiName(String jndiName) { this.jndiName = jndiName; } 

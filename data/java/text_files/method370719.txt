@@ -1,0 +1,1 @@
+ protected void putAdditionalEntries(Manifest manifest, JarPackageData jarPackage) { } 

@@ -1,0 +1,1 @@
+ public int index(String var) { return eachIndexs.get(var); } 

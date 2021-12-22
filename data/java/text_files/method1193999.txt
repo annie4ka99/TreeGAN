@@ -1,0 +1,1 @@
+ public void resetScene() { resetPins(); resetBowlingBall(); } 

@@ -1,0 +1,1 @@
+ public String getName() { return m_POJO.getName(); } 

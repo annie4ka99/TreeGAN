@@ -1,0 +1,1 @@
+ public void setReplicationSyncLatency(Duration value) { this.replicationSyncLatency = value; } 

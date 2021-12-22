@@ -1,0 +1,1 @@
+ public Double getTotalStake() { return new Double(getBets().size()*getStake().doubleValue()); } 

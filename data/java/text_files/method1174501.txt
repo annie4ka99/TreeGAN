@@ -1,0 +1,1 @@
+ public SpellAbility peekAbility(int index) { return stack.get(index).getSpellAbility(); } 

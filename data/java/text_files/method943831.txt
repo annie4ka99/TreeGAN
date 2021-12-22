@@ -1,0 +1,1 @@
+ public Term createTermFromLabel(String label) { return createTermFromLabel(label, false); } 

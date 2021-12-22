@@ -1,0 +1,1 @@
+ public Document addContent(Content child) { content.add(child); return this; } 

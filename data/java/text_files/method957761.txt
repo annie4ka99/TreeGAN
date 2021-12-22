@@ -1,0 +1,1 @@
+ public void setNArgs(String value) { this.nArgs = value; } 

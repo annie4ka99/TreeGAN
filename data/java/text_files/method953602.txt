@@ -1,0 +1,1 @@
+ public void setPublish(boolean b) { publish = b; } 

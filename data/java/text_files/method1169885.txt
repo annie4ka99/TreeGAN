@@ -1,0 +1,1 @@
+ protected void clearCache(JLabel l) { l.putClientProperty(PROPERTY_KEY, null); } 

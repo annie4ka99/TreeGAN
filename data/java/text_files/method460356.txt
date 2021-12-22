@@ -1,0 +1,1 @@
+ public HomeCommunityType getHomeCommunity() { return homeCommunity; } 

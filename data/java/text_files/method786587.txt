@@ -1,0 +1,1 @@
+ public boolean canSetInt() { return canSet(int.class); } 

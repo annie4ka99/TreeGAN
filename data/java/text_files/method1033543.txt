@@ -1,0 +1,1 @@
+ public boolean execute(String sql) throws SQLException { return execute(sql, false); } 

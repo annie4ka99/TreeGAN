@@ -1,0 +1,1 @@
+ protected void setFixture(PrecursorListType fixture) { this.fixture = fixture; } 

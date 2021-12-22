@@ -1,0 +1,1 @@
+ public QName getPortName() { return( portName ); } 

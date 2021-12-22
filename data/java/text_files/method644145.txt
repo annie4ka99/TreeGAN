@@ -1,0 +1,1 @@
+ public WriteAnnotationOutputMsgType createWriteAnnotationOutputMsgType() { return new WriteAnnotationOutputMsgType(); } 

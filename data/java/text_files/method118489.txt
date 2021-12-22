@@ -1,0 +1,1 @@
+ public void setIndention(String text) { horizontalSpacingTextField.setText(text); } 

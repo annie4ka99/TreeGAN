@@ -1,0 +1,1 @@
+public String getFieldText1() { return fieldText1; } 

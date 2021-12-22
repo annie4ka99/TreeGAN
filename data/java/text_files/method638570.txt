@@ -1,0 +1,1 @@
+ public int getCloseOption() { return closeOption; } 

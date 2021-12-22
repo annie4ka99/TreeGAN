@@ -1,0 +1,1 @@
+ private JMenu getWindowMenu() { return menubar.getMenu(3); } 

@@ -1,0 +1,1 @@
+ public String getType(int i) { return qAtts.getType(i) .intern(); } 

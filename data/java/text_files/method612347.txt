@@ -1,0 +1,1 @@
+ public void markNodeEnd() { currentNodePosition.assign(positions[0]); } 

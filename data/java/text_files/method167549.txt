@@ -1,0 +1,1 @@
+ protected void analyze(double t) { if (max < t) reset(t); } 

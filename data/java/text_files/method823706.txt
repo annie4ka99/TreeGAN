@@ -1,0 +1,1 @@
+ public void setCharacterStream(Reader characterStream) { this.characterStream = characterStream; } 

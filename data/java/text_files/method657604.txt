@@ -1,0 +1,1 @@
+ public void setTeamID(int teamid) { this.teamID = teamid; } 

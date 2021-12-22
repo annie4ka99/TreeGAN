@@ -1,0 +1,1 @@
+ public FileUploadDetails getFileUploadDetails() { return fileUploadDetails; } 

@@ -1,0 +1,1 @@
+ public void setField(Field field, int posX, int posY) { mapField[posX][posY] = field; } 

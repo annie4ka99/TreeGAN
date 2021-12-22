@@ -1,0 +1,1 @@
+ protected FileTransferObject getFileTransferObject() { return dbworker.getFileTransferObject(); } 

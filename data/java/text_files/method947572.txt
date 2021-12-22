@@ -1,0 +1,1 @@
+ public void SetName(String strFilename) { this.strFilename = strFilename; } 

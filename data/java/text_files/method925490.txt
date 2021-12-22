@@ -1,0 +1,1 @@
+ public int getProxyPort() { return proxyPort; } 

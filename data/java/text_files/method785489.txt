@@ -1,0 +1,1 @@
+ public Object get(Tuple t) { throw new UnsupportedOperationException(); } 

@@ -1,0 +1,1 @@
+ public String getOutput() throws XdsInternalException { tform.run(); return tform.getOutputString(); } 

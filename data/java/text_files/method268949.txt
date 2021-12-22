@@ -1,0 +1,1 @@
+ public boolean supportsGroupByBeyondSelect() throws java.sql.SQLException { return true; } 

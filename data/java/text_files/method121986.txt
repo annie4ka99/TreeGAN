@@ -1,0 +1,1 @@
+ protected void resize(int width, int height) { _rect.setWidth(width); _rect.setHeight(height); } 

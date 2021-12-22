@@ -1,0 +1,1 @@
+ public void setApplicationContext(ApplicationContext ctx) { this.context = ctx; } 

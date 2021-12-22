@@ -1,0 +1,1 @@
+ protected void setCheckZoomValue(boolean b) { checkZoomValue = b; } 

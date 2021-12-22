@@ -1,0 +1,1 @@
+ public Scope getScope() { if(scope==null) { return null; } synchronized (scope) { return scope; } } 

@@ -1,0 +1,1 @@
+ public void setTopBorder(int topBorder) { this.topBorder = topBorder; } 

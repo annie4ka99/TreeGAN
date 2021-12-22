@@ -1,0 +1,1 @@
+ public void addClassProperty(final ClassPropertyImpl property) { classPropertyList.add(property); } 

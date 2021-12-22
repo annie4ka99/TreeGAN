@@ -1,0 +1,1 @@
+ public double getFlatness() { return Math.sqrt(squareflat); } 

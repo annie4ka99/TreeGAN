@@ -1,0 +1,1 @@
+ public void setEchofilter(java.lang.Boolean echofilter) { this.echofilter = echofilter; } 

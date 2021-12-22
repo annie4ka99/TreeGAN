@@ -1,0 +1,1 @@
+ public void addImprinted(Card c) { imprintedCards.add(c); } 

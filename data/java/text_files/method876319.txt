@@ -1,0 +1,1 @@
+ public void setTotalLength(long totalLength) { binaryHeader.putLong(16, totalLength); } 

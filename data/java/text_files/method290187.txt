@@ -1,0 +1,1 @@
+ protected void push(Event event) { getEventStack().push(event); } 

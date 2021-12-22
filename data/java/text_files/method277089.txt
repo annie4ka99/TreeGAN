@@ -1,0 +1,1 @@
+ public AppInfo getAppInfo() { return appInfo; } 

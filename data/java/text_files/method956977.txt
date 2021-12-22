@@ -1,0 +1,1 @@
+ public BigDecimal getValue() { return value; } 

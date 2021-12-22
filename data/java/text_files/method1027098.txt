@@ -1,0 +1,1 @@
+ public void setDontSetNonManagedTXConnectionAutoCommitFalse(boolean b) { dontSetNonManagedTXConnectionAutoCommitFalse = b; } 

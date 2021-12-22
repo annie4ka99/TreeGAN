@@ -1,0 +1,1 @@
+ public void commitToGraph(Graph g) { protectedCommitToGraph(g); protectedCommitComplete(); } 

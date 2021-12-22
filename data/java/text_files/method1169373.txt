@@ -1,0 +1,1 @@
+ public Player getOpponent() { return AllZone.getHumanPlayer(); } 

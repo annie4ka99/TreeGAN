@@ -1,0 +1,1 @@
+ public void wakeUp(){ m_flags &= ~e_sleepFlag; m_sleepTime = 0.0f; } 

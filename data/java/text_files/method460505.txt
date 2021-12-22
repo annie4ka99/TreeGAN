@@ -1,0 +1,1 @@
+ public void setAuthorized(boolean value) { this.authorized = value; } 

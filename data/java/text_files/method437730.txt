@@ -1,0 +1,1 @@
+ public JMenu getMenu() { if (menu == null) menu = new StyleMenu(uiController); return menu; } 

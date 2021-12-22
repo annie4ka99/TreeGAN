@@ -1,0 +1,1 @@
+ public ReferenceMap getCacheForAdminOnly() { return cache; } 

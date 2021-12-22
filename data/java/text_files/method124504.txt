@@ -1,0 +1,1 @@
+ public JSCTypes type() { return JSCTypes.MAP; } 

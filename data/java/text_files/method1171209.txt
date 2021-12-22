@@ -1,0 +1,1 @@
+ public int getNetPTCounters() { return getCounters(Counters.P1P1) - getCounters(Counters.M1M1); } 

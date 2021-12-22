@@ -1,0 +1,1 @@
+ public boolean useSSL() { return this.useSSL; } 

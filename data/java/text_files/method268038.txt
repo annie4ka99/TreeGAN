@@ -1,0 +1,1 @@
+ public int size() { return RESULT_SET_SIZE_UNKNOWN; } 

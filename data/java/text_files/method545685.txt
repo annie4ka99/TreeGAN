@@ -1,0 +1,1 @@
+ public int getTickLength() { return tickLength; } 

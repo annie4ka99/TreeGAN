@@ -1,0 +1,1 @@
+ public Message getRequestMessage() { return requestMessage ; } 

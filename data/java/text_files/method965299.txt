@@ -1,0 +1,1 @@
+ protected void adjustVisibility(Rectangle r) { SwingUtilities.invokeLater(new SafeScroller(r)); } 

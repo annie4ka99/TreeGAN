@@ -1,0 +1,1 @@
+ public void setOperatorDivision(Pattern operatorDivision) { this.operatorDivision = operatorDivision; } 

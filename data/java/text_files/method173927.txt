@@ -1,0 +1,1 @@
+ public void setReportNamespaceDeclarations(boolean declareNamespaces) { this.declareNamespaces = declareNamespaces; } 

@@ -1,0 +1,1 @@
+ public void addSubGraph(Graph graph){ subgraph=graph; } 

@@ -1,0 +1,1 @@
+ public void setSiteHost(String siteHost) { this.siteHost = siteHost; } 

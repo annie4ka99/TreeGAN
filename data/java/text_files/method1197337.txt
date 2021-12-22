@@ -1,0 +1,1 @@
+ protected boolean isLogin(HttpSession session) { return cacheUtil.doesContain(session, jspViewPath); } 

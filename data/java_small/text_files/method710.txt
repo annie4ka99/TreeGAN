@@ -1,0 +1,1 @@
+ public void setBorderColorStart(int borderColorStart) { this.borderColorStart = borderColorStart; } 

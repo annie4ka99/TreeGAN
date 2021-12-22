@@ -1,0 +1,1 @@
+public LinkedList makeCopy() { return ((LinkedList) clone()); } 

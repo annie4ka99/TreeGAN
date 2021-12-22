@@ -1,0 +1,1 @@
+ public void setSickness(boolean b) { sickness = b; } 

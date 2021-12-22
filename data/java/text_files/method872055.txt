@@ -1,0 +1,1 @@
+ public void setKontoNr(java.lang.Integer kontoNr) { this.hashValue = 0; this.kontoNr = kontoNr; } 

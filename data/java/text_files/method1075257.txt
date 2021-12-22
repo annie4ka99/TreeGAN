@@ -1,0 +1,1 @@
+ public Note getLastNote() { return lastNote; } 

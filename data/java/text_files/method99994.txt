@@ -1,0 +1,1 @@
+ public void setReturnObject(SearchReturnObject value) { this.returnObject = value; } 

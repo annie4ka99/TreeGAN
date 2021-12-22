@@ -1,0 +1,1 @@
+ public void setDocument(Document document) { this.result = document; this.queried = false; } 

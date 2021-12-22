@@ -1,0 +1,1 @@
+ public void setResourceBase(String dir) { context.setResourceBase(dir); } 

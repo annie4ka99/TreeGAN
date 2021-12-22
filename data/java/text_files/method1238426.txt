@@ -1,0 +1,1 @@
+ public Generator getGenerator(Service service, SymbolTable symbolTable) { return new NoopGenerator(); } 

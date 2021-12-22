@@ -1,0 +1,1 @@
+ public Format setTextMode(Format.TextMode mode) { this.mode = mode; return this; } 

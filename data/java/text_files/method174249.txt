@@ -1,0 +1,1 @@
+ public void visitTABLESWITCH(TABLESWITCH o){ indexOfInt(o, stack().peek()); } 

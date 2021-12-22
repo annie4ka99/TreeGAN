@@ -1,0 +1,1 @@
+ public void setClientVersion(String value) { this.clientVersion = value; } 

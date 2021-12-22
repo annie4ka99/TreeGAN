@@ -1,0 +1,1 @@
+ public IntIterator edgeRows() { return getEdgeTable().rows(); } 

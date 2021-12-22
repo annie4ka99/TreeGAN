@@ -1,0 +1,1 @@
+ public BaseObject getObject(int i) { return (BaseObject) objects.elementAt(i); } 

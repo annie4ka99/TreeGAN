@@ -1,0 +1,1 @@
+ public void removeExcludedName(String name) { table.remove(name); } 

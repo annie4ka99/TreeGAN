@@ -1,0 +1,1 @@
+ protected String getImageName() { return "repair_invoice_editor"; } 

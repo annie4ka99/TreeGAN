@@ -1,0 +1,1 @@
+ public void setCompletionTimeFromAscendingNode(MeasureType value) { this.completionTimeFromAscendingNode = value; } 

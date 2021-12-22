@@ -1,0 +1,1 @@
+ public boolean removeOption(Option option) { return options.remove(option); } 

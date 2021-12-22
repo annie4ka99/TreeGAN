@@ -1,0 +1,1 @@
+ protected boolean doIsSymbolicLink() { return false; } 

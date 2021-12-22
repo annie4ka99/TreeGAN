@@ -1,0 +1,1 @@
+ public int getFortBonus() { return fortBonus + getConMod(); } 

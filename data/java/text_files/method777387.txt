@@ -1,0 +1,1 @@
+ public void setExtended( boolean extended ) { this.extended = extended; } 

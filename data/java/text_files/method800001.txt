@@ -1,0 +1,1 @@
+ public RGB getHeaderBackground() { return defaultHeaderBackgroundProvider.getBackground(); } 

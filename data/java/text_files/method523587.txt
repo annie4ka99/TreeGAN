@@ -1,0 +1,1 @@
+private PrintSpooler getPrintSpooler() { return printSpooler; } 

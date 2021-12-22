@@ -1,0 +1,1 @@
+ public void setRuler(java.lang.Boolean ruler) { this.ruler = ruler; } 

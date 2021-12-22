@@ -1,0 +1,1 @@
+ public boolean getCancelButtonEnabled() { return wizardModel.getCancelButtonEnabled().booleanValue(); } 

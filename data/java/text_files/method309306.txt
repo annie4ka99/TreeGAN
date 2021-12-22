@@ -1,0 +1,1 @@
+ public ListSelectionModel getSelectionModel() { return selectionModel; } 

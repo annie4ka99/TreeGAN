@@ -1,0 +1,1 @@
+ public void setVal(double newDouble) { setNumber(new Double(newDouble)); } 

@@ -1,0 +1,1 @@
+ public void addDependency(SetupComponent SC) { dependencies.add(SC); } 

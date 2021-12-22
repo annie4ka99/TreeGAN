@@ -1,0 +1,1 @@
+ public void createInitialLayout(IPageLayout layout) { defineActions(layout); defineLayout(layout); } 

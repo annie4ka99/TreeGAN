@@ -1,0 +1,1 @@
+ public ValuedRangeModel getRangeModel() { return m_model; } 

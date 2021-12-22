@@ -1,0 +1,1 @@
+ public boolean isHideable() { return this.hideable; } 

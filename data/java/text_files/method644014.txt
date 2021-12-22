@@ -1,0 +1,1 @@
+ public void setDomains(DomainsType value) { this.domains = value; } 

@@ -1,0 +1,1 @@
+ public int getArrayCapacity() { return array.length; } 

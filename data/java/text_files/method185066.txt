@@ -1,0 +1,1 @@
+ public long getTextContentAsLong(String name) { return getTextContentAsLong(name, 0); } 

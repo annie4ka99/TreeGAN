@@ -1,0 +1,1 @@
+ public void moveFixed(Vector3d movement) { modelOrigin.add(movement); } 

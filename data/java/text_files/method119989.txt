@@ -1,0 +1,1 @@
+ public void setNetworkModel(GraphNetworkModel networkModel) { this.networkModel = networkModel; } 

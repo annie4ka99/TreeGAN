@@ -1,0 +1,1 @@
+ protected String getMessageTemplate(Locale locale) { return this.message; } 

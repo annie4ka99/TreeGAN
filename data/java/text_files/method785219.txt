@@ -1,0 +1,1 @@
+ public void setVisible(int row, boolean value) { setBoolean(row, VisualItem.VISIBLE, value); } 

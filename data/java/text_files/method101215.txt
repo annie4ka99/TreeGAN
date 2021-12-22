@@ -1,0 +1,1 @@
+ public void setSampleType(SampleType sampleType) { this.sampleType = sampleType; } 

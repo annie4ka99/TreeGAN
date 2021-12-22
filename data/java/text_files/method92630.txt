@@ -1,0 +1,1 @@
+ public int getDefaultTransactionIsolation() { return java.sql.Connection.TRANSACTION_READ_COMMITTED; } 

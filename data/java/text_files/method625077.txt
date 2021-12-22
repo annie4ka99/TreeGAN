@@ -1,0 +1,1 @@
+ public boolean definesState(String state) { return classifier.isStateDefined(state); } 

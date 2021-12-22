@@ -1,0 +1,1 @@
+ protected void setLocalType(final int local, final Type type) { } 

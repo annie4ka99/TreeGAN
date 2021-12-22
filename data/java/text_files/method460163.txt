@@ -1,0 +1,1 @@
+ public void setZipCode(String value) { this.zipCode = value; } 

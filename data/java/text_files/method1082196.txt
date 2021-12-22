@@ -1,0 +1,1 @@
+ protected void nextState (boolean state) { prevState = currState; currState = state; currGen++; } 

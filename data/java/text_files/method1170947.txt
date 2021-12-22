@@ -1,0 +1,1 @@
+ public Card getCurrentlyCloningCard() { return currentlyCloningCard; } 

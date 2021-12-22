@@ -1,0 +1,1 @@
+ public Group getGroup(String id) { return getEntityManager().find(Group.class, id); } 

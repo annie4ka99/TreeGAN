@@ -1,0 +1,1 @@
+ public void setListSorter(ViewerSorter sorter) { fListViewer.setSorter(sorter); } 

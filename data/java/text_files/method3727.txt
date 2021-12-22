@@ -1,0 +1,1 @@
+ public String getDescription() { return ("hhp - HTML Help project files"); } 

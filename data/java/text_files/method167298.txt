@@ -1,0 +1,1 @@
+ public void startDocument() { log.info("start parcing"); } 

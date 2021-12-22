@@ -1,0 +1,1 @@
+ public void registerFactory(String id, IModelerHelper factory) { map.put(id, factory); } 

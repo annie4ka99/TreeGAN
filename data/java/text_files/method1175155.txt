@@ -1,0 +1,1 @@
+ public void addPose(Pose p) { pose.add(p); } 

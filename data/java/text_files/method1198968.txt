@@ -1,0 +1,1 @@
+ public String getArtist() { return artist.trim(); } 

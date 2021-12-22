@@ -1,0 +1,1 @@
+ public AngleType getIncidenceAngle() { return incidenceAngle; } 

@@ -1,0 +1,1 @@
+ public StringBuffer computeIndentation(int offset) { return computeIndentation(offset, false); } 

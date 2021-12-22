@@ -1,0 +1,1 @@
+ public boolean equals(int value) { return this.value == value; } 

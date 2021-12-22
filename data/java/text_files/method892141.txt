@@ -1,0 +1,1 @@
+ public void setWhereClause(String wc) { this.whereClause = wc; } 

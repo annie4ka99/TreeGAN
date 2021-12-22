@@ -1,0 +1,1 @@
+ public void setCompositeType(String value) { this.compositeType = value; } 

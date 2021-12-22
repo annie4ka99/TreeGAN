@@ -1,0 +1,1 @@
+ public P load(long id) throws DataAccessException { return this.loadPOJO(id); } 

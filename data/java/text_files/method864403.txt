@@ -1,0 +1,1 @@
+ public void addInts() { instructions.append( OP_add_i ); } 

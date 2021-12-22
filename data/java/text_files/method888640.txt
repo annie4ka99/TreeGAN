@@ -1,0 +1,1 @@
+ protected void setInputEnabled(boolean flag){ textInputField.setEnabled(flag); } 

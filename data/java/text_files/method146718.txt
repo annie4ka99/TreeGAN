@@ -1,0 +1,1 @@
+ public NMEA_ProviderConfigParameter get(String name) { return parameters.get(name); } 

@@ -1,0 +1,1 @@
+ public void setTarget(Target tgt) { chosenTarget = tgt; } 

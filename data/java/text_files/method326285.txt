@@ -1,0 +1,1 @@
+ public PamDataBlock getSource() { return (PamDataBlock) sourceList.getSelectedItem(); } 

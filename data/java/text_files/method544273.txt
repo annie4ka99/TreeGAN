@@ -1,0 +1,1 @@
+ public int addCrossMarker(int x,int y,Color c) { return imagePanel.addCrossMarker(x,y,c); } 

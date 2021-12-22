@@ -1,0 +1,1 @@
+ public void clear() { this.root = null; this.elemcount = 0; } 

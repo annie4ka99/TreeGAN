@@ -1,0 +1,1 @@
+ public int getChannelMap() { return treeTableModel.getChannelMap(); } 

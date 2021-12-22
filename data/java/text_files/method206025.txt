@@ -1,0 +1,1 @@
+ public void setClassLoader(ClassLoader classLoader) { classLoaderReference.setReference(classLoader); } 

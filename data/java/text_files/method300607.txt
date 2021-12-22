@@ -1,0 +1,1 @@
+ public void setRowDescription( int row, String desc ) { this.setValueAt( desc, row, 5 ); } 

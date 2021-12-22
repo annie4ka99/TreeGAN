@@ -1,0 +1,1 @@
+ public long getLong(Tuple t) { throw new UnsupportedOperationException(); } 

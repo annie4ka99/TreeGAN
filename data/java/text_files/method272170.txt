@@ -1,0 +1,1 @@
+ public JfmEmailHeader getEmailHeader() { return __header; } 

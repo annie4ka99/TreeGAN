@@ -1,0 +1,1 @@
+ public void setNamespaceMap(Map map) { if (map != null) { namespaces.putAll(map); } } 

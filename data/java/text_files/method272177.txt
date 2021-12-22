@@ -1,0 +1,1 @@
+ public int getEmailPartCount() { return __parts.size(); } 

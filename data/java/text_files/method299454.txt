@@ -1,0 +1,1 @@
+ public void unmapModelFromEditPart(AbstractModel model) { _modelToEditPartMap.remove(model); } 

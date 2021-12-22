@@ -1,0 +1,1 @@
+ public void setStaffExpenses(int staffExpenses) { this.staffExpenses = staffExpenses; } 

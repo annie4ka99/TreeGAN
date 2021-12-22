@@ -1,0 +1,1 @@
+ public void setSize(Dimension dim) { this.size=dim; } 

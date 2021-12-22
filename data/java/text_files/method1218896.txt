@@ -1,0 +1,1 @@
+ public Long getFileSize() { return delegator.getFileSize(header); } 

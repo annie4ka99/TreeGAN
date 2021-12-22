@@ -1,0 +1,1 @@
+ public void setStatusId(java.lang.Integer statusId) { this.statusId = statusId; } 

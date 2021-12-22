@@ -1,0 +1,1 @@
+ public CStringBuilder append(long lnum) { return append(Long.toString( lnum, 10 ) ); } 

@@ -1,0 +1,1 @@
+ public int gerEncoderMaxObjectSize() { return encoder.getMaxObjectSize(); } 

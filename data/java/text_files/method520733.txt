@@ -1,0 +1,1 @@
+ public String getSmallTitle() { if (smallTitle != null) { return smallTitle; } else { return getTitle(); } } 

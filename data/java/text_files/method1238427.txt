@@ -1,0 +1,1 @@
+ public Generator getGenerator(TypeEntry type, SymbolTable symbolTable) { return new NoopGenerator(); } 

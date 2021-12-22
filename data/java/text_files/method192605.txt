@@ -1,0 +1,1 @@
+ public void setCount(Integer newCount) { count = newCount; } 

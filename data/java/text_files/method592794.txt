@@ -1,0 +1,1 @@
+ public void setDateFormat(DateFormat dateFormat) { this.format = dateFormat; } 

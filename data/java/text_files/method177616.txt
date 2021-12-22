@@ -1,0 +1,1 @@
+ public void clearProperties(){ properties.clear(); propertiesAsList.clear(); } 

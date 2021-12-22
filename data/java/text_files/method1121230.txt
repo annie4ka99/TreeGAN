@@ -1,0 +1,1 @@
+ public void setPrevCls(java.math.BigDecimal prevCls) { this.prevCls = prevCls; } 

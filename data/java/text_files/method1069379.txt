@@ -1,0 +1,1 @@
+ public Label getStereotypesLabel() { return null; } 

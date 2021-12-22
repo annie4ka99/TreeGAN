@@ -1,0 +1,1 @@
+ public void setIssuer(String issuer) { this.issuer = issuer; } 

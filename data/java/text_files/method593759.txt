@@ -1,0 +1,1 @@
+ public void setEnum(String name) { this.className = name; } 

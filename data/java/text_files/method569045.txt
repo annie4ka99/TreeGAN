@@ -1,0 +1,1 @@
+ public void setStack(ThreadStack stack) { this.stack = stack; hcode = 0; } 

@@ -1,0 +1,1 @@
+ public void setDueDate(Date dueDate) throws Exception { this.dueDate = dueDate; rebuildRecord(); } 

@@ -1,0 +1,1 @@
+ public void setRightBorder(int rightBorder) { this.rightBorder = rightBorder; } 

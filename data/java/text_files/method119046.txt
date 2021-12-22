@@ -1,0 +1,1 @@
+ public GraphModel getModel() { return graph.getModel(); } 

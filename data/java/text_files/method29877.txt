@@ -1,0 +1,1 @@
+ public void setCodeset(String codeset) { this.codeset = codeset; } 

@@ -1,0 +1,1 @@
+ public long vec2pix(Vec3 vec) throws Exception { return loc2pix(new Hploc(vec)); } 

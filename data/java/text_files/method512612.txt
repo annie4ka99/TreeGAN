@@ -1,0 +1,1 @@
+ public boolean isMdb() { return (classType != null && classType == ClassType.MDB); } 

@@ -1,0 +1,1 @@
+ public void setSolveMode(boolean solveMode) { this.solveMode = solveMode; } 

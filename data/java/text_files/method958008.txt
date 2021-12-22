@@ -1,0 +1,1 @@
+ public FilterCapabilities createFilterCapabilities() { return new FilterCapabilities(); } 

@@ -1,0 +1,1 @@
+ public double getMaxX() { return clip[6]; } 

@@ -1,0 +1,1 @@
+private void setPoller(DbPolling newValue) { this.Poller = newValue; } 

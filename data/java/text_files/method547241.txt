@@ -1,0 +1,1 @@
+ public String format(Object obj) { return obj.toString(); } 

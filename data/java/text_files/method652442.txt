@@ -1,0 +1,1 @@
+ private boolean isError(Annotation annotation) { return ANNOTATION_TYPE_ERROR.equals(annotation.getType()); } 

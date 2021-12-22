@@ -1,0 +1,1 @@
+ public void clearJugador2() { jugador2.clear(); } 

@@ -1,0 +1,1 @@
+ public Point2D getPoint(int i) { return bPoints[i]; } 

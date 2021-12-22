@@ -1,0 +1,1 @@
+ public void setI18nPrefix(String i18nPrefix) { this.i18nPrefix = i18nPrefix; } 

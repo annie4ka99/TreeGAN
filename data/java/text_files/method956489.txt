@@ -1,0 +1,1 @@
+ public AngleType getRoll() { return roll; } 

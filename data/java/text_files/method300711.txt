@@ -1,0 +1,1 @@
+ public Vector getRssLocations() { return this.vecRssLocations; } 

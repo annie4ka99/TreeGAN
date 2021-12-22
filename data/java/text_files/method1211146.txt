@@ -1,0 +1,1 @@
+ public String getN_cartacredito() { return n_cartacredito; } 

@@ -1,0 +1,1 @@
+ public Adapter createComponentTypeAdapter() { return null; } 

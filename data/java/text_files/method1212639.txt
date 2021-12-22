@@ -1,0 +1,1 @@
+ public Element getFirstCommand() { return firstCommand; } 

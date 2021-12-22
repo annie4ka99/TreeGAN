@@ -1,0 +1,1 @@
+ public void setGlobalOptions(Hashtable options) { globalOptions = options; } 

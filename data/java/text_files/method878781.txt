@@ -1,0 +1,1 @@
+ public SAXException createSAXException(String message) { return createSAXException(message, null); } 

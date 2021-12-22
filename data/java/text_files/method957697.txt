@@ -1,0 +1,1 @@
+ public void setSingleChar(String value) { this.singleChar = value; } 

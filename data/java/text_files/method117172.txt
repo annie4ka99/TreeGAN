@@ -1,0 +1,1 @@
+ public void removeChild(NodeAbstract child) { children.remove(child); child.setParent(null); } 

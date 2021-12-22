@@ -1,0 +1,1 @@
+ private void setTiffHeight(int newTiffHeight) { tiffHeight = newTiffHeight; } 

@@ -1,0 +1,1 @@
+ public String getEvent() { return event == VALUE_NOT_SET ? null : event; } 

@@ -1,0 +1,1 @@
+ public void removeTickListener(TickListener c) { if (list.contains(c)) list.removeElement(c); } 

@@ -1,0 +1,1 @@
+ public void setJMessageDriven(final JMessageDriven messageDriven) { jMessageDriven = messageDriven; } 

@@ -1,0 +1,1 @@
+ public void setCls(String className) throws ClassNotFoundException { cls = ClassUtils.forName(className); } 

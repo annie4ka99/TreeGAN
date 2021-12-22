@@ -1,0 +1,1 @@
+ public int getDateAsIndex() { return range.indexForDate(tSDate); } 

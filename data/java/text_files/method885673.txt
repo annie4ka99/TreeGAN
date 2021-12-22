@@ -1,0 +1,1 @@
+ protected void removeSubView(View sv) { subViews.remove(sv); sv.destroy(); } 

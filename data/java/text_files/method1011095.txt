@@ -1,0 +1,1 @@
+ public int getAccumGreenBits() { return accumGreenBits; } 

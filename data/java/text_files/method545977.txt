@@ -1,0 +1,1 @@
+ public void create(int what) { if(mode==MODE_PLAY) return; if(mode==MODE_LIB) return; initCreate(what); } 

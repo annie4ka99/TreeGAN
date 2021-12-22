@@ -1,0 +1,1 @@
+ public MBeanInfo getMBeanInfo() { return mBeanInfoMerged; } 

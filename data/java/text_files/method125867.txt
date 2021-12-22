@@ -1,0 +1,1 @@
+ public void setThreadPoolSpec(IThreadPoolSpec threadPoolSpec) { Reactor.threadPoolSpec = threadPoolSpec; } 

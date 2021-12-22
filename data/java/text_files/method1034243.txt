@@ -1,0 +1,1 @@
+ public boolean manuallyImplement(String functionName) { return manuallyImplement.contains(functionName); } 

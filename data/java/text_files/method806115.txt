@@ -1,0 +1,1 @@
+ public void setCpu(java.lang.String cpu) { this.cpu = cpu; } 

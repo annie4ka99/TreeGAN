@@ -1,0 +1,1 @@
+ public int getGridStyle() { return gridStyle; } 

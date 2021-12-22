@@ -1,0 +1,1 @@
+ public boolean isZ() { return (SZ == 0) || isSZ; } 

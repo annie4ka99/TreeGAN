@@ -1,0 +1,1 @@
+ public Travelbug getTb() { if (tb == null) tb = new Travelbug(""); return tb; } 

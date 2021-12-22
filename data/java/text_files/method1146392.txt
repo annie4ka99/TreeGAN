@@ -1,0 +1,1 @@
+ protected void setGCard(GraphicsCard gc) { gCard = gc; } 

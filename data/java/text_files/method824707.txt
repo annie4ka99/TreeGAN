@@ -1,0 +1,1 @@
+ public CStringBuilder append(boolean bool) { return append(bool ? "true" : "false" ); } 

@@ -1,0 +1,1 @@
+ public ITreeComponent Copy() { return new AutoMenuLeaf( setup, description, autoMenu ); } 

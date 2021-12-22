@@ -1,0 +1,1 @@
+ public LaTeXDocumentPortion getContents(){ return contents; } 

@@ -1,0 +1,1 @@
+ public void setInterpolation(int interpolation) { this.interpolation = interpolation; } 

@@ -1,0 +1,1 @@
+ public void addModelChangedListener(ModelChangedListener listener) { listeners.add(listener); } 

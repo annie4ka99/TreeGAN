@@ -1,0 +1,1 @@
+private void setOtherDomesticUse2(char[] newOtherDomesticUse2) { otherDomesticUse2 = newOtherDomesticUse2; } 

@@ -1,0 +1,1 @@
+ public boolean nodeHasValue(Node v) { return node_values.containsKey(v); } 

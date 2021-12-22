@@ -1,0 +1,1 @@
+ public InstrumentType getInstrument() { return instrument; } 

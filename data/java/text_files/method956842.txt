@@ -1,0 +1,1 @@
+ public FilterType getRightFilter() { return rightFilter; } 

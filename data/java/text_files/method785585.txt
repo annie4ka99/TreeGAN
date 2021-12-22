@@ -1,0 +1,1 @@
+ public Display getDisplay(int idx) { return (Display)m_displays.get(idx); } 

@@ -1,0 +1,1 @@
+ public void reload() { oldTableModel.populate(); futureModel.populate(); updateUI(); } 

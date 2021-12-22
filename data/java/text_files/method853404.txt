@@ -1,0 +1,1 @@
+ public void setUser(UserEntity user) { this.user = user; } 

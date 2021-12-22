@@ -1,0 +1,1 @@
+ public void setAlignment( int alignment ) { setStyle( style.align( alignment ) ); } 

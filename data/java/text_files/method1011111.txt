@@ -1,0 +1,1 @@
+ public boolean getSampleBuffers() { return sampleBuffers; } 

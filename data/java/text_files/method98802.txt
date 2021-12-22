@@ -1,0 +1,1 @@
+ public void setActuate(String value) { this.actuate = value; } 

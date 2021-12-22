@@ -1,0 +1,1 @@
+ protected float deltaE () { return (currE - lastE); } 

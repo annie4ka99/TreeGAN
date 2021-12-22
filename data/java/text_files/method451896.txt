@@ -1,0 +1,1 @@
+ public String getPassword() { if (!passwordHidden) { return password; } return "Password hidden."; } 

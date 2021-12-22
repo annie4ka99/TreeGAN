@@ -1,0 +1,1 @@
+ public LogFileParser getLogFileParser( ) { return logFileParser; } 

@@ -1,0 +1,1 @@
+ protected EdgeView createEdgeView(Edge cell) { return new EdgeView(cell); } 

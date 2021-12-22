@@ -1,0 +1,1 @@
+ private int getGeometrySearchStart(String response) { return response.indexOf("BLOCKS"); } 

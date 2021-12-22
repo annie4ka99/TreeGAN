@@ -1,0 +1,1 @@
+ public void setTwoPass(boolean twoPass) { this.twoPass = twoPass; } 

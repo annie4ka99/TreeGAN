@@ -1,0 +1,1 @@
+ public boolean isSiteActive(SiteInstance si) { return curSite != null && si == curSite; } 

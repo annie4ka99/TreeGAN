@@ -1,0 +1,1 @@
+ public String getLongOpt() { return this.longOpt; } 

@@ -1,0 +1,1 @@
+ public boolean isOutput() { return direction != Direction.INPUT; } 

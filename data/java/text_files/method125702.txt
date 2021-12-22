@@ -1,0 +1,1 @@
+ public String getAllStringsName() { if (allStringsDef == null) return null; return allStringsDef.name; } 

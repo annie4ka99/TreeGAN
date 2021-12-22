@@ -1,0 +1,1 @@
+ public IdentifiableType createIdentifiableType() { return new IdentifiableType(); } 

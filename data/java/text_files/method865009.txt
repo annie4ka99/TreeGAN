@@ -1,0 +1,1 @@
+ public void addSuperclass( AVM2QName name ) { code.getLex( name ); code.pushScope(); numSuperclasses++; } 

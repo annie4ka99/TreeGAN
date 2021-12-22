@@ -1,0 +1,1 @@
+ public void setAdvancedParams(Properties advancedParams) { this.advancedParams = advancedParams; } 

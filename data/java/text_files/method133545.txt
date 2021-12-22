@@ -1,0 +1,1 @@
+ public boolean isUnObscured(GlyphI gl) { return (isFullyWithinView(gl) && isOnTop(gl)); } 

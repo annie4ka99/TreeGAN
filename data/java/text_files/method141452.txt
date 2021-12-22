@@ -1,0 +1,1 @@
+ public void setControlFlags(int mask) { _data_[__offset + OFFSET_CONTROL] = (byte)(mask & 0xff); } 

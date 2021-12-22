@@ -1,0 +1,1 @@
+ public String getCompanyname() { return companyName; } 

@@ -1,0 +1,1 @@
+public boolean getIsFtp() { return isFtp; } 

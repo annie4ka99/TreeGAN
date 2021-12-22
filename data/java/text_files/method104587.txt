@@ -1,0 +1,1 @@
+ public void setInheritedCount(Integer value) { this.inheritedCount = value; } 

@@ -1,0 +1,1 @@
+ public void setShadow(boolean value) { _hasShadow = value; repaint(); } 

@@ -1,0 +1,1 @@
+ public void glIndexi (int c) { CC.gl_index (c); } 

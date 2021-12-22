@@ -1,0 +1,1 @@
+ public void end() { Msg.close(); if(Error != null){ Error.close(); } } 

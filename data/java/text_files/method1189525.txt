@@ -1,0 +1,1 @@
+ public String getString(int offset) { return contents.getString(offset); } 

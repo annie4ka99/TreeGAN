@@ -1,0 +1,1 @@
+ private void resetDiveTime() { diveTime = 0; } 

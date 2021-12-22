@@ -1,0 +1,1 @@
+ public Chromosome getSampleChromosome() { return m_sampleChromosome; } 

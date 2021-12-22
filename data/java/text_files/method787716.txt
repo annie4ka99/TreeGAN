@@ -1,0 +1,1 @@
+ public void setMinScale(double minScale) { this.m_minScale = minScale; } 

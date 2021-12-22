@@ -1,0 +1,1 @@
+ public void setTickSpacing(int spacing) { tickSpacing = spacing; updateShape(); } 

@@ -1,0 +1,1 @@
+ public void addValue(double value) { this.value += value; } 

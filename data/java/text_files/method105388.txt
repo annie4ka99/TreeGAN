@@ -1,0 +1,1 @@
+ public void setIdRef(SeriesLink.IdRef value) { this.idRef = value; } 

@@ -1,0 +1,1 @@
+ public void finished() { workers.removeElement(this); workersStart.remove(this); } 

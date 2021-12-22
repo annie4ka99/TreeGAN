@@ -1,0 +1,1 @@
+ protected int size() { return _entryBytes.length + 4; } 

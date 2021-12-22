@@ -1,0 +1,1 @@
+ public Rarity getRarity() { return rarity; } 

@@ -1,0 +1,1 @@
+ public void setHighlightColor(Color newColor) { highlightColor = newColor; } 

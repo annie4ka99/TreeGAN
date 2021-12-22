@@ -1,0 +1,1 @@
+ public void setIsPrivate(boolean isPrivate) throws Exception { this.isPrivate = isPrivate; rebuildRecord(); } 

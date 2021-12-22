@@ -1,0 +1,1 @@
+ protected TreePath getSelectedItemsTreePath() { return tree.getSelectionPath(); } 

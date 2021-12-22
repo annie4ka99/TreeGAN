@@ -1,0 +1,1 @@
+ public void setAccuracy(double epsilon) { this.qpSolver.setAccuracy(epsilon); } 

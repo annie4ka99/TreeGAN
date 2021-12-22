@@ -1,0 +1,1 @@
+ public void setService(BulgarianIME listener) { mService = listener; } 

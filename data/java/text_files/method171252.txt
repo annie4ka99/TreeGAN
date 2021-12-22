@@ -1,0 +1,1 @@
+ public void visitDALOAD(DALOAD o){ stack().pop(); stack().pop(); stack().push(Type.DOUBLE); } 

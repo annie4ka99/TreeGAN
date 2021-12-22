@@ -1,0 +1,1 @@
+ public void pickPallet(Pallet p, Storage s) { s.removePallet(p); } 

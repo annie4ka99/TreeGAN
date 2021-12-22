@@ -1,0 +1,1 @@
+ public void setGid(String value) { this.gid = value; } 

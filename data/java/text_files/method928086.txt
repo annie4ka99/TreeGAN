@@ -1,0 +1,1 @@
+ public boolean hostsEqual(URL u1, URL u2) { return super.hostsEqual(u1, u2); } 

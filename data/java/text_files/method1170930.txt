@@ -1,0 +1,1 @@
+ private CardList getList(Card attacker) { return (CardList) map.get(attacker); } 

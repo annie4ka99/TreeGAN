@@ -1,0 +1,1 @@
+ public PathIterator getPathIterator(AffineTransform xform) { return new WideLineIterator(this, xform); } 

@@ -1,0 +1,1 @@
+ public void setIsReplicate(boolean b) { replicate = b; } 

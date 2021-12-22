@@ -1,0 +1,1 @@
+ public void waitForImage() { while (!check()) { try { Thread.sleep(500L); } catch (InterruptedException ex) {} } } 

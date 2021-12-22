@@ -1,0 +1,1 @@
+ static public void setEmbeddedLogin( boolean enable ){ embeddedLogin = enable; } 

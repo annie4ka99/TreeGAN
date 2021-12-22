@@ -1,0 +1,1 @@
+ public boolean contains(double elem) { return indexOf(elem, 0) >= 0; } 

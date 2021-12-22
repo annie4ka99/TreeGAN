@@ -1,0 +1,1 @@
+ public void clearSelection() { bar_glyph.clearSelection(); base_glyph.clearSelection(); } 

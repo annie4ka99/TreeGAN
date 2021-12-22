@@ -1,0 +1,1 @@
+ public boolean getAutoZoom() { return autoZoom; } 

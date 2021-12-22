@@ -1,0 +1,1 @@
+ protected void saveComponentState(JComponent comp) { } 

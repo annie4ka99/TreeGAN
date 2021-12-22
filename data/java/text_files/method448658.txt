@@ -1,0 +1,1 @@
+ public int getSkillAt(String string) { return 100; } 

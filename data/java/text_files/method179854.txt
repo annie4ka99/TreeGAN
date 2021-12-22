@@ -1,0 +1,1 @@
+ private JComponent createSSContentPane(){ JComponent ans=null; return ans; } 

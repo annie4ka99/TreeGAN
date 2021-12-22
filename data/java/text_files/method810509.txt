@@ -1,0 +1,1 @@
+ public Adapter createProductListTypeAdapter() { return null; } 

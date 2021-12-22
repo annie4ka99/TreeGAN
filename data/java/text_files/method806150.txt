@@ -1,0 +1,1 @@
+ public boolean isCanceled() { if (monitor == null) return false; return monitor.isCanceled(); } 

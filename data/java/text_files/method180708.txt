@@ -1,0 +1,1 @@
+ public void setSucc(String newSucc) { succ = newSucc; } 

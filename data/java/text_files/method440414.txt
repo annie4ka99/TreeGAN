@@ -1,0 +1,1 @@
+ public void setImageByName(String imageName) { this.image = S2d.resourceMgr.getImageRef(imageName); } 

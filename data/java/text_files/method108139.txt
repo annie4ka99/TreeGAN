@@ -1,0 +1,1 @@
+ public RowSpec getLineGapSpec() { return lineGapSpec; } 

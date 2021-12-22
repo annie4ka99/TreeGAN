@@ -1,0 +1,1 @@
+ public void updated(final int release, final String specVersion) { installed(); } 

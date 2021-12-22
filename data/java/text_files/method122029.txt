@@ -1,0 +1,1 @@
+ protected Rectangle getPreferredSize() { return new Rectangle(_label.length() + 4, 1); } 

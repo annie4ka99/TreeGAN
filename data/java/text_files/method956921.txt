@@ -1,0 +1,1 @@
+ public void setFederated(boolean value) { this.federated = value; } 

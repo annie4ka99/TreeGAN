@@ -1,0 +1,1 @@
+ public Date getFaveDate() { return faveDate; } 

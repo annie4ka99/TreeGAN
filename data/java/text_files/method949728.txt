@@ -1,0 +1,1 @@
+ public void defineOption( String opt ) { Option o= new Option(opt); OptV.addElement(o); } 

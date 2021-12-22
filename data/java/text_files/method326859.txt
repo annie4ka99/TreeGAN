@@ -1,0 +1,1 @@
+ protected String getComment() { return comment.getText(); } 

@@ -1,0 +1,1 @@
+ public boolean isAuthRequired(String arg0) { return false; } 

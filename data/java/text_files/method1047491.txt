@@ -1,0 +1,1 @@
+ public void removeRecipe(Recipe recipe) { db.delete(recipe); db.commit(); } 

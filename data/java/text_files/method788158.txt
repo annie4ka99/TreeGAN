@@ -1,0 +1,1 @@
+ public void removeItemBoundsListener(ItemBoundsListener ibl) { m_bounders.remove(ibl); } 

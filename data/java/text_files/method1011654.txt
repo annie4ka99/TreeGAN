@@ -1,0 +1,1 @@
+ public void setRelative(int i, float value) { array[pointer + i] = value; } 

@@ -1,0 +1,1 @@
+ public void clearText() { textEditor.sqlTextViewer.clearText(); } 

@@ -1,0 +1,1 @@
+ public void setContactInfo(ContactType value) { this.contactInfo = value; } 

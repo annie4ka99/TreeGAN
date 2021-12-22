@@ -1,0 +1,1 @@
+ public void setTickSpacing(int tickSpacing) { this.tickSpacing = tickSpacing; } 

@@ -1,0 +1,1 @@
+ public void setShowBackground(boolean show) { show_background = show; } 

@@ -1,0 +1,1 @@
+public boolean isRemovedPending() { return state == REMOVED_PENDING; } 

@@ -1,0 +1,1 @@
+ public void setNaNColor(Color nanColor) { NaNColor = nanColor; } 

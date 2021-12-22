@@ -1,0 +1,1 @@
+ public void setSizeDistorted(boolean s) { m_distortSize = s; } 

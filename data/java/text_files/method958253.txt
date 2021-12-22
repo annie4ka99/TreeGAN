@@ -1,0 +1,1 @@
+ public void setPhoneType(String value) { this.phoneType = value; } 

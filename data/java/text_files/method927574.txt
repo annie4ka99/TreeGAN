@@ -1,0 +1,1 @@
+ public Iterator getPredecessors() { return inNeighbors(); } 

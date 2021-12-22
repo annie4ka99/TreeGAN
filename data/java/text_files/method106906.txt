@@ -1,0 +1,1 @@
+ public void putArticle(String mapKey) { mg.addMapping(mapKey); } 

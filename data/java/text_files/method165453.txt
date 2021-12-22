@@ -1,0 +1,1 @@
+ public boolean isCached(Path path) { return pageCache == null ? false : pageCache.containsKey(path); } 

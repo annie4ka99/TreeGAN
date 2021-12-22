@@ -1,0 +1,1 @@
+private void setPassword(String newValue) { this.password = newValue; } 

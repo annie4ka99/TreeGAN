@@ -1,0 +1,1 @@
+ public String getItemTitle() { return new String( this.strItemTitle ); } 

@@ -1,0 +1,1 @@
+ public String getFormat() { return App.prefs.getPref("corina.cross.rvalue.format", "0.00"); } 

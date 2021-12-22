@@ -1,0 +1,1 @@
+ public void setVisualization(Visualization vis) { m_vis = vis; } 

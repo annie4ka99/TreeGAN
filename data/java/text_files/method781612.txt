@@ -1,0 +1,1 @@
+ public Date getDateOfLastCrawl() { return this.lastCrawl; } 

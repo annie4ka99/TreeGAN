@@ -1,0 +1,1 @@
+ private EditText getEditView(int id){ return (EditText) findViewById(id); } 

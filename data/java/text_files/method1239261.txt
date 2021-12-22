@@ -1,0 +1,1 @@
+ public void setContext(SerializationContext context) { this.context = context; } 

@@ -1,0 +1,1 @@
+ public void setAnimating(boolean animating) { this.animating = animating; } 

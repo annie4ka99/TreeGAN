@@ -1,0 +1,1 @@
+ protected ApplicationBean getApplicationBean() { return (ApplicationBean) getBean("ApplicationBean"); } 

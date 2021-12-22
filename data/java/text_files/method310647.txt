@@ -1,0 +1,1 @@
+ public void scale(double n) { x*=n; y*=n; z*=n; } 

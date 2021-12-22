@@ -1,0 +1,1 @@
+ private String getI18nName(final View view) { return getI18nMessage(view.getName()); } 

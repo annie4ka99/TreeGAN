@@ -1,0 +1,1 @@
+ public GenericEvent(Object source) { super(source); } 

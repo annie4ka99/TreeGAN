@@ -1,0 +1,1 @@
+ protected int scale(int length) { return (int) Math.round(scale * length); } 

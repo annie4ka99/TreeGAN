@@ -1,0 +1,1 @@
+ public void removeEdge(Edge e) { if (contains(e)) e.setHidden(); } 

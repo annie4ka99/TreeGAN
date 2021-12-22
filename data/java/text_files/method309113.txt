@@ -1,0 +1,1 @@
+ protected Icon getForwardIcon() { return iconForward; } 

@@ -1,0 +1,1 @@
+ public void setApplyBackgroundColor(boolean apply) { mApplyBackgroundColor = apply; } 

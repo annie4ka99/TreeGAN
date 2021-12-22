@@ -1,0 +1,1 @@
+ public void createGUI(boolean closeApp, JPanel p) { setContentPane(p); panelSetup(closeApp); } 

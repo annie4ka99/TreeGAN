@@ -1,0 +1,1 @@
+ protected void initFactory() throws IOException { sslFactory = (SSLSocketFactory)SSLSocketFactory.getDefault(); } 

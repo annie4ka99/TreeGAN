@@ -1,0 +1,1 @@
+ public void setSearchCriteria(String searchCriteria) { this.searchCriteria = searchCriteria; } 

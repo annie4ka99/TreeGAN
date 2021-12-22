@@ -1,0 +1,1 @@
+ public void disconnect(Object edge) { disconnect(edge, true); disconnect(edge, false); } 

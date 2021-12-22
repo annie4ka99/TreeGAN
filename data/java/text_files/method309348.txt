@@ -1,0 +1,1 @@
+ public WizardModel getModel() { return model; } 

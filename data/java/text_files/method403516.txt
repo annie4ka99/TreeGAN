@@ -1,0 +1,1 @@
+ public boolean isNoOptimization() { return "none".equals(getValue()); } 

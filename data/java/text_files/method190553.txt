@@ -1,0 +1,1 @@
+ public CursorBuilder beforeFirst() { _beforeFirst = true; return this; } 

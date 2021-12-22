@@ -1,0 +1,1 @@
+ public void setModel(SimModel model) { this.model = model; if (model != null) { model.setup(); } } 

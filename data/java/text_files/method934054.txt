@@ -1,0 +1,1 @@
+ public void log(String message) { log.debug(message); } 

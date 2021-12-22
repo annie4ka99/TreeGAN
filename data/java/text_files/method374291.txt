@@ -1,0 +1,1 @@
+ public boolean hasNextHeader() { return this.index + 1 < packet.getState().getHeaderCount(); } 

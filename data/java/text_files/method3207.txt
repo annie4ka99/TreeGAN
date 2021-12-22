@@ -1,0 +1,1 @@
+ public int getCompressionLevel() { return compressionLevel; } 

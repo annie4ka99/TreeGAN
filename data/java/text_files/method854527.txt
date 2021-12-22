@@ -1,0 +1,1 @@
+ public void setIndex(KeyList newIndex) { fIndex = newIndex; } 

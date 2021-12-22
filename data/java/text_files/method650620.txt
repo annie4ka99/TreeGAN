@@ -1,0 +1,1 @@
+ public void addMigrationPoint(MigrationPoint aPoint){ migrations.add(aPoint); } 

@@ -1,0 +1,1 @@
+ public boolean isStateless() { return (classType != null && classType == ClassType.STATELESS); } 

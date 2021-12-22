@@ -1,0 +1,1 @@
+ public Object setValue(Object value) { this.value = value; return this.value; } 

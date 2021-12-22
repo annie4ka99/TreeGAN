@@ -1,0 +1,1 @@
+ public void setValidateSchema(Schema schema) { this.validateSchema = schema; } 

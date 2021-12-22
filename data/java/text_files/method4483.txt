@@ -1,0 +1,1 @@
+ public float getDistanceChange(){ return this.m_distanceChange; } 

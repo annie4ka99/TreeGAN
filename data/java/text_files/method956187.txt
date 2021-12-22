@@ -1,0 +1,1 @@
+ public void setImageQualityDegradation(MeasureType value) { this.imageQualityDegradation = value; } 

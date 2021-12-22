@@ -1,0 +1,1 @@
+ public void setRadius(double newRadius) { this.RADIUS = newRadius; this.reset(); } 

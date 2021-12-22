@@ -1,0 +1,1 @@
+ public void setPageFormat(PageFormat pageFormat) { this.pageFormat = pageFormat; } 

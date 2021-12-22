@@ -1,0 +1,1 @@
+ public String getDeviceName() { return m_strDeviceName; } 

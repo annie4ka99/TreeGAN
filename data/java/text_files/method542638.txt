@@ -1,0 +1,1 @@
+ public boolean isRefreshing() { if (refresher == null) { return false; } else { return refresher.isRunning(); } } 

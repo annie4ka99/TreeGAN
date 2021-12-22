@@ -1,0 +1,1 @@
+ public void setLocalityRadius( int radius ) { localityScroll.setLocalityRadius(radius); } 

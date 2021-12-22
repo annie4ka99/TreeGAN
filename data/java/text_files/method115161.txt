@@ -1,0 +1,1 @@
+ public boolean hasID3v2Tag() { return (id3v2tag != null); } 

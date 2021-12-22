@@ -1,0 +1,1 @@
+ public ValidationMetadata encrypted(boolean encrypted) { this.encrypted = encrypted; return this; } 

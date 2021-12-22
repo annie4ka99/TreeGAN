@@ -1,0 +1,1 @@
+ protected void setScales(float x, float y) { scaleX = x; scaleY = y; } 

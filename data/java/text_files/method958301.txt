@@ -1,0 +1,1 @@
+ public InternationalStringType getName() { return name; } 

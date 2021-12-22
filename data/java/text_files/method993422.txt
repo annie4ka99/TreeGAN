@@ -1,0 +1,1 @@
+ public void setOperation(int operation) { this.operation = operation; } 

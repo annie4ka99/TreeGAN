@@ -1,0 +1,1 @@
+ private void put122(final int b, final int s1, final int s2) { pool.put12(b, s1).putShort(s2); } 

@@ -1,0 +1,1 @@
+ public void setOrigin(Point.Double p) { origin = p; } 

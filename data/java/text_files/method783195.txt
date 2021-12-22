@@ -1,0 +1,1 @@
+ public SpecialToken nextSpecial() { SpecialToken res = curST; movePointer(); return res; } 

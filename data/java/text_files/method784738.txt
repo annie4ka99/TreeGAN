@@ -1,0 +1,1 @@
+ public boolean insertMember(Model model) { return models.add(model); } 

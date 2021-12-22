@@ -1,0 +1,1 @@
+ public boolean isAbstract() { return uml2Operation.isAbstract(); } 

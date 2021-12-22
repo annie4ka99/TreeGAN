@@ -1,0 +1,1 @@
+ public Collection getAll() { return (Collection) holidays.clone(); } 

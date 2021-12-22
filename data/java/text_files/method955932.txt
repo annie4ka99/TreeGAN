@@ -1,0 +1,1 @@
+ public void setIlluminationElevationAngle(AngleType value) { this.illuminationElevationAngle = value; } 

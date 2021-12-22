@@ -1,0 +1,1 @@
+ public void glReleaseAllUniforms(GL2ES2 gl) { uniformMap2Data.clear(); uniformMap2Idx.clear(); } 

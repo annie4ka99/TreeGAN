@@ -1,0 +1,1 @@
+ public void setAssertion(SamlAuthzDecisionStatementEvidenceAssertionType value) { this.assertion = value; } 

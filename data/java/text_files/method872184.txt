@@ -1,0 +1,1 @@
+ public void setEuroInWaehrung(java.lang.Double euroInWaehrung) { this.euroInWaehrung = euroInWaehrung; } 

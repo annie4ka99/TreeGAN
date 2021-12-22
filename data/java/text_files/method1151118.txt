@@ -1,0 +1,1 @@
+ public void testGetPhoneHome() { assertEquals(phoneHome, user.getPhoneHome()); } 

@@ -1,0 +1,1 @@
+ public NGSecurityManager (SecurityManager base) { this.base = base; } 

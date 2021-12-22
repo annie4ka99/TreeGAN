@@ -1,0 +1,1 @@
+ public void setExceptions(boolean exceptions) { compilerDef.setExceptions(exceptions); } 

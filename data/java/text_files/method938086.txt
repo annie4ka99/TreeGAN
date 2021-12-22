@@ -1,0 +1,1 @@
+ public void setDay(final Date d) { setDay(d, true); } 

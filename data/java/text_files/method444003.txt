@@ -1,0 +1,1 @@
+ public void remove(Out mode) { outModeDefinition.remove(mode); } 

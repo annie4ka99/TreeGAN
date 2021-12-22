@@ -1,0 +1,1 @@
+ public int getDelaytime() { return delaytime; } 

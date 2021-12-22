@@ -1,0 +1,1 @@
+ protected String getWriteQueue() { return writeQueue; } 

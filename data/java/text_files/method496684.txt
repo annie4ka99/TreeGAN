@@ -1,0 +1,1 @@
+ public void closeConnection() { if (cn!=null) cn.close(); } 

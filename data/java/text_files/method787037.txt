@@ -1,0 +1,1 @@
+ public TableCellRenderer getCellRenderer(int r, int c) { return m_tcr; } 

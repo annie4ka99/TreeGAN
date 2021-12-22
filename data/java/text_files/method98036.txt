@@ -1,0 +1,1 @@
+ public boolean inConstructor() { return false; } 

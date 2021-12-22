@@ -1,0 +1,1 @@
+ public void setFilterStackTraces(boolean filtertrace) { this.filtertrace = filtertrace; } 

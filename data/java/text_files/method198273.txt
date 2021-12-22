@@ -1,0 +1,1 @@
+ public void setLocation(double newX, double newY) { this.x = newX; this.y = newY; } 

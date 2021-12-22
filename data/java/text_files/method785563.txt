@@ -1,0 +1,1 @@
+ protected Iterator getColumnNames() { return m_names.iterator(); } 

@@ -1,0 +1,1 @@
+ public void cellCleared(Cell cell) { if (this.getDelegate().equals(cell)) { tcParams.clear(); } } 

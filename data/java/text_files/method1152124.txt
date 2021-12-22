@@ -1,0 +1,1 @@
+ public void setBullet(boolean flag){ if (flag) { m_flags |= e_bulletFlag; } else { m_flags &= ~e_bulletFlag; } } 

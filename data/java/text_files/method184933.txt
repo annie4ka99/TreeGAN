@@ -1,0 +1,1 @@
+ public void clearCounter() { numCounter = 0; } 

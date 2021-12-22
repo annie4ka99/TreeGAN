@@ -1,0 +1,1 @@
+ public boolean hasSuspend() { return suspend; } 

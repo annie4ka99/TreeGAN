@@ -1,0 +1,1 @@
+ public void pushDouble( double value ) { instructions.append( OP_pushdouble, value ); } 

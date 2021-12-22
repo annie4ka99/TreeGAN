@@ -1,0 +1,1 @@
+ public int getScaleMethod() { return (this.intMethod & 15); } 

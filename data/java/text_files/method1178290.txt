@@ -1,0 +1,1 @@
+ public void addListener(CarpadMessageListener listener) { listeners.add(listener); } 

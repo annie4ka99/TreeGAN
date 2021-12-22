@@ -1,0 +1,1 @@
+ final public boolean isCorralForcer(int position) { return corralForcer[position] == true; } 

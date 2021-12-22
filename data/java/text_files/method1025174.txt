@@ -1,0 +1,1 @@
+ public String escapeXmlName(String name) { return replacer.escapeName(name); } 

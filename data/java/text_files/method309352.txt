@@ -1,0 +1,1 @@
+ public Dial(int min, int max) { this(min, max, (min + max) / 2); } 

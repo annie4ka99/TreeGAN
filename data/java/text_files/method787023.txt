@@ -1,0 +1,1 @@
+ public void grow(double b) { clip[6] += b; clip[7] += b; } 

@@ -1,0 +1,1 @@
+ public int increment() { synchronized (lock_) { return ++value_; } } 

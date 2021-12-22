@@ -1,0 +1,1 @@
+ public void setTranslation(Vector3f trans) { this.translation.set(trans); } 

@@ -1,0 +1,1 @@
+ public void setAboutHandler(ActionListener listener) { aboutItem.addActionListener(listener); } 

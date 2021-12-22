@@ -1,0 +1,1 @@
+ public boolean showRegions() { return this.equals(BASIC_VIEW) || this.equals(GM_VIEW); } 

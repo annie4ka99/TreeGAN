@@ -1,0 +1,1 @@
+ public World getWorld() { return m_world; } 

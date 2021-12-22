@@ -1,0 +1,1 @@
+ public void setPassiveMode(boolean mode) { this.passiveMode = mode; } 

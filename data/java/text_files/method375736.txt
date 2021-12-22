@@ -1,0 +1,1 @@
+ public boolean hasSubFields() { return subFields.length != 0; } 

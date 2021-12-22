@@ -1,0 +1,1 @@
+ public void setIpix(int ind, int ipix) { dataIpix[ind] = ipix; } 

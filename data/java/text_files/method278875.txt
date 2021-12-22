@@ -1,0 +1,1 @@
+ final public String getLName(){ return name_; } 

@@ -1,0 +1,1 @@
+ public void setID(int id) { this._id = id; this._has_id = true; } 

@@ -1,0 +1,1 @@
+ public Point2D getPosition(String loc) { return locationPositions.get(loc); } 

@@ -1,0 +1,1 @@
+ public void animationStarted(){ startTime = new Date().getTime(); } 

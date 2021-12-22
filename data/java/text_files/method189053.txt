@@ -1,0 +1,1 @@
+ public void startElement(String name) throws SAXException { startElement(name, EMPTY_ATTS); } 

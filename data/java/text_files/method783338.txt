@@ -1,0 +1,1 @@
+ public void setThrown(Throwable thrown) { this.thrown = thrown; } 

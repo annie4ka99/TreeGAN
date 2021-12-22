@@ -1,0 +1,1 @@
+ public void setKimura(java.lang.Boolean kimura) { this.kimura = kimura; } 

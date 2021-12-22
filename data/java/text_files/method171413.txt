@@ -1,0 +1,1 @@
+ public void removeClass(JavaClass clazz) { _loadedClasses.remove(clazz.getClassName()); } 

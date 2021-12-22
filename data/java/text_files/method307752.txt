@@ -1,0 +1,1 @@
+ public void assertTrue(String msg, boolean test) { Assert.assertTrue(msg, test); } 

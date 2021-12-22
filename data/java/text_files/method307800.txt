@@ -1,0 +1,1 @@
+ public int and(int b) { synchronized (lock_) { value_ = value_ & b; return value_; } } 

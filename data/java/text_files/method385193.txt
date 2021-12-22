@@ -1,0 +1,1 @@
+ public int getOffset(JHeader header) { return offset.intMethod(header, name); } 

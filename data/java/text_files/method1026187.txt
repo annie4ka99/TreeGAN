@@ -1,0 +1,1 @@
+ public void pushboolean(Boolean b) { if ( b == null ) pushnil(); else pushboolean( b.booleanValue() ); } 

@@ -1,0 +1,1 @@
+ public Format setLineSeparator(String separator) { this.lineSeparator = separator; return this; } 

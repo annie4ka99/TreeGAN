@@ -1,0 +1,1 @@
+ public void readConfiguration(InputStream ins) throws IOException { checkAccess(); readConfigurationImpl(ins); } 

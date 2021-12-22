@@ -1,0 +1,1 @@
+ public BrickdroidThread getThread() { return mBrickdroidThread; } 

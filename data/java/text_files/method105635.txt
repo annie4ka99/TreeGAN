@@ -1,0 +1,1 @@
+ public NormalTridasCategory getNormalTridas() { return normalTridas; } 

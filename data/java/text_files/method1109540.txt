@@ -1,0 +1,1 @@
+ public int getNbRound() { return nbRound; } 

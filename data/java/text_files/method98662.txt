@@ -1,0 +1,1 @@
+ public MultiCurveType getMultiCurve() { return multiCurve; } 

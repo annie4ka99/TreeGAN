@@ -1,0 +1,1 @@
+ public int getN_rif() { return n_rif; } 

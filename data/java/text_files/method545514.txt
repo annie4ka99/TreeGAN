@@ -1,0 +1,1 @@
+ public boolean isFill() { return fillStyle!=FILL_STYLE_NONE; } 

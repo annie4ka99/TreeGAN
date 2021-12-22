@@ -1,0 +1,1 @@
+ public void coerceToObject() { instructions.append( OP_coerce_o ); } 

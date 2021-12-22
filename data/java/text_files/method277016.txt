@@ -1,0 +1,1 @@
+ public void setSorted(boolean sorted) { this.sorted = sorted; } 

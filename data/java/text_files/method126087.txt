@@ -1,0 +1,1 @@
+ public void setDeterministicEnabled(boolean arg1) { getDetSelList().setEnabled(arg1); } 

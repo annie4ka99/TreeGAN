@@ -1,0 +1,1 @@
+ public void bgncurve() { O_curve o_curve = new O_curve(); thread("do_bgncurve", o_curve); } 

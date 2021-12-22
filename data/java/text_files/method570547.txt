@@ -1,0 +1,1 @@
+ public boolean getTrimWhitespace() { return userSettings.TrimWhitespace; } 

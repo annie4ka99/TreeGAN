@@ -1,0 +1,1 @@
+ public void setTransaktionenProTag(double transaktionenProTag) { this.transaktionenProTag = transaktionenProTag; } 

@@ -1,0 +1,1 @@
+ public boolean isXCost() { return xCost; } 

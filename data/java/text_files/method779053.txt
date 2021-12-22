@@ -1,0 +1,1 @@
+ public void setWriteFile(boolean writeFile) { this.writeFile = writeFile; } 

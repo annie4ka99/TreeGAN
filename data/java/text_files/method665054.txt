@@ -1,0 +1,1 @@
+ public PortletRequest getPortletRequest() { return portletRequest; } 

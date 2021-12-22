@@ -1,0 +1,1 @@
+ public void visitFASTORE(FASTORE o){ stack().pop(); stack().pop(); stack().pop(); } 

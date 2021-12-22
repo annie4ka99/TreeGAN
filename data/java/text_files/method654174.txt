@@ -1,0 +1,1 @@
+ public void mySecondMethod(String param1, boolean param2) { } 

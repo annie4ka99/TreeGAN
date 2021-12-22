@@ -1,0 +1,1 @@
+ public Double getValue() { return BaseRandomDataGenerator.getValueDouble(); } 

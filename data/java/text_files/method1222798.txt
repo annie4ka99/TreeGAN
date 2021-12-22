@@ -1,0 +1,1 @@
+ public void setVideoCompressionQuality(float newValue) { this.quality = newValue; } 

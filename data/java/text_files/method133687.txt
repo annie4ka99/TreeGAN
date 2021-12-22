@@ -1,0 +1,1 @@
+ public void restoreState() { if (state==HIDDEN) setState(stateBeforeHidden); } 

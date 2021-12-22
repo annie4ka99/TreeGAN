@@ -1,0 +1,1 @@
+ public OptimizerBoardPosition removeFirst() { if (count == 0) return null; OptimizerBoardPosition result = queue[0]; --count; OptimizerBoardPosition x = queue[count]; queue[count] = null; if (count != 0) siftDown(0, x); return result; } 

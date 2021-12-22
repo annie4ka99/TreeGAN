@@ -1,0 +1,1 @@
+ public void addEnchantCommand(Command c) { enchantCommandList.add(c); } 

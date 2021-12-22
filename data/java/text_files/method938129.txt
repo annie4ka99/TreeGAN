@@ -1,0 +1,1 @@
+ public void setHeader(final boolean header) { this.header = header; } 

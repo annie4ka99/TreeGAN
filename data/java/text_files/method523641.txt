@@ -1,0 +1,1 @@
+public String getFileRcpUser() { return fileRcpUser; } 

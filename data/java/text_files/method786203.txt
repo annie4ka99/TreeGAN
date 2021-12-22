@@ -1,0 +1,1 @@
+ public Tuple addTuple(Tuple t) { throw new UnsupportedOperationException(); } 

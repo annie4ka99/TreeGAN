@@ -1,0 +1,1 @@
+ public Object getValueAt(int row, int col) { return tableModel.getValueAt(row, col); } 

@@ -1,0 +1,1 @@
+ public void unmapElement(IJavaElement element) { _cache.removeElement(element); } 

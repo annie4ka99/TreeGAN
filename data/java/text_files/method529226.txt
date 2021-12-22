@@ -1,0 +1,1 @@
+ public void removeObject( Object pObject ) { mStore.remove( pObject ); return; } 

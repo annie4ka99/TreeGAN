@@ -1,0 +1,1 @@
+ public Element setContent(Content child) { content.clear(); content.add(child); return this; } 

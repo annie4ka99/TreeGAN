@@ -1,0 +1,1 @@
+ public String getBuildingName() { return buildingName; } 

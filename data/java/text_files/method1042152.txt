@@ -1,0 +1,1 @@
+ public void setRotation(Matrix3f rot){ this.rot.copy(rot); } 

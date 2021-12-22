@@ -1,0 +1,1 @@
+ public void setParent(JFrame parent) { this.parent = parent; } 

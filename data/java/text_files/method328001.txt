@@ -1,0 +1,1 @@
+ public void removeVeto(int index) { if (vetoList == null) { return; } vetoList.remove(index); } 

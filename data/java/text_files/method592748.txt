@@ -1,0 +1,1 @@
+ public String format(Object input) { return String.valueOf(input); } 

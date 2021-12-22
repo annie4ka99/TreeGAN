@@ -1,0 +1,1 @@
+ protected int paramCount() { return m_params==null ? 0 : m_params.size(); } 

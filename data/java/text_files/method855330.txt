@@ -1,0 +1,1 @@
+ public Object get(Object key) { synchronized (session) { return session.getAttribute(key.toString()); } } 

@@ -1,0 +1,1 @@
+ public RGB getBodyBackground() { return defaultBodyBackgroundProvider.getBackground(); } 

@@ -1,0 +1,1 @@
+ public void add2FileMenu(JComponent item) { item.setFont(getFont()); file.add(item); } 

@@ -1,0 +1,1 @@
+ public void setToolbarVisible(boolean b) { buttonView.setVisible(b); } 

@@ -1,0 +1,1 @@
+ public void setOriginalToken(String originalToken) { this.originalToken = originalToken; } 

@@ -1,0 +1,1 @@
+ public void resourceChanged(IResourceChangeEvent event) { } 

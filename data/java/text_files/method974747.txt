@@ -1,0 +1,1 @@
+ public void setGenerator(ChartGenerator generator) { this.generator = generator; } 

@@ -1,0 +1,1 @@
+ public EnhancedDialog(Dialog owner) { this(owner, ""); } 

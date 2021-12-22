@@ -1,0 +1,1 @@
+ private void loadSinks() { list.addSink(Project.init()); } 

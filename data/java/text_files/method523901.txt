@@ -1,0 +1,1 @@
+ public void setXStartPos(int newXStartPos) { xStartPos = newXStartPos; } 

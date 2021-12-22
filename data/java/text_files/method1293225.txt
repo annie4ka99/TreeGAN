@@ -1,0 +1,1 @@
+ public void setTargetNamespace(String targetNamespace) { this.targetNamespace = targetNamespace; } 

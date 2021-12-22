@@ -1,0 +1,1 @@
+ public Object getDynamicVar(Object key) { return dynamicVars.get(key); } 

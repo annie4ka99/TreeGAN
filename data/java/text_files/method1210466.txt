@@ -1,0 +1,1 @@
+ synchronized public String getContent(int aLine) { return content[aLine]; } 

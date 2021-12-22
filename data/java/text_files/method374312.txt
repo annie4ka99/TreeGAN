@@ -1,0 +1,1 @@
+ public boolean hasPreviousHeader() { return this.index > 0; } 

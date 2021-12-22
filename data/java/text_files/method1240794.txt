@@ -1,0 +1,1 @@
+ protected void initializeChildren() { if (children == null) { children = new ArrayList(); } } 

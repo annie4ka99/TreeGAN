@@ -1,0 +1,1 @@
+ protected String getChannel() { return channel; } 

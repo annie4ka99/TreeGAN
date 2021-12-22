@@ -1,0 +1,1 @@
+ public void setRequiredNumberWins(int requiredNumberWins) { this.requiredNumberWins = requiredNumberWins; } 

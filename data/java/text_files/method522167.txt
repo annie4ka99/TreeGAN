@@ -1,0 +1,1 @@
+ public void setSepChar(String newValue) { this.sepChar = newValue; } 

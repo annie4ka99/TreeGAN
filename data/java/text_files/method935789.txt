@@ -1,0 +1,1 @@
+ public void removeJoins(SemijoinList remove) { internal.removeAll(remove.internal); } 

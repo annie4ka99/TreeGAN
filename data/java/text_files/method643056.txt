@@ -1,0 +1,1 @@
+ public void setInscriptionValue(String inscriptionValue) { setUserObject(inscriptionValue); } 

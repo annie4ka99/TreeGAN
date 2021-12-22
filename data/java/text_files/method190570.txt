@@ -1,0 +1,1 @@
+ public CursorBuilder setStartRowInclusive(boolean inclusive) { _startRowInclusive = inclusive; return this; } 

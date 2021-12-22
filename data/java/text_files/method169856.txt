@@ -1,0 +1,1 @@
+ public void setInner(int row, Class c) { rowClass.put("" + row, c); } 

@@ -1,0 +1,1 @@
+ public void setPasteLink(Link l) { this.pasteContainer = l; } 

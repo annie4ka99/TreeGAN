@@ -1,0 +1,1 @@
+ public Node getFirstNode() { if ( nodes.size() == 0 ) return null; else return nodeAt(0); } 

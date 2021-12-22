@@ -1,0 +1,1 @@
+ public int disCnt() { return did2discr.size(); } 

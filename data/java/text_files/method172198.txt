@@ -1,0 +1,1 @@
+ public void visitMONITORENTER(MONITORENTER o){ stack().pop(); } 

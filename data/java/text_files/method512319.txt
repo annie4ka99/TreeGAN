@@ -1,0 +1,1 @@
+ public void setType(final PersistenceContextType type) { this.type = type; } 

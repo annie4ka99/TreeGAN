@@ -1,0 +1,1 @@
+ public boolean hasMore() throws NamingException { return iterator.hasNext(); } 

@@ -1,0 +1,1 @@
+ public void setMethod(Method method, String[] params) { this.method = method; this.params = params; } 

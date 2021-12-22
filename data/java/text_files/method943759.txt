@@ -1,0 +1,1 @@
+ public void resetSearchPaths() { this.pathsIterator = this.paths.listIterator(); } 

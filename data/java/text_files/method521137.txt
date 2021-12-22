@@ -1,0 +1,1 @@
+public void setJspUrl(java.lang.String newJspUrl) { jspUrl = newJspUrl; } 

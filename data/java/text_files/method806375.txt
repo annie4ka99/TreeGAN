@@ -1,0 +1,1 @@
+ public Logger exists(String name) { return this.hierarchy.exists(name); } 

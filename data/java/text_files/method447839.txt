@@ -1,0 +1,1 @@
+ public void setErrorLine(int line) { this.line=line; } 

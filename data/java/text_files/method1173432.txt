@@ -1,0 +1,1 @@
+ public boolean isTapAbility() { return tapAbility; } 

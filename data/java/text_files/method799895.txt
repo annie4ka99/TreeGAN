@@ -1,0 +1,1 @@
+ public void setHeaderBackground( RGB headerBackground ) { defaultLook.setHeaderBackground( headerBackground ); } 

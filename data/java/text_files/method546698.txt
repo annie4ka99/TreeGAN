@@ -1,0 +1,1 @@
+ public int getVerticalOffset() { return off_y; } 

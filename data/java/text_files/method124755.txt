@@ -1,0 +1,1 @@
+ public void setPrecision(int precision) { this.precision = precision; updateUI(); } 

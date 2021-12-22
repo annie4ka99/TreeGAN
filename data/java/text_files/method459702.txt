@@ -1,0 +1,1 @@
+ public void setRestService(String restService) { this.restService = restService; } 

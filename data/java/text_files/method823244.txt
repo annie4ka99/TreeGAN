@@ -1,0 +1,1 @@
+ public void startDocument() throws SAXException { sections = new ArrayList(); } 

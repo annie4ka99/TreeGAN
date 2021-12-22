@@ -1,0 +1,1 @@
+ public Iterator getConnections() { return remoteFileSystems.iterator(); } 

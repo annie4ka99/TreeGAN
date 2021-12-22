@@ -1,0 +1,1 @@
+ private boolean invariant() { return scaleFactor > 0 && resource != null && state != null; } 

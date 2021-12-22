@@ -1,0 +1,1 @@
+ public void removeInterface(String name) { interface_vec.remove(name); } 

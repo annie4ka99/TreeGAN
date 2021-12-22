@@ -1,0 +1,1 @@
+ public void getCurrentState(GL10 gl) { getCurrentProjection(gl); getCurrentModelView(gl); } 

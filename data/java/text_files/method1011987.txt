@@ -1,0 +1,1 @@
+ public void setNormals(int normals) { this.normals = normals; } 

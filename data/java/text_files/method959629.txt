@@ -1,0 +1,1 @@
+ public void init() { selectedItem = exportFilter.get(0); } 

@@ -1,0 +1,1 @@
+ public IMundo getIMundo() { return mundo; } 

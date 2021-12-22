@@ -1,0 +1,1 @@
+ protected void setLocation(Location loc) { obj.setLocation(loc); } 

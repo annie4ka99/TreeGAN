@@ -1,0 +1,1 @@
+ public void setTimeout(int timeout) { cachedTimeout = new Integer(timeout); } 

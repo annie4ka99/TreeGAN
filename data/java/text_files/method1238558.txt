@@ -1,0 +1,1 @@
+ public Type getType(QName qname) { return (Type) typeTypeEntries.get(qname); } 

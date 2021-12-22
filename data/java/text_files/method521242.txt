@@ -1,0 +1,1 @@
+private void setEditFlag(boolean newEditFlag) { editFlag = newEditFlag; } 

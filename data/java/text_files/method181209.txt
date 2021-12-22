@@ -1,0 +1,1 @@
+public boolean isReadOnly() { return state == READ_ONLY; } 

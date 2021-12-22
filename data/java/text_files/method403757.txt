@@ -1,0 +1,1 @@
+ static public Log getInstance(Class clazz) { return getInstance(clazz.getName()); } 

@@ -1,0 +1,1 @@
+ public void setCommandPolicy(CommandPolicy policy) { policy.setName(name); this.policy = policy; } 

@@ -1,0 +1,1 @@
+ public void setMachineTagMode(String tagMode) { this.machineTagMode = tagMode; } 

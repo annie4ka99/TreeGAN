@@ -1,0 +1,1 @@
+ public Expression getExpression(Expression expression) { return (Expression)expression.accept(this); } 

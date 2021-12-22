@@ -1,0 +1,1 @@
+ public void setMaskImage( BufferedImage maskImage ) { this.maskImage = maskImage; } 

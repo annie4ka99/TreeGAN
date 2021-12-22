@@ -1,0 +1,1 @@
+ public void setFilePath(String filePath) { fileNameField.setText(filePath); } 

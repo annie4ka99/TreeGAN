@@ -1,0 +1,1 @@
+ public int transferTo(final JBuffer dst) { return super.transferTo(dst); } 

@@ -1,0 +1,1 @@
+private void setPageEnd(java.lang.String[] newPageEnd) { pageEnd = newPageEnd; } 

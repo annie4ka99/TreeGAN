@@ -1,0 +1,1 @@
+ public AbstractFrame clearContent(){ return this; } 

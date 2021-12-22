@@ -1,0 +1,1 @@
+ public void removeFormBean(ActionFormBean formBean) { formBeans.remove(formBean.getName()); } 

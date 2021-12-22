@@ -1,0 +1,1 @@
+ protected void setFaultBodyTypeMap(HashMap faultBodyTypeMap) { this.faultBodyTypeMap = faultBodyTypeMap; } 

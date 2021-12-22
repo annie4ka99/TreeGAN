@@ -1,0 +1,1 @@
+ public void setFourCC(String fourCC) { this.fourCC = fourCC; } 

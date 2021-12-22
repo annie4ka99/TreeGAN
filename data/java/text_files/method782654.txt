@@ -1,0 +1,1 @@
+ public void close() { try { inputStream.close(); } catch (Exception e) { listener.exceptionThrown(e); } } 

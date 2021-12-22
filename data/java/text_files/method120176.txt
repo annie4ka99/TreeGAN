@@ -1,0 +1,1 @@
+ protected String getItemPresentationText(Object item) { return item.toString(); } 

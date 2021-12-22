@@ -1,0 +1,1 @@
+ public Object clone() { return new Range(beg, end); } 

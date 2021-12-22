@@ -1,0 +1,1 @@
+ public void setSpecificationVersion(String value) { this.specificationVersion = value; } 

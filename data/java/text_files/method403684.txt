@@ -1,0 +1,1 @@
+ public boolean isErrorEnabled() { return (getLogger().isLoggable(Level.SEVERE)); } 

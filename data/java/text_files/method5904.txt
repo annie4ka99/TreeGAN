@@ -1,0 +1,1 @@
+ public JTextArea getContentBrowser() { return contentBrowser; } 

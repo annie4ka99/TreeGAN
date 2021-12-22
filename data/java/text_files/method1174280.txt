@@ -1,0 +1,1 @@
+ public boolean isColor(String col) { return CardUtil.getColors(this).contains(col); } 

@@ -1,0 +1,1 @@
+ public SearchHistoriesType createSearchHistoriesType() { return new SearchHistoriesType(); } 

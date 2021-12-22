@@ -1,0 +1,1 @@
+ public int addVertex(Vector3d p){ return addVertex(p.x,p.y,p.z); } 

@@ -1,0 +1,1 @@
+ public boolean isShuttingDown() { synchronized (this) { return _shutdown; } } 

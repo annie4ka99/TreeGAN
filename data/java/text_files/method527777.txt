@@ -1,0 +1,1 @@
+public int getNbBuffer() { return nbBuffer; } 

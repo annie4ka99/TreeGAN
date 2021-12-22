@@ -1,0 +1,1 @@
+ public void setInitialDelay(long aTimeInMillis) { mInitialDelay = aTimeInMillis; } 

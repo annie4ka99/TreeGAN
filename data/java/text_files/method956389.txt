@@ -1,0 +1,1 @@
+ public void setAuthority(String value) { this.authority = value; } 

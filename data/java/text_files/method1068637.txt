@@ -1,0 +1,1 @@
+ public Point getReferencePoint() { Point ref = location.getCopy(); return ref; } 

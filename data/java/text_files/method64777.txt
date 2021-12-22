@@ -1,0 +1,1 @@
+ public boolean isFocused() { if (m_Control == null) return false; return m_Control.isFocusControl(); } 

@@ -1,0 +1,1 @@
+ public void setTimeInstant(TimeInstantType value) { this.timeInstant = value; } 

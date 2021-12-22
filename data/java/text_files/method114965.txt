@@ -1,0 +1,1 @@
+ public AbstractID3v2 getID3v2Tag() { return id3v2tag; } 

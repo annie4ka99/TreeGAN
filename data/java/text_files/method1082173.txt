@@ -1,0 +1,1 @@
+ public void setDiagramGridByX(int arg1) { getDiagram().setGridByX(arg1); } 

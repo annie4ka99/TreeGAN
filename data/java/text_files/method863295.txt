@@ -1,0 +1,1 @@
+ public void setRuntime( File runtime ) { this.runtimeSWF = runtime; } 

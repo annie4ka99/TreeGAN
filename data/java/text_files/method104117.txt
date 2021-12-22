@@ -1,0 +1,1 @@
+ public void setOwnerWindow(Window window) { this.ownerWindow = window; } 

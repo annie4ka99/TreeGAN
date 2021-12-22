@@ -1,0 +1,1 @@
+ public void setSecurityEnvelopeSize(int securityEnvelopeSize) { this.securityEnvelopeSize = securityEnvelopeSize; } 

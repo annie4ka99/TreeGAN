@@ -1,0 +1,1 @@
+ public HumanTime d(int n) { delta += DAY * Math.abs(n); return this; } 

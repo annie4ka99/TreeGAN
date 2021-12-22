@@ -1,0 +1,1 @@
+ public boolean contains(User user) { return users.values().contains(user); } 

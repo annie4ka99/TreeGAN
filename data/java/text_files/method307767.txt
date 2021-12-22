@@ -1,0 +1,1 @@
+ public void assertNotNull(Object test) { Assert.assertNotNull(test); } 

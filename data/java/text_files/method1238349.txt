@@ -1,0 +1,1 @@
+ public void setNamespaceIncludes(List nsIncludes) { this.nsIncludes = nsIncludes; } 

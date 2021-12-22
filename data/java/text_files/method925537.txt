@@ -1,0 +1,1 @@
+ public void setVendorId(int vendorId) { this.vendorId = vendorId; } 

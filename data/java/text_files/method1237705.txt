@@ -1,0 +1,1 @@
+ public int numberOfVertices() { return verticesToPoints.size(); } 

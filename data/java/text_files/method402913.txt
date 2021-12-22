@@ -1,0 +1,1 @@
+ public void setUnless(final String propName) { unlessProp = propName; } 

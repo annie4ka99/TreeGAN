@@ -1,0 +1,1 @@
+ public HandlerRegistry getHandlerRegistry() { return registry; } 

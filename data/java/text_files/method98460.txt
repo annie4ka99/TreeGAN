@@ -1,0 +1,1 @@
+ static public String mapNull(String s, String nullValue) { if (s==null) return nullValue; return s; } 

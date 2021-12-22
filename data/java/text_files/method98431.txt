@@ -1,0 +1,1 @@
+ static public boolean init() { return (LocalizedResource.getInstance() != null); } 

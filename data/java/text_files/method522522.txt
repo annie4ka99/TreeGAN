@@ -1,0 +1,1 @@
+ public int getRecSize() { return RecSize; } 

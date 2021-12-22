@@ -1,0 +1,1 @@
+ public void setObjectRefList(ObjectRefListType value) { this.objectRefList = value; } 

@@ -1,0 +1,1 @@
+ public int getXManaCostPaid() { return xManaCostPaid; } 

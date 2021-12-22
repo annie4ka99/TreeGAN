@@ -1,0 +1,1 @@
+ public void setShowCancel(boolean b) { m_showCancel = b; initUI(); validate(); } 

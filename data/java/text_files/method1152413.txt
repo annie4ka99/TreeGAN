@@ -1,0 +1,1 @@
+ public Vec2 addLocal(Vec2 v) { x += v.x; y += v.y; return this; } 

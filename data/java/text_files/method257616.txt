@@ -1,0 +1,1 @@
+ public void setOwner(Catalog owner) { this.owner = owner; } 

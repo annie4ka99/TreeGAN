@@ -1,0 +1,1 @@
+ public boolean getRenderHiddenHtmlTag() { return renderHiddenHtmlTag; } 

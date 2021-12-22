@@ -1,0 +1,1 @@
+ public float getThreshold() { return threshold; } 

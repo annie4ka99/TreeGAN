@@ -1,0 +1,1 @@
+ public BindingFault createBindingFault() { return new BindingFaultImpl(); } 

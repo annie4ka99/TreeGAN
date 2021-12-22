@@ -1,0 +1,1 @@
+ public NormalTridasMeasuringMethod getNormalTridas() { return normalTridas; } 

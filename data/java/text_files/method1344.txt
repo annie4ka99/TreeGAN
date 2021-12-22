@@ -1,0 +1,1 @@
+ final public void removeGoal(int position) { goalsArray[position] = false; } 

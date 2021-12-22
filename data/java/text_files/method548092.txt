@@ -1,0 +1,1 @@
+ public void setStateVisible(boolean visible) { valueLabel.setVisible(visible); } 

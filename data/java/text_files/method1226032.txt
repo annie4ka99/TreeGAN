@@ -1,0 +1,1 @@
+ public void removeNode(GraphVertex vertex) { nodes.remove(vertex); changed = true; } 

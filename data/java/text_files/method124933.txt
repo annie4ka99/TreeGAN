@@ -1,0 +1,1 @@
+ public void stop() { throw new UnsupportedOperationException(toString() + " tasks cannot be stopped."); } 

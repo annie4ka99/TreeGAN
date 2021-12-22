@@ -1,0 +1,1 @@
+ public int getArrayLength(Object[] arr) { return (arr == null)? 0 : arr.length; } 

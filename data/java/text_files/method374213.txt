@@ -1,0 +1,1 @@
+ public String getValueDescription(JHeader mappedHeader) { return description; } 

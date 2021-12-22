@@ -1,0 +1,1 @@
+ public void addMenuItem(JMenuItem menu) { chartMenu.add(menu); } 

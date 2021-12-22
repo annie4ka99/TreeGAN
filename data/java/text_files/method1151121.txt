@@ -1,0 +1,1 @@
+ public void testGetPhoneGsm() { assertEquals(phoneGsm, user.getPhoneGsm()); } 

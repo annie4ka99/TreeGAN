@@ -1,0 +1,1 @@
+ public boolean isSorcery() { return type.contains("Sorcery"); } 

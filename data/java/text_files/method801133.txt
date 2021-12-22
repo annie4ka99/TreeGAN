@@ -1,0 +1,1 @@
+ static public int getCompoundNumber(){ return counterCompounds; } 

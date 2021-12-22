@@ -1,0 +1,1 @@
+ public String int2string(int i) { return new Integer(i).toString(); } 

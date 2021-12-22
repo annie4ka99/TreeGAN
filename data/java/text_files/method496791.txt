@@ -1,0 +1,1 @@
+ public void setAllowsFileAccess(boolean allowsFileAccess) { this.allowsFileAccess = allowsFileAccess; } 

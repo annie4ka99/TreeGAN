@@ -1,0 +1,1 @@
+ public int transferStateAndDataFrom(PcapPacket packet) { return packet.transferStateAndDataTo(this); } 

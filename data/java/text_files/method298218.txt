@@ -1,0 +1,1 @@
+ public void setLitTimeStamp(org.lito.core.LitTimeStamp litTimeStamp) { this.litTimeStamp = litTimeStamp; } 

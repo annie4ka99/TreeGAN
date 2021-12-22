@@ -1,0 +1,1 @@
+ public String getLog4j_Level_WARN() { return "" + Log4j_Level_WARN; } 

@@ -1,0 +1,1 @@
+ public NotificationFilter getFilter() { return filter; } 

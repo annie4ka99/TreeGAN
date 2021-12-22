@@ -1,0 +1,1 @@
+ public Diagram getDiagram(){ return diagram; } 

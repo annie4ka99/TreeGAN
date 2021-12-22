@@ -1,0 +1,1 @@
+ public void setNumCartas(int numCartas) { this.numCartas = numCartas; } 

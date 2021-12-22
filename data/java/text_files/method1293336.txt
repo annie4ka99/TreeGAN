@@ -1,0 +1,1 @@
+ public Output createOutput() { return new OutputImpl(); } 

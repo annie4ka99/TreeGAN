@@ -1,0 +1,1 @@
+ public GMActivation (File _file) { this.gmFile = _file; } 

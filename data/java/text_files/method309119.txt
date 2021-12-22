@@ -1,0 +1,1 @@
+ protected void setForwardIcon(Icon icon) { iconForward = icon; } 

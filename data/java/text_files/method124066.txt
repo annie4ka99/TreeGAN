@@ -1,0 +1,1 @@
+ public void setColumnWidth(int colWidth) { coeff.setColumnWidth(colWidth); } 

@@ -1,0 +1,1 @@
+ public boolean isDirectory() { return getName().endsWith("/"); } 

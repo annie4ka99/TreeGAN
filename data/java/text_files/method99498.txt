@@ -1,0 +1,1 @@
+ public void setFormat(CorinaRequestFormat value) { this.format = value; } 

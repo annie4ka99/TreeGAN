@@ -1,0 +1,1 @@
+ public Object getRssLocation( int index ) { return this.vecRssLocations.get( index ); } 

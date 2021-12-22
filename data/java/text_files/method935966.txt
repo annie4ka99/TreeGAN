@@ -1,0 +1,1 @@
+ public SDD1GraphPanelState getRequestedState() { return this.requestedState; } 

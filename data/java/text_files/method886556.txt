@@ -1,0 +1,1 @@
+ public LaTeXDocumentPortion append(String s){ curText.append(s); bEmpty = false; return this; } 

@@ -1,0 +1,1 @@
+ public void setPreviousCursor(Cursor previousCursor) { this.previousCursor = previousCursor; } 

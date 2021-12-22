@@ -1,0 +1,1 @@
+ public void setIsAdministrator(boolean administrator) { this.administrator = administrator; } 

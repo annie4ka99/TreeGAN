@@ -1,0 +1,1 @@
+ public void setScaleConstraint(int axisid, int constraint) { scale_constraint[axisid] = constraint; } 

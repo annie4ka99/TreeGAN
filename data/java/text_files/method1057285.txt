@@ -1,0 +1,1 @@
+ public void clear() { view.setDrawing(new DefaultDrawing()); undo.discardAllEdits(); } 

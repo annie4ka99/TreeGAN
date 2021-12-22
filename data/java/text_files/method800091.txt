@@ -1,0 +1,1 @@
+ public void setFooterBackground( RGB footerBackground ) { defaultLook.setBodyBackground( footerBackground ); } 

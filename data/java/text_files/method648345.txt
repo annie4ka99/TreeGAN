@@ -1,0 +1,1 @@
+ public boolean rmdir(String directory) { return control.executeCommand("RMD " + directory); } 

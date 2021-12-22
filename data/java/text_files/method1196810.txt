@@ -1,0 +1,1 @@
+ public void setMailSender(SMTPMailSender mailSender) { this.mailSender = mailSender; } 

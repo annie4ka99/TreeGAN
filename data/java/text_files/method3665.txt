@@ -1,0 +1,1 @@
+ public void info(Object message, Throwable t) { _log.log(Level.INFO, message, t); } 

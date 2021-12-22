@@ -1,0 +1,1 @@
+ protected void paint() { drawThingsIfNeeded(); _root.paint(); } 

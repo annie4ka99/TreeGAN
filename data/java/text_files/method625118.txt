@@ -1,0 +1,1 @@
+ public boolean isCollectionType() { return this != OclType && instanceType.isCollectionType(); } 

@@ -1,0 +1,1 @@
+ private Tower newTower(){ Tower t = new Tower(); towers.add(t); return t; } 

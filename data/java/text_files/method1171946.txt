@@ -1,0 +1,1 @@
+ public void addSpellChoice(String string) { ChoicesMade.add(string); } 

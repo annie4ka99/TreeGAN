@@ -1,0 +1,1 @@
+ public ImageIcon getStallIcon() { return icon; } 

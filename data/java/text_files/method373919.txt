@@ -1,0 +1,1 @@
+ public PayloadType typeEnum() { return PayloadType.valueOf(type()); } 

@@ -1,0 +1,1 @@
+ public void setPaperSizes(String paperSizes) { this.paperSizes = paperSizes; } 

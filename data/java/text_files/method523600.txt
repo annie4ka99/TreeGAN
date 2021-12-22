@@ -1,0 +1,1 @@
+ public int getRIGHT() { return RIGHT; } 

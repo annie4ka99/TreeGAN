@@ -1,0 +1,1 @@
+ public void release() { logDiagnostic("Releasing all known loggers"); instances.clear(); } 

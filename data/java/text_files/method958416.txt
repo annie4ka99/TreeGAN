@@ -1,0 +1,1 @@
+ public void setSubscription(String value) { this.subscription = value; } 

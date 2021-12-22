@@ -1,0 +1,1 @@
+ public void visit(Component component) { encodeOneLine(component); } 

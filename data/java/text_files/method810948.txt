@@ -1,0 +1,1 @@
+ protected void setFixture(ReferenceableParamGroupListType fixture) { this.fixture = fixture; } 

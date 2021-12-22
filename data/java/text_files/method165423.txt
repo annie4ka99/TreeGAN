@@ -1,0 +1,1 @@
+ public Path getHomePath() { return new Path(getValue(HOME_PATH)); } 

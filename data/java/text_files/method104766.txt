@@ -1,0 +1,1 @@
+ public void setStatValue(BigDecimal value) { this.statValue = value; } 

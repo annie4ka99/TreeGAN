@@ -1,0 +1,1 @@
+ public void setInterpolationMethod(int method) { interpMethod = method; commitChange(); } 

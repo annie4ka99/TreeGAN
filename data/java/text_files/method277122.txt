@@ -1,0 +1,1 @@
+ public void setIntegerIncrement(short integerIncrement) { this.integerIncrement = integerIncrement; } 

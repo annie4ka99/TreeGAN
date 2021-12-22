@@ -1,0 +1,1 @@
+ public String toString() { return "Vector3f [X=" + x + ", Y=" + y + ", Z=" + z + "]"; } 

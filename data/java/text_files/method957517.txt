@@ -1,0 +1,1 @@
+ public String getTs() { if (ts == null) { return " "; } else { return ts; } } 

@@ -1,0 +1,1 @@
+ public void pushuserdata( Object o ) { if ( o == null ) pushnil(); else pushlvalue( new LUserData(o) ); } 

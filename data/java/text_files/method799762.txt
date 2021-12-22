@@ -1,0 +1,1 @@
+ public FontData getFontData() { return SWTUtil.copy( fontData ); } 

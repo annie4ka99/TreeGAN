@@ -1,0 +1,1 @@
+ public ClassificationSchemeQueryType createClassificationSchemeQueryType() { return new ClassificationSchemeQueryType(); } 

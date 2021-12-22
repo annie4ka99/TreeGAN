@@ -1,0 +1,1 @@
+ public void setEnabled(boolean b) { super.setEnabled(b); evalTextArea.setEnabled(b); } 

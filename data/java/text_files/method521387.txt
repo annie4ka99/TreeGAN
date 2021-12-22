@@ -1,0 +1,1 @@
+public XmlPageSubTag getBottomRight() { return bottomRight; } 

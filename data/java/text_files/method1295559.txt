@@ -1,0 +1,1 @@
+ public Adapter createWaitAdapter() { return null; } 

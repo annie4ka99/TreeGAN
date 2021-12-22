@@ -1,0 +1,1 @@
+ public void setTranslation(int x,int y) { transx = x; transy = y; } 

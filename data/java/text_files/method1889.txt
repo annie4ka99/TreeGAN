@@ -1,0 +1,1 @@
+ final public boolean isBox(int x, int y) { return boxesArray[x + width * y]; } 

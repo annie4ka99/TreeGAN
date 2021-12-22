@@ -1,0 +1,1 @@
+ public void visitLDIV(LDIV o){ stack().pop(); stack().pop(); stack().push(Type.LONG); } 

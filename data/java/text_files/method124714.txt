@@ -1,0 +1,1 @@
+ public void setTopFrame(TopFrame topFrame) { this.topFrame = topFrame; } 

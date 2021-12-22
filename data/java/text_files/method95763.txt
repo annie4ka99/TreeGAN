@@ -1,0 +1,1 @@
+ public String getErrorProperty(String type) { return getErrorProperty(getMessageId(), type); } 

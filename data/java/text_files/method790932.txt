@@ -1,0 +1,1 @@
+ public void add(BookmarkNode bookmark) { bookmark.setParent(this); children.add(bookmark); } 

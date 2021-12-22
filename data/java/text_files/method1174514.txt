@@ -1,0 +1,1 @@
+ public void setDisplayEnabled(boolean displayEnabled) { this.displayEnabled = displayEnabled; } 

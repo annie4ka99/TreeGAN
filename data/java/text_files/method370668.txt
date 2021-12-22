@@ -1,0 +1,1 @@
+ public void setUsesManifest(boolean state) { fUsesManifest= state; } 

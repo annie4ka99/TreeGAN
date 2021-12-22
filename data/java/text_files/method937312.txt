@@ -1,0 +1,1 @@
+ public void setOptionManager(OptionManager optionManager) { this.optionManager = optionManager; } 

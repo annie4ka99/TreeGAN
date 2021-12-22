@@ -1,0 +1,1 @@
+ public void setAskedStep(int iStep) { this.askedStep = iStep; } 

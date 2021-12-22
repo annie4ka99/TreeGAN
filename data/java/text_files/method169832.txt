@@ -1,0 +1,1 @@
+ public boolean isMulti() { return multi; } 

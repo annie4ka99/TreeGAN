@@ -1,0 +1,1 @@
+ public void registerReceiver(MementoReceiver receiver) { } 

@@ -1,0 +1,1 @@
+ public WriteUserInputMsgType createWriteUserInputMsgType() { return new WriteUserInputMsgType(); } 

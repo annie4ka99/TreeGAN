@@ -1,0 +1,1 @@
+ public BBOXType createBBOXType() { return new BBOXType(); } 

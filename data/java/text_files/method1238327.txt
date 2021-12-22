@@ -1,0 +1,1 @@
+ public void addGenerator(Class writer) { writers.add(writer); } 

@@ -1,0 +1,1 @@
+ protected void attach(T o) { getHibernateTemplate().lock(o, LockMode.NONE); } 

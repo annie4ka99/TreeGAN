@@ -1,0 +1,1 @@
+ public NaturalSelector get(int index) { return (NaturalSelector) selectors.get(index); } 

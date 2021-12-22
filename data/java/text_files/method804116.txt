@@ -1,0 +1,1 @@
+ public void setPercent_identity_nt(float percent_identity_nt) { this.percent_identity_nt = percent_identity_nt; } 

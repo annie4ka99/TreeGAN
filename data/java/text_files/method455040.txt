@@ -1,0 +1,1 @@
+ public void setUpdatesN(int n) { updatesN = n; if (n > 0) showUpdates = true; } 

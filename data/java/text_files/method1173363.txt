@@ -1,0 +1,1 @@
+ public CommandArgs getChooseTargetAI() { return randomTarget; } 

@@ -1,0 +1,1 @@
+ public boolean isMandatory() { if (getRange() != null) { return getRange().getLower() > 0; } return false; } 

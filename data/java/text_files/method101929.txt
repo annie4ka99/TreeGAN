@@ -1,0 +1,1 @@
+ public void setMinimumSelectedElements(int value) { minimumSelectedElements = value; } 

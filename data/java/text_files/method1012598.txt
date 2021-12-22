@@ -1,0 +1,1 @@
+ public void setSmoothing(boolean smoothing) { this.smoothing = smoothing; smoothingChanged = true; } 

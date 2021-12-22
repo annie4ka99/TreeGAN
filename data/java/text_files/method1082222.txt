@@ -1,0 +1,1 @@
+ protected void nextState (boolean state) { synchronized(this) { super.nextState(state); } } 

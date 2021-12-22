@@ -1,0 +1,1 @@
+ public void setClassname(java.lang.String classname) { this.classname = classname; } 

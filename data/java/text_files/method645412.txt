@@ -1,0 +1,1 @@
+ public boolean isAvailable() { if( _selectedNodes.length == 1 ) { return true; } return false; } 

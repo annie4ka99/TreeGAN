@@ -1,0 +1,1 @@
+ public RegistryRequestType createRegistryRequestType() { return new RegistryRequestType(); } 

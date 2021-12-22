@@ -1,0 +1,1 @@
+ public void setTitle(String title) { if (title == null) title = "no title"; this.title = title; } 

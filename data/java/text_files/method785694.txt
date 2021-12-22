@@ -1,0 +1,1 @@
+ public void setEndSize(int row, double size) { setDouble(row, VisualItem.ENDSIZE, size); } 

@@ -1,0 +1,1 @@
+ public FastComparator getValueComparator() { return _valueComp; } 

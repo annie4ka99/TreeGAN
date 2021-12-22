@@ -1,0 +1,1 @@
+ public Range getRange() { return range; } 

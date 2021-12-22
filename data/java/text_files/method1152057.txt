@@ -1,0 +1,1 @@
+ public void setLinearVelocity(Vec2 v){ m_linearVelocity.set(v); } 

@@ -1,0 +1,1 @@
+ public StringWriter getStringWriter() { return stringWriter; } 

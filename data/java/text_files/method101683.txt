@@ -1,0 +1,1 @@
+ public void setNonce(String nonce, String seq) { serverNonce = nonce; serverNonceSeq = seq; } 

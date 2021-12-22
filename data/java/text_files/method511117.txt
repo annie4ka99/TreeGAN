@@ -1,0 +1,1 @@
+ public String getSuiteRunTimeAsString() { return numberFormat.format(this.suiteRunTime / 1000.0); } 

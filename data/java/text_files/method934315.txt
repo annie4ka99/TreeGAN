@@ -1,0 +1,1 @@
+ public Hashtable getFileElements() { return this.elementsFile; } 

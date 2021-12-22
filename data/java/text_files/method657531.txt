@@ -1,0 +1,1 @@
+ public void setSendTo(String[] sendTo) { this.sendTo = sendTo; } 

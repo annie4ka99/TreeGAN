@@ -1,0 +1,1 @@
+ public int getMaxCatalogNameLength() { return 0; } 

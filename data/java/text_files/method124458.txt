@@ -1,0 +1,1 @@
+ public JSCData getInstance() { return type.valueOfEmpty(name); } 

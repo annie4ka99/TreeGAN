@@ -1,0 +1,1 @@
+ public void setFatal(boolean fatal) { this.fatal = fatal; } 

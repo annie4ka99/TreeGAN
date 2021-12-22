@@ -1,0 +1,1 @@
+ public NamingEnumeration search(String name, Attributes matchingAttributes) throws NamingException { return null; } 

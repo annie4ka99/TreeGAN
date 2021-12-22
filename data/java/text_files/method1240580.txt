@@ -1,0 +1,1 @@
+ public void setSoapConstants(SOAPConstants soapConstants) { this.soapConstants = soapConstants; } 

@@ -1,0 +1,1 @@
+ public String getDocument1Type() { return this.document1Type; } 

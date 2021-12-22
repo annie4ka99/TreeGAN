@@ -1,0 +1,1 @@
+ public GraphEdge getGraphEdge() { return (GraphEdge) getModel(); } 

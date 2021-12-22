@@ -1,0 +1,1 @@
+ private String toComparisonString() { return original_regex + ", " + url.toString() + ", " + id_field_name; } 

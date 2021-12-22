@@ -1,0 +1,1 @@
+ public void setSchemaFragment(SchemaFragment fragment) { schemaFragment = fragment; } 

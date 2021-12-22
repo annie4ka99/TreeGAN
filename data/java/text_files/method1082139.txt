@@ -1,0 +1,1 @@
+ public void setJTextFieldNintervalsText(java.lang.String arg1) { getJTextFieldNintervals().setText(arg1); } 

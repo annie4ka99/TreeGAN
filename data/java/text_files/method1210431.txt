@@ -1,0 +1,1 @@
+ public char readPrev() throws Exception { final char tmpChr = readCurr(); index--; return tmpChr; } 

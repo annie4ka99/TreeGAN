@@ -1,0 +1,1 @@
+ public void testGetType() { assertSame(d.getType(), om.getTypeByName(DateType.TYPE_NAME)); } 

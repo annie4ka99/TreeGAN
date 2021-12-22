@@ -1,0 +1,1 @@
+ public void setColorCardSelected(Color colorCardSelected){ this.colorCardSelected = colorCardSelected; } 

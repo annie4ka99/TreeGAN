@@ -1,0 +1,1 @@
+ protected void clear() { dragElements.clear(); } 

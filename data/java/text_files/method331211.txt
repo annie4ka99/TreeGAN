@@ -1,0 +1,1 @@
+ public void setPamView(PamView pamView) { this.pamView = pamView; } 

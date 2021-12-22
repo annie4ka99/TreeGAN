@@ -1,0 +1,1 @@
+ public AutoNumberGenerator getAutoNumberGenerator() { return _autoNumberGenerator; } 

@@ -1,0 +1,1 @@
+ public RendererFactory getRendererFactory() { return m_renderers; } 

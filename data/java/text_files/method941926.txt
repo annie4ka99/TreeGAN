@@ -1,0 +1,1 @@
+ public Session openSession() { return sessionFactory.getCurrentSession(); } 

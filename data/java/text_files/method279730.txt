@@ -1,0 +1,1 @@
+ public IFile getModelFile() { return newFileCreationPage.getModelFile(); } 

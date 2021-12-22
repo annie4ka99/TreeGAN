@@ -1,0 +1,1 @@
+ public void visitNegationAsFailure(NegationAsFailure expr) { if (body) { expr.getOperand().accept(this); } } 

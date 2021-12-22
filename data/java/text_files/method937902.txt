@@ -1,0 +1,1 @@
+ public void setNextText(final String text) { bNext.setText(text); } 

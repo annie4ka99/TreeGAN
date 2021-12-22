@@ -1,0 +1,1 @@
+ public boolean didSucceed() { return succeeded; } 

@@ -1,0 +1,1 @@
+ public void setMazo(Collection mazo) { this.mazo = mazo; } 

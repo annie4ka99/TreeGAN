@@ -1,0 +1,1 @@
+ public void setConnection(gov.nist.registry.ws.log.JdbcConnection connection) { this.connection = connection; } 

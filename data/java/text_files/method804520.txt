@@ -1,0 +1,1 @@
+ public void setLC(java.lang.String LC) { this.LC = LC; } 

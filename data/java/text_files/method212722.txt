@@ -1,0 +1,1 @@
+ protected Matcher getMatcher() { return matcher; } 

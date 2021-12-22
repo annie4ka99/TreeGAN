@@ -1,0 +1,1 @@
+ public void setRequestHeader(String name, String value) { http.setRequestHeader(name, value); } 

@@ -1,0 +1,1 @@
+ public void setDetailed(java.lang.String detailed) { this.detailed = detailed; } 

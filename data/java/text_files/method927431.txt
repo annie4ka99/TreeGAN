@@ -1,0 +1,1 @@
+ public int getIcs() { return NumberUtil.roundUp( (getAvt()/365.0) * getRr() / 2 ); } 

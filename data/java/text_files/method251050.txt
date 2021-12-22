@@ -1,0 +1,1 @@
+ protected DBAccess getDBAccess(DatabaseConnectorInterface conn){ return DatabaseFactory.getDBAccess(conn); } 

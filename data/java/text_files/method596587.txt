@@ -1,0 +1,1 @@
+ public void startCDATA() throws SAXException { Debug.println("startCDATA"); myXmlDocumentBuilder.startCDATA(); } 

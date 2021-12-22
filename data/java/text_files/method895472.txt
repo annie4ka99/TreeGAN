@@ -1,0 +1,1 @@
+ public int getMaximumIndex() { return this.maxIndex; } 

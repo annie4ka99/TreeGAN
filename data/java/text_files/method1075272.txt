@@ -1,0 +1,1 @@
+ public IChildModuleDao getChildModuleDao() { return childModuleDao; } 

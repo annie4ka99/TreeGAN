@@ -1,0 +1,1 @@
+ public Status update(String status) throws WeiboException { return updateStatus(status); } 

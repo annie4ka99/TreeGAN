@@ -1,0 +1,1 @@
+ public String getErrorMessage() { return this.errorMessage == null ? "" : this.errorMessage; } 

@@ -1,0 +1,1 @@
+ final public void recalculateGraphicSizes() { isRecalculationNecessary = true; } 

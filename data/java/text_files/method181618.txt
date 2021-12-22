@@ -1,0 +1,1 @@
+ public void setIgnoreCache(boolean flag) { this.ignoreCache = flag; } 

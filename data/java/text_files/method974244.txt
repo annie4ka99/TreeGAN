@@ -1,0 +1,1 @@
+ private void showDialog(Dialog dialog){ dialog.show(); updateComponents(dialog.getId()); } 

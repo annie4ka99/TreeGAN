@@ -1,0 +1,1 @@
+public void setEmbededData(JpxiDataToken newEmbededData) { embededData = newEmbededData; } 

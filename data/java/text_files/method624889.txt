@@ -1,0 +1,1 @@
+ public void testAssociationMultiplicity() throws Exception { this.evaluate("assoc_mult.ocl"); } 

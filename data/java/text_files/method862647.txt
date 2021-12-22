@@ -1,0 +1,1 @@
+ public void setMethod(String method) { _method = method.toUpperCase(); } 

@@ -1,0 +1,1 @@
+ public Hospedagem getCurrentRecord() { return currentRecord; } 

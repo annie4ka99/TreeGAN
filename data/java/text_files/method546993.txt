@@ -1,0 +1,1 @@
+ public void setGridSize(Dimension d) { XGRID_SIZE = d.width; YGRID_SIZE = d.height; repaint(); } 

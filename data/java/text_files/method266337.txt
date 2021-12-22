@@ -1,0 +1,1 @@
+ public void setYear(int year) { calendar.set(Calendar.YEAR, year); drawDays(); } 

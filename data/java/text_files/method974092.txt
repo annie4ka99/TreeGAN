@@ -1,0 +1,1 @@
+ protected int extractInt(Document doc) { return Integer.parseInt(doc.getFirstChild().getTextContent()); } 

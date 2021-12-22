@@ -1,0 +1,1 @@
+ public void setDao(RecordDao dao) { this.dao = dao; } 

@@ -1,0 +1,1 @@
+ public void addSequenceListener( SequenceListener l ) { listeners.add( l ); } 

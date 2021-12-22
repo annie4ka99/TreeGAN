@@ -1,0 +1,1 @@
+ public String getAccesiblePorWebServices() { return element.getAttribute("accesiblePorWebServices"); } 

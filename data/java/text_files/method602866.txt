@@ -1,0 +1,1 @@
+ public void send(Message message) { if (message == null) return; messageBucket.addElement(message); } 

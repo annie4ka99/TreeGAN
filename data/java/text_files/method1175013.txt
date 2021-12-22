@@ -1,0 +1,1 @@
+ public void addHandSizeOperation(HandSizeOp theNew) { handSizeOperations.add(theNew); } 

@@ -1,0 +1,1 @@
+ public void dump( IndentingPrintWriter out ) { out.writeDoubleQuotedString( value ); } 

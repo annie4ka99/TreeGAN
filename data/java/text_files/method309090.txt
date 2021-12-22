@@ -1,0 +1,1 @@
+ public void displayBackButton(boolean b) { bottomPane.backButton().setVisible(b); } 

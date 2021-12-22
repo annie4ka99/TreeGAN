@@ -1,0 +1,1 @@
+ public BigIntegerCrypto xor(BigIntegerCrypto y) { return bitOp(6, this, y); } 

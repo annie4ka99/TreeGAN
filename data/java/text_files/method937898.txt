@@ -1,0 +1,1 @@
+ public void setPreviousIcon(final Icon icon) { bPrevious.setIcon(icon); } 

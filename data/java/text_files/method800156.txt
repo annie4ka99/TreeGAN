@@ -1,0 +1,1 @@
+ public GMActivation (String _file) { this.gmFile = new File(_file); } 

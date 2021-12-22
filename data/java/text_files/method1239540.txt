@@ -1,0 +1,1 @@
+ public QName getPortTypeName() { return portTypeName == null ? new QName("") : portTypeName; } 

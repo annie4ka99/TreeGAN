@@ -1,0 +1,1 @@
+ public int getPeak(int theIndex) { if (null == peak) { setPeaks(); } return peak[theIndex]; } 

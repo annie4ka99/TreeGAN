@@ -1,0 +1,1 @@
+ public void setPortTypeName(QName portType) { this.portTypeName = portType; } 

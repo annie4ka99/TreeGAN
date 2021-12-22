@@ -1,0 +1,1 @@
+ public int getAnchorLength() { return anchorLength; } 

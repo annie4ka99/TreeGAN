@@ -1,0 +1,1 @@
+ public FeatureArrayPropertyType getFeatureMembers() { return featureMembers; } 

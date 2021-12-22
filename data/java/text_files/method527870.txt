@@ -1,0 +1,1 @@
+public void setTableName(java.lang.String newTableName) { tableName = newTableName; } 

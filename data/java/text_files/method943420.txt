@@ -1,0 +1,1 @@
+ public boolean getBackButtonEnabled() { return wizardModel.getBackButtonEnabled().booleanValue(); } 

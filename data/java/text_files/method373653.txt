@@ -1,0 +1,1 @@
+ public void ostream(int value) { super.setUShort(12, value); } 

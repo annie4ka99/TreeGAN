@@ -1,0 +1,1 @@
+ public void sayValue(double value) { sayValue(value, false); } 

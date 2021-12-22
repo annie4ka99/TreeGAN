@@ -1,0 +1,1 @@
+ public boolean isCreateReplica() { if (createReplica == null) { return false; } else { return createReplica; } } 

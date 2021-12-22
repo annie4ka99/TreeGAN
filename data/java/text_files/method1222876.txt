@@ -1,0 +1,1 @@
+ public double pEndRun() { if(goal != null && movingUpGradient()) return pEndRunUp; else return pEndRunElse; } 

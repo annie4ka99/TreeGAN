@@ -1,0 +1,1 @@
+ public int getSize() { return buf == null ? (off & 0xFF) : 1; } 

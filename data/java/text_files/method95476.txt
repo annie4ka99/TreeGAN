@@ -1,0 +1,1 @@
+ public boolean isDefinitelyWritable(int column) throws SQLException { return false; } 

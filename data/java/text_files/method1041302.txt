@@ -1,0 +1,1 @@
+ public void setFaultToleranceLevel(String level) { this.faultTolerance = FaultTolerance.valueOf(level); } 

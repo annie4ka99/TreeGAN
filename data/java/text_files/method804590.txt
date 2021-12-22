@@ -1,0 +1,1 @@
+ public void setNumal(java.lang.Integer numal) { this.numal = numal; } 

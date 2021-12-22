@@ -1,0 +1,1 @@
+ protected StateMachineFigure getPackageBoardFigure(){ return (StateMachineFigure)getFigure(); } 

@@ -1,0 +1,1 @@
+ protected String getExtendsText() { return "extends org.apache.axis.AxisFault "; } 

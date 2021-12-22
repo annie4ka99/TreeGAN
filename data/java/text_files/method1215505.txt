@@ -1,0 +1,1 @@
+ public void setExactmatch(boolean exactmatch) { this.exactmatch = exactmatch; } 

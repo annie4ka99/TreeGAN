@@ -1,0 +1,1 @@
+ protected HttpServletResponse getResponse() { return ServletActionContext.getResponse(); } 

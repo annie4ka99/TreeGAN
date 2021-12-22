@@ -1,0 +1,1 @@
+public void setDbPoolSize(int newDbPoolSize) { dbPoolSize = newDbPoolSize; } 

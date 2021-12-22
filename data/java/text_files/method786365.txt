@@ -1,0 +1,1 @@
+ public boolean isCacheValid(int row) { return m_valid.get(row); } 

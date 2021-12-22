@@ -1,0 +1,1 @@
+ protected void setStringValue(String value) { setText(value == null ? "" : space + value + space); } 

@@ -1,0 +1,1 @@
+ public void output(Text text, Writer out) throws IOException { printText(out, text); out.flush(); } 

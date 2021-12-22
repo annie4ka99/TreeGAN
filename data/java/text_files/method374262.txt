@@ -1,0 +1,1 @@
+ public String getAVP(String name) { return (String) fieldValue(name); } 

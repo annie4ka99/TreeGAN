@@ -1,0 +1,1 @@
+ public void setXAxisRange(Range range) { this.xAxisRange = range; redraw(); } 

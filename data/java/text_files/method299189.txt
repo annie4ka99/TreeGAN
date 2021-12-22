@@ -1,0 +1,1 @@
+ public void setEnabled(int enabled) { _enabled = enabled; } 

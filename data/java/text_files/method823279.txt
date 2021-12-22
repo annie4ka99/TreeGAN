@@ -1,0 +1,1 @@
+ public void setOutputFile(String outFile) { this.outputFile = outFile; } 

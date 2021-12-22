@@ -1,0 +1,1 @@
+ public void setImageUrl( String url ) { this.strImageUrl = new String(url); } 

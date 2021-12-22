@@ -1,0 +1,1 @@
+ public Signal getResult(){ return signal; } 

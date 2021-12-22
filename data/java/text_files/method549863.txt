@@ -1,0 +1,1 @@
+ public void show() { dialog.pack(); dialog.show(); } 

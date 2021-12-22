@@ -1,0 +1,1 @@
+ public int addHorizontalLineMarker(int y,Color c) { return imagePanel.addHorizontalLineMarker(y,c); } 

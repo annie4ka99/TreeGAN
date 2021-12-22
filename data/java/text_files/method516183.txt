@@ -1,0 +1,1 @@
+public void setConnection(Connection newValue) { this.connection = newValue; } 

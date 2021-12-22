@@ -1,0 +1,1 @@
+ public Node getRootNode() { return this.root; } 

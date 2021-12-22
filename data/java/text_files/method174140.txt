@@ -1,0 +1,1 @@
+ public void setReuseParser(boolean reuseParser) { this.reuseParser = reuseParser; this.saxParser = null; } 

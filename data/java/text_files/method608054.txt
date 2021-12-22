@@ -1,0 +1,1 @@
+ public void setDefaultNailClass(Class defaultNailClass) { this.defaultNailClass = defaultNailClass; } 

@@ -1,0 +1,1 @@
+private void setExistanceOfClaim(char[] newExistanceOfClaim) { existanceOfClaim = newExistanceOfClaim; } 

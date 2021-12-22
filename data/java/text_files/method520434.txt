@@ -1,0 +1,1 @@
+ public void rebuild() { removeAll(); build(); init(); validate(); } 

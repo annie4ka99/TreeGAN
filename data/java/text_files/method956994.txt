@@ -1,0 +1,1 @@
+ public void setQueryExpressionBranch(QueryExpressionBranchType value) { this.queryExpressionBranch = value; } 

@@ -1,0 +1,1 @@
+ public void setMundo1(Mundo[] mundo1) { mundo1s = mundo1; } 

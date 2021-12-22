@@ -1,0 +1,1 @@
+public void setNbDoc(int newNbDoc) { nbDoc = newNbDoc; } 

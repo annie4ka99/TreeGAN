@@ -1,0 +1,1 @@
+ public void testGetEmail() { assertEquals(email, user.getEmail()); } 

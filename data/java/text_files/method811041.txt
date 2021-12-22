@@ -1,0 +1,1 @@
+ protected ProductType getFixture() { return fixture; } 

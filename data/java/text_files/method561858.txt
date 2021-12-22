@@ -1,0 +1,1 @@
+ public EventDetails getEventDetails(int aRow) { synchronized (mLock) { return mFilteredEvents[aRow]; } } 

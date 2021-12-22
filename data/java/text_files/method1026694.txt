@@ -1,0 +1,1 @@
+ public void setThrowIfPropertyNotFound(boolean throwIfNotFound) { this.throwIfNotFound = throwIfNotFound; } 

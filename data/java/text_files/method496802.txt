@@ -1,0 +1,1 @@
+ public void setAllowsNetAccess(boolean allowsNetAccess) { this.allowsNetAccess = allowsNetAccess; } 

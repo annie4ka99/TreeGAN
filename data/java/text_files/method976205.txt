@@ -1,0 +1,1 @@
+ public boolean bothLogsDone() { return this.toLogged && this.fromLogged; } 

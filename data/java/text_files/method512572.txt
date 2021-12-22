@@ -1,0 +1,1 @@
+ public JRemote getRemoteInterfaces() { return jRemote; } 

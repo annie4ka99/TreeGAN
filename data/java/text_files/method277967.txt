@@ -1,0 +1,1 @@
+ public void setDefaultFont(java.awt.Font defaultFont) { this.defaultFont = defaultFont; } 

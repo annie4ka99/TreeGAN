@@ -1,0 +1,1 @@
+ public void addConfiguredLinkerArg(LinkerArgument arg) { addConfiguredProcessorArg(arg); } 

@@ -1,0 +1,1 @@
+ public String getSnowCoverPercentageQuotationMode() { return snowCoverPercentageQuotationMode; } 

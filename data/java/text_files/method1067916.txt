@@ -1,0 +1,1 @@
+ public void setEnabled(boolean state) { getButton().setEnabled(state); } 

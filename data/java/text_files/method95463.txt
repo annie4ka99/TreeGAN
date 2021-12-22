@@ -1,0 +1,1 @@
+ public int getColumnDisplaySize(int column) throws SQLException { throw new SQLException("getColumnDisplaySize"); } 

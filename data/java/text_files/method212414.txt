@@ -1,0 +1,1 @@
+ public Object getAttribute(String name) { return this.attributes.get(name.toLowerCase()); } 

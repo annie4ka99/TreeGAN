@@ -1,0 +1,1 @@
+ public ColorRGBA getFadeColor() { return fadeColor; } 

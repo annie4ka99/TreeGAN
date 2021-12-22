@@ -1,0 +1,1 @@
+ public void setBandId(String value) { this.bandId = value; } 

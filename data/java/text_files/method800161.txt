@@ -1,0 +1,1 @@
+ public HashMap getTokenMap() { if (parser != null) return parser.getTokenMap(); return new HashMap(); } 

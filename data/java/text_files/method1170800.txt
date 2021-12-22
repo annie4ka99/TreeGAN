@@ -1,0 +1,1 @@
+ public boolean isSealed() { return getDeckType().equals(Constant.GameType.Sealed); } 

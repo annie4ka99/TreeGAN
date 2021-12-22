@@ -1,0 +1,1 @@
+ private void writeObject(ObjectOutputStream out) throws IOException { invalidateCaches(); out.defaultWriteObject(); } 

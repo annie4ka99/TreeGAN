@@ -1,0 +1,1 @@
+ public void setToUnion (RangeSet a, RangeSet b) { generalUnion (a,b,false,false,this); } 

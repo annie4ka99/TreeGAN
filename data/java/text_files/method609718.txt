@@ -1,0 +1,1 @@
+ public void setClientCommand(String command) { commandQueue.addLast(command); } 

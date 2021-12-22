@@ -1,0 +1,1 @@
+ public PluginFactoryImpl (ConverterInfo ci) { super(ci); } 

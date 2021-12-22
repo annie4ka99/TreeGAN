@@ -1,0 +1,1 @@
+ public InputStream getByteStream() { return byteStream; } 

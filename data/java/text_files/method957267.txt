@@ -1,0 +1,1 @@
+ public void setBegin(TimeInstantPropertyType value) { this.begin = value; } 

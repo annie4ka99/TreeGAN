@@ -1,0 +1,1 @@
+ public boolean isPropertyTrue(String propName) { return isPropertyTrue(propName, false); } 

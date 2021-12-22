@@ -1,0 +1,1 @@
+ public Duration getCatalogingLatency() { return catalogingLatency; } 

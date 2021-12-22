@@ -1,0 +1,1 @@
+ public void removePaintListener(PaintListener pl) { m_painters.remove(pl); } 

@@ -1,0 +1,1 @@
+ public void mouseMoved(final MouseEvent e) { lastKnownPoint = e.getPoint(); } 

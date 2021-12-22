@@ -1,0 +1,1 @@
+ public TypeContext getType() { return type; } 

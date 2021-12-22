@@ -1,0 +1,1 @@
+ public void setHeaderColor(Color c) { headerColor = c; setHeaderVisible(true); } 

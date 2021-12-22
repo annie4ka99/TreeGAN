@@ -1,0 +1,1 @@
+ public void setColorAttribute(short colorAttribute) { _colorAttribute = colorAttribute; } 

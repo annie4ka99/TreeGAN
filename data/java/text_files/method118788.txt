@@ -1,0 +1,1 @@
+ public void setCancelEnabled(boolean enabled) { cmdCancel.setEnabled(enabled); } 

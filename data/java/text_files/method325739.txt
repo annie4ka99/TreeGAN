@@ -1,0 +1,1 @@
+ public void setArrayAxis(PamVector[] arrayAxis) { this.arrayAxis = arrayAxis; } 

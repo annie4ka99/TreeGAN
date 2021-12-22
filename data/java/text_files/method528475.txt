@@ -1,0 +1,1 @@
+private void setPageRank(int newPageRank) { pageRank = newPageRank; } 

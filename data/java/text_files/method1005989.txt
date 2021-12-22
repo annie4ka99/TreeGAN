@@ -1,0 +1,1 @@
+ public Rectangle getBounds() { return getCachedBounds().getBounds(); } 

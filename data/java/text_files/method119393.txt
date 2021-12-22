@@ -1,0 +1,1 @@
+ public void setNew(boolean isNew) { this.isNew = isNew; } 

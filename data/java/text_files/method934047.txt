@@ -1,0 +1,1 @@
+ protected String messageKey(String localeKey, String key) { return (localeKey + "." + key); } 

@@ -1,0 +1,1 @@
+ public void initialize() throws IOException { getIndexData().initialize(); } 

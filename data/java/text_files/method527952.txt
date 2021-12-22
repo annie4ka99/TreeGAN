@@ -1,0 +1,1 @@
+private long getFileOutOffset() { return fileOutOffset; } 

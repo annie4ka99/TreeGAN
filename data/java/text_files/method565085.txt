@@ -1,0 +1,1 @@
+ public int getLongattrwithw() { xlogger.entry(); xlogger.exit(); return 1246; } 

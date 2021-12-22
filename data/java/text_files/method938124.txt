@@ -1,0 +1,1 @@
+ public void setModel(final DataModel model) { this.model = model; } 

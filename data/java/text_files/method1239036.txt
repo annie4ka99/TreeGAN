@@ -1,0 +1,1 @@
+ public Vector getAllowedMethods() { return allowedMethods; } 

@@ -1,0 +1,1 @@
+ public void setEnd(T end) { if (end == null) throw new NullPointerException(); this.end = end; } 

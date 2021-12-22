@@ -1,0 +1,1 @@
+ public int getOverlayRectangleWidth() { return overlayRectangleWidth; } 

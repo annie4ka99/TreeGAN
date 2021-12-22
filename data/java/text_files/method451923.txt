@@ -1,0 +1,1 @@
+ public void addDestination(IFlowDestinationInterface dest) { destinations.add(dest); } 

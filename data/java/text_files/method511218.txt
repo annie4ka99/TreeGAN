@@ -1,0 +1,1 @@
+ public void setShowOutput(boolean showOutput) { this.showOutput = showOutput; } 

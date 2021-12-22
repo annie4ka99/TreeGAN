@@ -1,0 +1,1 @@
+ public void showPanic(boolean b) { showPanic = b; updateFilters(); } 

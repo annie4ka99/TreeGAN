@@ -1,0 +1,1 @@
+ public short getForeground() { return _foreground; } 

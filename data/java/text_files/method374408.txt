@@ -1,0 +1,1 @@
+ public long timestampInMillis() { long l = hdr_sec() * 1000 + hdr_usec() / 1000; return l; } 

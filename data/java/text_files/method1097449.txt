@@ -1,0 +1,1 @@
+ public AeAttachmentAttributeList getAttachmentAttributes() { return mAttachmentAttributes; } 

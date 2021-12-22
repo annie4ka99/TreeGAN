@@ -1,0 +1,1 @@
+ public void setBias(float bias) { this.bias = bias; initialized = false; } 

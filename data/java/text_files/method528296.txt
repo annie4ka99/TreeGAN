@@ -1,0 +1,1 @@
+private void setRevisoryDocument(char[] newRevisoryDocument) { revisoryDocument = newRevisoryDocument; } 

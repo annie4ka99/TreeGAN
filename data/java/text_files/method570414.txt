@@ -1,0 +1,1 @@
+ public double getVarianceP() { computeVariance(); return this.varianceP; } 

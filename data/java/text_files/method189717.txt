@@ -1,0 +1,1 @@
+ public void deleteCurrentRow() throws IOException { getInternalCursor().deleteCurrentRow(); } 

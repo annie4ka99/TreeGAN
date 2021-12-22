@@ -1,0 +1,1 @@
+ public void setPopupLocation(int location) { _popupLocation = location; } 

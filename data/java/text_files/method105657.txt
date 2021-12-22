@@ -1,0 +1,1 @@
+ public void setCoverageTemporalFoundation(String value) { this.coverageTemporalFoundation = value; } 

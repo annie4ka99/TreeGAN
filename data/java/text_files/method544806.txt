@@ -1,0 +1,1 @@
+ public void setLogScale(boolean logScale) { synchronized (this) { this.logScale = logScale; } } 

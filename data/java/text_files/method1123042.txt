@@ -1,0 +1,1 @@
+ public NFAAutomaton reduce(NFAReduction reduction) { return reduction.reduce(this); } 

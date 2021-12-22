@@ -1,0 +1,1 @@
+ public void randomizeOpponents() { randomSeed = MyRandom.random.nextLong(); } 

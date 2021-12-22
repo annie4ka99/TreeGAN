@@ -1,0 +1,1 @@
+ public SubstanceImageWatermark getImageWatermark() { return imageWatermark; } 

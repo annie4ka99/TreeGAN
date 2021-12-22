@@ -1,0 +1,1 @@
+ public ModeCalcul getModeC() { return calculationMode; } 

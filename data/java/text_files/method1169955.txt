@@ -1,0 +1,1 @@
+ public boolean isFree() { return isFree; } 

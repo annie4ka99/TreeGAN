@@ -1,0 +1,1 @@
+ public void setSbegin(java.lang.Long sbegin) { this.sbegin = sbegin; } 

@@ -1,0 +1,1 @@
+ public void setRadius(float radius) { this.hRadius = this.vRadius = radius; } 

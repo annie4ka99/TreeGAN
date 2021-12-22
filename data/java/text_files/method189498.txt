@@ -1,0 +1,1 @@
+ public void read(ByteBuffer buffer) { buffer.get(_mask); } 

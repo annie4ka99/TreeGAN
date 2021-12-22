@@ -1,0 +1,1 @@
+ public int getLandStackMax() { return landStackMax; } 

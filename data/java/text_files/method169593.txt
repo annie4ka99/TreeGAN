@@ -1,0 +1,1 @@
+ public void refresh() { try { SystemManager.refreshData(); } catch (RuntimeException e) { e.printStackTrace(); } } 

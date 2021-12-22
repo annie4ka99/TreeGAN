@@ -1,0 +1,1 @@
+ public Vector get_nodb_name_list() { return nodb_name_list; } 

@@ -1,0 +1,1 @@
+ public boolean isAutoResizeGraph() { if (!moveBeyondGraphBounds) { return false; } return autoResizeGraph; } 

@@ -1,0 +1,1 @@
+ public void enableStartAndRefreshBit() { startBit.setEnabled(true); refreshBit.setEnabled(true); } 

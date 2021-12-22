@@ -1,0 +1,1 @@
+ public void order(final ByteOrder order) { this.order = (order == ByteOrder.BIG_ENDIAN); } 

@@ -1,0 +1,1 @@
+ public Edge edgeAt( int index ) { return (Edge)edges.elementAt(index); } 

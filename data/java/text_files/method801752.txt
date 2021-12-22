@@ -1,0 +1,1 @@
+ public void setParent(Position parent){ parentA.add(parent); } 

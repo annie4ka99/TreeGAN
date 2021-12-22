@@ -1,0 +1,1 @@
+ public void setExpandEntities(boolean expand) { this.expand = expand; } 

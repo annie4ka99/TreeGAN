@@ -1,0 +1,1 @@
+ public boolean isFinished() { if (null == activity) { return false; } return activity.isFinished(); } 

@@ -1,0 +1,1 @@
+ public String toString(Object value) { return value == null ? "" : value.toString(); } 

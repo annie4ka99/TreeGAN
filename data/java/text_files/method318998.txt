@@ -1,0 +1,1 @@
+ public boolean supportsNonNullableColumns() throws SQLException { return true; } 

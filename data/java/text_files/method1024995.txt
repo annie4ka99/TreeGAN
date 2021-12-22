@@ -1,0 +1,1 @@
+ public HierarchicalStreamWriter createWriter(Writer out) { return new JsonWriter(out); } 

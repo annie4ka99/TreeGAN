@@ -1,0 +1,1 @@
+ public void displayError(String message){ errorMessageStream.println(message); } 

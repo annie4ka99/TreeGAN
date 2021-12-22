@@ -1,0 +1,1 @@
+ public void setDossierNumber(String dossierNumber) { this.dossierNumber = dossierNumber; } 

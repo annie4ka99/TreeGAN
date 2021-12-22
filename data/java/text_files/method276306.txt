@@ -1,0 +1,1 @@
+ public void setColorPrinting(boolean colorPrint) { colorPrinting = colorPrint; } 

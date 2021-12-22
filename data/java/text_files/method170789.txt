@@ -1,0 +1,1 @@
+ public int modelIndex(int viewIndex) { return getViewToModel()[viewIndex].modelIndex; } 

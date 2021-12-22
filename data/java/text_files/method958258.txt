@@ -1,0 +1,1 @@
+ public void setCatalogingLatency(Duration value) { this.catalogingLatency = value; } 

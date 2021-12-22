@@ -1,0 +1,1 @@
+public int getImageLength() { return imageLength; } 

@@ -1,0 +1,1 @@
+ private boolean isTemplateFileType(File file) { return file.getName().endsWith("." + TEMPLATE_EXT); } 

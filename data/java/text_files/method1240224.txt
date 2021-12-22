@@ -1,0 +1,1 @@
+ public void setWSDLFile(String wsdlFileName) { this.wsdlFileName = wsdlFileName; } 

@@ -1,0 +1,1 @@
+ protected boolean isDirty() { return isDirty; } 

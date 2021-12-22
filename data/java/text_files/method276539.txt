@@ -1,0 +1,1 @@
+ protected void out(String out) { Log.out(out); } 

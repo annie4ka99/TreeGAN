@@ -1,0 +1,1 @@
+ public void setDescription(String desc) { super.setDescription(desc); } 

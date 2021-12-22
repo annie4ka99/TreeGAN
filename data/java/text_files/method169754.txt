@@ -1,0 +1,1 @@
+ public int getInterestIncome() { return Math.round((float) interestIncome / currencyRate); } 

@@ -1,0 +1,1 @@
+ public Shape getPlacementMask() { return new GridWideLine(getPlacementMaskReference()); } 

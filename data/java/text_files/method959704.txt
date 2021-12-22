@@ -1,0 +1,1 @@
+ public void setSql_updateAbteilung(String sql_updateAbteilung) { this.sql_updateAbteilung = sql_updateAbteilung; } 

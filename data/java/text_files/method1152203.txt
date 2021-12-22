@@ -1,0 +1,1 @@
+ public void calcPressure(Parameter p) { pressure = p.c * p.c * density; } 

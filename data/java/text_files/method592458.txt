@@ -1,0 +1,1 @@
+ public String getServerInfo() { return "Stripes Mock Servlet Environment, version 1.0."; } 

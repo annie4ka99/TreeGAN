@@ -1,0 +1,1 @@
+ public void setNum(Integer integer) { num = integer; } 

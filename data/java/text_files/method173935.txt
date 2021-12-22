@@ -1,0 +1,1 @@
+ public void setReportDTDEvents(boolean reportDtdEvents) { this.reportDtdEvents = reportDtdEvents; } 

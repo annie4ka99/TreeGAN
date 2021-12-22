@@ -1,0 +1,1 @@
+ public double setValue(double value) { double rc = value; if (value > maximumValue) { rc = maximumValue; } else if (value < minimumValue) { rc = minimumValue; } else { rc = value; } textfieldGUI.setValue(rc); return rc; } 

@@ -1,0 +1,1 @@
+ public void afterLast() { this.index = rows.size(); } 

@@ -1,0 +1,1 @@
+ public Vector3f cross(Vector3f v) { return cross(v, null); } 

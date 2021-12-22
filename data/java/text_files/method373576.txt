@@ -1,0 +1,1 @@
+ public void infoType(int value) { super.setUShort(4, value); } 

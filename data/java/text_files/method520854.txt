@@ -1,0 +1,1 @@
+ public void setCursorWait() { setCursor(Cursor.getPredefinedCursor(Cursor.WAIT_CURSOR)); } 

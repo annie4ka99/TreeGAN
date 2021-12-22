@@ -1,0 +1,1 @@
+ public void setDefaultShape(int defaultShape) { m_defaultShape = defaultShape; } 

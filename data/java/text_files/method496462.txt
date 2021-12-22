@@ -1,0 +1,1 @@
+ public void setRehash(boolean rehashing) { this.rehashing = rehashing; } 

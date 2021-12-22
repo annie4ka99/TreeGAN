@@ -1,0 +1,1 @@
+ public void setType(String strType){ this.m_strType=strType; } 

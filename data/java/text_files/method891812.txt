@@ -1,0 +1,1 @@
+ public void setDataAccessClass(String dataAccessClass) { this.dataAccessClass = dataAccessClass; } 

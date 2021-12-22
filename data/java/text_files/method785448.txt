@@ -1,0 +1,1 @@
+ public IntIterator childEdgeRows(int node) { return super.outEdgeRows(node); } 

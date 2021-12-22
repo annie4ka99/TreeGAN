@@ -1,0 +1,1 @@
+ protected void showHelpWindow() { HelpWindow.getInstance().setVisible(true); } 

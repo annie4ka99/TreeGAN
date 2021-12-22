@@ -1,0 +1,1 @@
+ public void removeListener(WindowListener listener) { _listenerManager.removeListener(listener); } 

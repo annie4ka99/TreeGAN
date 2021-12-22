@@ -1,0 +1,1 @@
+ public void set(XForm xf) { position.set(xf.position); R.set(xf.R); } 

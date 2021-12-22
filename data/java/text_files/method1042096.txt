@@ -1,0 +1,1 @@
+ public Vector2f divideLocal(float scalar) { x /= scalar; y /= scalar; return this; } 

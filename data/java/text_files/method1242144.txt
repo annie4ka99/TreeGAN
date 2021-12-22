@@ -1,0 +1,1 @@
+ protected void writePoint(double x, double y, double z) throws IOException { writePoint(10, x, y, z); } 

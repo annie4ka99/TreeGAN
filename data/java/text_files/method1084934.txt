@@ -1,0 +1,1 @@
+ public String getRFC2822Name() { return name + ":"; } 

@@ -1,0 +1,1 @@
+ public TestSettings getSettings() { return m_settings; } 

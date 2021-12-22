@@ -1,0 +1,1 @@
+ public void removeDataSourceConfig(DataSourceConfig config) { dataSources.remove(config.getKey()); } 

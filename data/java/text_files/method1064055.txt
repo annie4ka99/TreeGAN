@@ -1,0 +1,1 @@
+ public boolean isOrdered(){ return uml2Property.isOrdered(); } 

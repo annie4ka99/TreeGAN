@@ -1,0 +1,1 @@
+ public String getTableTitle2( ) { return tableTitle2; } 

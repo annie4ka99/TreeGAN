@@ -1,0 +1,1 @@
+ public void testGetLastModification() { assertEquals(lastModification, user.getLastModification()); } 

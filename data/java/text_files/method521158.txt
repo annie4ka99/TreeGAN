@@ -1,0 +1,1 @@
+private void setFilters(Filter[] newFilters) { filters = newFilters; } 

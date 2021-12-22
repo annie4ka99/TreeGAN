@@ -1,0 +1,1 @@
+ public boolean isMaxLengthExceeded() { return (this.maxLengthExceeded || this.inputStream.isMaxLengthMet()); } 

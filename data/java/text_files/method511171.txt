@@ -1,0 +1,1 @@
+ public void addFormatter(FormatterElement fe) { this.formatters.add(fe); } 

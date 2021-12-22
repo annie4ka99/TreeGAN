@@ -1,0 +1,1 @@
+ public String getInitParameter(String name) { return this.initParameters.get(name); } 

@@ -1,0 +1,1 @@
+ protected void setSpeed(int factor) { alpha = new Alpha(-1,factor*1000); } 

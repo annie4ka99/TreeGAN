@@ -1,0 +1,1 @@
+ public void mousePressed(MouseEvent e) { selectedIndex = getPointAt(e.getX(), e.getY()); } 

@@ -1,0 +1,1 @@
+ public void setKey(String arg0) { search.setKey(arg0); } 

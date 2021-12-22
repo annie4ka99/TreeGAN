@@ -1,0 +1,1 @@
+ public void componentPainted(NeoPaintEvent evt) { setGraphics(evt.getGraphics()); draw(); } 

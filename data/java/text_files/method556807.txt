@@ -1,0 +1,1 @@
+ public void setId_context(int id_context) { this.id_context = id_context; } 

@@ -1,0 +1,1 @@
+ public void testJadeServiceConstruction() { JadeService jadeService = new JadeService(); } 

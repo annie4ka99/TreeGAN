@@ -1,0 +1,1 @@
+ public QueryExpressionBranchType createQueryExpressionBranchType() { return new QueryExpressionBranchType(); } 

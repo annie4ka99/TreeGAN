@@ -1,0 +1,1 @@
+ public void setNormalized(boolean b) { m_norm = b; } 

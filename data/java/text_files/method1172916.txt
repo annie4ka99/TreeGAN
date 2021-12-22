@@ -1,0 +1,1 @@
+ public void setTargetSpellAbilityType(String tgtSAType) { targetSpellAbilityType = tgtSAType; } 

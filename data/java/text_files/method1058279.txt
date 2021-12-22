@@ -1,0 +1,1 @@
+ public void setZoomAnimationStyle(int style) { zoomAnimationStyle = style; } 

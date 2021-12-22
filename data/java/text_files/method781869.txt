@@ -1,0 +1,1 @@
+ public Iterator getErrorIterator() { return this.errors.iterator(); } 

@@ -1,0 +1,1 @@
+ public Orientation getOrientation() { return mOrientation; } 

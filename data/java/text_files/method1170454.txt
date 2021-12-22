@@ -1,0 +1,1 @@
+ public void addCard(Card c) { cardPool.add(c.getName()); } 

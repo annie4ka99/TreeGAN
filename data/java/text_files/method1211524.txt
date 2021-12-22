@@ -1,0 +1,1 @@
+ public void dispose() { debugGui.removeWindow(this); super.dispose(); } 

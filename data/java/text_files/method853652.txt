@@ -1,0 +1,1 @@
+ public void finish() { state |= IS_FLUSHING | IS_FINISHING; } 

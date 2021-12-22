@@ -1,0 +1,1 @@
+ public double radToAm(final double rad) { return rad * RADIAN_ARCSECOND/60.; } 

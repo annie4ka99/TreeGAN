@@ -1,0 +1,1 @@
+ public void length(int value) { super.setUShort(2, value); } 

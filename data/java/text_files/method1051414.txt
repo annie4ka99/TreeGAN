@@ -1,0 +1,1 @@
+ public Adapter createIntervalsAdapter() { return null; } 

@@ -1,0 +1,1 @@
+ public void putInt(String key, int val) { values.put(key, new Integer(val)); } 

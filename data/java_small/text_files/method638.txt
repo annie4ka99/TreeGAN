@@ -1,0 +1,1 @@
+ final private void binaryTreeToBinaryHeap() { byte[] treeDataTemp = new byte[packedBoardByteSize*treeSize]; for (int i=0, indexInVector = 0; i<treeSize; i++) { System.arraycopy(treeData, arrayPointers[i]*packedBoardByteSize, treeDataTemp, indexInVector, packedBoardByteSize); indexInVector += packedBoardByteSize; } treeData = treeDataTemp; arrayPointers = null; } 

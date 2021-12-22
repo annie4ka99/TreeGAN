@@ -1,0 +1,1 @@
+ public List removeListFor(Object key) { return (List) mapToList.remove(key); } 

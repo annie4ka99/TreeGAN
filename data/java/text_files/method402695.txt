@@ -1,0 +1,1 @@
+ public void setProcessErrorStream(InputStream is) throws IOException { errorStream = is; } 

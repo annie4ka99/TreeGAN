@@ -1,0 +1,1 @@
+ public void setSelection(ResourceSelection sel) { selection = sel; } 

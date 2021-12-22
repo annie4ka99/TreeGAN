@@ -1,0 +1,1 @@
+ public void test2() { logTest(); } 

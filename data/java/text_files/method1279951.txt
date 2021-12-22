@@ -1,0 +1,1 @@
+ public JTable getTable(){ JTable table2 = table; return table2; } 

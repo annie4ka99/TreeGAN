@@ -1,0 +1,1 @@
+public void setStartTag(String newValue) { this.startTag = newValue; } 

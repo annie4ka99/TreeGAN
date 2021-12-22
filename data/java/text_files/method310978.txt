@@ -1,0 +1,1 @@
+ public void itemStateChanged(ItemEvent evt) { info2.setText(" "); } 

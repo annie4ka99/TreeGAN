@@ -1,0 +1,1 @@
+ public int getRowCount() { if (dataSet != null) return dataSet.length; else return 0; } 

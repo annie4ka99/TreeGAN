@@ -1,0 +1,1 @@
+ public void flushAndCloseSession(){ session.flush(); session.clear(); registry.cleanupThread(); } 

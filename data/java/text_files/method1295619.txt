@@ -1,0 +1,1 @@
+ public Adapter createOnMessageAdapter() { return null; } 

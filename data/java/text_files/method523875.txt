@@ -1,0 +1,1 @@
+public void setLoaderSleepTime(int newValue) { this.loaderSleepTime = newValue; } 

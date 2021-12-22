@@ -1,0 +1,1 @@
+ public boolean isInfoButtonVisible() { return infoButtonVisible; } 

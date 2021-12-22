@@ -1,0 +1,1 @@
+ public int getMouseX() { return this.mousePosition.x; } 

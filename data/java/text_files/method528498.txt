@@ -1,0 +1,1 @@
+public void setSkeleton(org.epo.jpxi.shared.JpxiDocSkeleton theSkeleton) { docSkeleton = theSkeleton; } 

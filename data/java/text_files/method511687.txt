@@ -1,0 +1,1 @@
+ public void setWkn(int wkn) { this.wkn = wkn; } 

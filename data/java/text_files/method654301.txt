@@ -1,0 +1,1 @@
+ public void ejbPostCreate( java.lang.Integer cityId, java.lang.String name ) throws javax.ejb.CreateException { } 

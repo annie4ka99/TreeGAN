@@ -1,0 +1,1 @@
+ public PropertyIsNullType createPropertyIsNullType() { return new PropertyIsNullType(); } 

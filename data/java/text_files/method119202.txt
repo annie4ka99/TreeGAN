@@ -1,0 +1,1 @@
+ public void setHandleSize(int size) { handleSize = size; } 

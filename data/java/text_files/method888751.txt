@@ -1,0 +1,1 @@
+ protected void addSubfield(NumberField n){ subfields.add(n); subfields.addAll(n.subfields); } 

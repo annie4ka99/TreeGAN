@@ -1,0 +1,1 @@
+ public void setSizeable(boolean flag) { sizeable = flag; } 

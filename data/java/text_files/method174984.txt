@@ -1,0 +1,1 @@
+ protected void setException(Throwable t) { setFailed(t); } 

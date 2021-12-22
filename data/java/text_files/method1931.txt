@@ -1,0 +1,1 @@
+ final public boolean isWall(int x, int y) { return wallsArray[x + width * y] > 0; } 

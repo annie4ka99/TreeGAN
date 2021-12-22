@@ -1,0 +1,1 @@
+ public void testGetZipCode() { assertEquals(zipCode, user.getZipCode()); } 

@@ -1,0 +1,1 @@
+ public DistanceType getDistance() { return distance; } 

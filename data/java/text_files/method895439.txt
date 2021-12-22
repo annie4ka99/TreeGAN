@@ -1,0 +1,1 @@
+ public String getOffsetString() { return ByteToolkit.getHexString(this.offset, 6); } 

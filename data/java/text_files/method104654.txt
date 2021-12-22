@@ -1,0 +1,1 @@
+ public TridasSlope getSlope() { return slope; } 

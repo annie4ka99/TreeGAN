@@ -1,0 +1,1 @@
+ public EntityManager getEm() { return this.manager; } 

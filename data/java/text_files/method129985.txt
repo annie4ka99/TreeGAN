@@ -1,0 +1,1 @@
+ public void removeTask(final AnimationTask task) { chain.remove(task); } 

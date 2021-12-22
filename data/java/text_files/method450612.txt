@@ -1,0 +1,1 @@
+ public void act (GameObject subject, GameObject object) { object.setDestroyedFlag(false); } 

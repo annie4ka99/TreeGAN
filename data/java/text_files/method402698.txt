@@ -1,0 +1,1 @@
+ public void setProcessInputStream(OutputStream os) throws IOException { os.close(); } 

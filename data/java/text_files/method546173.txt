@@ -1,0 +1,1 @@
+ public void setMin(double m) { min = m; updateShape(); } 

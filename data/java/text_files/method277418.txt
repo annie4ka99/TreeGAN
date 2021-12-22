@@ -1,0 +1,1 @@
+ public void setApplication(Application a) { this.application = a; a.addToChain(this); } 

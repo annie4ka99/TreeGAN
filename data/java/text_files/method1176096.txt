@@ -1,0 +1,1 @@
+ public void decelerate(Vector2f direction) { a = a.add(direction.negate()).normalise(); } 

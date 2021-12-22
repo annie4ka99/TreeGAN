@@ -1,0 +1,1 @@
+ public int maxY() { if (h() < 1) return -1; return y() + h() - 1; } 

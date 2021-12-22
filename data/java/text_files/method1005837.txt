@@ -1,0 +1,1 @@
+ public String toString() { return "Point2D.Float["+x+", "+y+"]"; } 

@@ -1,0 +1,1 @@
+ public String getTextSubject() { return textSubject; } 

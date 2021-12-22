@@ -1,0 +1,1 @@
+ public boolean match(Throwable t) { return true; } 

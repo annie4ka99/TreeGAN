@@ -1,0 +1,1 @@
+ public void inAPropertyCallPrimaryExpression(APropertyCallPrimaryExpression node) { selfAllowed = true; } 

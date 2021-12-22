@@ -1,0 +1,1 @@
+ public void testCancel() { entity = service.cancel(entity); } 

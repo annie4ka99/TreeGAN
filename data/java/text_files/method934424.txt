@@ -1,0 +1,1 @@
+ protected void log(String message, Throwable exception) { servlet.log(message, exception); } 

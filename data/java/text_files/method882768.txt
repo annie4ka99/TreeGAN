@@ -1,0 +1,1 @@
+ public void testGetType() { assertSame(s.getType(), om.getTypeByName("Alphabet")); } 

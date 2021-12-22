@@ -1,0 +1,1 @@
+ public QName getRoleAttributeQName() { return roleQName; } 

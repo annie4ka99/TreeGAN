@@ -1,0 +1,1 @@
+ public ILineTracker createLineTracker(Object element) { return new DefaultLineTracker(); } 

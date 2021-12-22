@@ -1,0 +1,1 @@
+ public void clearImage(int x1, int x2) { clearImage(x1, x2, false); } 

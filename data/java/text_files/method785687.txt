@@ -1,0 +1,1 @@
+ public double getEndSize(int row) { return getDouble(row, VisualItem.ENDSIZE); } 

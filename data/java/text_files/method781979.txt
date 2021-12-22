@@ -1,0 +1,1 @@
+ public ResourceSelection getSelection() { return selection; } 

@@ -1,0 +1,1 @@
+ public VisualObject getRootObject() { return rootObj; } 

@@ -1,0 +1,1 @@
+public void setMemberSearched(boolean newMemberSearched) { memberSearched = newMemberSearched; } 

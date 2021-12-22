@@ -1,0 +1,1 @@
+public void newConnectionDown() { manipNbDown(COUNTER_PLUS); } 

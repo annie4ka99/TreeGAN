@@ -1,0 +1,1 @@
+ public boolean isSizeDistorted() { return m_distortSize; } 

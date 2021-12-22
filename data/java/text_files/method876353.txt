@@ -1,0 +1,1 @@
+ public int getField7() { return binaryHeader.getInt(32); } 

@@ -1,0 +1,1 @@
+ public String getResidues(int start, int end) { return getResidues(start, end, ' '); } 

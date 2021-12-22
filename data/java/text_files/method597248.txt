@@ -1,0 +1,1 @@
+ public void ifZCmp(final int mode, final Label label) { mv.visitJumpInsn(mode, label); } 

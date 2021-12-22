@@ -1,0 +1,1 @@
+ public void setGoogleRank(java.lang.Integer googleRank) { this.googleRank = googleRank; } 

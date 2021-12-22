@@ -1,0 +1,1 @@
+ public boolean canCreateItems(){ if (getCreationTypes().size() > 0) return true; return false; } 

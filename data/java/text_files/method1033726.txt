@@ -1,0 +1,1 @@
+ public void setRenamedMethodName(String name) { renamedMethodName = name; } 

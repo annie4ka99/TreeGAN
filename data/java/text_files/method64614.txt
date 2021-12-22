@@ -1,0 +1,1 @@
+ public int getInitialFirstRowHeight() { return -1; } 

@@ -1,0 +1,1 @@
+ public void setInterpFrames(int frames) { interpFrames = frames; } 

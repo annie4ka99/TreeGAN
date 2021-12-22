@@ -1,0 +1,1 @@
+private void setJBpsMonitoring(JBpsMonitoring newJBpsMonitoring) { jBpsMonitoring = newJBpsMonitoring; } 

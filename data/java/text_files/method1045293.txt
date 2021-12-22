@@ -1,0 +1,1 @@
+ public void setKernel(Kernel kernel) { this.kernel = kernel; } 

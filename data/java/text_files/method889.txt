@@ -1,0 +1,1 @@
+ final public String getLURDString() { return getLURDString(0, currentMovementNo); } 

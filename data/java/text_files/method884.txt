@@ -1,0 +1,1 @@
+ final public int getMovementsCount() { return movementHistory.size(); } 

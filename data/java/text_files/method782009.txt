@@ -1,0 +1,1 @@
+ public boolean isMultiple() { return multiple; } 

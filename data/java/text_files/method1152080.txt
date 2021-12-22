@@ -1,0 +1,1 @@
+ public void setBoundaryListener(BoundaryListener listener) { m_boundaryListener = listener; } 

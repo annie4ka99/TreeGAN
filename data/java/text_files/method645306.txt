@@ -1,0 +1,1 @@
+ public void setGuessedCosts(String input) { costGuessedSelf = parseCost(input); } 

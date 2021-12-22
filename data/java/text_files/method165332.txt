@@ -1,0 +1,1 @@
+ public SiteInfo getSiteInfo() { return siteInfo; } 

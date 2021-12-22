@@ -1,0 +1,1 @@
+ protected void disposeNative(long size) { disposeNative0(address, size); } 

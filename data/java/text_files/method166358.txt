@@ -1,0 +1,1 @@
+ public void setSorted(boolean sorted) { comparator = sorted ? new FileNameComparator() : null; } 

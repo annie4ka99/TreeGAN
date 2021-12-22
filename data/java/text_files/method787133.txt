@@ -1,0 +1,1 @@
+ public void setShowResultCount(boolean b) { this.m_includeHitCount = b; initUI(); validate(); } 

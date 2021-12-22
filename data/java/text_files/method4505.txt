@@ -1,0 +1,1 @@
+ public String getSide(){ return new String(this.m_side); } 

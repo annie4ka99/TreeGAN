@@ -1,0 +1,1 @@
+ public void setDirection(float dir){ this.m_direction = dir; } 

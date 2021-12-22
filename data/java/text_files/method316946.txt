@@ -1,0 +1,1 @@
+ protected void updateGame(long currentTime) { if (gameKeys[27]) exit(); } 

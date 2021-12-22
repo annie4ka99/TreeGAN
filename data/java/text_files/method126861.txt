@@ -1,0 +1,1 @@
+ public void back() { if (pointer > 0) { pointer--; } } 

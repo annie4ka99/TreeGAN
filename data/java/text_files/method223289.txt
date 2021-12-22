@@ -1,0 +1,1 @@
+ public void showMe() { pack(); setVisible(true); showOptionsDialog(); } 

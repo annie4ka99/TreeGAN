@@ -1,0 +1,1 @@
+ private boolean editorExistsFor(Object model) { return currentModels.contains(model); } 

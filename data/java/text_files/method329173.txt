@@ -1,0 +1,1 @@
+ public void notifyObservers(boolean immediate) { if (immediate) { lastNotification = 0; } notifyObservers(); } 

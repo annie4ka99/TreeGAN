@@ -1,0 +1,1 @@
+ public boolean supportForeignKeys() { return true; } 

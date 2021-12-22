@@ -1,0 +1,1 @@
+ public void addGraphModelListener(GraphModelListener l) { listenerList.add(GraphModelListener.class, l); } 

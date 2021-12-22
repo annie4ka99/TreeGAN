@@ -1,0 +1,1 @@
+ public void setTeam2HomeAway(double value) { this.Team2HomeAway.setText(this.generateText(value)); } 

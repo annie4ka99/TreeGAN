@@ -1,0 +1,1 @@
+ public void setnewRunPack(RunPack newRunPack) { this.newRunPack = newRunPack; } 

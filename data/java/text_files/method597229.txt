@@ -1,0 +1,1 @@
+ public void ifICmp(final int mode, final Label label) { ifCmp(Type.INT_TYPE, mode, label); } 

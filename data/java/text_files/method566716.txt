@@ -1,0 +1,1 @@
+ public boolean ping(final boolean fwd) { synchronized (this) { return ping_i(fwd); } } 

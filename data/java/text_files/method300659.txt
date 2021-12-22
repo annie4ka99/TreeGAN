@@ -1,0 +1,1 @@
+ public String getImageLink() { return new String( this.strImageLink ); } 

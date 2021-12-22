@@ -1,0 +1,1 @@
+ public StringBuilder appendCodePoint(int codePoint) { return this.buffer.appendCodePoint(codePoint); } 

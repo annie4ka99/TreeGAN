@@ -1,0 +1,1 @@
+ public int getPlays() { return getWins() + getLoses() + getDraws(); } 

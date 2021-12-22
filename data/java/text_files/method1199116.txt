@@ -1,0 +1,1 @@
+ public int getImageRestriction() { return imageRestrict; } 

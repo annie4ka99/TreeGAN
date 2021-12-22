@@ -1,0 +1,1 @@
+ public void setDestinationClass(Class destClass) { this.destClass = destClass; } 

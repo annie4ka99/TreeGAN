@@ -1,0 +1,1 @@
+ public String getNameFormat() { return nameFormat; } 

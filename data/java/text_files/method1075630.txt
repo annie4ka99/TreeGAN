@@ -1,0 +1,1 @@
+ public int getCityCd() { return cityCd; } 

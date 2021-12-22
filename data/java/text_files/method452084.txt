@@ -1,0 +1,1 @@
+ public void setCabeceras(java.lang.String[] cabeceras) { this.cabeceras = cabeceras; } 

@@ -1,0 +1,1 @@
+ public void setMaxSlots(int slotnum) { max_slots_allowed = Math.max(slotnum, 0); } 

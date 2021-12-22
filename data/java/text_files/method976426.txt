@@ -1,0 +1,1 @@
+ public CacheHolderDetail getCacheDetails(boolean maybenew) { return getCacheDetails(maybenew, true); } 

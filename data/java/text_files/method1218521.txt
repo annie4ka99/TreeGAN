@@ -1,0 +1,1 @@
+ public void stop() { if (mSensorMgr != null) { mSensorMgr.unregisterListener(this); mSensorMgr = null; } } 

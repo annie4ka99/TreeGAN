@@ -1,0 +1,1 @@
+ public long optLong(String key) { return optLong(key, 0); } 

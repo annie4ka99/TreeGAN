@@ -1,0 +1,1 @@
+ public void setStake(Double stake) { this.stake = stake; } 

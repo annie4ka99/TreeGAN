@@ -1,0 +1,1 @@
+ public void setKnownHost(boolean knownHost) { this.knownHost = knownHost; } 

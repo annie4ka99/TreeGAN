@@ -1,0 +1,1 @@
+ public void setSmsnummer(java.lang.String smsnummer) { this.smsnummer = smsnummer; } 

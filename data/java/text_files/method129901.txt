@@ -1,0 +1,1 @@
+ public void addObject(final VisualObject vo) { rootObj.add(vo); viewPane.repaint(); } 

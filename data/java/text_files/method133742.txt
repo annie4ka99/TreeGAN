@@ -1,0 +1,1 @@
+ public void addTier(MapTierGlyph mtg) { addTier(mtg, false); } 

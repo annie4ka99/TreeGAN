@@ -1,0 +1,1 @@
+ public void setMaxrepeat(java.lang.Long maxrepeat) { this.maxrepeat = maxrepeat; } 

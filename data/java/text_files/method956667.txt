@@ -1,0 +1,1 @@
+ public DescribeRecordResponseType createDescribeRecordResponseType() { return new DescribeRecordResponseType(); } 

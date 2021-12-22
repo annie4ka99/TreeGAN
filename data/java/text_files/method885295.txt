@@ -1,0 +1,1 @@
+ public void setSimpleLink(Link l) { super.setSimpleLink(l); updateTitleAndButton(); } 

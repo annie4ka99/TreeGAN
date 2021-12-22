@@ -1,0 +1,1 @@
+ public AdhocQueryQueryType createAdhocQueryQueryType() { return new AdhocQueryQueryType(); } 

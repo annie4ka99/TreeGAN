@@ -1,0 +1,1 @@
+ public SOAPElement createElement(Name name) throws SOAPException { return new MessageElement(name); } 

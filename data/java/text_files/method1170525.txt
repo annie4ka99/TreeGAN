@@ -1,0 +1,1 @@
+ public int getDifficultyIndex() { return diffIndex; } 

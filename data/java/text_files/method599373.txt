@@ -1,0 +1,1 @@
+ public BigIntegerCrypto not() { return bitOp(12, this, ZERO); } 

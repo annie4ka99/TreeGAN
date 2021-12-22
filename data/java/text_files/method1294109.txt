@@ -1,0 +1,1 @@
+ public void setOperationName(String operationName) { this.operationName = operationName; } 

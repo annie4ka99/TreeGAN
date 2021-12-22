@@ -1,0 +1,1 @@
+ public Map getEnvMap() { return scenario.getEnvMap(); } 

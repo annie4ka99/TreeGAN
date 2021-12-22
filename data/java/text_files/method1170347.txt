@@ -1,0 +1,1 @@
+ public boolean shouldPetBeUsed() { return selectedPet != null; } 

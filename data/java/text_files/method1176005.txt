@@ -1,0 +1,1 @@
+ public boolean mustRender() { return (renderComponents.size() > 0); } 

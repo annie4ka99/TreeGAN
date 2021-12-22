@@ -1,0 +1,1 @@
+ public DirectPositionListType getPosList() { return posList; } 

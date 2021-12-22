@@ -1,0 +1,1 @@
+public void setHeaderDate(String newValue) { this.headerDate = newValue; } 

@@ -1,0 +1,1 @@
+ private void registerIAuditLog(IAuditLog iAuditLog) { this.iAuditLog = iAuditLog; } 

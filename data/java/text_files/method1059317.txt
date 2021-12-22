@@ -1,0 +1,1 @@
+ public void performDirectEdit(Request req) { initLabelEditManager(); manager.show(); } 

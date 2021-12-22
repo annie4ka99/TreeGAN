@@ -1,0 +1,1 @@
+ public Card getSourceCard() { return ability.getSourceCard(); } 

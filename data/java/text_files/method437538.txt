@@ -1,0 +1,1 @@
+ public int hashCode() { return cell.hashCode() + getValue().hashCode(); } 

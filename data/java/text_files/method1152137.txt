@@ -1,0 +1,1 @@
+ public boolean isDynamic(){ return m_type == e_dynamicType; } 

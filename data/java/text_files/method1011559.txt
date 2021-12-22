@@ -1,0 +1,1 @@
+ public boolean getPackLsbFirst() { return this.packLsbFirst; } 

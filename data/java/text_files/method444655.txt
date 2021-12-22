@@ -1,0 +1,1 @@
+ public void visitAtom(Atom expr) { idRelations.add(expr.getIdentifier()); } 

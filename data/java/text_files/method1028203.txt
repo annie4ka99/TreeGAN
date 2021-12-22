@@ -1,0 +1,1 @@
+ public void setJobFailedMessage(String jobFailedMessage) { this.jobFailedMessage = jobFailedMessage; } 

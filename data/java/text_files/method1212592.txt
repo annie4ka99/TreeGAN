@@ -1,0 +1,1 @@
+ public TypeNumber getTypeNumber() { return typeNumber; } 

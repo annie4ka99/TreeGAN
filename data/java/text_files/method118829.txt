@@ -1,0 +1,1 @@
+ protected Object getFocusedCell() { if (focus != null) return focus.getCell(); return null; } 

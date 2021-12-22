@@ -1,0 +1,1 @@
+ public int getSeriesRendererCount() { return mRenderers.size(); } 

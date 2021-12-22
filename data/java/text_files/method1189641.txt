@@ -1,0 +1,1 @@
+ public void flush(int lsn) { if (lsn >= currentLSN()) flush(); } 

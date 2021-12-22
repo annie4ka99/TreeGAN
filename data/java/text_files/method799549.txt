@@ -1,0 +1,1 @@
+ public void setFontData( FontData fontData ) { Util.notNull( fontData ); this.fontData = fontData; } 

@@ -1,0 +1,1 @@
+ public RID getDataRid() { return contents.getDataRid(currentslot); } 

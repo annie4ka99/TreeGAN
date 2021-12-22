@@ -1,0 +1,1 @@
+ public String getCurationLocation() { return curationLocation; } 

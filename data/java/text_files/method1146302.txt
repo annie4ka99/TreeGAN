@@ -1,0 +1,1 @@
+ public void removeZone(GraphicsZone gZone) { positionZoneMap.remove(gZone); } 

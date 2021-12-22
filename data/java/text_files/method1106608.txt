@@ -1,0 +1,1 @@
+ public Point getPointAt(int index)throws ArrayIndexOutOfBoundsException{ return Points.elementAt(index); } 

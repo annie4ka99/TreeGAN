@@ -1,0 +1,1 @@
+ public RegistryObjectListType createRegistryObjectListType() { return new RegistryObjectListType(); } 

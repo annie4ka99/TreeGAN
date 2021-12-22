@@ -1,0 +1,1 @@
+ public void setSearchMode(int searchMode) { this.searchMode = searchMode; } 

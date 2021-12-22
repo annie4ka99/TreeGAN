@@ -1,0 +1,1 @@
+ public void setReferencesEnabled(boolean enabled) { _areReferencesEnabled = enabled; } 

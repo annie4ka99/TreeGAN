@@ -1,0 +1,1 @@
+ protected void proceedHash(byte[] b, long offset) { proceedHash(b, offset, b.length); } 

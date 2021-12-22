@@ -1,0 +1,1 @@
+ public void setEntity(String entity) { this.entity = entity; } 

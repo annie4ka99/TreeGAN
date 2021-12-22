@@ -1,0 +1,1 @@
+ public boolean getForceQualifier() { return userSettings.ForceQualifier; } 

@@ -1,0 +1,1 @@
+ public void addUnEquipCommand(Command c) { unEquipCommandList.add(c); } 

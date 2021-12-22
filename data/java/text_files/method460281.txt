@@ -1,0 +1,1 @@
+ public void setOrg(HomeCommunityType value) { this.org = value; } 

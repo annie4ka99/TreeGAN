@@ -1,0 +1,1 @@
+ public XmlPullParser parser() { return _parser; } 

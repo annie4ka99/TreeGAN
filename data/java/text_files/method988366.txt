@@ -1,0 +1,1 @@
+ public void setAttachedToId(int attachedToId) { this.attachedToId = attachedToId; } 

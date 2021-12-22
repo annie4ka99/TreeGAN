@@ -1,0 +1,1 @@
+ public void updatePhysics() { if (physicalRepresentation != null) { physicalRepresentation.updatePhysics(); } } 

@@ -1,0 +1,1 @@
+ public void setKp (double newKp) { this.kp = newKp; } 

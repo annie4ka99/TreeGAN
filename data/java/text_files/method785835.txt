@@ -1,0 +1,1 @@
+ public IntIterator rows(Predicate filter) { return FilterIteratorFactory.rows(this, filter); } 

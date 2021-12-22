@@ -1,0 +1,1 @@
+ public void testDecode(StringBuffer inputBuffer) { decodeData(inputBuffer); } 

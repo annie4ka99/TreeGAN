@@ -1,0 +1,1 @@
+ public AnyValueType createAnyValueType() { return new AnyValueType(); } 

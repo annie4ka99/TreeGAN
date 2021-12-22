@@ -1,0 +1,1 @@
+ public OptionTreeNode getSelectedGroup() { return (OptionTreeNode) tree.getSelectionPath().getLastPathComponent(); } 

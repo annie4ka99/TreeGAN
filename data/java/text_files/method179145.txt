@@ -1,0 +1,1 @@
+ public Node getSource(Edge e) { if (contains(e)) { return e.source(); } return null; } 

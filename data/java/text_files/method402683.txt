@@ -1,0 +1,1 @@
+ public void setCpu(final CPUEnum value) { if (isReference()) { throw tooManyAttributes(); } cpu = value; } 

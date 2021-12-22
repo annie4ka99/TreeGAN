@@ -1,0 +1,1 @@
+ public GeneratedFileInfo getGeneratedFileInfo() { return fileInfo; } 

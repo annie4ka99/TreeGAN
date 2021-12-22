@@ -1,0 +1,1 @@
+ public void setFilterByAll() { this.removeFilterFlags(); this.addFlag( FLAG_FILTER_BY_ALL ) ; } 

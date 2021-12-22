@@ -1,0 +1,1 @@
+ public void characters(char buf[], int offset, int len) throws SAXException { } 

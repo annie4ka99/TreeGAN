@@ -1,0 +1,1 @@
+ public void setAverageTSI(int avgTSI) { this.avgTSI = avgTSI; } 

@@ -1,0 +1,1 @@
+ public void setSignatureValue(byte[] value) { this.signatureValue = ((byte[]) value); } 

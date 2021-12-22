@@ -1,0 +1,1 @@
+ public void setState(final int theState) { this.state = theState; } 

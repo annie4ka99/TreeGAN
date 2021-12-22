@@ -1,0 +1,1 @@
+ public void setAnnotation(int a) { annotation = a; } 

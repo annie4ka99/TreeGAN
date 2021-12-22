@@ -1,0 +1,1 @@
+ public void setSearchAlgorithm(int searchAlgorithm) { this.searchAlgorithm = searchAlgorithm; } 

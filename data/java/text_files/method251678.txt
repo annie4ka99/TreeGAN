@@ -1,0 +1,1 @@
+ public void disableSelectorResponse(boolean isDisabled) { isSelectorResponse = !isDisabled; } 

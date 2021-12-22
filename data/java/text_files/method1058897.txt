@@ -1,0 +1,1 @@
+ public PapyrusDefinitionAnnotation getPapyrusDefinitionAnnotation() { return papyrusDefinitionAnnotation; } 

@@ -1,0 +1,1 @@
+ public boolean isDirectory() { return (fileType == DIRECTORY); } 

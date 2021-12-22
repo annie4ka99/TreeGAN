@@ -1,0 +1,1 @@
+ public void refreshAll(java.util.Collection pcs) { refreshAll(pcs.toArray()); } 

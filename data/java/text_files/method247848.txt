@@ -1,0 +1,1 @@
+ public void setHeaderField(String key, String value) { headers.put(key.toLowerCase(), value); } 

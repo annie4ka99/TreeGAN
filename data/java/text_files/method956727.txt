@@ -1,0 +1,1 @@
+ public GetRecordByIdType createGetRecordByIdType() { return new GetRecordByIdType(); } 

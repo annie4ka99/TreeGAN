@@ -1,0 +1,1 @@
+ public long getCurrentTime() { return (long) time; } 

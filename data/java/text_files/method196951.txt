@@ -1,0 +1,1 @@
+ public void setDistanceToSwimmingPool(int swimmingPool) { this.swimmingPool = swimmingPool; } 

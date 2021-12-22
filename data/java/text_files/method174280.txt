@@ -1,0 +1,1 @@
+ public int getFilterMask() { return filterMask; } 

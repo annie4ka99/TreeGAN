@@ -1,0 +1,1 @@
+ public void setProperty(String key, String value) { this.setProperty(config, key, value); } 

@@ -1,0 +1,1 @@
+private void setLocation(java.lang.String newLocation) { location = newLocation; } 

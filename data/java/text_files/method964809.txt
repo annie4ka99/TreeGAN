@@ -1,0 +1,1 @@
+ protected double getDialogBaseUnitsX(Component component) { return getDialogBaseUnits(component).x; } 

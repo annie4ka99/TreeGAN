@@ -1,0 +1,1 @@
+ public void debugPrintSolverStructs() { debugPrintSolverStructs(System.out); } 

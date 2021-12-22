@@ -1,0 +1,1 @@
+ public boolean accepts(char c){ return (set_.get(c) || next_.accepts(c)); } 

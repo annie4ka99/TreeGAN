@@ -1,0 +1,1 @@
+ public void setValidated(int row, boolean value) { setBoolean(row, VisualItem.VALIDATED, value); } 

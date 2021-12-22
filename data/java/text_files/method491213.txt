@@ -1,0 +1,1 @@
+ public boolean more() { return this.myIndex < this.mySource.length(); } 

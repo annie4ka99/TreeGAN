@@ -1,0 +1,1 @@
+ public void testGetBirthDate() { assertEquals(birthDate, user.getBirthDate()); } 

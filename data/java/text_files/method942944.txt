@@ -1,0 +1,1 @@
+ public void setLicenseId(BigDecimal licenseId) { this.licenseId = licenseId; } 

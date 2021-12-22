@@ -1,0 +1,1 @@
+ public void start_logging() { get_logger().setLevel(last_level); } 

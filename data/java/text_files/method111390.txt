@@ -1,0 +1,1 @@
+ public void setExternalPayment(String iExternalPayment) { externalPayment = iExternalPayment; } 

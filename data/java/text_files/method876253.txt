@@ -1,0 +1,1 @@
+ public void setDisplayPicutre(MsnObject displayPicture) { this.displayPicture = displayPicture; } 

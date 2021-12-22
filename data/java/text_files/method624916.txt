@@ -1,0 +1,1 @@
+ public void testExistsOperation() throws Exception { this.evaluate("exists_op.ocl"); } 

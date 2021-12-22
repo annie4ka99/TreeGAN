@@ -1,0 +1,1 @@
+ public Vector getSelectedObjects( ) { Vector selObjs = new Vector( ); return selObjs; } 

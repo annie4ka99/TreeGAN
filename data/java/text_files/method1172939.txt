@@ -1,0 +1,1 @@
+ public SpellAbility getAbility() { return ability; } 

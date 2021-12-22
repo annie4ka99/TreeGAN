@@ -1,0 +1,1 @@
+ public int getHitDice() { return characterLevel; } 

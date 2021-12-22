@@ -1,0 +1,1 @@
+ public boolean canSetDouble() { return canSet(double.class); } 

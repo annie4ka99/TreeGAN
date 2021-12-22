@@ -1,0 +1,1 @@
+ public void addIntField(String fldname) { addField(fldname, INTEGER, 0); } 

@@ -1,0 +1,1 @@
+ protected int getMaxAddressibleGenomicLocation() { return BIN_GENOMIC_SPAN; } 

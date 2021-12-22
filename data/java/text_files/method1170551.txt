@@ -1,0 +1,1 @@
+ public void setRemoveSubTypes(boolean removeSubTypes) { this.removeSubTypes = removeSubTypes; } 

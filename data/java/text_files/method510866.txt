@@ -1,0 +1,1 @@
+ public Complex pow(double d) { Complex a=(this.log()).multiply(d); return a.exp(); } 

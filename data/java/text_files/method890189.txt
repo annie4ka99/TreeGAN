@@ -1,0 +1,1 @@
+ public long getValue() { return Runtime.getRuntime().freeMemory(); } 

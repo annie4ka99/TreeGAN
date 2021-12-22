@@ -1,0 +1,1 @@
+ public void setBlockHashes(Hashes[] blockHashes) { this.blockHashes = blockHashes; } 

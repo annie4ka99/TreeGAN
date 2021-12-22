@@ -1,0 +1,1 @@
+ public void chooseTargetAI() { randomTarget.execute(this); } 

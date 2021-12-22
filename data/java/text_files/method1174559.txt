@@ -1,0 +1,1 @@
+ public void setScalingType(ScalingType scalingType) { this.scalingType = scalingType; } 

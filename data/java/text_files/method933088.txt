@@ -1,0 +1,1 @@
+ public ModuleConfig createModuleConfig(String prefix) { return new ModuleConfigImpl(prefix); } 

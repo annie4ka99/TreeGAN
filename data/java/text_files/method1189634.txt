@@ -1,0 +1,1 @@
+ public Constant evaluate(Scan s) { return s.getVal(fldname); } 

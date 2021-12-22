@@ -1,0 +1,1 @@
+ protected long doGetLength() { if (file.isDirectory()) { return 0L; } else { return file.length(); } } 

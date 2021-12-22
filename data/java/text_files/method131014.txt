@@ -1,0 +1,1 @@
+ private short read () { return read (0, 0); } 

@@ -1,0 +1,1 @@
+ public int getThisClass() { return this.thisClass; } 

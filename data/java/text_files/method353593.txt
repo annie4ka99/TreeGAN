@@ -1,0 +1,1 @@
+ protected void setToolbarComponent(Component toolbarComponent) { this.toolbarComponent = toolbarComponent; } 

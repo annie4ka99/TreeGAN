@@ -1,0 +1,1 @@
+ public TotalNetworkPanel getTotalPane() { return m_Totalpane; } 

@@ -1,0 +1,1 @@
+ public void setLocationZ(double locationZ) { this.locationZ = locationZ; } 

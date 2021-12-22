@@ -1,0 +1,1 @@
+ public ResultDescription getResultDescription() { return activation.getResultDescription(); } 

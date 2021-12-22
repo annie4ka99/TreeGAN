@@ -1,0 +1,1 @@
+ public void setBasedir (File basedir) { this.basedir = basedir; } 

@@ -1,0 +1,1 @@
+ public Object getSecondObject() { return this.second; } 

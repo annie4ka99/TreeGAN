@@ -1,0 +1,1 @@
+ public void write(ByteBuffer buffer) { buffer.put(_mask); } 

@@ -1,0 +1,1 @@
+ public void setContext(ScriptContext context) { this.context = context; } 

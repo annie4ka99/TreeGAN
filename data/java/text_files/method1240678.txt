@@ -1,0 +1,1 @@
+ public QName getQName() { return new QName(namespaceURI, name); } 

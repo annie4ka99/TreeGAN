@@ -1,0 +1,1 @@
+ public void addMember(ProjectMember member) { this.members.add(member); } 

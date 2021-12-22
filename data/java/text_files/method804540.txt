@@ -1,0 +1,1 @@
+ public void setRI(java.lang.String RI) { this.RI = RI; } 

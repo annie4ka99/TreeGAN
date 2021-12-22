@@ -1,0 +1,1 @@
+ public void beforeFirst() { s.beforeFirst(); s.next(); resetIndex(); } 

@@ -1,0 +1,1 @@
+ public Collection getJugador2() { return jugador2; } 

@@ -1,0 +1,1 @@
+ public void openPrintDialog() { if (printAction != null) { printAction.actionPerformed(null); } } 

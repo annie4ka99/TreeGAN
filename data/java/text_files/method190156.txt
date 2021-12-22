@@ -1,0 +1,1 @@
+ public Entry getLastEntry() { return _lastPos.getEntry(); } 

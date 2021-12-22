@@ -1,0 +1,1 @@
+ public boolean removeStat(Stat stat) { return stats.remove(stat); } 

@@ -1,0 +1,1 @@
+ synchronized public int getIddleTime() { return this.iddleTime; } 

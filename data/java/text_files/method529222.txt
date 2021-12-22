@@ -1,0 +1,1 @@
+ public void removeListener(SettingsListener listener) { listeners.remove(listener); } 

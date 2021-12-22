@@ -1,0 +1,1 @@
+ public boolean isFirst() throws SQLException { return this.currentPositionInEntireResult == 0; } 

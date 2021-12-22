@@ -1,0 +1,1 @@
+ public int hashCode() { return (int) ((peer >>> 32) + (peer & 0xFFFFFFFF)); } 

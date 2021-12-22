@@ -1,0 +1,1 @@
+ public boolean isAddedCell() { return areNew[0]; } 

@@ -1,0 +1,1 @@
+ public void setMaxRunning(java.lang.Integer maxRunning) { this.maxRunning = maxRunning; } 

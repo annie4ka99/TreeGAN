@@ -1,0 +1,1 @@
+ public void visitD2I(D2I o){ stack().pop(); stack().push(Type.INT); } 

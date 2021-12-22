@@ -1,0 +1,1 @@
+ public XYSeries getSeriesAt(int index) { return mSeries.get(index); } 

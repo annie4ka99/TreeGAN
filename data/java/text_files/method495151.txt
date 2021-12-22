@@ -1,0 +1,1 @@
+ public Shape3D getShape(SubEntity key) { return entityToShape.get(key); } 

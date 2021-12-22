@@ -1,0 +1,1 @@
+ public GPInternalFrame getInternalFrame() { return internalFrame; } 

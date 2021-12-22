@@ -1,0 +1,1 @@
+ public Component getComboBox() { return this.comboBox; } 

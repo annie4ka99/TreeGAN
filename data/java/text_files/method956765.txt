@@ -1,0 +1,1 @@
+ public InsertType createInsertType() { return new InsertType(); } 

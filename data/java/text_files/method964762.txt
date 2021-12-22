@@ -1,0 +1,1 @@
+ public ConstantSize getTabbedDialogMarginX() { return TABBED_DIALOG_MARGIN_X; } 

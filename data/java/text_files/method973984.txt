@@ -1,0 +1,1 @@
+ public void setProfit(Double profit) { this.profit = profit; } 

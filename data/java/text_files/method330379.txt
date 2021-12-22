@@ -1,0 +1,1 @@
+ public double getSpeedMetric() { return speed * METERSPERMILE / 3600; } 

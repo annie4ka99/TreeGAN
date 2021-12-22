@@ -1,0 +1,1 @@
+ public boolean isDefault() { return (this == getDisc().defaultCla); } 

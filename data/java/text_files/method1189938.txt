@@ -1,0 +1,1 @@
+ public RemoteStatement createStatement() throws RemoteException { return new RemoteStatementImpl(this); } 

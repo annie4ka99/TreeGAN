@@ -1,0 +1,1 @@
+ public DeviceProperty getDevicePropertyModel(){ return devicePropertyModel; } 

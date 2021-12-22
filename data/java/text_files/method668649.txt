@@ -1,0 +1,1 @@
+ public byte getByte() { return (byte) readInteger(-128L, 127L); } 

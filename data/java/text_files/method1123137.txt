@@ -1,0 +1,1 @@
+ public int search(String s) { return search(s.toCharArray()); } 

@@ -1,0 +1,1 @@
+ public int produceStack(ConstantPoolGen cpg) { return getReturnType(cpg).getSize(); } 

@@ -1,0 +1,1 @@
+ public CollectionMgr getCollectionMgr() { logger.debug("entering getCollectionMgr"); return collMgr; } 

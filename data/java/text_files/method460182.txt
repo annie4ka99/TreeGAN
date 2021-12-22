@@ -1,0 +1,1 @@
+ public void setRequest(String value) { this.request = value; } 

@@ -1,0 +1,1 @@
+ public BufferedImage getBackGroundImage() { return bgImage; } 

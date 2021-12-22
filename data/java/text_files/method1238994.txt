@@ -1,0 +1,1 @@
+ public void setChunkSize(int chunkSize) { this.chunkSize = chunkSize; } 

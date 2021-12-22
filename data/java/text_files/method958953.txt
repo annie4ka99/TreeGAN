@@ -1,0 +1,1 @@
+ public void setNivelJ(String nivelJ) { this.nivelJ = nivelJ; } 

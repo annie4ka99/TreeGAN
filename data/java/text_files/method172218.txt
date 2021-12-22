@@ -1,0 +1,1 @@
+ protected int updatePosition(int offset, int max_offset) { i_position += offset; return 0; } 

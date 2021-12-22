@@ -1,0 +1,1 @@
+ public String getUpdateClass() { return "br.com.devin.gpwm.query.UpdateDBImpl"; } 

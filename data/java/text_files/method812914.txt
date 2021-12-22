@@ -1,0 +1,1 @@
+ public CommandStack getCommandStack() { return getEditDomain().getCommandStack(); } 

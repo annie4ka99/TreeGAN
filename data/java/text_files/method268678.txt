@@ -1,0 +1,1 @@
+ public double getMinutes() { double v = value; v -= getDegrees(); return 60 * v; } 

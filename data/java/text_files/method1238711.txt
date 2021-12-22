@@ -1,0 +1,1 @@
+ public boolean isWrapped() { return wrapped; } 

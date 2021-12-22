@@ -1,0 +1,1 @@
+ protected void setContext(String value) { context = value; } 

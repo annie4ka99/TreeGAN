@@ -1,0 +1,1 @@
+ public int selectedSize() { return workSet.size(); } 

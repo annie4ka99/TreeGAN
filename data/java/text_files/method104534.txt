@@ -1,0 +1,1 @@
+ public void setPostalCode(String value) { this.postalCode = value; } 

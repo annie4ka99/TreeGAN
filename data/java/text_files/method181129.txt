@@ -1,0 +1,1 @@
+ private String evaluate(DbNlsString nls) { return nls.getValue(locale); } 

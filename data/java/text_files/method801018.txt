@@ -1,0 +1,1 @@
+ public void setMoleculeChanged(boolean moleculeChanged) { this.moleculeChanged = moleculeChanged; } 

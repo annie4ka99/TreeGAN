@@ -1,0 +1,1 @@
+ public void addFunctionClosure( AVM2Method func ) { methods_internal.add( func ); } 

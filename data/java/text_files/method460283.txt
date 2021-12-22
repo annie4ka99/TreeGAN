@@ -1,0 +1,1 @@
+ public CeType getNameType() { return nameType; } 

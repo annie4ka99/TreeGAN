@@ -1,0 +1,1 @@
+ public boolean hasHTranslationMapper() { return hTranslationMapper!=null; } 

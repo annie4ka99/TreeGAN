@@ -1,0 +1,1 @@
+ public boolean remove(Action a) { return m_actions.remove(a); } 

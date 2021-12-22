@@ -1,0 +1,1 @@
+public JBpaService getServerInst() { return serverInst; } 

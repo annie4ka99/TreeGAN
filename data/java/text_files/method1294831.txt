@@ -1,0 +1,1 @@
+ public void setTarget(Notifier newTarget) { if ( isStatefull() ) { target = newTarget; } } 

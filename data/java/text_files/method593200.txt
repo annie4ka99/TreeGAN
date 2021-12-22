@@ -1,0 +1,1 @@
+ public void clearError() { this.errorCode = null; this.errorMessage = null; } 

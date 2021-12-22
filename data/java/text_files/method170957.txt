@@ -1,0 +1,1 @@
+ public void accept(Visitor v) { System.err.println("Visiting non-standard PMGClass object"); } 

@@ -1,0 +1,1 @@
+ public int size() { return ((FastMap) _mapRef.get()).size(); } 

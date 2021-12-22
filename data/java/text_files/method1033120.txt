@@ -1,0 +1,1 @@
+ public void setFirstCharOfQuery(char c) { this.firstCharOfQuery = c; } 

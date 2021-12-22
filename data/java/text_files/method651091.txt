@@ -1,0 +1,1 @@
+ public void visit(istruzione n, A argu) { n.f0.accept(this, argu); } 

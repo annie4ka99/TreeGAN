@@ -1,0 +1,1 @@
+ public void removePropertyChangeListener(PropertyChangeListener l) { propertyChangeListeners.remove(l); } 

@@ -1,0 +1,1 @@
+ public void run(Socket socket) { synchronized(lock) { nextSocket = socket; lock.notify(); } Thread.yield(); } 

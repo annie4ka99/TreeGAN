@@ -1,0 +1,1 @@
+ public void setAttributeName(String aAttributeName) { mAttributeName = aAttributeName; } 

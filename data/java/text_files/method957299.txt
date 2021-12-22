@@ -1,0 +1,1 @@
+ public AngleType getEndAngle() { return endAngle; } 

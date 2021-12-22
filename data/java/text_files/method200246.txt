@@ -1,0 +1,1 @@
+ public boolean allCanRead() { return worldPermissions.getRead(); } 

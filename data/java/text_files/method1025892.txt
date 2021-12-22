@@ -1,0 +1,1 @@
+ public LNumber unsupportedMathOp() { throw new LuaErrorException("math op not supported on "+getName()); } 

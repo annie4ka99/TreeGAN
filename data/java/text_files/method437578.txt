@@ -1,0 +1,1 @@
+ public void packColumns() { for (int i = 0; i < getColumnCount(); i++) packColumn(i); } 

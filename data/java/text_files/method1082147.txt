@@ -1,0 +1,1 @@
+ public void setMonitorPainter(paint.Painter arg1) { getMonitor().setPainter(arg1); } 

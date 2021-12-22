@@ -1,0 +1,1 @@
+ public void setVisibilityMapper(JDValueProgram m) { visibilityMapper=m; } 

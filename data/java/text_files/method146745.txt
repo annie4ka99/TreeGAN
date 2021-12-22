@@ -1,0 +1,1 @@
+ public void setSortOrder(int sortOrder) { this.sortOrder = Math.abs(sortOrder); } 

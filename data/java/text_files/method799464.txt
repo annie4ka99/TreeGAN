@@ -1,0 +1,1 @@
+ public StyledTextPrint newline() { return append( new LineBreakPrint( style.getFontData() ) ); } 

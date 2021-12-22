@@ -1,0 +1,1 @@
+ public void setMappingResources(List mappingResources) { this.mappingResources = mappingResources; } 

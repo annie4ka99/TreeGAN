@@ -1,0 +1,1 @@
+ public int endOffset(int group){ return (group == 0 ? __matchBeginOffset + __length : -1); } 

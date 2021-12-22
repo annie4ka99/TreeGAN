@@ -1,0 +1,1 @@
+ public String getDefaultValue(){ return uml2Property.getDefault(); } 

@@ -1,0 +1,1 @@
+ public int getColumnCount() { log.debug("colCount = " + columnName.length); return columnName.length; } 

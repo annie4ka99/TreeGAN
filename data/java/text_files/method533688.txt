@@ -1,0 +1,1 @@
+ public void setMinDeviation(double newMin) { minDeviation = newMin; } 

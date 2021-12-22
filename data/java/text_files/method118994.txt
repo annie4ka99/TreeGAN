@@ -1,0 +1,1 @@
+ public EdgeRenderer getEdgeRenderer() { return (EdgeRenderer) getRenderer(); } 

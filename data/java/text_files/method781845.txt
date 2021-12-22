@@ -1,0 +1,1 @@
+ public Iterator getCurrentIterator() { return this.current.iterator(); } 

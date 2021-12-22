@@ -1,0 +1,1 @@
+ public void setI(boolean b) { I = b; } 

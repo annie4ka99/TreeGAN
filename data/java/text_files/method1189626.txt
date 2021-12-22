@@ -1,0 +1,1 @@
+ public Constant asConstant() { throw new ClassCastException(); } 

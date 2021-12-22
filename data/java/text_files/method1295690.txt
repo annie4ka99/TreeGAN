@@ -1,0 +1,1 @@
+ public Adapter createSourcesAdapter() { return null; } 

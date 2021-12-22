@@ -1,0 +1,1 @@
+ public void setLabel(String label) { myGridFace.setLabel(label); } 

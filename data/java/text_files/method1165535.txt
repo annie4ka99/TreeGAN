@@ -1,0 +1,1 @@
+ public void setSinceId(long sinceId) { this.sinceId = sinceId; } 

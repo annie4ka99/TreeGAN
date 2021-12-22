@@ -1,0 +1,1 @@
+ public CircleByCenterPointType createCircleByCenterPointType() { return new CircleByCenterPointType(); } 

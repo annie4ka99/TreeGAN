@@ -1,0 +1,1 @@
+ public void setBaseLoyalty(int n) { baseLoyalty = n; } 

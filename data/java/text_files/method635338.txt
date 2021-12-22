@@ -1,0 +1,1 @@
+ public void addToRecipient(String recipient) { toRecipients.add(recipient); } 

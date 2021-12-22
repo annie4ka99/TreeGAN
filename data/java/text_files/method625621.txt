@@ -1,0 +1,1 @@
+ public void setFromSystemProperties() { setFromProperties(System.getProperties()); } 

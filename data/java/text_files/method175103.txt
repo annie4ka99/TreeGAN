@@ -1,0 +1,1 @@
+ public boolean isFair() { return sync instanceof FairSync; } 

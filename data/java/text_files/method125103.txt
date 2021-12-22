@@ -1,0 +1,1 @@
+ public boolean isGui() { return gui; } 

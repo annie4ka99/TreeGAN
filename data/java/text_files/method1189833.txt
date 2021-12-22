@@ -1,0 +1,1 @@
+ public int offset(String fldname) { return offsets.get(fldname); } 

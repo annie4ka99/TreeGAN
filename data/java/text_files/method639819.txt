@@ -1,0 +1,1 @@
+ public void autoOccurAllTransitions(boolean BackWard) { backward = BackWard; new Thread(this).start(); } 

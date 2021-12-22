@@ -1,0 +1,1 @@
+ protected void deviceError(String s, Throwable t) { propChanges.fireReadErrorEvent(this, t); } 

@@ -1,0 +1,1 @@
+ public EnumScreenType getType() { return type; } 

@@ -1,0 +1,1 @@
+ public void setDistance(double distance){ lookAtVector.scale(distance/lookAtVector.length()); } 

@@ -1,0 +1,1 @@
+ public void visitF2D(F2D o){ stack().pop(); stack().push(Type.DOUBLE); } 

@@ -1,0 +1,1 @@
+ public int getColumnNumber() { return this.columnNumber; } 

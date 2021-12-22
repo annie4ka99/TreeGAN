@@ -1,0 +1,1 @@
+ public SpellAbility_Restriction getRestrictions() { return restrictions; } 

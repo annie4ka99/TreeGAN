@@ -1,0 +1,1 @@
+ public Log getLogger() { return log; } 

@@ -1,0 +1,1 @@
+ public void addRoofs(int i) { roofs += i; } 

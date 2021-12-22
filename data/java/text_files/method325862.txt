@@ -1,0 +1,1 @@
+ public double getErrorDirection(int iSide) { return Double.NaN; } 

@@ -1,0 +1,1 @@
+ public void setDescriptionVisible(boolean v) { this.descriptionVisible = v; } 

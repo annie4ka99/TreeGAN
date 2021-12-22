@@ -1,0 +1,1 @@
+ public String getBox(){ return this.m_box; } 

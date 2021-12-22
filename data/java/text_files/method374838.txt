@@ -1,0 +1,1 @@
+ public boolean isCleanupComplete() { synchronized (g0) { return g0.isEmpty(); } } 

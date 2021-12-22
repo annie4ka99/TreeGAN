@@ -1,0 +1,1 @@
+ public void setPbufferRenderToTexture(boolean onOrOff) { pbufferRenderToTexture = onOrOff; } 

@@ -1,0 +1,1 @@
+ public boolean isPrefixDeclared(String prefix) { return namespaces.containsKey(prefix); } 

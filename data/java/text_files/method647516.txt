@@ -1,0 +1,1 @@
+ public boolean isFitter(double a_fitness_value1, double a_fitness_value2) { return a_fitness_value1 > a_fitness_value2; } 

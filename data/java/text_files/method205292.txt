@@ -1,0 +1,1 @@
+ public NodeIterator getNodesIterator() { return new NodeItr(nodes.iterator()); } 

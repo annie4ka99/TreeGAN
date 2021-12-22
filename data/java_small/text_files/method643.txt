@@ -1,0 +1,1 @@
+ public void setProcessedStatus(int boardPositionIndex, boolean processedStatus) { int currentValue = table.get(boardPositionIndex+PLAYER_POSITION_OFFSET); if(processedStatus == true) table.set(boardPositionIndex+PLAYER_POSITION_OFFSET, currentValue | PROCESSED_FLAG_BIT_MASK); else table.set(boardPositionIndex+PLAYER_POSITION_OFFSET, currentValue & (~PROCESSED_FLAG_BIT_MASK)); } 

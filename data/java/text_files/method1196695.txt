@@ -1,0 +1,1 @@
+ public CapelinRecord newRecord() { return (CapelinRecord) BeanUtils.instantiateClass(recordClass); } 

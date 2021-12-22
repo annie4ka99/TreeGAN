@@ -1,0 +1,1 @@
+ public Number readAsNumber() throws DevFailed { update(); return extractNumber(); } 

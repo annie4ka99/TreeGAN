@@ -1,0 +1,1 @@
+ public boolean hasChildren() { if (children==null) return false; return children.size()>0; } 

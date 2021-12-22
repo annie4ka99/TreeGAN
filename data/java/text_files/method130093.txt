@@ -1,0 +1,1 @@
+ synchronized public void setLayer(final int layer) { this.layer = layer; } 

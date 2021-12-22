@@ -1,0 +1,1 @@
+ public ExternalLinkType createExternalLinkType() { return new ExternalLinkType(); } 

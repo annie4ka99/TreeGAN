@@ -1,0 +1,1 @@
+ public Connection getLocation(){ return this.conn; } 

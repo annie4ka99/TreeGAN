@@ -1,0 +1,1 @@
+ public void setLocation(String value) { this.location = value; } 

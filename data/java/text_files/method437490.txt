@@ -1,0 +1,1 @@
+ public boolean isFileOpen(File file) { return workbooks.containsValue(file); } 

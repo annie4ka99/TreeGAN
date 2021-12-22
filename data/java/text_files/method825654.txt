@@ -1,0 +1,1 @@
+ public int execute(StringBuffer buf) { return index; } 

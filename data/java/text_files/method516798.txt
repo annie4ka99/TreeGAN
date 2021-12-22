@@ -1,0 +1,1 @@
+public long getCurrentLoad() throws RemoteException { return getMsgList().getNbMsgs2beProcessed(); } 

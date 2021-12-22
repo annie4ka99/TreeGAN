@@ -1,0 +1,1 @@
+public int getTotalNumberOfValues() { return (multiVals == null) ? 0 : multiVals.length; } 

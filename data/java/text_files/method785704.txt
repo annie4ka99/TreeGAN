@@ -1,0 +1,1 @@
+ public void setShape(int row, int shape) { setInt(row, VisualItem.SHAPE, shape); } 

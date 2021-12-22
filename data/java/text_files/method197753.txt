@@ -1,0 +1,1 @@
+ public Element getXMLElementForObject(Document d) { return d.createElement(getClass().getName()); } 

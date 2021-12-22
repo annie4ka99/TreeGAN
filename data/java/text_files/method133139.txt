@@ -1,0 +1,1 @@
+ public void addMap(AbstractTieredMap ntm){ other_maps.add(ntm); } 

@@ -1,0 +1,1 @@
+ public float getAngle() { return -FastMath.atan2(y, x); } 

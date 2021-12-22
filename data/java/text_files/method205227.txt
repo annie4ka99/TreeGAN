@@ -1,0 +1,1 @@
+ public boolean withinDelta(long delta) { return (Math.abs(localOffset - delta) <= delta); } 

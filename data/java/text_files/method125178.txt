@@ -1,0 +1,1 @@
+ public int getInt(int offset) { boundsCheck(offset, 4); return super.getInt(offset); } 

@@ -1,0 +1,1 @@
+ public void setuCd(int uCd) { this.uCd = uCd; } 

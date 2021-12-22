@@ -1,0 +1,1 @@
+ public TridasObjectEx getParent() { return parentObject; } 

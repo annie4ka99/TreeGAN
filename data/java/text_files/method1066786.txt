@@ -1,0 +1,1 @@
+ public ISelection getSelection() { return new StructuredSelection(getActiveEditor()); } 

@@ -1,0 +1,1 @@
+ public ColumnSpec getColumnSpec(int columnIndex) { return (ColumnSpec) colSpecs.get(columnIndex - 1); } 

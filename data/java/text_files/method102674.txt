@@ -1,0 +1,1 @@
+ public Sample getMoving() { return moving; } 

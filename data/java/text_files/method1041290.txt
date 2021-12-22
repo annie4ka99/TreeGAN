@@ -1,0 +1,1 @@
+ public Stage getDownstreamStage() { return this.downstream; } 

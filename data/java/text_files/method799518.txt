@@ -1,0 +1,1 @@
+ public boolean isLazyPageLayout() { checkWidget(); return lazy; } 

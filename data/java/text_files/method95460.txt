@@ -1,0 +1,1 @@
+ public int isNullable(int column) throws SQLException{ throw new SQLException("isNullable"); } 

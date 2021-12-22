@@ -1,0 +1,1 @@
+ final private boolean hasSubset(byte[] boxConfiguration1, byte[] boxConfigurationArray, int indexInArray) { for (int i = 0; i < packedBoardByteSize; i++) { byte b2 = boxConfigurationArray[indexInArray + i]; if ((boxConfiguration1[i] & b2) != b2) { return false; } } return true; } 

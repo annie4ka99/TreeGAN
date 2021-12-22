@@ -1,0 +1,1 @@
+ public int getAge() { if (null != getBirthDate()) { return getAge(getBirthDate()); } return 0; } 

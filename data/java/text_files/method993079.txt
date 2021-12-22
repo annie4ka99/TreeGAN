@@ -1,0 +1,1 @@
+ public float getXWavelength() { return xWavelength; } 

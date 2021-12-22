@@ -1,0 +1,1 @@
+ public Point2D getLocation(EdgeView edge) { return getLocation(edge, null); } 

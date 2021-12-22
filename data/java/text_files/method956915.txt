@@ -1,0 +1,1 @@
+ public boolean isFederated() { if (federated == null) { return false; } else { return federated; } } 

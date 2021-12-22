@@ -1,0 +1,1 @@
+ public IMoney add(IMoney m) { return m.addMoney(this); } 

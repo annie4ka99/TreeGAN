@@ -1,0 +1,1 @@
+ public int getBaseSize() { return getSizeForHitDice(getBaseHitDice()); } 

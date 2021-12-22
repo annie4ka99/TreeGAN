@@ -1,0 +1,1 @@
+ public TreeCellEditor getTreeCellEditor() { return tree.getCellEditor(); } 

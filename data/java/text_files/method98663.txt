@@ -1,0 +1,1 @@
+ public void setMultiCurve(MultiCurveType value) { this.multiCurve = value; } 

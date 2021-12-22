@@ -1,0 +1,1 @@
+ public JSplitPane getSplitPane() { return mapsplitter; } 

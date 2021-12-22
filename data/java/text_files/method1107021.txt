@@ -1,0 +1,1 @@
+ protected void listeningException(Throwable exception) {} 

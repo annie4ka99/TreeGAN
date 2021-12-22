@@ -1,0 +1,1 @@
+ public int getFWidth() { return getFieldWidth().getIntNumber(); } 

@@ -1,0 +1,1 @@
+ protected void setTargetFile(File trgt) { this.target = trgt; } 

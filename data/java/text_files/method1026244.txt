@@ -1,0 +1,1 @@
+ public LInteger optinteger(int narg, int d) { return LInteger.valueOf(optint(narg,d)); } 

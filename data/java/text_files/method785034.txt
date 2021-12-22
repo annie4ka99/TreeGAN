@@ -1,0 +1,1 @@
+ protected int getHashCode(Tuple t) { return t.hashCode(); } 

@@ -1,0 +1,1 @@
+ public void setBarValue(String barValue) { this.barValue = barValue; } 

@@ -1,0 +1,1 @@
+ public int getContactCount() { return m_contactCount; } 

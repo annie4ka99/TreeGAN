@@ -1,0 +1,1 @@
+ public TransProcesable getMonitoringModel() { return getMonitor().getModel(); } 

@@ -1,0 +1,1 @@
+ public void getObjdir(final File oDir) { this.objDir = oDir; } 

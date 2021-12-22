@@ -1,0 +1,1 @@
+ protected boolean hasColumn(String name) { return getColumnNumber(name) != -1; } 

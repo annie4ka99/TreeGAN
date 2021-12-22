@@ -1,0 +1,1 @@
+ public PilotDBDatabase getSelectedDatabase() { return this.selectedDb; } 

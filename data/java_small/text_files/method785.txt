@@ -1,0 +1,1 @@
+ final private JButton createToolBarButtonByKey(String iconName, String actionCommand, String toolTipTextKey) { String toolTipText = Texts.getText(toolTipTextKey); return createToolBarButton(iconName, actionCommand, toolTipText); } 

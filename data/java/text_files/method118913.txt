@@ -1,0 +1,1 @@
+ public GraphUI getUI() { return (GraphUI) ui; } 

@@ -1,0 +1,1 @@
+ private void applySettings() { actionManagerFrameMain.setUpItems(); actionManagerFrameMain.applySettings(); } 

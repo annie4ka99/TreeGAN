@@ -1,0 +1,1 @@
+ public boolean isCellSelected(Object cell) { return getSelectionModel().isCellSelected(cell); } 

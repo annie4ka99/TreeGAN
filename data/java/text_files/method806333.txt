@@ -1,0 +1,1 @@
+ public double getRangeUpperBound() { return this.rangeMax.doubleValue(); } 

@@ -1,0 +1,1 @@
+ public Integer getIdParent() { return this.idParent; } 

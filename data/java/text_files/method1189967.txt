@@ -1,0 +1,1 @@
+ public boolean next() throws RemoteException { return s.next(); } 

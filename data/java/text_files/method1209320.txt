@@ -1,0 +1,1 @@
+ public boolean hasInstance(Scriptable instance) { return ScriptRuntime.jsDelegatesTo(instance, this); } 

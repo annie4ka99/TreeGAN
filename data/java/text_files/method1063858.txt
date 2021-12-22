@@ -1,0 +1,1 @@
+ public IFigure getContentPane() { return contentFigure.getContentPane(); } 

@@ -1,0 +1,1 @@
+ public JSONValue get(int index) { return (JSONValue) values.get(index); } 

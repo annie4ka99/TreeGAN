@@ -1,0 +1,1 @@
+ public String getLogName() { return getClass().getSimpleName() + ":" + getName(); } 

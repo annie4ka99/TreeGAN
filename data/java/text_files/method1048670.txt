@@ -1,0 +1,1 @@
+ public void display(Displayable displayable) { Display.getDisplay(this).setCurrent(displayable); } 

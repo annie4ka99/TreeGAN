@@ -1,0 +1,1 @@
+ public void setDate(final Date d) { date = d; repaint(); } 

@@ -1,0 +1,1 @@
+ protected boolean isValid(Widget widget) { return (widget!=null && !widget.isDisposed()); } 

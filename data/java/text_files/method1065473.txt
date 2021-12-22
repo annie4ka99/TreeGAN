@@ -1,0 +1,1 @@
+ public void setGraphicalElement(IUMLElementEditPart graphicalElement) { graphicalElementExtend = graphicalElement; } 

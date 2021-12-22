@@ -1,0 +1,1 @@
+ public Tuple getTuple(int row) { return m_tuples.getTuple(row); } 

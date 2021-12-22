@@ -1,0 +1,1 @@
+ public void setFontSize(int nFontSize) { preferences.putInt(FONT_SIZE, nFontSize); } 

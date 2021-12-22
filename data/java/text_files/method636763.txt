@@ -1,0 +1,1 @@
+ public void resume() { if(m_lastWindow != null) m_lastWindow.show(); else s_searchWindow.show(); } 

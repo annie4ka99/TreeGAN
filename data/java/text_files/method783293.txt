@@ -1,0 +1,1 @@
+ public void setLoggerName(String loggerName) { this.loggerName = loggerName; } 

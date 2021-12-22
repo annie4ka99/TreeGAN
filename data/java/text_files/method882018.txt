@@ -1,0 +1,1 @@
+ protected void handleNode(NodeInfo ni, int col) { res.append(renderNode(ni, col)); } 

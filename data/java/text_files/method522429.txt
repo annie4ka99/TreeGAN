@@ -1,0 +1,1 @@
+public void setPrinterName(String newValue) { this.printerName = newValue; } 

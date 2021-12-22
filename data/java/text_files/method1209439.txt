@@ -1,0 +1,1 @@
+ public boolean has(String name, Scriptable start) { return name.equals("dim"); } 

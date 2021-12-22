@@ -1,0 +1,1 @@
+ public Constant getVal(String fldname) { return prodscan.getVal(fldname); } 

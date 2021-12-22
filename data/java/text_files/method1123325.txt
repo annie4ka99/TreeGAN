@@ -1,0 +1,1 @@
+ public boolean isFinite() { synchronized (presentation) { return presentation.isInfinite(); } } 

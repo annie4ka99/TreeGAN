@@ -1,0 +1,1 @@
+ public Display getDisplay () { return Display.getDisplay(this); } 

@@ -1,0 +1,1 @@
+ public void setHorizontal(int horizontal) { this.horizontal = horizontal; } 

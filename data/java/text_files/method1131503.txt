@@ -1,0 +1,1 @@
+ public PrintWriter getLCDWriter() { return lcdWriter; } 

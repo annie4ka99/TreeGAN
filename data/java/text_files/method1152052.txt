@@ -1,0 +1,1 @@
+ public Vec2 getGravity() { return m_gravity.clone(); } 

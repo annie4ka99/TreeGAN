@@ -1,0 +1,1 @@
+ public WSIContent createWSIContent() { return new WSIContent(); } 

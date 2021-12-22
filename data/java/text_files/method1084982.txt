@@ -1,0 +1,1 @@
+ public Object lookupLink(String name) throws NamingException { return lookup(name); } 

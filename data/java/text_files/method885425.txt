@@ -1,0 +1,1 @@
+ final public JTextComponent getCurrentFocusedComponent() { return currentActiveTextComponent; } 

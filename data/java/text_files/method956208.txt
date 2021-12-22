@@ -1,0 +1,1 @@
+ public CodeListType getOperationalMode() { return operationalMode; } 

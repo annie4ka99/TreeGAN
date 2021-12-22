@@ -1,0 +1,1 @@
+ public void setImmediate(boolean immediate) { this.immediate = immediate; } 

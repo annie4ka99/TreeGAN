@@ -1,0 +1,1 @@
+ public void setBallParam(ThrowParameters[] newParam){ Parameters = (ThrowParameters[]) newParam.clone(); } 

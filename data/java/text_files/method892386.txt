@@ -1,0 +1,1 @@
+ public String getDefaultVisibleFields() { return this.defaultVisibleFields; } 

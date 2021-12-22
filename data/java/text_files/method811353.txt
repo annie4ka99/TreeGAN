@@ -1,0 +1,1 @@
+ public long getGap() { return gap; } 

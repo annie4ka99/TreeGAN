@@ -1,0 +1,1 @@
+ protected void setScreen(DefaultGraphicsScreen screen) { this.screen = (AbstractGraphicsScreen) screen.clone(); } 

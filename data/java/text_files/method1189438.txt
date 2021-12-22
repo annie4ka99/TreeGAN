@@ -1,0 +1,1 @@
+ protected ServletContext getCtx() { return ServletActionContext.getServletContext(); } 

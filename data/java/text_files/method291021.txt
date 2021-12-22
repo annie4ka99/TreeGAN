@@ -1,0 +1,1 @@
+ protected Object getInstance(Class clazz) { return Component.getInstance(clazz); } 

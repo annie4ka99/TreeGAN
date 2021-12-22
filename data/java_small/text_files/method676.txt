@@ -1,0 +1,1 @@
+ public void addLevelCollection(final LevelCollection collection, int startNumber, int endNumber) { for(int levelNo = startNumber; levelNo <= collection.getNumberOfLevels() && levelNo <= endNumber; levelNo++) { addLevel(collection.getLevel(levelNo)); } } 

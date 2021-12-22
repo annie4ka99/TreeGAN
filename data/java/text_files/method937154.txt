@@ -1,0 +1,1 @@
+ public void unregisterModel(HistoryModel model) { histories.remove(model.getId()); } 

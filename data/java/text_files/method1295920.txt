@@ -1,0 +1,1 @@
+ public Adapter createWritersAdapter() { return null; } 

@@ -1,0 +1,1 @@
+ public SpinnerDateModel getModel() { return model; } 

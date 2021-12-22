@@ -1,0 +1,1 @@
+ public WordSet getRNeighbour(int j) { return getNeighbour(j, RNeighbour.getInstance()); } 

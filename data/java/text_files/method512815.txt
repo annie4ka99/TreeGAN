@@ -1,0 +1,1 @@
+ public void setInterfaces(final String[] interfaces) { this.interfaces = interfaces; } 

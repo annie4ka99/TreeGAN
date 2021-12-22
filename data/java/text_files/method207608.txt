@@ -1,0 +1,1 @@
+ public double getClose(int series, int item) { return getCloseValue(series, item).doubleValue(); } 

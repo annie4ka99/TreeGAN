@@ -1,0 +1,1 @@
+ public void setActive(int active){ this.active = active; } 

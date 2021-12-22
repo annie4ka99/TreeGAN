@@ -1,0 +1,1 @@
+ protected Position getFirstPosition() { return _firstPos; } 

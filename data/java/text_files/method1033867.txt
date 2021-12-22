@@ -1,0 +1,1 @@
+ public int getNumFields() { return ((fields == null) ? 0 : fields.size()); } 

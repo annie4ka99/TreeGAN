@@ -1,0 +1,1 @@
+ public ServiceType createServiceType() { return new ServiceType(); } 

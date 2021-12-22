@@ -1,0 +1,1 @@
+ public Cell getCell(int row, int column) { return cell[row][column]; } 

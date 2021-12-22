@@ -1,0 +1,1 @@
+ public ComponentDefinitionsFactory getFactory() { return factory; } 

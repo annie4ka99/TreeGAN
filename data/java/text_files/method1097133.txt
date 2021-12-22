@@ -1,0 +1,1 @@
+ protected void setOkToScan(boolean aFlag) { mOkToScan = aFlag; } 

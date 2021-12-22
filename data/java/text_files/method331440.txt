@@ -1,0 +1,1 @@
+ public boolean hasCheckBox() { return this.showCheckbox; } 

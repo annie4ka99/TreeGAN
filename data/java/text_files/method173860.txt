@@ -1,0 +1,1 @@
+ public void push(Namespace ns) { prefixes.push(ns.getPrefix()); uris.push(ns.getURI()); } 

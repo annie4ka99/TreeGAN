@@ -1,0 +1,1 @@
+ public void setPixel(int ipix, float val) { data[ipix] = val; } 

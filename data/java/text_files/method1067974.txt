@@ -1,0 +1,1 @@
+ public void addFilter(UmlFilter umlFilter) { this.filter.addFilter(umlFilter); } 

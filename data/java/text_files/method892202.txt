@@ -1,0 +1,1 @@
+ public boolean hasJavascriptValidationSet() { return "true".equalsIgnoreCase(javascriptValidation); } 

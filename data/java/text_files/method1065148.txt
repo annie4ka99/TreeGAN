@@ -1,0 +1,1 @@
+ protected void removeButtonPressed(){ ((CallEvent)getElement()).setOperation(null); } 

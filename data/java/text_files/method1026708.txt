@@ -1,0 +1,1 @@
+ public void setInvertTimeRange(boolean flag) { this.invertTimeRange = flag; } 

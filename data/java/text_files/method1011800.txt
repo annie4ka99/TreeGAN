@@ -1,0 +1,1 @@
+ private boolean isSurfaceAreaSampling() { return sampling_method == NurbsConsts.N_SURFACEAREA; } 

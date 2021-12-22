@@ -1,0 +1,1 @@
+ public int getAmountSkillups() { return skillups; } 

@@ -1,0 +1,1 @@
+ public Element getText() { return XMLUtilities.getElem(getBody(), NODE_TEXT); } 

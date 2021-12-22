@@ -1,0 +1,1 @@
+ public void setBark(TridasBark value) { this.bark = value; } 

@@ -1,0 +1,1 @@
+ public Field getField(int posX, int posY) { return mapField[posX][posY]; } 

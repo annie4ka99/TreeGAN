@@ -1,0 +1,1 @@
+ public boolean add(Object o) { return map.put(o, PRESENT)==null; } 

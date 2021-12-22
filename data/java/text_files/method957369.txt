@@ -1,0 +1,1 @@
+ public CurveSegmentArrayPropertyType createCurveSegmentArrayPropertyType() { return new CurveSegmentArrayPropertyType(); } 

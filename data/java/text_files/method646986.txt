@@ -1,0 +1,1 @@
+ public void put(String key, T value) { getOrCreateNode(key).data = value; } 

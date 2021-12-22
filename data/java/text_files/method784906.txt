@@ -1,0 +1,1 @@
+ public void setHorizontalAlignment(int xalign) { m_xalign = xalign; } 

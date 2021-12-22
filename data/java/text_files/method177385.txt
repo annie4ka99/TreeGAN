@@ -1,0 +1,1 @@
+ public List getProperties() { return query.getType().getProperties(); } 

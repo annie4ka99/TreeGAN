@@ -1,0 +1,1 @@
+ public void paint( Graphics2D g2d ) { this.gpanel.getVisualGraph().paint( g2d, this.probableedgeline ); } 

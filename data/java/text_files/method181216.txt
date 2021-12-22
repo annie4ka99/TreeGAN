@@ -1,0 +1,1 @@
+public boolean isUndefined() { return state == UNDEFINED; } 

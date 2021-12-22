@@ -1,0 +1,1 @@
+ public boolean hasPendingChanges() { return queues.hasPendingChanges() || sortOrder != queues.getSorter(); } 

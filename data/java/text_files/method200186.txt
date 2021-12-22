@@ -1,0 +1,1 @@
+ public boolean isSoftLink() { return (fileType == SOFTLINK); } 

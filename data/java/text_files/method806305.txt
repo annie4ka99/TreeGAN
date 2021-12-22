@@ -1,0 +1,1 @@
+ public double getDomainUpperBound() { return this.domainMax.doubleValue(); } 

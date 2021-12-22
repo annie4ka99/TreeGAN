@@ -1,0 +1,1 @@
+ public int getWindowBase() { return windowBase; } 

@@ -1,0 +1,1 @@
+ public void removeHeaders() { if (header != null) { removeChild(header); } header = null; } 

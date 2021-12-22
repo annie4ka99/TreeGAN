@@ -1,0 +1,1 @@
+ public void addSearch(String query){ searchController.search(query); } 

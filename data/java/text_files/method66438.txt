@@ -1,0 +1,1 @@
+ public boolean isHospedagemRecordSelected() { return hospedagemTable.getSelectedRow() != -1; } 

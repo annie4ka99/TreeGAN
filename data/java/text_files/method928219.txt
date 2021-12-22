@@ -1,0 +1,1 @@
+ public void handleDispose() { this.getSite().getPage().hideView(this); } 

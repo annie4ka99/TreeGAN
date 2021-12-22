@@ -1,0 +1,1 @@
+ protected OsLib newInstance( int index ) { return new OsLib(index); } 

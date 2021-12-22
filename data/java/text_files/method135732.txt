@@ -1,0 +1,1 @@
+ public void print() throws PrinterException { print(PageFormat.LANDSCAPE, false); } 

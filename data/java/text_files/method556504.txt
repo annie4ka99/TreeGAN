@@ -1,0 +1,1 @@
+ public String getMax_alarm() { return this.maxAlarm; } 

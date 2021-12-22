@@ -1,0 +1,1 @@
+ public void setPopupData(PopupData popupData) { this.popupData = popupData; } 

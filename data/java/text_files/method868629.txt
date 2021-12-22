@@ -1,0 +1,1 @@
+ public void setBaseURISAXResolver(BaseURISAXResolver resolver) { baseURIResolver = resolver; } 

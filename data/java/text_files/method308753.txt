@@ -1,0 +1,1 @@
+ public void setEncryptionMethod(int value) { if (value < 0) { return; } encryption_method = value; } 

@@ -1,0 +1,1 @@
+ public void triggerPolling(final String polledObject) throws DevFailed { device.triggerPolling(polledObject); } 

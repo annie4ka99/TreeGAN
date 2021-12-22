@@ -1,0 +1,1 @@
+ private Dimension getRealSize(IFigure fig) { return null; } 

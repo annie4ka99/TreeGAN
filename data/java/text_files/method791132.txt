@@ -1,0 +1,1 @@
+ public void addInnerType(Type type) { getInnerTypeList().add(type); } 

@@ -1,0 +1,1 @@
+private void setZipOption(String newZipOption) { zipOption = newZipOption; } 

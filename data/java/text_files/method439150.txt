@@ -1,0 +1,1 @@
+ public void setGermKind(GermSprite.Kind generatedType) { this.generatedType = generatedType; } 

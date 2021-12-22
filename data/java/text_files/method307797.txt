@@ -1,0 +1,1 @@
+ public long multiply(long factor) { synchronized (lock_) { return value_ *= factor; } } 

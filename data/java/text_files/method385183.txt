@@ -1,0 +1,1 @@
+ public boolean hasField(JHeader header) { return check.booleanMethod(header, name); } 

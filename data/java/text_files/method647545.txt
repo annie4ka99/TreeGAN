@@ -1,0 +1,1 @@
+ public int getChromosomeSize() { return m_chromosomeSize; } 

@@ -1,0 +1,1 @@
+ public boolean hasContent() { return hasField(Fields.Content_Type) || hasField(Fields.Content_Type); } 

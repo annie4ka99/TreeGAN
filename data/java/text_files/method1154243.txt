@@ -1,0 +1,1 @@
+ public boolean isVertexLabel(VertexLabelType v) { return globalEdgeLookup.get(v) != null; } 

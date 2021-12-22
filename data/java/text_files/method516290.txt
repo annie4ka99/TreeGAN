@@ -1,0 +1,1 @@
+public JDistMessage getCurrentMessage() { return currentMessage; } 

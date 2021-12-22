@@ -1,0 +1,1 @@
+ public SpatialOperatorType createSpatialOperatorType() { return new SpatialOperatorType(); } 

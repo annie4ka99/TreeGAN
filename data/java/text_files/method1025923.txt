@@ -1,0 +1,1 @@
+ public int toJavaInt() { conversionError("number"); return 0; } 

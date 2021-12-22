@@ -1,0 +1,1 @@
+ public void setPath(String name) { fch.setCurrentDirectory(new File(name)); } 

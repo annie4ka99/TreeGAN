@@ -1,0 +1,1 @@
+ public void setAlias(String newAlias) { alias = newAlias; } 

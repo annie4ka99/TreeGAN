@@ -1,0 +1,1 @@
+ public void flush() { if (_mapCount != 0) { push(); pop(); } } 

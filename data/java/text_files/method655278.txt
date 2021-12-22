@@ -1,0 +1,1 @@
+ public void setDirtyFlag(boolean flag) { dirtyFlag = flag; } 

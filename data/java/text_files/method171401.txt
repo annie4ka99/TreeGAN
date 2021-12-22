@@ -1,0 +1,1 @@
+ public void visitFSTORE(FSTORE o){ locals().set(o.getIndex(), stack().pop()); } 

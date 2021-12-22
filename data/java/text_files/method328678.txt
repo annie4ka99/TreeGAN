@@ -1,0 +1,1 @@
+ public int getClassCount(int speciesNum) { return speciesClassCount[speciesNum]; } 

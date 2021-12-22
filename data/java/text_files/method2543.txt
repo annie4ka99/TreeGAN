@@ -1,0 +1,1 @@
+ final public boolean isMarked(int x, int y) { return marked[x + width * y]; } 

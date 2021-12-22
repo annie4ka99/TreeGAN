@@ -1,0 +1,1 @@
+ public void setShowLegend(boolean showLegend) { mShowLegend = showLegend; } 

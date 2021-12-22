@@ -1,0 +1,1 @@
+ public String getName(int item){ return this.nameOfObs[item]; } 

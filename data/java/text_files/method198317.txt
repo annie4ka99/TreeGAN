@@ -1,0 +1,1 @@
+ public int getDimensionCount() { return isClosed() ? 2 : 0; } 

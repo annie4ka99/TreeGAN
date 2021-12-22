@@ -1,0 +1,1 @@
+ public int getRsSelectedRow(int reqSet) { return rsTable[reqSet].getSelectedRow(); } 

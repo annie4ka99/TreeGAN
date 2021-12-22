@@ -1,0 +1,1 @@
+ public void setThickness( double thickness ) { this.thickness = thickness; } 

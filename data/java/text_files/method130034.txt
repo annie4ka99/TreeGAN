@@ -1,0 +1,1 @@
+ synchronized public Brush getLineBrush() { return lineBrush; } 

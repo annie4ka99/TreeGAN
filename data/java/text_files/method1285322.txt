@@ -1,0 +1,1 @@
+ protected SVGAnimator getAnimator() { return animator; } 

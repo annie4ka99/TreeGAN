@@ -1,0 +1,1 @@
+ public void addHandler(Handler handler) { logWriter.addHandler(handler); } 

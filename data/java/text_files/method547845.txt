@@ -1,0 +1,1 @@
+ public void setControllerVisible(boolean v) { controlFrame.pack(); controlFrame.setVisible(v); } 

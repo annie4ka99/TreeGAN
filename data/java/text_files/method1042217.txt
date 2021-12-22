@@ -1,0 +1,1 @@
+ public float dot(Quaternion q) { return w * q.w + x * q.x + y * q.y + z * q.z; } 

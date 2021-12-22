@@ -1,0 +1,1 @@
+ public CStringBuilder append(double dnum) { return append(Double.toString(dnum)); } 

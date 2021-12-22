@@ -1,0 +1,1 @@
+ public void setShortCutColors(CharColor aColor) { setColors(Theme.COLOR_WIDGET_SHORTCUT, aColor); } 

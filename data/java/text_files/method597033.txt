@@ -1,0 +1,1 @@
+ public int readByte(final int index) { return b[index] & 0xFF; } 

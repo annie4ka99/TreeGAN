@@ -1,0 +1,1 @@
+ public void setVerbose(boolean value){ verbose = value; } 

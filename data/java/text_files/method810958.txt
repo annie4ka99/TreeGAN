@@ -1,0 +1,1 @@
+ protected CVType getFixture() { return fixture; } 

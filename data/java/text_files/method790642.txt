@@ -1,0 +1,1 @@
+ protected AbstractBookmarkReader ( File file ) { this.file = file; } 

@@ -1,0 +1,1 @@
+ public void setId(String id) { setAttribute(History.ID_KEY, id); } 

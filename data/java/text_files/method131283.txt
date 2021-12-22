@@ -1,0 +1,1 @@
+ public PIController (float Kp, float Ki) { this.kp = Kp; this.ki = Ki; } 

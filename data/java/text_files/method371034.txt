@@ -1,0 +1,1 @@
+ protected IFile getDescriptionFile(IStructuredSelection selection) { return (IFile)selection.getFirstElement(); } 

@@ -1,0 +1,1 @@
+ public void setOutfile(java.lang.String outfile) { this.outfile = outfile; } 

@@ -1,0 +1,1 @@
+ public SoleilException getSoleilException(){ return m_soleilException; } 

@@ -1,0 +1,1 @@
+ public boolean canBeResolved(byte[] address) { return resolve(address) != null; } 

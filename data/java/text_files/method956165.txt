@@ -1,0 +1,1 @@
+ public MaskInformationType createMaskInformationType() { return new MaskInformationType(); } 

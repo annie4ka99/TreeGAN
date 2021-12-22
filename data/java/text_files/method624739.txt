@@ -1,0 +1,1 @@
+ public TypedProperty getAttribute(Attribute attr) { return new MofAssociationEnd(attr, this); } 

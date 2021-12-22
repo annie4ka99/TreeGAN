@@ -1,0 +1,1 @@
+ public Number getMinimumRangeValue() { return this.domainMin; } 

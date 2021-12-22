@@ -1,0 +1,1 @@
+ public int getExileFromGraveAmount() { return exileFromGraveAmount; } 

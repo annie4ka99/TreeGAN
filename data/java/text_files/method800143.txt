@@ -1,0 +1,1 @@
+ protected EmptyPrint empty() { return empty( 0, 0 ); } 

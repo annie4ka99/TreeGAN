@@ -1,0 +1,1 @@
+ public void setEventDAO(EventDAO eventDAO) { this.eventDAO = eventDAO; } 

@@ -1,0 +1,1 @@
+ public HumanTime s() { return s(1); } 

@@ -1,0 +1,1 @@
+ public RuleBasedScanner getJSPCommentScanner() { return jspCommentScanner; } 

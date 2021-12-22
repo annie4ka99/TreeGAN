@@ -1,0 +1,1 @@
+ protected String getPwd() { return pwd; } 

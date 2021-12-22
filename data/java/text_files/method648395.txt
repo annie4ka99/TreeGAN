@@ -1,0 +1,1 @@
+ public boolean rm(String filename) { return control.executeCommand("DELE " + filename); } 

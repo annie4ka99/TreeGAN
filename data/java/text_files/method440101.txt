@@ -1,0 +1,1 @@
+ public void removeSprite(Object name) { spriteName = name; addGuiToolsEvent(REMOVE); } 

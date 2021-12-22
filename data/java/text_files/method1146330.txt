@@ -1,0 +1,1 @@
+ public Card getCard() { return card; } 

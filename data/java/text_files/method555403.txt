@@ -1,0 +1,1 @@
+ public String getId() { return getAttribute(History.ID_KEY); } 

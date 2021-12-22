@@ -1,0 +1,1 @@
+ public String toString() { return new StringBuffer(getName()).append(getValue()).toString(); } 

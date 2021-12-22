@@ -1,0 +1,1 @@
+ public void setIntersymbol(java.lang.Boolean intersymbol) { this.intersymbol = intersymbol; } 

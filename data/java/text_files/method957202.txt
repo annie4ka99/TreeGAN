@@ -1,0 +1,1 @@
+ public StringOrRefType getLocationString() { return locationString; } 

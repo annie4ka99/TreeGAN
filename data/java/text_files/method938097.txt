@@ -1,0 +1,1 @@
+ public void showTitle(final boolean show) { showtitle = show; title.setVisible(show); doLayout(); } 

@@ -1,0 +1,1 @@
+ public void unselect() { selected = false; nodeView.setSelected(false); drawUnSelected(); } 

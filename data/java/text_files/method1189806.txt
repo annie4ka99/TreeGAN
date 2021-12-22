@@ -1,0 +1,1 @@
+ public void setFlag(int val) { tx.setInt(currentblk, 0, val); } 

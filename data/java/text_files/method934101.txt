@@ -1,0 +1,1 @@
+ public ActionServletWrapper getServletWrapper() { return new ActionServletWrapper(getServlet()); } 

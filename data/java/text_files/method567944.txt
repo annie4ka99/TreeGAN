@@ -1,0 +1,1 @@
+ public void setBean(TangoWebBean bean) { m_strBean = bean; } 

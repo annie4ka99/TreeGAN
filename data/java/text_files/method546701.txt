@@ -1,0 +1,1 @@
+ public void setSizingBehavior(int s) { sizingBehavior = s; } 

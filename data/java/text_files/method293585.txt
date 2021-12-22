@@ -1,0 +1,1 @@
+ protected String valueFrom(String id) { return valueFrom(By.id(id)); } 

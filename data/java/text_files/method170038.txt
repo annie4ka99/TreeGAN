@@ -1,0 +1,1 @@
+ public void addPsico(int i) { psico += i; } 

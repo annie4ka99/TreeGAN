@@ -1,0 +1,1 @@
+ public void setSql_getAbteilung(String sql_getAbteilung) { this.sql_getAbteilung = sql_getAbteilung; } 

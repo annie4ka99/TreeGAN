@@ -1,0 +1,1 @@
+ public String getRuleNamespaceURI() { return (getRules().getNamespaceURI()); } 

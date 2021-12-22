@@ -1,0 +1,1 @@
+ public void setEndIndex(int i) { endIndex = i; } 

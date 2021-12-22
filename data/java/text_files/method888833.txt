@@ -1,0 +1,1 @@
+ public void setTransferHandler(TransferHandler t){ table.setTransferHandler(t); } 

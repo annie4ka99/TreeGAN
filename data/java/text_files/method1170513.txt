@@ -1,0 +1,1 @@
+ public void setOverwriteAbilities(boolean overwriteAbilities) { this.overwriteAbilities = overwriteAbilities; } 

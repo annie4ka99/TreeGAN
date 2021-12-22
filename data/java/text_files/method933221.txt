@@ -1,0 +1,1 @@
+ public void addDataSourceConfig(DataSourceConfig config) { dataSources.put(config.getKey(), config); } 

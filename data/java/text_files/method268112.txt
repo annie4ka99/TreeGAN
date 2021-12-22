@@ -1,0 +1,1 @@
+ public int getMaxColumnsInTable() throws java.sql.SQLException { return 512; } 

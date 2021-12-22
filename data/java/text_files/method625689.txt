@@ -1,0 +1,1 @@
+ public void setService(final de.tuberlin.cs.cis.eve.service.IService serv) { service = serv; } 

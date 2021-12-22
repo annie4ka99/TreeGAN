@@ -1,0 +1,1 @@
+ public void putString(int c, int l, String s) { putString(c, l, s, NORMAL); } 

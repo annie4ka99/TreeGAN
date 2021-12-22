@@ -1,0 +1,1 @@
+ protected HttpSession getSession() { return getRequest().getSession(); } 

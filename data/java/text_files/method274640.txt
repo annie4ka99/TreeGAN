@@ -1,0 +1,1 @@
+ public int getLastPageNumber() { return (size() - 1) / getMaxElements(); } 

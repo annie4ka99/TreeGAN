@@ -1,0 +1,1 @@
+ public void setBookManager(BookManager bookManager) { this.bookManager = bookManager; } 

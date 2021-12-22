@@ -1,0 +1,1 @@
+ public void setPlayCounterSize(byte size) { if (size > 0) { playCounterSize = size; } } 

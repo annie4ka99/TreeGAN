@@ -1,0 +1,1 @@
+ public float getDistance(){ return this.m_distance; } 

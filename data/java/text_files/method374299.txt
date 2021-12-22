@@ -1,0 +1,1 @@
+ public int getNextHeaderId() { return packet.getState().getHeaderIdByIndex(index + 1); } 

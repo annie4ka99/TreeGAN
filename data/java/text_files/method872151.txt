@@ -1,0 +1,1 @@
+ public void setIdname(java.lang.String idname) { this.idname = idname; } 

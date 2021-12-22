@@ -1,0 +1,1 @@
+ public AVM2Class avm2Class() { if( avm2Class == null ) { realize(); } return avm2Class; } 

@@ -1,0 +1,1 @@
+ public long getConnectionId() { return this.connectionId; } 

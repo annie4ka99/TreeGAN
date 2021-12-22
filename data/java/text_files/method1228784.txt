@@ -1,0 +1,1 @@
+ public void addRow(String[] st){ datas.add(st); } 

@@ -1,0 +1,1 @@
+ public Instance getInstance() { return instance; } 

@@ -1,0 +1,1 @@
+ final private boolean isValidRow() throws Exception{ return where == null || rowSource.rowInserted() || where.getBoolean(); } 

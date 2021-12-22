@@ -1,0 +1,1 @@
+ public void setTargetObjectQuery(RegistryObjectQueryType value) { this.targetObjectQuery = value; } 

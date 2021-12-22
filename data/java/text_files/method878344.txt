@@ -1,0 +1,1 @@
+ public void setAuthority(String auth, XRD authXRD) { root.put(auth, authXRD); } 

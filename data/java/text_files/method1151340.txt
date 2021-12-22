@@ -1,0 +1,1 @@
+ public String algoName() { return getClass().getName(); } 

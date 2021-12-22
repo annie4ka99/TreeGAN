@@ -1,0 +1,1 @@
+ public boolean hasFootnoteRefTo(String sId) { return footnoteRef.contains(sId); } 

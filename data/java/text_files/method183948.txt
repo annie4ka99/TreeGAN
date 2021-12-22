@@ -1,0 +1,1 @@
+ public void setStartPosition (Vector3f pos){startPos = pos ;} 

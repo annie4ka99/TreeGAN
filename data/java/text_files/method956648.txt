@@ -1,0 +1,1 @@
+ public HarvestType createHarvestType() { return new HarvestType(); } 

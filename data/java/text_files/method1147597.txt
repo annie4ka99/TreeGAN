@@ -1,0 +1,1 @@
+ public void setFadeOutNode(Node fade) { fadeOutNode = fade; } 

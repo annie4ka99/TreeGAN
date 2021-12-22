@@ -1,0 +1,1 @@
+ public void setSeason(int season) { this.season = season; } 

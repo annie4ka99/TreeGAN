@@ -1,0 +1,1 @@
+ synchronized public void setPosition(int aLine, int aPos) { positions[aLine] = aPos; } 

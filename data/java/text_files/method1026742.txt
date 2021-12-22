@@ -1,0 +1,1 @@
+ public void removeExcludedDay(java.util.Calendar day) { removeExcludedDay(day, false); } 

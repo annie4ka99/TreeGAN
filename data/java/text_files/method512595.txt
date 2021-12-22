@@ -1,0 +1,1 @@
+ public void setTimeout(final boolean timeout) { this.timeout = timeout; } 

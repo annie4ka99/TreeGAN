@@ -1,0 +1,1 @@
+ private void setSearchTextField( String ss ) { getSearchTextField( ).setText( ss ); dispose( ); } 

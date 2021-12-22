@@ -1,0 +1,1 @@
+ final public void setPlayerPosition(int x, int y) { playerPosition = x + width * y; } 

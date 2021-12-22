@@ -1,0 +1,1 @@
+ public void setTime(String newValue) { this.time = newValue; } 

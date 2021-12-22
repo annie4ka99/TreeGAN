@@ -1,0 +1,1 @@
+ public void getVariable( String name ) throws IOException { push( name ); getVariable(); } 

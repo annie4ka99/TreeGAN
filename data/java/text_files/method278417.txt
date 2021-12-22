@@ -1,0 +1,1 @@
+ public void setPdbPath(String pdbPath) { model.setDatabasePath(pdbPath); } 

@@ -1,0 +1,1 @@
+ public double getGuessedSelfCosts() { return costGuessedSelf; } 

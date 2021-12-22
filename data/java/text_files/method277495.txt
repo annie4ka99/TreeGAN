@@ -1,0 +1,1 @@
+ public Application getBridge() { return bridge; } 

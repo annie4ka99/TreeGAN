@@ -1,0 +1,1 @@
+public boolean isRemoved() { return state == REMOVED; } 

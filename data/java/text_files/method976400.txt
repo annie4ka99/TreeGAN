@@ -1,0 +1,1 @@
+ public FilterData getFilter(String filterID) { return this.filterList.get(filterID); } 

@@ -1,0 +1,1 @@
+ public void glColor3ub (byte red, byte green, byte blue) { glColor3b (red, green, blue); } 

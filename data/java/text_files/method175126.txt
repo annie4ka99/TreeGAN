@@ -1,0 +1,1 @@
+ public boolean addAll(Collection c) { return al.addAllAbsent(c) > 0; } 

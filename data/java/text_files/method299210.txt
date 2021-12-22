@@ -1,0 +1,1 @@
+ public void setAbsoluteLocation(int x, int y) { setAbsoluteLocation(new Point(x, y)); } 

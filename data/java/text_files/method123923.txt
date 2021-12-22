@@ -1,0 +1,1 @@
+ public void setNumberOfColumns(int arg) { n = Math.max(0, arg); } 

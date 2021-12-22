@@ -1,0 +1,1 @@
+ public Vector2f multLocal(float scalar) { x *= scalar; y *= scalar; return this; } 

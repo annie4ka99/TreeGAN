@@ -1,0 +1,1 @@
+ public boolean isChecksumValid() { return Checksum.inChecksum(this, 0, this.size()) == 0; } 

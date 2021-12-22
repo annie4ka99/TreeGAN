@@ -1,0 +1,1 @@
+ public boolean hasHits() { return !this.favorite.isEmpty(); } 

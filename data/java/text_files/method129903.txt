@@ -1,0 +1,1 @@
+ public boolean isObjectDraggable(final VisualObject obj) { return draggableObjects.contains(obj); } 

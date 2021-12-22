@@ -1,0 +1,1 @@
+ public void setAzimuth(Integer value) { this.azimuth = value; } 

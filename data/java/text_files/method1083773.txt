@@ -1,0 +1,1 @@
+ public void setIdDivsForced(boolean idDivsForced) { this.idDivsForced = idDivsForced; } 

@@ -1,0 +1,1 @@
+ private void setFormatCode(java.util.Hashtable newFormatCode) { formatCode = newFormatCode; } 

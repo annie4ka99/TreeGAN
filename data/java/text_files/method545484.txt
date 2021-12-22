@@ -1,0 +1,1 @@
+ public JLAxis getY2Axis() { return y2Axis; } 

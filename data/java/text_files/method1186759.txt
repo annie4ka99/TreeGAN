@@ -1,0 +1,1 @@
+ public void setIdCategories(int idCategories) { this.idCategories = idCategories; } 

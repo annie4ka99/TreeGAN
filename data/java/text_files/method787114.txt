@@ -1,0 +1,1 @@
+ public void requestFocus() { this.m_queryF.requestFocus(); } 

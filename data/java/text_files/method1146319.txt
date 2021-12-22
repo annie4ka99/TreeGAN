@@ -1,0 +1,1 @@
+ public void setDeckLayout(DeckLayout deckLayout) { this.deckLayout = deckLayout; } 

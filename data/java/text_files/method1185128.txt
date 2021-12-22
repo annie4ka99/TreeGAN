@@ -1,0 +1,1 @@
+ public boolean isDirectory() { return dirFlag && !isLink(); } 

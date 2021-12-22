@@ -1,0 +1,1 @@
+ public Enumeration elements() { return new ValueIterator(); } 

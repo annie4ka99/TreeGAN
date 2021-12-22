@@ -1,0 +1,1 @@
+ public void removeEdge(ASDNEdge e) { getGraph().removeEdge(e); m_bEdited=true; filterAndUpdate(); } 

@@ -1,0 +1,1 @@
+ protected void setMesh(BSimMesh mesh){ parentMesh = mesh; } 

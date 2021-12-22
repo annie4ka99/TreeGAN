@@ -1,0 +1,1 @@
+ public void setFilter(String _filt) { defs.FILTER = _filt; } 

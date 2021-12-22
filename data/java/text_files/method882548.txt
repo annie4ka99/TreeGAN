@@ -1,0 +1,1 @@
+ public void testGetDescription() { assertTrue(conflict.getDescription().equals(description)); } 

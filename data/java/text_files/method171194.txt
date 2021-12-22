@@ -1,0 +1,1 @@
+ public void setConstantPoolGen(ConstantPoolGen cpg){ this.cpg = cpg; } 

@@ -1,0 +1,1 @@
+ final public boolean isSimpleDeadlockSquareBackwardsDebug(int position) { return simpleDeadlockSquareBackwards[position]; } 

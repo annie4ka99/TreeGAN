@@ -1,0 +1,1 @@
+ public void setSymbolNameAlphaSubsetRes(String symbolName) { alpha.setSymbolNameSubsetRes(symbolName); } 

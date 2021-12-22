@@ -1,0 +1,1 @@
+ public Integer getLatitudeDeg() { return new Integer(this.latitude.intValue()); } 

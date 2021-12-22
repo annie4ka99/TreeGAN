@@ -1,0 +1,1 @@
+ public void setMsgNo(int msg_no) { __msg_no=msg_no; } 

@@ -1,0 +1,1 @@
+ public ValidationMetadata required(boolean required) { this.required = required; return this; } 

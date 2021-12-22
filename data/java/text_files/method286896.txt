@@ -1,0 +1,1 @@
+ public User getUser(String id) { return getEntityManager().find(User.class, id); } 

@@ -1,0 +1,1 @@
+ public String getRegistryName() { return registryName; } 

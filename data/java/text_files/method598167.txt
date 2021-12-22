@@ -1,0 +1,1 @@
+ private void resetKey() { cipher.reset(); cipher.init(true, new KeyParameter(key)); } 

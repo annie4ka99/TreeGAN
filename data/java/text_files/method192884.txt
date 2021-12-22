@@ -1,0 +1,1 @@
+ public void setFilterByWeb() { this.removeFilterFlags(); this.addFlag( FLAG_FILTER_BY_WEB ) ; } 

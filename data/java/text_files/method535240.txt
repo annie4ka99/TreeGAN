@@ -1,0 +1,1 @@
+ public void addMapper(Mapper m) { mappers.addElement(m); } 

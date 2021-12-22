@@ -1,0 +1,1 @@
+ public void setRecurrent(final boolean recurrent) { this.recurrent = recurrent; } 

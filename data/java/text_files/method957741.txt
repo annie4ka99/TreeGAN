@@ -1,0 +1,1 @@
+ public MeasureListType createMeasureListType() { return new MeasureListType(); } 

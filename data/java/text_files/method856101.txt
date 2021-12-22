@@ -1,0 +1,1 @@
+ public Texture getTexture() { return this.getTexture(Rotation.DEGREE_0); } 

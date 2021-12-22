@@ -1,0 +1,1 @@
+ public void setPackage(){ this.visibility=_package; display(); } 

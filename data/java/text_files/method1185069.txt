@@ -1,0 +1,1 @@
+ public ZipShort (int value) { this.value = value; } 

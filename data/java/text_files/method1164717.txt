@@ -1,0 +1,1 @@
+ public String getSearchBaseURL(){ return this.searchBaseURL; } 

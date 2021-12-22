@@ -1,0 +1,1 @@
+ public void setIncidenceAngle(AngleType value) { this.incidenceAngle = value; } 

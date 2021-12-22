@@ -1,0 +1,1 @@
+ public void putMapping(Object cell, CellView view) { views.put(cell, view); } 

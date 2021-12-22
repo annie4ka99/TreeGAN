@@ -1,0 +1,1 @@
+ public void setReversed(boolean reversed) { this.reversed = reversed; } 

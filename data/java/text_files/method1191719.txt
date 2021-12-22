@@ -1,0 +1,1 @@
+ public void suspendContextualUpdate() { thread.threadSuspended = true; } 

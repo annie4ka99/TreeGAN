@@ -1,0 +1,1 @@
+ public String getWeekdayTitle(int day) { return days[day]; } 

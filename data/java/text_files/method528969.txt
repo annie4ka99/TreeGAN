@@ -1,0 +1,1 @@
+ protected String getBufferTemplatePath() { return getSystemParam().getBufferTemplatePath(); } 

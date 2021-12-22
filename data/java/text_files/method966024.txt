@@ -1,0 +1,1 @@
+ public void show() { if (heavyWeightContainer != null) { snapshot(); } popup.show(); } 

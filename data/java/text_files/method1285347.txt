@@ -1,0 +1,1 @@
+ public void addMenuElement(String svgElementId) { this.addMenuElement(svgElementId,Canvas.FIRE); } 

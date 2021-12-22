@@ -1,0 +1,1 @@
+ public void stack_not_empty() { stackResponse(); } 

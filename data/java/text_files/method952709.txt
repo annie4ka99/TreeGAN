@@ -1,0 +1,1 @@
+ public AgentRevocationList getRevocationList() { return this.revocationList; } 

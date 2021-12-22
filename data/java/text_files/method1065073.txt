@@ -1,0 +1,1 @@
+ protected void removeButtonPressed(){ ((Trigger)getElement()).setEvent(null); } 

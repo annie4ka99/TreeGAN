@@ -1,0 +1,1 @@
+ public DAO getDAO()throws DaoFactoryException { return getDAO("DefaultDAOFactory.DefaultDAOImpl"); } 

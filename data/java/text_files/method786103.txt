@@ -1,0 +1,1 @@
+ public void remove() { if ( m_table.removeRow(m_cur) ) modify(); } 

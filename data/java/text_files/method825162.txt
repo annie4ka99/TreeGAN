@@ -1,0 +1,1 @@
+ public void rotBoneAbs(AxisAngle4f aa){ animTrans.setRotation(aa); this.setTransform(animTrans); } 

@@ -1,0 +1,1 @@
+ public void setParentQuery(OrganizationQueryType value) { this.parentQuery = value; } 

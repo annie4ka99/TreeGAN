@@ -1,0 +1,1 @@
+ public String getSymbolNameCoeff() { return coeff.getSymbolName(); } 

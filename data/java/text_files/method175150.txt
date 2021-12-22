@@ -1,0 +1,1 @@
+ public boolean isTerminating() { return runState == STOP; } 

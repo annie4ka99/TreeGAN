@@ -1,0 +1,1 @@
+ public void addProperty(ContextProperty cp) { this.validate(); properties.addElement(cp); } 

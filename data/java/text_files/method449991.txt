@@ -1,0 +1,1 @@
+ public int getAttribute(Attribute attribute) { return attributes[attribute.ordinal()]; } 

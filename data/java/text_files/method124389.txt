@@ -1,0 +1,1 @@
+ public void setSymbolDef(JSCTypeDef newSymbolDef) { symbolDef = newSymbolDef; setDataForSymbolName(); } 

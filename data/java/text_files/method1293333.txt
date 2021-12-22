@@ -1,0 +1,1 @@
+ public Message createMessage() { return new MessageImpl(); } 

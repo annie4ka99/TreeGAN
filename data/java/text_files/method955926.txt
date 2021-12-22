@@ -1,0 +1,1 @@
+ public EarthObservationResultType createEarthObservationResultType() { return new EarthObservationResultType(); } 

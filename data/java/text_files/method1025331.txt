@@ -1,0 +1,1 @@
+ public void addAttributeFor(Field field) { fieldToUseAsAttribute.add(field); } 

@@ -1,0 +1,1 @@
+ protected void setUp() { emptyList = new java.util.ArrayList(); emptyList.add("1"); } 

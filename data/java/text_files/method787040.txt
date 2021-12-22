@@ -1,0 +1,1 @@
+ public void setValue(Number value) { m_value = value; setSliderValue(); setFieldValue(); } 

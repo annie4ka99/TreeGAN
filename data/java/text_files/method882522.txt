@@ -1,0 +1,1 @@
+ public boolean hasSchema(Binding b) { return getSchemaFragment(b) != null; } 

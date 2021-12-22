@@ -1,0 +1,1 @@
+ public boolean isAsserted() { return isUSAsserted() || isSGAsserted(); } 

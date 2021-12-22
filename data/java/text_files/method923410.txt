@@ -1,0 +1,1 @@
+ private Object getUniqueKey(String name){ return name.toUpperCase(Locale.US); } 

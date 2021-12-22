@@ -1,0 +1,1 @@
+ public void expandTreeToLevel(Object object, int level) { fTreeViewer.expandToLevel(object, level); } 

@@ -1,0 +1,1 @@
+ public void setDate(Date date){ this.m_date=date; } 

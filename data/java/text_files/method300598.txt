@@ -1,0 +1,1 @@
+ public void setRowStatus( int row, Object status ) { this.setValueAt( status, row, 1 ); } 

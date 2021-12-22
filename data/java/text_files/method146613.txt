@@ -1,0 +1,1 @@
+ public void add(int index, GPSSatellite element) { satellites[index-1] = element; } 

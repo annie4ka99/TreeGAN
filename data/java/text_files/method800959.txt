@@ -1,0 +1,1 @@
+ public ReactionEditor getPage() { return page; } 

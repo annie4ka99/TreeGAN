@@ -1,0 +1,1 @@
+ public void highlightBars(int start, int end) { bar_glyph.select(start,end); updateWidget(); } 

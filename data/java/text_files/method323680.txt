@@ -1,0 +1,1 @@
+ public void sortItemsByText() { Collections.sort(lutList, new TextComparatator()); } 

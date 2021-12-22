@@ -1,0 +1,1 @@
+ public void setLandStackMax(int landStackMax) { this.landStackMax = landStackMax; } 

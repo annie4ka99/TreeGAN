@@ -1,0 +1,1 @@
+ public void clearHeaders() { headers.clear(); } 

@@ -1,0 +1,1 @@
+ public void trace() { findPropStrict( "trace" ); swap(); callPropVoid( "trace", 1 ); } 

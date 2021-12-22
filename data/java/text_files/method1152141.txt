@@ -1,0 +1,1 @@
+ public boolean isFrozen(){ return (m_flags & e_frozenFlag) == e_frozenFlag; } 

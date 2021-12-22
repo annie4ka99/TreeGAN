@@ -1,0 +1,1 @@
+ public void setUserObject(Object o) { m_hValues.put("name", o); } 

@@ -1,0 +1,1 @@
+ public NodeInfo getNodeInfo(TreeNode treeNode) { return (NodeInfo)this.nodes.get(treeNode); } 

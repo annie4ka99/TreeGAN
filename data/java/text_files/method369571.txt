@@ -1,0 +1,1 @@
+ public void groupCollection(String collectionName) { groupedCollections.add(collectionName); } 

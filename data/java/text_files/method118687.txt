@@ -1,0 +1,1 @@
+ protected void finish() { canceled = false; setVisible(false); dispose(); } 

@@ -1,0 +1,1 @@
+ public StringOutput render(Component source) { return render(source, null); } 

@@ -1,0 +1,1 @@
+ public void parse(final Reader reader) throws IOException { includes.setSize(0); super.parse(reader); } 

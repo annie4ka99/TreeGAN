@@ -1,0 +1,1 @@
+ protected void invalidateSchema() { m_schema = null; } 

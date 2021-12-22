@@ -1,0 +1,1 @@
+ protected void letGo(BaseContainerHandle handle) { inUseCount--; super.letGo(handle); } 

@@ -1,0 +1,1 @@
+ public boolean delete() { if (metaFile == null) return false; return metaFile.delete(); } 

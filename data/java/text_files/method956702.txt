@@ -1,0 +1,1 @@
+ public void setTransactionSummary(TransactionSummaryType value) { this.transactionSummary = value; } 

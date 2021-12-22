@@ -1,0 +1,1 @@
+ public void setCurrentMedia(String currentMedia) { this.currentMedia = currentMedia; } 

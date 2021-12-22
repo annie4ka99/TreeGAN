@@ -1,0 +1,1 @@
+ private void addDefinitionToModule( Module module, Definition tmp ) { module.addDefinition( tmp ); } 

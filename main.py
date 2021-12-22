@@ -1,6 +1,7 @@
 import os
 import pickle
 import time
+import argparse
 
 import torch
 
@@ -10,38 +11,72 @@ from tree_gan.learning_utils import tree_gan_evaluate
 torch.set_default_dtype(torch.float32)
 
 
-def main():
-    reduced_C_dir = os.path.join('data', 'reduced_C_lang')
+def main(args):
+    if args.small:
+        java_data_dir = os.path.join('data', 'java_small')
+        java_model_path = os.path.join('models', 'java_small.model')
+    else:
+        java_data_dir = os.path.join('data', 'java')
+        java_model_path = os.path.join('models', 'java.model')
 
-    reduced_C_bnf_path = os.path.join(reduced_C_dir, 'reduced_C_lang.bnf')
-    reduced_C_lark_path = os.path.join(reduced_C_dir, 'reduced_C_lang.lark')
-    reduced_C_text_dir = os.path.join(reduced_C_dir, 'text_files')
-    reduced_C_action_getter_path = os.path.join(reduced_C_dir, 'action_getter.pickle')
-    reduced_C_action_sequences_dir = os.path.join(reduced_C_dir, 'action_sequence_files')
-
-    reduced_C_lang_model_path = os.path.join('models', 'reduced_C_lang.model')
+    java_bnf_path = os.path.join(java_data_dir, 'java_lang.bnf')
+    java_lark_path = os.path.join(java_data_dir, 'java_lang.lark')
+    java_text_dir = os.path.join(java_data_dir, 'text_files')
+    java_action_getter_path = os.path.join(java_data_dir, 'action_getter.pickle')
+    java_action_sequences_dir = os.path.join(java_data_dir, 'action_sequence_files')
 
     # If exists, load the last checkpoints from the model file path
-    if os.path.exists(reduced_C_lang_model_path):
-        with open(reduced_C_lang_model_path, 'rb') as f:
-            generator_ckp, discriminator_ckp = pickle.load(f)
+    if args.pretrained:
+        checkpoint = args.ckpt
+        if checkpoint != "":
+            if os.path.exists(checkpoint):
+                java_model_path = checkpoint
+                with open(java_model_path, 'rb') as f:
+                    generator_ckp, discriminator_ckp = pickle.load(f)
+            else:
+                raise ValueError("can't find checkpoint file:" + checkpoint)
+        elif os.path.exists(java_model_path):
+            with open(java_model_path, 'rb') as f:
+                generator_ckp, discriminator_ckp = pickle.load(f)
+        else:
+            generator_ckp, discriminator_ckp = None, None
     else:
         generator_ckp, discriminator_ckp = None, None
+
+    ckpt_out = args.save_dir
+    if ckpt_out != "":
+        if os.path.exists(ckpt_out) and os.path.isdir(ckpt_out):
+            model_save_path = os.path.join(ckpt_out, "java.model")
+        else:
+            raise ValueError("there is no directory:" + ckpt_out)
+    else:
+        model_save_path = java_model_path
+
+    stats_path = args.stats
+    if stats_path != "":
+        if os.path.exists(stats_path) and os.path.isdir(stats_path):
+            stats_save_path = stats_path
+        else:
+            raise ValueError("there is no directory:" + ckpt_out)
+    else:
+        stats_save_path = "stats"
 
     # ------------------HYPER PARAMETERS---------------------
     all_params = dict(
         # HYPER PARAMETERS WITH DEFAULT VALUES: (device, random_seed, generator_ckp, discriminator_ckp,
         # generator_kwargs, discriminator_kwargs)
-        a_s_dataset=tree_gan.ActionSequenceDataset(reduced_C_bnf_path, reduced_C_lark_path, reduced_C_text_dir,
-                                                   reduced_C_action_getter_path, reduced_C_action_sequences_dir),
+        java_lang_model_path=model_save_path,
+        stats_save_path=stats_save_path,
+        a_s_dataset=tree_gan.ActionSequenceDataset(java_bnf_path, java_lark_path, java_text_dir,
+                                                   java_action_getter_path, java_action_sequences_dir),
         generator_ckp=generator_ckp,
         discriminator_ckp=discriminator_ckp,
         generator_kwargs={'action_embedding_size': 128},
         discriminator_kwargs={'action_embedding_size': 128},
         num_data_loader_workers=1,
-        max_total_step=400000,  # min number of steps to take during training
-        initial_episode_timesteps=5000,  # initial max time steps in one episode
-        final_episode_timesteps=10000,  # final max time steps in one episode (MUST NOT EXCEED 'buffer_timestep')
+        max_total_step=200000,  # min number of steps to take during generator training
+        initial_episode_timesteps=150,  # initial max time steps in one episode
+        final_episode_timesteps=300,  # final max time steps in one episode (MUST NOT EXCEED 'buffer_timestep')
         episode_timesteps_log_order=0,
         gamma=0.99,  # discount factor
         gae_lambda=0.95,  # lambda value for td(lambda) returns
@@ -50,26 +85,33 @@ def main():
 
         random_seed=1234,
         lr=1e-4,
-        buffer_timestep=20000,
+        buffer_timestep=10000,
         lr_decay_order=5,
         k_epochs=5,
         buffer_to_batch_ratio=2,
         optimizer_betas=(0.5, 0.75),
         # PRE-TRAINING HYPER PARAMETERS
         pre_train_epochs=6,
-        pre_train_batch_size=2,
+        pre_train_batch_size=64,
         # DISCRIMINATOR TRAINING HYPER PARAMETERS
         discriminator_train_epochs=1,
-        discriminator_train_batch_size=2,
+        discriminator_train_batch_size=64,
         # GAN TRAINING HYPER PARAMETERS
         gan_epochs=10
     )
     # -------------------------------------------------------
+    if args.small:
+        all_params['max_total_step'] = 10000
+        all_params['buffer_timestep'] = 5000
+        all_params['pre_train_epochs'] = 1
+        all_params['pre_train_batch_size'] = 8
+        all_params['discriminator_train_batch_size'] = 8
+        all_params['gan_epochs'] = 2
 
     mean_reward, (tree_gen, tree_dis), episode_reward_lists = tree_gan_evaluate(**all_params)
 
     # Save the current checkpoints to the model file path
-    with open(reduced_C_lang_model_path, 'wb') as f:
+    with open(model_save_path, 'wb') as f:
         pickle.dump((tree_gen.state_dict(), tree_dis.state_dict()), f)
 
     with torch.no_grad():
@@ -77,8 +119,6 @@ def main():
         _, generated_actions, _, _, _ = tree_gen(max_sequence_length=all_params['final_episode_timesteps'])
 
     a_s_dataset = all_params['a_s_dataset']
-    action_sequence, _ = a_s_dataset[a_s_dataset.index('code.c')]
-    print(a_s_dataset.action_getter.construct_text(action_sequence.numpy().tolist()))
     print('---------------------------------')
     print(a_s_dataset.action_getter.construct_text_partial(generated_actions.squeeze().cpu().numpy().tolist()))
     print('---------------------------------')
@@ -86,6 +126,18 @@ def main():
 
 if __name__ == '__main__':
     START = time.process_time()
-    main()
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--small', dest='small', action='store_true', help="train with small data")
+    parser.set_defaults(small=False)
+    parser.add_argument('--pretrained', dest='pretrained', action='store_true', help="train from pretrained weights")
+    parser.set_defaults(pretrained=False)
+    parser.add_argument("--ckpt", type=str, default="", help="train from pre-trained weights checkpoint")
+    parser.add_argument("--save_dir", type=str, default="", help="output path for trained model weights")
+    parser.add_argument("--stats", type=str, default="", help="output path for saving training stats(losses, rewards)")
+    arguments = parser.parse_args()
+
+    main(arguments)
+
     print('ELAPSED TIME (sec): ' + str(time.process_time() - START))
     print('---------------------------------')

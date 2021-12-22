@@ -1,0 +1,1 @@
+ public Enumeration getCompletedCommands() { return taskgraphHandler.getCompletedNodes(); } 

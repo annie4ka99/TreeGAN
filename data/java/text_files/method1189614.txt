@@ -1,0 +1,1 @@
+ public boolean hasField(String fldname) { return fieldlist.contains(fldname); } 

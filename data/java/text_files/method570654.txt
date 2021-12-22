@@ -1,0 +1,1 @@
+ public boolean getUseComments() { return userSettings.UseComments; } 

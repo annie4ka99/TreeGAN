@@ -1,0 +1,1 @@
+ public String getCurrentDirectory() throws GeneralException { return resource.toURI().getPath(); } 

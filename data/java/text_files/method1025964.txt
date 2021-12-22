@@ -1,0 +1,1 @@
+ public Long toJavaBoxedLong() { return new Long(toJavaLong()); } 

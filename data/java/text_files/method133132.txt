@@ -1,0 +1,1 @@
+ public Image getBufferedImage() { if (this.isBuffered()) { return bufferImage; } else { return null; } } 

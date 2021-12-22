@@ -1,0 +1,1 @@
+ public void setModules(Map modulesInj){ this.modules = modulesInj; } 

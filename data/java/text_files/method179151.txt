@@ -1,0 +1,1 @@
+ public Node getTarget(Edge e) { if (contains(e)) { return e.target(); } return null; } 

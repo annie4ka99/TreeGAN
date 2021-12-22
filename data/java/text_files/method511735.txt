@@ -1,0 +1,1 @@
+ public void setBranche(java.lang.String branche) { this.branche = branche; } 

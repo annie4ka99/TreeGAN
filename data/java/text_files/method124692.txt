@@ -1,0 +1,1 @@
+ public void setOutputHistory(boolean isOutputHistory) { this.isOutputHistory = isOutputHistory; } 

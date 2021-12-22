@@ -1,0 +1,1 @@
+ public void addToRecipients(List toRecipients) { this.toRecipients.addAll(toRecipients); } 

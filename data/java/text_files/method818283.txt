@@ -1,0 +1,1 @@
+ public int getShapeType () { return view.getNodeIntProperty( rootGraphIndex, PGraphView.NODE_SHAPE ); } 

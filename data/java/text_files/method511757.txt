@@ -1,0 +1,1 @@
+ public void setVolatilitaet(double volatilitaet) { this.volatilitaet = volatilitaet; } 

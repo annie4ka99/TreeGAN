@@ -1,0 +1,1 @@
+ public void setShortName(String value) { this.shortName = value; } 

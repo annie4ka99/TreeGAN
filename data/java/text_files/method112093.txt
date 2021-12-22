@@ -1,0 +1,1 @@
+ public void setLocale(Locale iLocale) { this.locale = iLocale; string = null; } 

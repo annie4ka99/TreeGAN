@@ -1,0 +1,1 @@
+ public int getBoxNo() { return positionData & ((1 << 10) - 1); } 

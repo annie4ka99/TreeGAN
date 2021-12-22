@@ -1,0 +1,1 @@
+ public void setCaptionResource(String res) { this.captionResource = res; } 

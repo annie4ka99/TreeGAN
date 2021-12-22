@@ -1,0 +1,1 @@
+ public boolean contains(K key, V value) { return _getValues(key).contains(value); } 

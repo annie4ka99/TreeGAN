@@ -1,0 +1,1 @@
+ public Document createDefaultModel() { return new RestrictedDocument(); } 

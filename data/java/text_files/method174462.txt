@@ -1,0 +1,1 @@
+ public Element addContent(int index, Content child) { content.add(index, child); return this; } 

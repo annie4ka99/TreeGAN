@@ -1,0 +1,1 @@
+ public boolean isAssignable() { return this.isAssignable; } 

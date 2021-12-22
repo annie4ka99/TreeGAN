@@ -1,0 +1,1 @@
+ public DeprecateObjectsRequest createDeprecateObjectsRequest() { return new DeprecateObjectsRequest(); } 

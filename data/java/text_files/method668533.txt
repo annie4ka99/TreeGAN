@@ -1,0 +1,1 @@
+ public long getlnLong() { long x = getLong(); emptyBuffer(); return x; } 

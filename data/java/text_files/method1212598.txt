@@ -1,0 +1,1 @@
+ public void setClassType(Class classType) { this.classType = classType; } 

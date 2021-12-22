@@ -1,0 +1,1 @@
+ public int hash() { return doc1.hashCode()+doc2.hashCode(); } 

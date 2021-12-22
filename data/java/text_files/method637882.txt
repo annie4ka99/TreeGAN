@@ -1,0 +1,1 @@
+ public Population getPopulation() { return this.population; } 

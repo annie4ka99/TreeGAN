@@ -1,0 +1,1 @@
+ public void createFavoriteAsync(int id, WeiboListener listener) { createFavoriteAsync((long) id, listener); } 

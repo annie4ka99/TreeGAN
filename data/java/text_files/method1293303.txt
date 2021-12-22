@@ -1,0 +1,1 @@
+ public void addService(Service service) { services.put(service.getQName(), service); } 

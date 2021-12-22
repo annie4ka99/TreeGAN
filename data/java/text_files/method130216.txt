@@ -1,0 +1,1 @@
+ public double getKd () { return this.kd; } 

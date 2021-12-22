@@ -1,0 +1,1 @@
+ public void setRevNumbering (boolean rn) { revNums = rn; } 

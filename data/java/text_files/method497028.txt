@@ -1,0 +1,1 @@
+ public void close() { try { if (s!=null) s.close(); } catch (IOException e) { } s=null; out=null; } 

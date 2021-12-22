@@ -1,0 +1,1 @@
+ protected void setGrayScale(boolean enabled) { AbstractReachabilityGraphModel.setGrayScale(rgp_jgraph, enabled); } 

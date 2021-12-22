@@ -1,0 +1,1 @@
+ public String getNewRecordTabbedPaneName() { return NEW_INVOICES_TITLE ; } 

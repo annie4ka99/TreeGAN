@@ -1,0 +1,1 @@
+ public JPanel getRightForwardPanel() { return m_clRechterSturm; } 

@@ -1,0 +1,1 @@
+ public int size() { if (m_genes == null) { return 0; } else { return m_genes.length; } } 

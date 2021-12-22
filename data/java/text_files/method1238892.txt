@@ -1,0 +1,1 @@
+ public int getTimeout() { return cachedTimeout == null ? 0 : cachedTimeout.intValue(); } 

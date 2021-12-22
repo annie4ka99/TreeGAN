@@ -1,0 +1,1 @@
+ private long getTOCPointerLoc() { return BeginData - 8; } 

@@ -1,0 +1,1 @@
+ public void setMaxOccursIsUnbounded(boolean maxOccursIsUnbounded) { this.maxOccursIsUnbounded = maxOccursIsUnbounded; } 

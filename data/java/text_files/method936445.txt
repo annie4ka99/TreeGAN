@@ -1,0 +1,1 @@
+ public void destroy() { JmxManager.unregisterMBean(mJmxRegInfo, mApplicationInfo); } 

@@ -1,0 +1,1 @@
+ public boolean cd(String directory) { return control.executeCommand("CWD " + directory); } 

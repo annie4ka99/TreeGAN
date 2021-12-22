@@ -1,0 +1,1 @@
+ public void setAttributeType(AttributeType type) { unregister(); this.attributeType = type; register(); } 

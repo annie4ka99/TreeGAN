@@ -1,0 +1,1 @@
+ public double getTextContentAsDouble(String name) { return getTextContentAsDouble(name, 0); } 

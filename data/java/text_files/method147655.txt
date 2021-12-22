@@ -1,0 +1,1 @@
+ public void addBottom() { add(getFirewall().getRuleCount() + 1); } 

@@ -1,0 +1,1 @@
+ public Agent getAgent() { return (Agent) scenario.getEnv().getAgents().get(0); } 

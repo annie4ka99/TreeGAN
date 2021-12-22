@@ -1,0 +1,1 @@
+ public void setFalloffFactor(float factor) { falloffFactor = factor; } 

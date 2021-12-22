@@ -1,0 +1,1 @@
+ public boolean getAutoCommit() { return autoCommit; } 

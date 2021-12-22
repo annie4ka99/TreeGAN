@@ -1,0 +1,1 @@
+ public boolean getBullet() { return m_bullet; } 

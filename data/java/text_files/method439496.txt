@@ -1,0 +1,1 @@
+ public void bind(GL gl) { gl.glBindTexture(target, textureId); } 

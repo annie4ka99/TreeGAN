@@ -1,0 +1,1 @@
+ public RuleBasedScanner getPropertiesTextScanner() { return propertiesTextScanner; } 

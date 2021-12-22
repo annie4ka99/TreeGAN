@@ -1,0 +1,1 @@
+ public int cullCheck() { if (cullval == Subdivider.CULL_ACCEPT) { } return Subdivider.CULL_ACCEPT; } 

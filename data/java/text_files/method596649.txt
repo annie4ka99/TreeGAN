@@ -1,0 +1,1 @@
+ public ContentDTDNode getRoot(){ return cn; } 

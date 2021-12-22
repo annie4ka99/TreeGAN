@@ -1,0 +1,1 @@
+ public void setNext(AbstractSet next) { this.next = next; } 

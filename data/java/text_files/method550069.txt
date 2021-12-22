@@ -1,0 +1,1 @@
+ public void spectrumChange(NumberSpectrumEvent evt) { } 

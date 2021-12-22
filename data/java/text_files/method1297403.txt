@@ -1,0 +1,1 @@
+ public void setChartTitle(String title) { mChartTitle = title; } 

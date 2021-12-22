@@ -1,0 +1,1 @@
+ public void setLoader(Loader loader) { this.loader = loader; } 

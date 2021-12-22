@@ -1,0 +1,1 @@
+ protected double getCurrentConfidence() { return (this.intervalWidth - this.confidenceValue) * 100; } 

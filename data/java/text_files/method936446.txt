@@ -1,0 +1,1 @@
+ protected ApplicationInfo getApplicationInfo() { return mApplicationInfo; } 

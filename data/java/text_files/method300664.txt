@@ -1,0 +1,1 @@
+ public boolean getDisplayInfo() { return new Boolean( this.bolDisplayInfo ).booleanValue(); } 

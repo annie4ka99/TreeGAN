@@ -1,0 +1,1 @@
+ public int sizeOfSetFor(Object key) { return ((Set) mapToSet.get(key)).size(); } 

@@ -1,0 +1,1 @@
+ public int reasonLength() { final int offset = reasonOffset() >> 3; return super.getUByte(offset); } 

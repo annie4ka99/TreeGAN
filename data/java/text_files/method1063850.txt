@@ -1,0 +1,1 @@
+ public void setProtected(){ this.visibility=_protected; display(); } 

@@ -1,0 +1,1 @@
+ public void setShutDownClient(boolean what) { clientShutdownFlag = what; client = null; } 

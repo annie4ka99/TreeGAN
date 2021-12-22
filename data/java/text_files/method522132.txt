@@ -1,0 +1,1 @@
+public void setParameter(String newValue) { this.parameter = newValue; } 

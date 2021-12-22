@@ -1,0 +1,1 @@
+ public int getSelectedColumn() { return table.getSelectedColumn(); } 

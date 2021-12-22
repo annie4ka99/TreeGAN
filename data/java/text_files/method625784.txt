@@ -1,0 +1,1 @@
+ public void getFO() throws Exception { xmiFOViewer fov = new xmiFOViewer(source); } 

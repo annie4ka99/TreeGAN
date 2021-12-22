@@ -1,0 +1,1 @@
+ public boolean isValidated(int row) { return getBoolean(row, VisualItem.VALIDATED); } 

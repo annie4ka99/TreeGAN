@@ -1,0 +1,1 @@
+public String getSeqNumber() { return seqNumber; } 

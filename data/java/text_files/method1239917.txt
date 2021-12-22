@@ -1,0 +1,1 @@
+ public void setMessage (Message msg) { this.msgObject= msg; } 

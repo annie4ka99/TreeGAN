@@ -1,0 +1,1 @@
+ public void setPageWidth(int newPageWidth) { pageWidth = newPageWidth; } 

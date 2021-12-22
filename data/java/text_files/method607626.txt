@@ -1,0 +1,1 @@
+ public boolean isT0GetResponse() { return t0GetResponse; } 

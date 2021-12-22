@@ -1,0 +1,1 @@
+ private String getPath(final String asset) { return directory + File.separator + asset; } 

@@ -1,0 +1,1 @@
+ public CCD getCD(int index){ return cds[index]; } 

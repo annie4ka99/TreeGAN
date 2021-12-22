@@ -1,0 +1,1 @@
+ public CellConstraints rc(int row, int col) { return rchw(row, col, 1, 1); } 

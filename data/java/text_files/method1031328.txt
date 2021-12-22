@@ -1,0 +1,1 @@
+ public String getServerName() { return (this.hostName != null) ? this.hostName : ""; } 

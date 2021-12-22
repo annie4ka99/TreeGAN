@@ -1,0 +1,1 @@
+ public void addCharacteristic(double char1) { this.character.add(char1); } 

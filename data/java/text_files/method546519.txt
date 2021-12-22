@@ -1,0 +1,1 @@
+ public void setText(String s) { setText(s,false); } 

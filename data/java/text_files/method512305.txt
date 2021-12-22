@@ -1,0 +1,1 @@
+ public void setMappedName(final String mappedName) { this.mappedName = mappedName; } 

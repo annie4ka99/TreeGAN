@@ -1,0 +1,1 @@
+ public Object getValueAt( int aRow, int aColumn ) { return model.getValueAt( aRow, aColumn ); } 

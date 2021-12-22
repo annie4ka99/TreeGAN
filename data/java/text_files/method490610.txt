@@ -1,0 +1,1 @@
+ public File getTestsDir() { return new File(testKit.toString() + File.separator + "tests"); } 

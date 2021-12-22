@@ -1,0 +1,1 @@
+ public void setPower(int power) { this.power = power; repaint(); } 

@@ -1,0 +1,1 @@
+ public int getPayloadOffset() { return getGapOffset() + getGapLength(); } 

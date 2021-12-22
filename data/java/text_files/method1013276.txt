@@ -1,0 +1,1 @@
+ public boolean getUseVertexArrays() { return useVertexArrays; } 

@@ -1,0 +1,1 @@
+ protected AbstractBookmarkReader ( String fileName ) throws IOException { this(new File(fileName)); } 

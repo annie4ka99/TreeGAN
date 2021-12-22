@@ -1,0 +1,1 @@
+ public void setMinimumCommand (float minC) { this.minCommand = minC; } 

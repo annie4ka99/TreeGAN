@@ -1,0 +1,1 @@
+ protected boolean isProgressDialogAutomaticallyDisposed() { return true; } 

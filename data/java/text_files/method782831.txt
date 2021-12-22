@@ -1,0 +1,1 @@
+ public String pattern() { return lexemes.toString(); } 

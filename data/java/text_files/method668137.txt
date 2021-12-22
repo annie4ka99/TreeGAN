@@ -1,0 +1,1 @@
+ synchronized public void setChangeUserCommand(String changeUserCommand) { this.changeUserCommand = changeUserCommand; } 

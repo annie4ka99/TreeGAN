@@ -1,0 +1,1 @@
+ public void setSelectionProvider(ISelectionProvider selectionProvider) { _selectionProvider = selectionProvider; } 

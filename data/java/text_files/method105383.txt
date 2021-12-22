@@ -1,0 +1,1 @@
+ public void setXLink(SeriesLink.XLink value) { this.xLink = value; } 

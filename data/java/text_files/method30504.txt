@@ -1,0 +1,1 @@
+ public CToggleButton (String text) { this(text, null, false); } 

@@ -1,0 +1,1 @@
+ public void setIndexBase(String indexBase) { this.indexBase = indexBase; } 

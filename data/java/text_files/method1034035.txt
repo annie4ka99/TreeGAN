@@ -1,0 +1,1 @@
+ public void pushScope(String s) { scopeStack.addElement(s); } 

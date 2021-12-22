@@ -1,0 +1,1 @@
+ public void addATreeElement(ATreeElement newATreeElement){ m_list.add(newATreeElement); } 

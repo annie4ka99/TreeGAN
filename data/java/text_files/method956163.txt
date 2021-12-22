@@ -1,0 +1,1 @@
+ public String getOrbitType() { return orbitType; } 

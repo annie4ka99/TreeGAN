@@ -1,0 +1,1 @@
+ public void setSelectedCode(String codeText) { codeField.setText(codeText); setComboFromCode(); } 

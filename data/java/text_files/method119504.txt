@@ -1,0 +1,1 @@
+ protected void restoreComponentState(JComponent comp) { if (handle != null) handle.mouseDragged(null); } 

@@ -1,0 +1,1 @@
+ public long getEventDuration() { return this.eventDuration; } 

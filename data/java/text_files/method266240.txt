@@ -1,0 +1,1 @@
+ public void setDateFormatString(String dfString) { dateEditor.setDateFormatString(dfString); invalidate(); } 

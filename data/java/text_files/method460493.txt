@@ -1,0 +1,1 @@
+ public void setUserInfo(UserType value) { this.userInfo = value; } 

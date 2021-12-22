@@ -1,0 +1,1 @@
+ public void setSampleType(TridasVocabulary.SampleType value) { this.sampleType = value; } 

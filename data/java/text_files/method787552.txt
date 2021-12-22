@@ -1,0 +1,1 @@
+ public boolean remove(Predicate p) { return ( m_chain != null ? m_chain.remove(p) : false ); } 

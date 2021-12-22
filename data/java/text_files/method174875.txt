@@ -1,0 +1,1 @@
+ public boolean isBroken() { synchronized (lock) { return generation.broken; } } 

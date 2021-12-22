@@ -1,0 +1,1 @@
+ public int getTagSize() { return tagSize; } 

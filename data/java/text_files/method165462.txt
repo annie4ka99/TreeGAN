@@ -1,0 +1,1 @@
+ public String getValue(String name) { return Utils.noNull(info.getProperty(name)); } 

@@ -1,0 +1,1 @@
+ public void registerModel(HistoryModel model) { histories.put(model.getId(), model); } 

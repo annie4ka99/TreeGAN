@@ -1,0 +1,1 @@
+ public OrganizationQueryType createOrganizationQueryType() { return new OrganizationQueryType(); } 

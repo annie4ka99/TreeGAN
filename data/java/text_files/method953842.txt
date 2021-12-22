@@ -1,0 +1,1 @@
+ public String getDatabasePort() { return databasePort.getText(); } 

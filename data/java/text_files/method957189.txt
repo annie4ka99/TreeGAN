@@ -1,0 +1,1 @@
+ public CodeType getLocationKeyWord() { return locationKeyWord; } 

@@ -1,0 +1,1 @@
+public void setManager(org.epo.jdist.heart.JDistManager newManager) { manager = newManager; } 

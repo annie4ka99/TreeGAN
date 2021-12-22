@@ -1,0 +1,1 @@
+ public void removeStorage(Storage storage) { db.delete(storage); db.commit(); } 

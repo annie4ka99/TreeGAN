@@ -1,0 +1,1 @@
+ public WSIRegionDictionary createWSIRegionDictionary() { return new WSIRegionDictionary(); } 

@@ -1,0 +1,1 @@
+ public String getTimeFormat() { return timeFormat; } 

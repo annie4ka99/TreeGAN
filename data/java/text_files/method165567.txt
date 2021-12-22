@@ -1,0 +1,1 @@
+ public boolean isDirectory(Path path) { return getFile(path).isDirectory(); } 

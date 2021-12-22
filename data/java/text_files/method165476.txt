@@ -1,0 +1,1 @@
+ public boolean isAlwaysDenyDirectoryListings() { return alwaysDenyDirectoryListings; } 

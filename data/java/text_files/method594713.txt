@@ -1,0 +1,1 @@
+ public ServerAddress getSMTPServer() { return SMTPServer; } 

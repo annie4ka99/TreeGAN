@@ -1,0 +1,1 @@
+ public void setStats(java.lang.String stats) { this.stats = stats; } 

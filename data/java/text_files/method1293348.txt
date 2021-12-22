@@ -1,0 +1,1 @@
+ public void setExtensionRegistry(ExtensionRegistry extReg) { this.extReg = extReg; } 

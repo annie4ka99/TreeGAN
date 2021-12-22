@@ -1,0 +1,1 @@
+ public StringBuffer getNsStructureDestroyed() { return nsStructureDestroyed; } 

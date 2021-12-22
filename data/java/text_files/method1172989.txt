@@ -1,0 +1,1 @@
+ public void setInput(Input in) { AllZone.getInputControl().setInput(in, true); } 

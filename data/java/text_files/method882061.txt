@@ -1,0 +1,1 @@
+ public int getNodeId(TreeNode node) { return this.getHtmlModel().getNodeId(node); } 

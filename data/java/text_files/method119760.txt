@@ -1,0 +1,1 @@
+ protected GPGraphUI getGraphUI() { return (GPGraphUI) graph.getUI(); } 

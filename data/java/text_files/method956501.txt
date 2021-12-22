@@ -1,0 +1,1 @@
+ public void setSearchStatus(RequestStatusType value) { this.searchStatus = value; } 

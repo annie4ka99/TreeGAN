@@ -1,0 +1,1 @@
+ public void setData(byte[] data) { pageData = data; clearLimit(); } 

@@ -1,0 +1,1 @@
+public OutputSpooler getOutputSpooler() { return outputSpooler; } 

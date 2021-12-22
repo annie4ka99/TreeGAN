@@ -1,0 +1,1 @@
+ public long getTimeMillis() { return getTimeSeconds() * MILLISECONDS_PER_SECOND; } 

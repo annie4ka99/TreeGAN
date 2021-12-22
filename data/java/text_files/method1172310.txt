@@ -1,0 +1,1 @@
+ public void addUntapCommand(Command c) { untapCommandList.add(c); } 

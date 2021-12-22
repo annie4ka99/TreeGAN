@@ -1,0 +1,1 @@
+ protected Observer createGraphViewObserver() { return new GraphViewObserver(); } 

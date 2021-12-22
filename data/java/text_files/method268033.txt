@@ -1,0 +1,1 @@
+ public int getMaxCatalogNameLength() throws java.sql.SQLException { return 32; } 

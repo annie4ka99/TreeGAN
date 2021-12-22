@@ -1,0 +1,1 @@
+ public ReactMolDrawingComposite getJCP(){ return jcp; } 

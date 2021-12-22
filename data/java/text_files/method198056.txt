@@ -1,0 +1,1 @@
+ public boolean isTransparent() { return isUncloseable() || hasCharacteristics(CHARACTERISTIC_OPEN); } 

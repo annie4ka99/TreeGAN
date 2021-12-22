@@ -1,0 +1,1 @@
+ public int read(char[] cbuf){ return read(cbuf, 0, cbuf.length); } 

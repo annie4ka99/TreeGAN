@@ -1,0 +1,1 @@
+ public boolean addRelationship(Relationship relationship) { return _relationships.add(relationship); } 

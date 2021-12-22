@@ -1,0 +1,1 @@
+ public Vector2f subtractLocal(float addX, float addY) { x -= addX; y -= addY; return this; } 

@@ -1,0 +1,1 @@
+ public MapBacking getDefaultMap() { if(defaultMap == null) return null; else return getMap(defaultMap); } 

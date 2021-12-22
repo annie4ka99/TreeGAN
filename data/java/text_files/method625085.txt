@@ -1,0 +1,1 @@
+ public boolean isDescribedBy(ClassifierDescriptor descriptor) { return this.classifier.equals(descriptor); } 

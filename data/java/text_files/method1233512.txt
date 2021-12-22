@@ -1,0 +1,1 @@
+ public BookManager getBookManager() { return bookManager; } 

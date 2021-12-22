@@ -1,0 +1,1 @@
+ public void setIsXCost(boolean b) { xCost = b; } 

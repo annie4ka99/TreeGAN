@@ -1,0 +1,1 @@
+private void setDetailFlag(boolean newDetailFlag) { detailFlag = newDetailFlag; } 

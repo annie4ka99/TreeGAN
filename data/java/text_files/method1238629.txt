@@ -1,0 +1,1 @@
+ public void setMinOccursIs0(boolean minOccursIs0) { this.minOccursIs0 = minOccursIs0; } 

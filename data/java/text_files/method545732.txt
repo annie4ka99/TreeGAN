@@ -1,0 +1,1 @@
+ public void setFont(Font f,boolean resize) { theFont = f; updateComp(resize); } 

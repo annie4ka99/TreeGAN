@@ -1,0 +1,1 @@
+ public void setBuffer_TN(String string) { buffer_TN = string; } 

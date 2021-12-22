@@ -1,0 +1,1 @@
+ public int getPlotter() { return plotter; } 

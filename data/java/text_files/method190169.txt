@@ -1,0 +1,1 @@
+ public void put(PropertyMap map) { _maps.put(Database.toLookupName(map.getName()), map); } 

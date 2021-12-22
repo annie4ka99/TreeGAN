@@ -1,0 +1,1 @@
+ private boolean isSet(int i, int m) { return (i & m) != 0; } 

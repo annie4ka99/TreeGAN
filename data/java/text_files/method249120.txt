@@ -1,0 +1,1 @@
+ public void init(ActionServlet servlet, ModuleConfig config) throws ServletException { initContext(servlet); } 

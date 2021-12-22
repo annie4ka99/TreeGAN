@@ -1,0 +1,1 @@
+ public void setId(byte id) { this.id = id; } 

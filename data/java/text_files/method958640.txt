@@ -1,0 +1,1 @@
+ public void setReturnType(QueryObject returnObj) { this.returnObj = returnObj; } 

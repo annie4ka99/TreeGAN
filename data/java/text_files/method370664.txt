@@ -1,0 +1,1 @@
+ public boolean usesManifest() { return fUsesManifest; } 

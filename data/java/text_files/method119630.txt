@@ -1,0 +1,1 @@
+ public boolean isHoveringOverHyperlink() { if (pane.isEditable()) { return false; } else { return isHovering; } } 

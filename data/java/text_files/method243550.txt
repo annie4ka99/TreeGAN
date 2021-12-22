@@ -1,0 +1,1 @@
+ public String getParameterString() { return m_string; } 

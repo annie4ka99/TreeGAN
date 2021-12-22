@@ -1,0 +1,1 @@
+ public void setBeginning(double value) { this.beginning = value; } 

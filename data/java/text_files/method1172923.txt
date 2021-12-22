@@ -1,0 +1,1 @@
+ public int getNumTargeted() { if (choice == null) return 0; return choice.getNumTargeted(); } 

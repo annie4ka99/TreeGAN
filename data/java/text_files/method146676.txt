@@ -1,0 +1,1 @@
+ public void setFix(GPS_FixType fix) { this.fix = fix; } 

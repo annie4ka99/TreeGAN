@@ -1,0 +1,1 @@
+ protected BasicStroke getStroke(VisualItem item) { return item.getStroke(); } 

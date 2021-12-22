@@ -1,0 +1,1 @@
+ public int getFuzziness() { return fuzziness; } 

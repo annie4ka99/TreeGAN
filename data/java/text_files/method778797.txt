@@ -1,0 +1,1 @@
+ public void removeFTPStatusListener(FTPListener l) { listenerList.remove(FTPListener.class, l); } 

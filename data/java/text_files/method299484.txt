@@ -1,0 +1,1 @@
+ private MemberModel model() { return (MemberModel) getModel(); } 

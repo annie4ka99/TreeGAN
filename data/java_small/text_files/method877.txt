@@ -1,0 +1,1 @@
+ final public HistoryElement getSuccessorMovement() { if (hasSuccessorMovement() == false) { return null; } return movementHistory.get( ++currentMovementNo ); } 

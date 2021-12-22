@@ -1,0 +1,1 @@
+ public void insertText(String pText) { textEditor.sqlTextViewer.insertText(pText); } 

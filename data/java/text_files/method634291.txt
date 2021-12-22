@@ -1,0 +1,1 @@
+ public void setConfig(OvConfig config) throws Exception { this.config = config; } 

@@ -1,0 +1,1 @@
+ public String getColumnName(int column) throws RemoteException { return fields.get(column-1); } 

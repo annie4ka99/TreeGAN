@@ -1,0 +1,1 @@
+ public Module getModule() { return getModuleState().getModule(); } 

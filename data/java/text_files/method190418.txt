@@ -1,0 +1,1 @@
+ public IndexBuilder setIgnoreNulls() { _flags |= IndexData.IGNORE_NULLS_INDEX_FLAG; return this; } 

@@ -1,0 +1,1 @@
+ public boolean equals(Complex z){ return (z.x == this.x) && (z.y == this.y); } 

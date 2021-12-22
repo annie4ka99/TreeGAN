@@ -1,0 +1,1 @@
+ public void setNeighborIDs(Vector endbefore) { this.endbefore = endbefore; } 

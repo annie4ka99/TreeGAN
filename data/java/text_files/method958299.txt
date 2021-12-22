@@ -1,0 +1,1 @@
+ public void setNodeType(String value) { this.nodeType = value; } 

@@ -1,0 +1,1 @@
+ public DefaultMutableTreeNode getRoot() { return root; } 

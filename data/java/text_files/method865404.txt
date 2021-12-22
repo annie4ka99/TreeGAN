@@ -1,0 +1,1 @@
+ public void readHeader() throws IOException { readSignature(); readRemainderOfHeader(); } 

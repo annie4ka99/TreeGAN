@@ -1,0 +1,1 @@
+ public void testOneEmptyPlatformResource() { runTestOneEmptyPlatform( false, true ); } 

@@ -1,0 +1,1 @@
+ public String getOrigin(int i) { try { return errors[i].origin.trim(); } catch (Exception e) { return ""; } } 

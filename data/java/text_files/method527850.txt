@@ -1,0 +1,1 @@
+public void setLength(long newLength) { length = newLength; } 

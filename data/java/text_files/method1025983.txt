@@ -1,0 +1,1 @@
+ protected LValue normalizeGet(Object val) { return val==null? LNil.NIL: (LValue) val; } 

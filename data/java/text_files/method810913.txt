@@ -1,0 +1,1 @@
+ protected void setFixture(DocumentRoot fixture) { this.fixture = fixture; } 

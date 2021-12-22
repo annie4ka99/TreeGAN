@@ -1,0 +1,1 @@
+ public void setOwnerTeams(Hashtable hashtable) { ownerTeams = hashtable; } 

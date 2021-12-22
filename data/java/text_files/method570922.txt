@@ -1,0 +1,1 @@
+ public int getPopupLocation() { return _popupLocation; } 

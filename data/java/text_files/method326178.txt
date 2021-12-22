@@ -1,0 +1,1 @@
+ public void closeLater() { SwingUtilities.invokeLater(new CloseLater()); } 

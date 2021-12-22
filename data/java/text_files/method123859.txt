@@ -1,0 +1,1 @@
+ public Attributes getSaxAttributes() { return _attributes; } 

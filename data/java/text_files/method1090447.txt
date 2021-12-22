@@ -1,0 +1,1 @@
+ public void accept(IAeImplVisitor aVisitor ) throws AeBusinessProcessException { aVisitor.visit(this); } 

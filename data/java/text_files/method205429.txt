@@ -1,0 +1,1 @@
+ public boolean isDirectory(String dirName) throws FileResourceException { return false; } 

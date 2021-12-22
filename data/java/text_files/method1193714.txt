@@ -1,0 +1,1 @@
+ public void disposePipetteTip() throws CBSRobotException { runCommand("RUN DsTip"); } 

@@ -1,0 +1,1 @@
+ public void reset() { lastUpdated = 0L; numMeasurements = 0; resetImpl(); } 

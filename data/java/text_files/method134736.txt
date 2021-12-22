@@ -1,0 +1,1 @@
+ public void setLabelColor(Color col) { label_color = col; } 

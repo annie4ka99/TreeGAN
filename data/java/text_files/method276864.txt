@@ -1,0 +1,1 @@
+ public void write(OutputStream os) throws PalmDbException { markAsClean(); super.write( os); } 

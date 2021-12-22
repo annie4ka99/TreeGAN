@@ -1,0 +1,1 @@
+ public Vector3f getNormal() { if(normal == null) { calculateNormal(); } return normal; } 

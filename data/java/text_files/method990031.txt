@@ -1,0 +1,1 @@
+ protected void onDie(ZkCagesException killerException) {} 

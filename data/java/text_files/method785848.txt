@@ -1,0 +1,1 @@
+ public int getParentRow(int row) { return ((CascadedRowManager)m_rows).getParentRow(row); } 

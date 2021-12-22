@@ -1,0 +1,1 @@
+ public void removeMapping(ActionMapping mapping) { mappings.remove(mapping.getPath()); } 

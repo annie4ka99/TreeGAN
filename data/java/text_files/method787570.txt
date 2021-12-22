@@ -1,0 +1,1 @@
+ public double getMaximumSize() { return m_minSize + m_sizeRange; } 

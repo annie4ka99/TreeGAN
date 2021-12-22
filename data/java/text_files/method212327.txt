@@ -1,0 +1,1 @@
+ public void addArgument(String arg) { this.arguments.add(arg); } 

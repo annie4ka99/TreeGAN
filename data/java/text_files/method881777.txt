@@ -1,0 +1,1 @@
+ public Document dispatch(Pipeline p) { return p.process(mDocument); } 

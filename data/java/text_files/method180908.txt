@@ -1,0 +1,1 @@
+public void horizontalRule() throws java.io.IOException { element("hr"); } 

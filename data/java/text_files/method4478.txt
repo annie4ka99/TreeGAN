@@ -1,0 +1,1 @@
+ public void setDistanceChange(float distChange){ this.m_distanceChange = distChange; } 

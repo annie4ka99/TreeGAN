@@ -1,0 +1,1 @@
+ protected double pointXtoVal(int x) { return zoomableThing.getXStart() + x / zoomableThing.getXScale(); } 

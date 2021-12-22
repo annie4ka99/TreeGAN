@@ -1,0 +1,1 @@
+ public void setPerson2Id(int person2Id) { this.person2Id = person2Id; } 

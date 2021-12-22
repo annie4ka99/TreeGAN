@@ -1,0 +1,1 @@
+private void setSystemParam(org.epo.jpxi.heart.JpxiSystemParameter newSystemParam) { systemParam = newSystemParam; } 

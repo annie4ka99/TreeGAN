@@ -1,0 +1,1 @@
+ public String getBaseType() { if (isBaseType) { return name; } else { return null; } } 

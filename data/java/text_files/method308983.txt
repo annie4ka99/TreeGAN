@@ -1,0 +1,1 @@
+ public void removeActionListener(GenericListener l) { listenerList.remove(l); } 

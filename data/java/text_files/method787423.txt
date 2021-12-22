@@ -1,0 +1,1 @@
+ public void setCustomToolTip(JToolTip tooltip) { m_customToolTip = tooltip; } 

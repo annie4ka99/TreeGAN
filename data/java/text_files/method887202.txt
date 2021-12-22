@@ -1,0 +1,1 @@
+ public void cancel() { cancelled = true; } 

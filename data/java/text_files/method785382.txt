@@ -1,0 +1,1 @@
+ public Node getFirstChild(Node node) { return getChild(node, 0); } 

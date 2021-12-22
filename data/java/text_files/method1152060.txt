@@ -1,0 +1,1 @@
+ public Vec2 getLinearVelocity(){ return m_linearVelocity.clone(); } 

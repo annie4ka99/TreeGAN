@@ -1,0 +1,1 @@
+ public double getThreshold() { return m_threshold; } 

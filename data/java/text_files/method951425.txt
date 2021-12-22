@@ -1,0 +1,1 @@
+ public Iterator getIterator() { return this.revocationList.iterator(); } 

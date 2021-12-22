@@ -1,0 +1,1 @@
+ public int getHorizontalImageAlignment() { return m_hImageAlign; } 

@@ -1,0 +1,1 @@
+ public QueryConstraintType getConstraint() { return constraint; } 

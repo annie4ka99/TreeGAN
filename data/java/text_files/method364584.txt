@@ -1,0 +1,1 @@
+ public void setTextureHeight(int texHeight) { this.texHeight = texHeight; setHeight(); } 

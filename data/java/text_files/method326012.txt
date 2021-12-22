@@ -1,0 +1,1 @@
+ public ParameterType getParmeterType(int iDim) { return parmeterType[iDim]; } 

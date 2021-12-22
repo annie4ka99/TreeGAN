@@ -1,0 +1,1 @@
+public void notifyLinkUp() throws JDistException { manipulateStatus(STATUS_UP, null); } 

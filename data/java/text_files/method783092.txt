@@ -1,0 +1,1 @@
+ public boolean first(AbstractSet set) { return true; } 

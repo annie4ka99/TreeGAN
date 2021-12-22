@@ -1,0 +1,1 @@
+ public void enqueue(Message m) { Work w = new Work(m); this.enqueue(w); } 

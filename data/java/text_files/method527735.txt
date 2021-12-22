@@ -1,0 +1,1 @@
+public int getAmendement() { return amendement; } 

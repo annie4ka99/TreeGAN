@@ -1,0 +1,1 @@
+ public void setNewPwd2(String newPwd2) { this.newPwd2 = newPwd2; } 

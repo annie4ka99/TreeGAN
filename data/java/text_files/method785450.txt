@@ -1,0 +1,1 @@
+ public Rectangle2D getBounds(int row) { return (Rectangle2D)get(row, VisualItem.BOUNDS); } 

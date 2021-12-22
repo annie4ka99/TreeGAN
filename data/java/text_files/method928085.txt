@@ -1,0 +1,1 @@
+ public int hashCode(URL u) { return super.hashCode(u); } 

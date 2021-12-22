@@ -1,0 +1,1 @@
+ public Comparable getSeriesKey(int measurement) { return "Sample " + measurement; } 

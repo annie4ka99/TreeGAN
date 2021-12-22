@@ -1,0 +1,1 @@
+ private boolean isBound() { return this.params.size() != 0; } 

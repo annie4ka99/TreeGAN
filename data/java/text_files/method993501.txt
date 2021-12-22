@@ -1,0 +1,1 @@
+ public void setRotation( float rotation ) { this.rotation = rotation; } 

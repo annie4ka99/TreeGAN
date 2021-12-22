@@ -1,0 +1,1 @@
+ public String fetchGCSite(String address) { checkSpiderGC(); return spiderGC.fetch(address); } 

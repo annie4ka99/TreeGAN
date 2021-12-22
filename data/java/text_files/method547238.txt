@@ -1,0 +1,1 @@
+ public String format(Number number) { return number.toString(); } 

@@ -1,0 +1,1 @@
+ public void setResponse(ManagerResponse response) { this.response=response; } 

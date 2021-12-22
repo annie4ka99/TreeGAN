@@ -1,0 +1,1 @@
+ public Integer getInheritedCount() { return inheritedCount; } 

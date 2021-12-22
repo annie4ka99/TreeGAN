@@ -1,0 +1,1 @@
+ public ArrayList getAcceptableHosts() { return acceptable; } 

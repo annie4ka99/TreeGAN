@@ -1,0 +1,1 @@
+ public void setXDistortionFactor(double d) { dx = d; m_distortX = dx > 0; } 

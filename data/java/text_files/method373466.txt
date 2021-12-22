@@ -1,0 +1,1 @@
+ public void family(int value) { super.setInt(0, value); } 

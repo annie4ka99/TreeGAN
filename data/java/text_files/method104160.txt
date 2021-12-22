@@ -1,0 +1,1 @@
+ public int getNumericCode() { return numericCode; } 

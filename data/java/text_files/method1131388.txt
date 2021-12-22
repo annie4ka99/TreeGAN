@@ -1,0 +1,1 @@
+ public void add(DisplayObject o) { synchronized (display) { display.add(o); } } 

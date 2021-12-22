@@ -1,0 +1,1 @@
+ public AngleType getYaw() { return yaw; } 

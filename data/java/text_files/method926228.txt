@@ -1,0 +1,1 @@
+ public void setBitCount(int bitCount) { this.bitCount = bitCount; } 

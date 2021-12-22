@@ -1,0 +1,1 @@
+ public boolean supportsSelectForUpdate() throws java.sql.SQLException { return false; } 

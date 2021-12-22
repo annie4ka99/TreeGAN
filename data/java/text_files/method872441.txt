@@ -1,0 +1,1 @@
+ public void setStatus(int statusVar) throws WorkFileException { this.status = statusVar; this.log(); } 

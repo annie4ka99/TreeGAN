@@ -1,0 +1,1 @@
+ public int getImageDelay() { return new Integer( this.intDelayTime ).intValue(); } 

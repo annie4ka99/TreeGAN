@@ -1,0 +1,1 @@
+ public void incrementPosition(Instruction instruction) { this.position += instruction.getSize(this); } 

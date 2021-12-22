@@ -1,0 +1,1 @@
+ public void surfaceDestroyed() { synchronized(this) { mDone = false; hasSurface = false; notify(); } } 

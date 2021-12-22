@@ -1,0 +1,1 @@
+ public SessionInfo getSessionInfo() { return (SessionInfo) this.getSession().getAttribute(SESSION_INFO); } 

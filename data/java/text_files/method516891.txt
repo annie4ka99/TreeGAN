@@ -1,0 +1,1 @@
+public long getTotalHits() throws RemoteException { return 0; } 

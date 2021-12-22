@@ -1,0 +1,1 @@
+ public Object getAllele() { return getInternalValue(); } 

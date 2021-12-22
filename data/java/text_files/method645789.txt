@@ -1,0 +1,1 @@
+ public void setTreeViewer(TreeViewer treeViewer) { _treeViewer = treeViewer; } 

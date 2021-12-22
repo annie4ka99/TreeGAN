@@ -1,0 +1,1 @@
+private void setFrameNumber(char[] newFrameNumber) { frameNumber = newFrameNumber; } 

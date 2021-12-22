@@ -1,0 +1,1 @@
+ protected void setLegendByName(boolean legend) { this.legendToggle = legend; } 

@@ -1,0 +1,1 @@
+ public void testPreviousValuesInPostconditions() throws Exception { this.evaluate("prev_values_in_post.ocl"); } 

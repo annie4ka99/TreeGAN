@@ -1,0 +1,1 @@
+ public int getInterpFrames() { return interpFrames; } 

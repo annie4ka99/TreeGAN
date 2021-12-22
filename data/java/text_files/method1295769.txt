@@ -1,0 +1,1 @@
+ public Adapter createDocumentationAdapter() { return null; } 

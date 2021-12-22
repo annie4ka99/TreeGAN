@@ -1,0 +1,1 @@
+ public int getHashCapacity() { return hashKeys.length; } 

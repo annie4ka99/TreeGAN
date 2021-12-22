@@ -1,0 +1,1 @@
+ public void setStdDeviation(Double value) { this.stdDeviation = value; } 

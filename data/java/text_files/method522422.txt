@@ -1,0 +1,1 @@
+ public long getCurrentLoad() throws ServiceNotAvailableException { try { return getCurrentLoad(0); } finally { } } 

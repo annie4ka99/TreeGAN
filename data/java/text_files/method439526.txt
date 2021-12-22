@@ -1,0 +1,1 @@
+ public void addGuiToolsEvent(GuiTools gt) { gtEvent = gt; } 

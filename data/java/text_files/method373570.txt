@@ -1,0 +1,1 @@
+ public void gapBlockCount(int value) { super.setUShort(12, value); } 

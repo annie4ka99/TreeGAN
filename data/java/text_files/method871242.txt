@@ -1,0 +1,1 @@
+ public void setMessageDrivenContext(MessageDrivenContext newContext) throws EJBException { this.context = newContext; } 

@@ -1,0 +1,1 @@
+ public float getBodyDirection() { return this.m_bodyDirection; } 

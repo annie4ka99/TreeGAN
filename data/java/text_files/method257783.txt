@@ -1,0 +1,1 @@
+ public void setStatus(net.cw.jcart.model.Status status) { this.status = (VersionStatus) status; } 

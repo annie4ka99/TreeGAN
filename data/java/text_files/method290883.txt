@@ -1,0 +1,1 @@
+ public void addChild(Node node) { rootNode.addChild(node); } 

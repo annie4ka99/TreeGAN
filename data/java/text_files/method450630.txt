@@ -1,0 +1,1 @@
+ public PopulationController (int maxPopulation) { setMaxPopulation(maxPopulation); } 

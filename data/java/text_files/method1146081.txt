@@ -1,0 +1,1 @@
+ public ContactDTO getInfo(int contactId) throws SQLException { return _Dao.getInfo(contactId); } 

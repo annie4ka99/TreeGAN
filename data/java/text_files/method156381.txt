@@ -1,0 +1,1 @@
+ final protected void resetHeadRendered() { setFlag(FLAG_HEAD_RENDERED, false); } 

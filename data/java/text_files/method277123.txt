@@ -1,0 +1,1 @@
+ public void setLinkDbName(String linkDbName) { this.linkDbName = linkDbName; } 

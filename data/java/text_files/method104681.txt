@@ -1,0 +1,1 @@
+ public void setValue(BigInteger value) { this.value = value; } 

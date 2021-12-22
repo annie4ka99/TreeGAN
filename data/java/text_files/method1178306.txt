@@ -1,0 +1,1 @@
+ public void clear() { T t = channel.poll(); while(t != null) { t = channel.poll(); } } 

@@ -1,0 +1,1 @@
+ public boolean isPrivateMessagesEnabled() { return this.privateMessagesEnabled; } 

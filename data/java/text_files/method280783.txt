@@ -1,0 +1,1 @@
+ public String getText(Object object) { return getString("_UI_TemplateParameter_type"); } 

@@ -1,0 +1,1 @@
+ public void addMapping(ActionMapping mapping) { mappings.put(mapping.getPath(), mapping); } 

@@ -1,0 +1,1 @@
+ public boolean doTrigger(boolean mandatory) { return false; } 

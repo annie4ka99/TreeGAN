@@ -1,0 +1,1 @@
+ public void setColorScale(double colorScale) { this.colorScale = colorScale; setColors(); computeSpectrogram(); } 

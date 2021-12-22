@@ -1,0 +1,1 @@
+ public float getLength() { return m_length; } 

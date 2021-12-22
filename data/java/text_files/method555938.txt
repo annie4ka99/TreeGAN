@@ -1,0 +1,1 @@
+ public String getDevice_in_charge() { return deviceInCharge; } 

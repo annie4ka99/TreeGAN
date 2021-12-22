@@ -1,0 +1,1 @@
+ public OptimizerFactory getOptimizerFactory() { return of; } 

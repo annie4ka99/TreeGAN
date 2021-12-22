@@ -1,0 +1,1 @@
+ public void setDiskPersistent(boolean diskPersistent) { this.diskPersistent = diskPersistent; } 

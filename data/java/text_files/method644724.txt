@@ -1,0 +1,1 @@
+ public void setAutoCorrection(boolean autoCorrection) { this.autoCorrection = autoCorrection; } 

@@ -1,0 +1,1 @@
+ public void setJService(final JService service) { jService = service; } 

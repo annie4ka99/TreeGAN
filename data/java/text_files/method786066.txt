@@ -1,0 +1,1 @@
+ public IntIterator columnRows(IntIterator rows, int col) { return new ColumnRowIterator(rows, col); } 

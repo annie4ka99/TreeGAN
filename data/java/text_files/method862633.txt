@@ -1,0 +1,1 @@
+ public void parse(String string) throws ParseException { parse(new StringBuffer(string)); } 

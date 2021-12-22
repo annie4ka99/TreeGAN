@@ -1,0 +1,1 @@
+ protected String getBindingSuffix() { return DEFAULT_BINDING_SUFFIX; } 

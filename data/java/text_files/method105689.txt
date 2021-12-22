@@ -1,0 +1,1 @@
+ public void setNrOfUnmeasuredOuterRings(Integer value) { this.nrOfUnmeasuredOuterRings = value; } 

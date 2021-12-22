@@ -1,0 +1,1 @@
+ public void setEmployer(Employer employer) { this.company = employer; } 

@@ -1,0 +1,1 @@
+ public void setdX(double error) { setCoordinateError(0, error); } 

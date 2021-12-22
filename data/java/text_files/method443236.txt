@@ -1,0 +1,1 @@
+ public boolean isSorted() { return this != NOT_SORTED; } 

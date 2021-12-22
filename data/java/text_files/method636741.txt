@@ -1,0 +1,1 @@
+ public boolean logout() throws LoginException { subject = null; loginStatus = false; return true; } 

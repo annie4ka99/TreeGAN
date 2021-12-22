@@ -1,0 +1,1 @@
+ public void setCopyPrevention(boolean copyPrevention) { this.copyPrevention = copyPrevention; } 

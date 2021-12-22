@@ -1,0 +1,1 @@
+ public IntIterator rows(boolean reverse) { return m_rows.rows(reverse); } 

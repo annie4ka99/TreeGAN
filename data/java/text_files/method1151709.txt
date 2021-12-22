@@ -1,0 +1,1 @@
+ public void setDensity(float d) { m_density = d; } 

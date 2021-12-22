@@ -1,0 +1,1 @@
+ protected Object doGetValue() { return viewer.getDocument().get(); } 

@@ -1,0 +1,1 @@
+ protected boolean inHitRegion(double x, double y) { return true; } 

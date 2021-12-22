@@ -1,0 +1,1 @@
+ public void wakeOwner () { synchronized(owner) { owner.notifyAll(); } } 

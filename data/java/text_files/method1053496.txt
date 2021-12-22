@@ -1,0 +1,1 @@
+ public void stop() { if (thePlayer == null) return; thePlayer.stop(); } 

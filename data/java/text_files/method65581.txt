@@ -1,0 +1,1 @@
+ public void setRefreshProperty(String refreshProperty) { this.refreshProperty = refreshProperty; } 

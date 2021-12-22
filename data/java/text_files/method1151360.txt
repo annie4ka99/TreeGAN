@@ -1,0 +1,1 @@
+ public void linkLabels(DataPoint other) { classList = other.classList; } 

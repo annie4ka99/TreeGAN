@@ -1,0 +1,1 @@
+ public void setLastModified(String date) { this.date = date; } 

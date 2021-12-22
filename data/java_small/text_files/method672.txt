@@ -1,0 +1,1 @@
+ public void addLevel(Level level) { displayedLevels.add(level); if (displayedLevels.size() < levelsPerPage) { lastLevelIndex = displayedLevels.size() - 1; } else { lastLevelIndex = levelsPerPage - 1; } } 

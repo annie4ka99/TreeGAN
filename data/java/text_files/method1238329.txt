@@ -1,0 +1,1 @@
+ public void setScope(Scope scope) { this.scope = scope; } 

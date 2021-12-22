@@ -1,0 +1,1 @@
+ public void addEdgeType(EdgeComponent edge) { epool.add(0, edge); } 

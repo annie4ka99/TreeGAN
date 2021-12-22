@@ -1,0 +1,1 @@
+ public Group get_group(final String n) { synchronized (this) { return get_group_i(n, true); } } 

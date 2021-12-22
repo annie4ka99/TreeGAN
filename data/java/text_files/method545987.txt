@@ -1,0 +1,1 @@
+ public double getTransformedValue(double x) { return A0 + A1 * x + A2 * x * x; } 

@@ -1,0 +1,1 @@
+ public String getHand() { return m_hand; } 

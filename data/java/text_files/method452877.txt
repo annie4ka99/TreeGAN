@@ -1,0 +1,1 @@
+ protected void jButtonNuevoMouseEntered(MouseEvent evt) { UtilidadesGUI.getInstance().botonOscuro(jButtonNuevo); } 

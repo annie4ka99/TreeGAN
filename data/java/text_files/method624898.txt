@@ -1,0 +1,1 @@
+ public void testNavigationFromAssocClass() throws Exception { this.evaluate("nav_from_assoc_class.ocl"); } 

@@ -1,0 +1,1 @@
+ public boolean isSelected(int pRow, int pCol) { return pRow == selection.y; } 

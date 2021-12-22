@@ -1,0 +1,1 @@
+ public void setController(ControllerImpl newController) { this.controller = newController; updateEnabled(); } 

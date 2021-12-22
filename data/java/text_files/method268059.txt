@@ -1,0 +1,1 @@
+ public int getMaxColumnNameLength() throws java.sql.SQLException { return 64; } 

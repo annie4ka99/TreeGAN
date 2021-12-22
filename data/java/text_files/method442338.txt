@@ -1,0 +1,1 @@
+ public Adapter createMImplicitMethodDeclarationAdapter() { return null; } 

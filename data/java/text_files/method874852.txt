@@ -1,0 +1,1 @@
+ private ResourceComparator(int sortBy){ this.sortBy = sortBy; } 

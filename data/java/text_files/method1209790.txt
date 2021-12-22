@@ -1,0 +1,1 @@
+ public boolean hasInstance(Scriptable instance) { return (instance instanceof XML || instance instanceof XMLList); } 

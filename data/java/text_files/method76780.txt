@@ -1,0 +1,1 @@
+ public PrimitiveType primitive(Symbol symbol) { return primitive(symbol.toString()); } 

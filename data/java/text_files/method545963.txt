@@ -1,0 +1,1 @@
+ public void setShadow(boolean b) { isShadowed = b; updateShape(); } 

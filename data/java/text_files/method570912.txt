@@ -1,0 +1,1 @@
+ public Calendar getCalendar() { updateCalendar(); return _cal; } 

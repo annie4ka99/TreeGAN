@@ -1,0 +1,1 @@
+ public void setSnonce(String value) { this.snonce = value; } 

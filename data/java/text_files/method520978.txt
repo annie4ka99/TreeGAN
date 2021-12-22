@@ -1,0 +1,1 @@
+ public void setDaemonRmiURL(java.lang.String newDaemonRmiURL) { daemonRmiURL = newDaemonRmiURL; } 

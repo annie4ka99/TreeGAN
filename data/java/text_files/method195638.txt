@@ -1,0 +1,1 @@
+ public void setIdentLevel(int i) { identLevel=i; } 

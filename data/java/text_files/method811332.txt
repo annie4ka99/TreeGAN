@@ -1,0 +1,1 @@
+ public void setDetailed_status(java.lang.Long detailed_status) { this.detailed_status = detailed_status; } 

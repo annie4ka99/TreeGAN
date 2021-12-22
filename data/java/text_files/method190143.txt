@@ -1,0 +1,1 @@
+ public ColumnBuilder setSQLType(int type) throws SQLException { return setSQLType(type, 0); } 

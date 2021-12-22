@@ -1,0 +1,1 @@
+ public String getWsVersion() { return wsVersion; } 

@@ -1,0 +1,1 @@
+ public void setShippedInterval(String interval) { shippedinterval = interval; } 

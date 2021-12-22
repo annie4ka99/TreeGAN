@@ -1,0 +1,1 @@
+ public void setModuleDao(IModuleDao moduleDao) { this.moduleDao = moduleDao; } 

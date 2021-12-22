@@ -1,0 +1,1 @@
+ public void flags(final int value) { super.setUByte(13, value); } 

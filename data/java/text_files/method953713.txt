@@ -1,0 +1,1 @@
+ private Group getANAGroup() { return groupRepository.getGroupByName("ANAGroup"); } 

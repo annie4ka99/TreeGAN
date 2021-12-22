@@ -1,0 +1,1 @@
+ public int getMaxColumnsInGroupBy() { return 0; } 

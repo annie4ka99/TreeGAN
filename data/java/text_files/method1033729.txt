@@ -1,0 +1,1 @@
+ public void setEraseBufferAndArrayTypes(boolean erase) { this.eraseBufferAndArrayTypes = erase; } 

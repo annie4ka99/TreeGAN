@@ -1,0 +1,1 @@
+ public void serviceAdded(ServiceEvent se, Class nameOfInterface) { } 

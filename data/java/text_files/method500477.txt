@@ -1,0 +1,1 @@
+ public void flushGroup(String group) { this._cacheAdmin.flushGroup(group); } 

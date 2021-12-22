@@ -1,0 +1,1 @@
+ public void setMode(final Mode m) { mode = m; } 

@@ -1,0 +1,1 @@
+ public void setRotateSelected(boolean rotateSelected) { editorPanel.setRotateSelected(rotateSelected); } 

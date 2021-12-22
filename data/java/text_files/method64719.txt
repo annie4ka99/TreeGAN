@@ -1,0 +1,1 @@
+ public void close(boolean save) { super.close(save); m_Dialog = null; } 

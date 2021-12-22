@@ -1,0 +1,1 @@
+ public void setColor(int index, int color) { map[index] = color; } 

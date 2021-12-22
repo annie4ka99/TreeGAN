@@ -1,0 +1,1 @@
+ public void setSelectionEnabled(boolean b) { selectionEnabled = b; repaint(); } 

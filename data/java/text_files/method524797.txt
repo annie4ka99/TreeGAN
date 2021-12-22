@@ -1,0 +1,1 @@
+ public ItemDoccontrol getOwnerDoccontrol() { return doccontrol; } 

@@ -1,0 +1,1 @@
+ public AABB getWorldAABB() { return m_broadPhase.m_worldAABB; } 

@@ -1,0 +1,1 @@
+ synchronized public void addSeedMaterial(byte[] entropy) { fortuna.addSeedMaterial(entropy); } 

@@ -1,0 +1,1 @@
+ public void setFixedSell() { type.setSelectedIndex(0); type.setEnabled(false); } 

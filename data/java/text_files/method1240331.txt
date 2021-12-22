@@ -1,0 +1,1 @@
+ public Iterator getDetailEntries() { return this.getChildElements(); } 

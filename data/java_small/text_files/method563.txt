@@ -1,0 +1,1 @@
+ public boolean isBetterPushesMovesThan( OptimizerSolution other ) { if (other == null) { return true; } return Utilities.intCompare2Pairs( pushesCount, other.pushesCount, movesCount , other.movesCount ) < 0 ; } 

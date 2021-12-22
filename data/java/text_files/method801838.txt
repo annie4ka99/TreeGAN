@@ -1,0 +1,1 @@
+ public Medea getMedeaClass(){ return medea; } 

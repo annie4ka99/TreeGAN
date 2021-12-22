@@ -1,0 +1,1 @@
+ public void addMimeHeader(String header, String value) { mimeHeaders.addHeader(header, value); } 

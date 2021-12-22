@@ -1,0 +1,1 @@
+ public void setBodyBackground( RGB bodyBackground ) { defaultLook.setBodyBackground( bodyBackground ); } 

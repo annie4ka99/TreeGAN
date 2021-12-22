@@ -1,0 +1,1 @@
+ public BioSeq getSeq(SeqSymmetry sym) { ensureSeqsLoaded(); return super.getSeq(sym); } 

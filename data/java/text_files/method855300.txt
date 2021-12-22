@@ -1,0 +1,1 @@
+ public Object get(Object key) { return request.getAttribute(key.toString()); } 

@@ -1,0 +1,1 @@
+ protected void addBase(final long base, final Vector args) { } 

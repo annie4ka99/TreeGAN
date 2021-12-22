@@ -1,0 +1,1 @@
+ public int getPackSkipPixels() { return this.packSkipPixels; } 

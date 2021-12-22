@@ -1,0 +1,1 @@
+ public void setDerivedSeriesType(TridasVocabulary.DerivedSeriesType value) { this.derivedSeriesType = value; } 

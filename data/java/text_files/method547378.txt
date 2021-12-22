@@ -1,0 +1,1 @@
+ static public FontRenderContext getDefaultRenderContext() { init(); return frc; } 

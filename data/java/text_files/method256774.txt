@@ -1,0 +1,1 @@
+ public String getLicense() { return license; } 

@@ -1,0 +1,1 @@
+ public BD getBD()throws BdFactoryException { return getBD("ProxyBDHandlerDefaultClass"); } 

@@ -1,0 +1,1 @@
+ public void popElement() { indexMapStack[pointer] = null; currentPath = null; pointer--; } 

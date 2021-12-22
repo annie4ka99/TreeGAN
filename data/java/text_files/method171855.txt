@@ -1,0 +1,1 @@
+ public void visitISHL(ISHL o){ stack().pop(); stack().pop(); stack().push(Type.INT); } 

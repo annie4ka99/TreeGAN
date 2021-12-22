@@ -1,0 +1,1 @@
+ public int indexOfStep(Step cmd) { return steps.indexOf(cmd); } 

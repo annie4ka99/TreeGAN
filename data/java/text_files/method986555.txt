@@ -1,0 +1,1 @@
+ public void glIndexf (float c) { CC.gl_index ((int)c); } 

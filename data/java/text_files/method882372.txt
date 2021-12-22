@@ -1,0 +1,1 @@
+ public void register(FragmentObserver o, int aspects) { registerListener(o, aspects); } 

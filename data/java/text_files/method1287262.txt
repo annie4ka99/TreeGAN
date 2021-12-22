@@ -1,0 +1,1 @@
+ public int getDeclaredPrefixCount() { return namespaces.size(); } 

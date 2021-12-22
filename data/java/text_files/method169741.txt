@@ -1,0 +1,1 @@
+ public int getTemporaryIncome() { return temporaryIncome; } 

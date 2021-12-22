@@ -1,0 +1,1 @@
+ public int queue(PcapHeader header, byte[] data) { return queue(header, new JBuffer(data)); } 

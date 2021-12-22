@@ -1,0 +1,1 @@
+ public Shader getShader() { return shader; } 

@@ -1,0 +1,1 @@
+ public List getTypes() { return new ArrayList(types.values()); } 

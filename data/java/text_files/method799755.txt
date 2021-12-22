@@ -1,0 +1,1 @@
+ public void addColumn( GridColumn column ) { addColumn( columns.size(), column ); } 

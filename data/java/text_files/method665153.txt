@@ -1,0 +1,1 @@
+ public boolean isReaderSet() { return this.readerSet; } 

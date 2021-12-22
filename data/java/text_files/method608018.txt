@@ -1,0 +1,1 @@
+ public Alias getAlias(String aliasName) { return ((Alias) aliases.get(aliasName)); } 

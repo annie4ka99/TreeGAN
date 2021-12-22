@@ -1,0 +1,1 @@
+ public Adjustable getScroller() { return offset_scroll; } 

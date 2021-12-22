@@ -1,0 +1,1 @@
+ public void setSpeeds(int l, int r) { lvel = l; rvel = r; } 

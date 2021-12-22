@@ -1,0 +1,1 @@
+ public void setShowingTimeIndex(boolean isShowingTimeIndex) { variables.setShowingTimeIndex(isShowingTimeIndex); } 

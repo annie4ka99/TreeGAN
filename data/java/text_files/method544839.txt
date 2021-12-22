@@ -1,0 +1,1 @@
+ public boolean isGradientVisible() { return gradientViewer.isVisible(); } 

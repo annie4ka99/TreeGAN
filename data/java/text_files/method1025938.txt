@@ -1,0 +1,1 @@
+ public LValue toStrongReference() { return this; } 

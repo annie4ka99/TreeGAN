@@ -1,0 +1,1 @@
+ public Image getOffscreenDrawable() { return offscreenDrawable; } 

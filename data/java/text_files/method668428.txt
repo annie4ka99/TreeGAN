@@ -1,0 +1,1 @@
+ public boolean eoln() { return peek() == '\n'; } 

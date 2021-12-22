@@ -1,0 +1,1 @@
+ public CharSequence getQName() { return _elemQName; } 

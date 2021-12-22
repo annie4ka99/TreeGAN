@@ -1,0 +1,1 @@
+ public void setGap(double gap) { this.gap = gap; } 

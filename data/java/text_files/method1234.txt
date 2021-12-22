@@ -1,0 +1,1 @@
+ final public int getBoxPosition(int boxNo) { return boxPositions[boxNo]; } 

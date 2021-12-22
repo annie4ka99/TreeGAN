@@ -1,0 +1,1 @@
+ public void transform(AffineTransform xform) { this.transform.concatenate(xform); invalidateTransform(); } 

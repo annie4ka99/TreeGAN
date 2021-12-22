@@ -1,0 +1,1 @@
+ public void workUnitDone() { setCurrent(current + 1); } 

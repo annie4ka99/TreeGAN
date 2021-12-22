@@ -1,0 +1,1 @@
+ public int getMaxUserNameLength() { return Limits.DB2_MAX_USERID_LENGTH; } 

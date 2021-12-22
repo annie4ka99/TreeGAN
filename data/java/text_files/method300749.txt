@@ -1,0 +1,1 @@
+ public int getPollingInterval() { return new Integer( this.intPollDelay / 1000 / 60 ).intValue(); } 

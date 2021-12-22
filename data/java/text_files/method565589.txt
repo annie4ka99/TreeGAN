@@ -1,0 +1,1 @@
+ public void set_class_list(final Vector list) { class_list = list; } 

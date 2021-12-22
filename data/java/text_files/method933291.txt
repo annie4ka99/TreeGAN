@@ -1,0 +1,1 @@
+ public String message(String key, Object args[]) { return getMessage(key, args); } 

@@ -1,0 +1,1 @@
+ public void setSuperSamplingValue(int superSamplingValue) { this.superSamplingValue = superSamplingValue; } 

@@ -1,0 +1,1 @@
+ public Object makeValue(String source) { Time t = new Time(source); return t.getAsCalendar(); } 

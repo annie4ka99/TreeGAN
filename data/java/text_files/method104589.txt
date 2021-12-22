@@ -1,0 +1,1 @@
+ public void setDimensions(TridasDimensions value) { this.dimensions = value; } 

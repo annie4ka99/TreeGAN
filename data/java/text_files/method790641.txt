@@ -1,0 +1,1 @@
+ protected AbstractBookmarkReader ( Reader reader ) { this.reader = reader; } 

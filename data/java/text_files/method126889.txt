@@ -1,0 +1,1 @@
+ public String contentType() { return PLAIN_CONTENT; } 

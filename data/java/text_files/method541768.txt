@@ -1,0 +1,1 @@
+ public String getReason(int i) { try { return errors[i].reason.trim(); } catch (Exception e) { return ""; } } 

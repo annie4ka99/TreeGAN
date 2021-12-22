@@ -1,0 +1,1 @@
+ public String getSummaryString() { return applySettings.toString(); } 

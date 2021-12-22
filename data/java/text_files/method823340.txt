@@ -1,0 +1,1 @@
+ protected void logDebug(String msg) { if (logger != null) { logger.debug(msg); } } 

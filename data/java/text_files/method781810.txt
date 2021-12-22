@@ -1,0 +1,1 @@
+ public void setPredicateURI(String PredicateURI) { this.predicateURI = PredicateURI; } 

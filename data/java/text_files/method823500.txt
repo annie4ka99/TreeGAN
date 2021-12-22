@@ -1,0 +1,1 @@
+ public void clear() { names.removeAllElements(); types.removeAllElements(); values.removeAllElements(); } 

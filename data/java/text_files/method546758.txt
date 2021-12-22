@@ -1,0 +1,1 @@
+ public void setJustify(int i) { justify = i; } 

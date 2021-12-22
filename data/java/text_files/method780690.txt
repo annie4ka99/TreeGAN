@@ -1,0 +1,1 @@
+ public Query getActiveQuery() { return (Query)queryStack.peek(); } 

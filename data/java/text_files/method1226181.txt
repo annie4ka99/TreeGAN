@@ -1,0 +1,1 @@
+ public int calculateCutOfGroup (Group pGroup) { return Statistics.cutOfGroup(pGroup, this); } 

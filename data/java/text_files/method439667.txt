@@ -1,0 +1,1 @@
+ public void addSequence(Sequence sequence) { queuedSequences.addLast(sequence); } 

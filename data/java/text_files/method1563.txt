@@ -1,0 +1,1 @@
+ public boolean greaterThan(LockMode mode) { return level > mode.level; } 

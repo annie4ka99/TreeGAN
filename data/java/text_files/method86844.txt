@@ -1,0 +1,1 @@
+ public ResultColumnDescriptor getColumnDescriptor(int position) { return columns[position-1]; } 

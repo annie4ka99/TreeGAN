@@ -1,0 +1,1 @@
+ private void storeCachedName(String id, String name) { cachedNames.put(id, name); } 

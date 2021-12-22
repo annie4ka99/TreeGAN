@@ -1,0 +1,1 @@
+ public void addListener(WindowListener listener) { _listenerManager.addListener(listener); } 

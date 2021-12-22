@@ -1,0 +1,1 @@
+ public int getHorizontalAlignment() { return hAlignment; } 

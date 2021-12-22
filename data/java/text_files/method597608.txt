@@ -1,0 +1,1 @@
+ private void typeInsn(final int opcode, final Type type) { mv.visitTypeInsn(opcode, type.getInternalName()); } 

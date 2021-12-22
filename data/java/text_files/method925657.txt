@@ -1,0 +1,1 @@
+ public Numeric3CountryCode getNumeric3CountryCode(){ return m_numeric3; } 

@@ -1,0 +1,1 @@
+ public int getIntNumber() { return new Double(currentNumber).intValue(); } 

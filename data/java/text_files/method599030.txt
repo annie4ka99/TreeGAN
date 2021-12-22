@@ -1,0 +1,1 @@
+ public String rpad(String text, int len) { return StringUtils.rightPad(text, len); } 

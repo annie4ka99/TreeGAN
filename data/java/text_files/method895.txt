@@ -1,0 +1,1 @@
+ final public void setMovementNo(int movementNo) { currentMovementNo = movementNo; } 

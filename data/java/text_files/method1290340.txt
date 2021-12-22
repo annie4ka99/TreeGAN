@@ -1,0 +1,1 @@
+ public void setInitROCDHighMass(Integer highMass) { Setter.set(this.ROCDHighMass, highMass); } 

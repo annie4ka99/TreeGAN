@@ -1,0 +1,1 @@
+ protected UMLDi2ElementDeleteFactory getDeleteCommandFactory() { return UMLDi2ElementDeleteFactory.eINSTANCE; } 

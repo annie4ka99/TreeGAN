@@ -1,0 +1,1 @@
+ public Visualization getVisualization() { return m_vis; } 

@@ -1,0 +1,1 @@
+ public void addInteraction(Interaction interaction) { interactions.add(interaction); } 

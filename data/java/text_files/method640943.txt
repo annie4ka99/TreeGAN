@@ -1,0 +1,1 @@
+ public void deleteSelection() { deleteCells(getGraph().getSelectionCells(), true); } 

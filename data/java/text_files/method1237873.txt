@@ -1,0 +1,1 @@
+ public void setContentId(String contentId) { setMimeHeader("Content-Id", contentId); } 

@@ -1,0 +1,1 @@
+ public String getManaSpent() { return manaSpent; } 

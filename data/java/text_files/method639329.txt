@@ -1,0 +1,1 @@
+ protected void setGraphOutOfSync(boolean outOfSync) { this.outOfSyncInfo.setVisible(outOfSync); } 

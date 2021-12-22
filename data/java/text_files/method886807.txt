@@ -1,0 +1,1 @@
+ public Xhtml10CalcPluginFactoryImpl (ConverterInfo ci) { super(ci); } 

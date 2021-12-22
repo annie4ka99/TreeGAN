@@ -1,0 +1,1 @@
+ public Point getSize() { if (isActive) return super.getSize(); else return new Point(0, 0); } 

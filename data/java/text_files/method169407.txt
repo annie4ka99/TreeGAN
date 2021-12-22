@@ -1,0 +1,1 @@
+ public JPanel getKeeperPanel() { return m_clTorwart; } 

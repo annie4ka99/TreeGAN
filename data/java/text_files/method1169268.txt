@@ -1,0 +1,1 @@
+ public void setCancel(boolean cancel) { this.cancel = cancel; } 

@@ -1,0 +1,1 @@
+ public int getMaxFps() { return framePerSecond; } 

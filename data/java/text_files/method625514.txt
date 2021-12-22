@@ -1,0 +1,1 @@
+ public IModelManagement getModelManager() throws EveException { return getModelManager(null, null); } 

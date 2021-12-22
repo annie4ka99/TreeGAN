@@ -1,0 +1,1 @@
+ public Vec2 mulLocal(float a) { x *= a; y *= a; return this; } 

@@ -1,0 +1,1 @@
+ public boolean isAutoIncrement(int column) throws SQLException { throw new SQLException("isAutoIncrement"); } 

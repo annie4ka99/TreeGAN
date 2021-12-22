@@ -1,0 +1,1 @@
+ public void setMax_value(final String maxValue) { this.maxValue = maxValue; } 

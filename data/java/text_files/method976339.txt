@@ -1,0 +1,1 @@
+ public void notifyUnsavedChanges(boolean changes) { hasUnsavedChanges = hasUnsavedChanges || changes; } 

@@ -1,0 +1,1 @@
+ public void addEventConsumer(EventConsumer consumer) { this.consumer = consumer; } 

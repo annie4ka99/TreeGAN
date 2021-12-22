@@ -1,0 +1,1 @@
+ public void setResultLnMatrix(double[][] newResultLnMatrix) { resultLnMatrix = newResultLnMatrix; } 

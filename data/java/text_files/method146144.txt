@@ -1,0 +1,1 @@
+ public int visibleNodeCount() { return visibleLocality.nodeCount(); } 

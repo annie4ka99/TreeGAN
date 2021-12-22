@@ -1,0 +1,1 @@
+ public void setShutDownServer(boolean what) { serverShutdownFlag = what; } 

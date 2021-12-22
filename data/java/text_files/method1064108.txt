@@ -1,0 +1,1 @@
+ public void setIsAbstract(boolean b) { getUml2Class().setIsAbstract(b); } 

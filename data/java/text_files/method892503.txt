@@ -1,0 +1,1 @@
+ public boolean checkPagePrivileges(String userRoleToCheck) { return this.request.isUserInRole(userRoleToCheck); } 

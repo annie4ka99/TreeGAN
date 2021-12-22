@@ -1,0 +1,1 @@
+ public boolean canSetString() { return m_parser != null && !(m_parser instanceof ObjectParser); } 

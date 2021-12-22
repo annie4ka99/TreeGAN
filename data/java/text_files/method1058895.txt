@@ -1,0 +1,1 @@
+ protected boolean isSelectableElement(String text) { return false; } 

@@ -1,0 +1,1 @@
+ public ISpieler getPlayer() { return player; } 

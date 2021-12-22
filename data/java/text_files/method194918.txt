@@ -1,0 +1,1 @@
+ public boolean isLeaf() { Enumeration e = children(); return !(e.hasMoreElements()); } 

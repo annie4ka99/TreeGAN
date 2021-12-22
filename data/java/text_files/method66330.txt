@@ -1,0 +1,1 @@
+ public boolean isAnimalRecordSelected() { return animalTable.getSelectedRow() != -1; } 

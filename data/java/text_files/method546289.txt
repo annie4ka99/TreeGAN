@@ -1,0 +1,1 @@
+ public void setAngleExtent(int a) { angleExtent=a; updateShape(); } 

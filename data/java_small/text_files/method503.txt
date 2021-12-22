@@ -1,0 +1,1 @@
+ public void setInfoText(String text) { infoText.setText(text); } 

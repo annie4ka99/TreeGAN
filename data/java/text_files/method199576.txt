@@ -1,0 +1,1 @@
+ protected AbstractProperties getProperties() { return Properties.getProperties(); } 

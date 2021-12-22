@@ -1,0 +1,1 @@
+ public void setElementShape(TridasVocabulary.ElementShape value) { this.elementShape = value; } 

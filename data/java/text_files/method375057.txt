@@ -1,0 +1,1 @@
+ public boolean isTimedout() { return this.timeout < System.currentTimeMillis(); } 

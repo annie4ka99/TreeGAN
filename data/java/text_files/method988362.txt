@@ -1,0 +1,1 @@
+ public void setUserId(java.lang.String userId) { this.userId = userId; } 

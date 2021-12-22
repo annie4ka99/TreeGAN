@@ -1,0 +1,1 @@
+ public String getCharset() { if (charset == null) { return "UTF-8"; } else { return charset; } } 

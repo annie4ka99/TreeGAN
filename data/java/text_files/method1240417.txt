@@ -1,0 +1,1 @@
+ public CDATASection createCDATASection(String data) throws DOMException { return new CDATAImpl(data); } 

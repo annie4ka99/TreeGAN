@@ -1,0 +1,1 @@
+ public void setLinearRing(LinearRingType value) { this.linearRing = value; } 

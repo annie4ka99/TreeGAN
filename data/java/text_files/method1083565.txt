@@ -1,0 +1,1 @@
+ public void setComponentPath(String componentPath) { this.componentPath = componentPath; } 

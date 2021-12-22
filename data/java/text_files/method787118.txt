@@ -1,0 +1,1 @@
+ public void setHighQuality(boolean b) { m_quality = b; } 

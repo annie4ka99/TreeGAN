@@ -1,0 +1,1 @@
+ public void newFile() { attributeTableModel.clear(); commandTableModel.clear(); } 

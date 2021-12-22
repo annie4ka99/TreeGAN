@@ -1,0 +1,1 @@
+ public boolean isAutoSizeOnValueChange() { return autoSizeOnValueChange; } 

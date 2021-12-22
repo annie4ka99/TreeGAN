@@ -1,0 +1,1 @@
+ public Interval getI1() { return i1; } 

@@ -1,0 +1,1 @@
+ public int getNumberOfBuckets() { return buckets.length; } 

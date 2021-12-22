@@ -1,0 +1,1 @@
+ public void setFilterByMails() { this.removeFilterFlags(); this.addFlag( FLAG_FILTER_BY_MAILS ) ; } 

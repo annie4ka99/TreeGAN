@@ -1,0 +1,1 @@
+ public boolean hasSubHeaders() { return this.optionsBitmap != 0; } 

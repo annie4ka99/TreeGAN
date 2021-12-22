@@ -1,0 +1,1 @@
+ public HashMap getFaults() { return faults; } 

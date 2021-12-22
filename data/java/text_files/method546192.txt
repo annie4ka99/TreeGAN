@@ -1,0 +1,1 @@
+ public void setFormat(int f) { format = f; updateShape(); } 

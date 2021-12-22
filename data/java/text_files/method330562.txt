@@ -1,0 +1,1 @@
+ public boolean removeScroller(AbstractPamScroller aScroller) { return scrollers.remove(aScroller); } 

@@ -1,0 +1,1 @@
+ public void print(char c[]) { for (int i = 0; i < c.length; i++) { write(c[i]); } } 

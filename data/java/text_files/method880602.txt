@@ -1,0 +1,1 @@
+ public ResourceLocator getResourceLocator() { return LdapEditorPlugin.INSTANCE; } 

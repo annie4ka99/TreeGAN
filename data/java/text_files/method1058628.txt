@@ -1,0 +1,1 @@
+ protected IFigure getSource() { return sourceFigure; } 

@@ -1,0 +1,1 @@
+ public boolean isRequired() { return this.required; } 

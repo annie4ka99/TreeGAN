@@ -1,0 +1,1 @@
+ public JointEdge getJointList(){ return m_jointList; } 

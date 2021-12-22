@@ -1,0 +1,1 @@
+ public void setNewToOldDeviationRatio(double newRatio) { percentNewDeviation = newRatio; } 

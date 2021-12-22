@@ -1,0 +1,1 @@
+ public Column getColumn(int col) { m_lastCol = col; return (Column)m_columns.get(col); } 

@@ -1,0 +1,1 @@
+ public void setSubFields(JField[] subFields) { this.subFields = subFields; } 

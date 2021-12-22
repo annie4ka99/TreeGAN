@@ -1,0 +1,1 @@
+ public void removeAlarmListener(IAlarmListener l) { while (alarmListeners.removeElement(l)) {} } 

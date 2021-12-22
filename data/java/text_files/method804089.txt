@@ -1,0 +1,1 @@
+ public void setSeq1_id(java.lang.String seq1_id) { this.seq1_id = seq1_id; } 

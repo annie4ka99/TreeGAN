@@ -1,0 +1,1 @@
+ public TridasIdentifier getIdentifier() { return (series != null) ? series.getIdentifier() : null; } 

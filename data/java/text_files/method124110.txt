@@ -1,0 +1,1 @@
+ public CharSequence getAttribute(String name) { return getAttributes().getValue(name); } 

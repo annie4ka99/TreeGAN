@@ -1,0 +1,1 @@
+ public RandomNumberGenerator getRandomNumberGenerator() { return _randomNumberGenerator; } 

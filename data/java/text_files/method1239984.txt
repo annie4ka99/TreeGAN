@@ -1,0 +1,1 @@
+ public int countAttachments(){ return mAttachments == null ? 0 : mAttachments.getAttachmentCount(); } 

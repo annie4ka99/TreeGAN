@@ -1,0 +1,1 @@
+ public void setComparator(Comparator c) { m_cmp = c; clearCachedValues(); } 

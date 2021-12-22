@@ -1,0 +1,1 @@
+ public void setWins(int wins) { m_wins = wins; } 

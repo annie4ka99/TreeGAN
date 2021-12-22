@@ -1,0 +1,1 @@
+ public void setOuttype(OutputTypeEnum outputType) { linkType.setOutputType(outputType); } 

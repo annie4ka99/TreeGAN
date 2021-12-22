@@ -1,0 +1,1 @@
+ public void putBoolean(String key, boolean val) { values.put(key, new Boolean(val)); } 

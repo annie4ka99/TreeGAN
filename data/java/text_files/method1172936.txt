@@ -1,0 +1,1 @@
+ public void setTapped(boolean b) { tapped = b; updateObservers(); } 

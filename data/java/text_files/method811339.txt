@@ -1,0 +1,1 @@
+ public void setInProgress(boolean inProgress) { this.inProgress = inProgress; } 

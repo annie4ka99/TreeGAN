@@ -1,0 +1,1 @@
+public boolean isEditFlag() { return editFlag; } 

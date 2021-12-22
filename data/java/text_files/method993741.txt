@@ -1,0 +1,1 @@
+ public void setSides(int sides) { this.sides = sides; } 

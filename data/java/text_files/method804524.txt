@@ -1,0 +1,1 @@
+ public void setSQ(java.lang.String SQ) { this.SQ = SQ; } 

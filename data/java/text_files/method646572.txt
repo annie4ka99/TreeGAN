@@ -1,0 +1,1 @@
+ private boolean isIdentifier(char c) { return Character.isDigit(c) || isFirstIdentifier(c); } 

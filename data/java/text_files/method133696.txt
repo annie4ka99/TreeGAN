@@ -1,0 +1,1 @@
+ public void setOutlineColor(Color color) { outline_color = color; } 

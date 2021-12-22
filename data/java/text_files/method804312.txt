@@ -1,0 +1,1 @@
+ public void setFocus() { this.metadataTree.getControl().setFocus(); } 

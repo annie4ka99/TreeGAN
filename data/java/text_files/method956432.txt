@@ -1,0 +1,1 @@
+ public void setEchoedRequest(EchoedRequestType value) { this.echoedRequest = value; } 

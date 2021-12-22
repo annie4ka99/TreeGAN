@@ -1,0 +1,1 @@
+ public void deleteComponent(int componentId) { components.remove(componentId); } 

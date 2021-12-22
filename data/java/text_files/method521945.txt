@@ -1,0 +1,1 @@
+public BpaSession getBpaSession() { return bpaSession; } 

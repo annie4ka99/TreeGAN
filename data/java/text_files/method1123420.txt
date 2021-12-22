@@ -1,0 +1,1 @@
+ protected DefaultGraphCell addNode(int i, String label) { return addNode(i, label, 20); } 

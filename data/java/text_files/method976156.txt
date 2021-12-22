@@ -1,0 +1,1 @@
+ public String getInfo() { return MyLocale.getMsg(2500 + attNo, "No attribute info found"); } 

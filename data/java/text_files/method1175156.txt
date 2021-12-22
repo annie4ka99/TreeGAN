@@ -1,0 +1,1 @@
+ public Pose getPose(int i) { return pose.get(i); } 

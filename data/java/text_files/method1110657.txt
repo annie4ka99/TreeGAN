@@ -1,0 +1,1 @@
+ public void setXorEnabled(boolean flag) { xorEnabled = flag; } 

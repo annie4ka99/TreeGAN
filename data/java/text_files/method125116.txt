@@ -1,0 +1,1 @@
+ public void handleError(String s) { log.error(s); } 

@@ -1,0 +1,1 @@
+ public void addResources(ResourceSelection rs) { resources.addAll(rs.getResources()); } 

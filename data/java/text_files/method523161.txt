@@ -1,0 +1,1 @@
+public void delete(BpaRequest theReq) { manipulateList(REQ_REMOVE,theReq); } 

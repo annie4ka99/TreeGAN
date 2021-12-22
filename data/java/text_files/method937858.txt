@@ -1,0 +1,1 @@
+ public boolean isComponentEnabled() { return this.componentEnabled; } 

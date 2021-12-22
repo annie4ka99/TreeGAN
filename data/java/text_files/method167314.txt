@@ -1,0 +1,1 @@
+ public void endCDATA() throws SAXException { if (log.isDebugEnabled()) log.debug("endCDATA"); } 

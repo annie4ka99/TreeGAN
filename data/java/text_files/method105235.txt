@@ -1,0 +1,1 @@
+ public TridasLocationGeometry getLocationGeometry() { return locationGeometry; } 

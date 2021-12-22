@@ -1,0 +1,1 @@
+ private void setInlinePageRange(int startPage) { setPageRange(startPage, startPage + getMaxInlinePages()); } 

@@ -1,0 +1,1 @@
+ public Expression getLeftExpression() { return m_left; } 

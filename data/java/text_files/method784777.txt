@@ -1,0 +1,1 @@
+ public Army getDefinition() { return definition; } 

@@ -1,0 +1,1 @@
+ public void setData(Vector v) { data = v; fireTableDataChanged(); } 

@@ -1,0 +1,1 @@
+ public JPanel getEditorPane() { if (pane == null) { createEditorPane(); } return pane; } 

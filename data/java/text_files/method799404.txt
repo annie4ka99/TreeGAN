@@ -1,0 +1,1 @@
+ public void setPrintPiece( PrintPiece piece ) { disposePrintPiece(); this.piece = piece; redraw(); } 

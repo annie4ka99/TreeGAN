@@ -1,0 +1,1 @@
+ public void setToMaximum() { setValue(pbProgressSum.getMaximum()); } 

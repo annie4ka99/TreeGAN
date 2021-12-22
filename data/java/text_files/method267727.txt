@@ -1,0 +1,1 @@
+ public void addLayoutComponent(String name, Component comp) { throw new IllegalArgumentException(); } 

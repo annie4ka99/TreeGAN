@@ -1,0 +1,1 @@
+ public void setLocationType(TridasVocabulary.LocationType value) { this.locationType = value; } 

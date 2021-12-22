@@ -1,0 +1,1 @@
+ public int getMaxProcedureNameLength() { return Limits.MAX_IDENTIFIER_LENGTH; } 

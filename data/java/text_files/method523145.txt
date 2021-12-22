@@ -1,0 +1,1 @@
+ public int getOverlaySpaceLeft() { return overlaySpaceLeft; } 

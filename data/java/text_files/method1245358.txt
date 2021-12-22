@@ -1,0 +1,1 @@
+ public boolean delete( String key ) { return delete( key, null, null ); } 

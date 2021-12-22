@@ -1,0 +1,1 @@
+ public String getLocaleFile() { return this.localeFile; } 

@@ -1,0 +1,1 @@
+ public boolean isEncoded() { return Constants.isSOAP_ENC(getEncodingStyle()); } 

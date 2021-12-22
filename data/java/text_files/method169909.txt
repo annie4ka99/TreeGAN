@@ -1,0 +1,1 @@
+ public int getHonesty() { return honesty; } 

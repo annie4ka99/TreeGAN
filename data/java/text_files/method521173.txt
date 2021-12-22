@@ -1,0 +1,1 @@
+public int getPosTree() { return posTree; } 

@@ -1,0 +1,1 @@
+ public void setKeepRunning(boolean keepRunning) { this.keepRunning = keepRunning; } 

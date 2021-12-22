@@ -1,0 +1,1 @@
+ public void setPostcode(String string) { postcode = string; } 

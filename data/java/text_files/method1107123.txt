@@ -1,0 +1,1 @@
+ public double get(int i, int j) { return data[i][j]; } 

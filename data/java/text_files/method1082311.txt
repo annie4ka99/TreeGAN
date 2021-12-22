@@ -1,0 +1,1 @@
+ public void setAjaxGloballyOn(boolean ajaxGloballyOn) { Settings.ajaxGloballyOn = ajaxGloballyOn; } 

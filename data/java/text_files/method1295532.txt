@@ -1,0 +1,1 @@
+ public Adapter createCorrelationSetAdapter() { return null; } 

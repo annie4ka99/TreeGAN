@@ -1,0 +1,1 @@
+ public void setBean(final Object bean) { this.bean = bean; fireTableDataChanged(); } 

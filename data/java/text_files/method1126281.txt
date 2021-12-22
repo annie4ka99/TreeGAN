@@ -1,0 +1,1 @@
+ public int getDisplayCharacterCount() { return _displaySize; } 

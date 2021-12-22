@@ -1,0 +1,1 @@
+ public void setBgImageID(int id) { m_bgImageID = id; } 

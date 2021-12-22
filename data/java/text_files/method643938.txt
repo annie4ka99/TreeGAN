@@ -1,0 +1,1 @@
+ public void setNum(Integer value) { this.num = value; } 

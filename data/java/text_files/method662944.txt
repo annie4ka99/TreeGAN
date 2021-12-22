@@ -1,0 +1,1 @@
+ public void setLiteratureTitle(String literatureTitle) { this.literatureTitle = literatureTitle; } 

@@ -1,0 +1,1 @@
+ private Token firstToken(Node node) { return NodeTokenizer.tokenize(node)[0]; } 

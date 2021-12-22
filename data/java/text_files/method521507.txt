@@ -1,0 +1,1 @@
+ private int getMinorVersionNumber() { return minorVersionNumber; } 

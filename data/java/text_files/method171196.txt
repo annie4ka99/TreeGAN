@@ -1,0 +1,1 @@
+ public void setFrame(Frame f){ this.frame = f; } 

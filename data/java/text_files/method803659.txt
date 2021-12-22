@@ -1,0 +1,1 @@
+ public String getChemicalRegex() { return regexDict.get("%chemical%"); } 

@@ -1,0 +1,1 @@
+ public String host(Properties props) { return props.getProperty("HOST", "localhost"); } 

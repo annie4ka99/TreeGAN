@@ -1,0 +1,1 @@
+public BnsNetworkLink getBnsNetworkLink() { return bnsNetworkLink; } 

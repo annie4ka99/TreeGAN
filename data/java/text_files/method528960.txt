@@ -1,0 +1,1 @@
+ public void setSkeleton_TN(String string) { skeleton_TN = string; } 

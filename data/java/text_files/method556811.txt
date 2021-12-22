@@ -1,0 +1,1 @@
+ public int getId_snap() { return id_snap; } 

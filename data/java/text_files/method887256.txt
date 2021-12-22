@@ -1,0 +1,1 @@
+ public void dumpCmdsTo(File dumpCmdsTo) { dumpCmds(true); this.dumpCmdsTo = dumpCmdsTo; } 

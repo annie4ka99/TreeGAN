@@ -1,0 +1,1 @@
+ public void setEndAlpha( float endAlpha ) { this.endAlpha = endAlpha; } 

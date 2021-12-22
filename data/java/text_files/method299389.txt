@@ -1,0 +1,1 @@
+ private RelationshipFigure figure() { return (RelationshipFigure) getFigure(); } 

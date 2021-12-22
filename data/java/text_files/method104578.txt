@@ -1,0 +1,1 @@
+ public void setShape(TridasShape value) { this.shape = value; } 

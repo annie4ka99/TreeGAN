@@ -1,0 +1,1 @@
+ public void setField7(int field7) { binaryHeader.putInt(32, field7); } 

@@ -1,0 +1,1 @@
+ public short getShort(long sequence) { return this.storage.getShort(map(sequence)); } 

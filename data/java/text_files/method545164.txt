@@ -1,0 +1,1 @@
+ public void setData(Object[][] data, String[] colNames) { theTable.setData(data,colNames); } 

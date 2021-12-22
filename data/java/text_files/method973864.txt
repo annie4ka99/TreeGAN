@@ -1,0 +1,1 @@
+ public Double getBalance() { return balance; } 

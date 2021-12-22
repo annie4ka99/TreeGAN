@@ -1,0 +1,1 @@
+ protected boolean validate(Transaction transaction) { boolean pass = true; return pass; } 

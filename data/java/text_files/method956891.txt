@@ -1,0 +1,1 @@
+ public FilterType getPersonNameFilter() { return personNameFilter; } 

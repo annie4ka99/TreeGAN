@@ -1,0 +1,1 @@
+ public void addIncludePath(String path, Vector cmd) { cmd.addElement("-I" + path); } 

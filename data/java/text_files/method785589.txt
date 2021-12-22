@@ -1,0 +1,1 @@
+ public int getStartTextColor(int row) { return getInt(row, VisualItem.STARTTEXTCOLOR); } 

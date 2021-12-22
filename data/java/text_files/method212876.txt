@@ -1,0 +1,1 @@
+ protected String getStringOfTreePath(TreePath path) { return path.getLastPathComponent().toString(); } 

@@ -1,0 +1,1 @@
+ public Dimension getSavedSize() { return this.dimAppSize; } 

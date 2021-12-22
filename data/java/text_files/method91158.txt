@@ -1,0 +1,1 @@
+ public String getNodeName(){ return MessageService.getTextMessage(SQLState.RTS_GROUPED_AGG); } 

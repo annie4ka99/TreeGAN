@@ -1,0 +1,1 @@
+ public InputChar getClosingChar() { return _closingChar; } 

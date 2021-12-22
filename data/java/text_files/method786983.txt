@@ -1,0 +1,1 @@
+ private Clip getClip() { if ( m_clip == null ) m_clip = new Clip(); return m_clip; } 

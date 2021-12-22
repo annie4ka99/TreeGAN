@@ -1,0 +1,1 @@
+ public XForm getXForm(){ XForm xf = new XForm(); xf.set(m_xf); return xf; } 

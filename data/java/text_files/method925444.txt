@@ -1,0 +1,1 @@
+ public String toString() { return this.type + " (" + this.id + ") on " + this.host + ":" + this.port; } 

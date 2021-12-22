@@ -1,0 +1,1 @@
+ public boolean hasAsyncCapacity() { return _scripted.hasAsyncCapacity(); } 

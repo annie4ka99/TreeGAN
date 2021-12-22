@@ -1,0 +1,1 @@
+ public void handle(ImageRequest request) throws JmageException { request.setImage(this.filter(request)); } 

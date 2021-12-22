@@ -1,0 +1,1 @@
+ public float getDispersion() { return dispersion; } 

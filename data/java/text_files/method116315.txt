@@ -1,0 +1,1 @@
+ public boolean isWhiteSpace(){ return((id >> 8) == 0xE); } 

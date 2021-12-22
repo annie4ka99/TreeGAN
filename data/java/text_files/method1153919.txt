@@ -1,0 +1,1 @@
+ protected int y(double yW) { return (int) Math.round(scale * (yW + offsetY) + borderTop); } 

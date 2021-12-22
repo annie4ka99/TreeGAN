@@ -1,0 +1,1 @@
+ public void loadLocal(final int local) { loadInsn(getLocalType(local), local); } 

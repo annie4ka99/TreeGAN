@@ -1,0 +1,1 @@
+ public LString luaGetTypeName() { return LString.LTYPENAMES[luaGetType()]; } 

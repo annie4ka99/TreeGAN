@@ -1,0 +1,1 @@
+ public void setBoardToDisplay(Board board) { this.board = board; graphicStatus = new byte[board.height * board.width]; isRecalculationNecessary = true; repaint(); } 

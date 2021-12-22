@@ -1,0 +1,1 @@
+ public void getFollowersAsync(WeiboListener listener) { getFollowersStatusesAsync(listener); } 

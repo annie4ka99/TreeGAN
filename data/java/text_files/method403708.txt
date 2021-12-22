@@ -1,0 +1,1 @@
+ public void warn(Object message) { log(Level.WARNING, String.valueOf(message), null); } 

@@ -1,0 +1,1 @@
+private void setKindOfDocumentCode(char[] newKindOfDocumentCode) { kindOfDocumentCode = newKindOfDocumentCode; } 

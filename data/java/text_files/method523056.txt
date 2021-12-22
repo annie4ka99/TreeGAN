@@ -1,0 +1,1 @@
+private int getNbReqCancelled() { return nbReqCancelled; } 

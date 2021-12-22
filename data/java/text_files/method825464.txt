@@ -1,0 +1,1 @@
+ public boolean handleIsFinalState() { return metaObject instanceof FinalState; } 

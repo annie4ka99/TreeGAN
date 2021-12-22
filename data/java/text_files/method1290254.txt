@@ -1,0 +1,1 @@
+ public CoeffInteger getStandardSpeed2Climb() { return standardSpeed2Climb; } 

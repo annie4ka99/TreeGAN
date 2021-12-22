@@ -1,0 +1,1 @@
+ public void setBounds(Rectangle rect) { if (m_Control != null) m_Control.setBounds(rect); } 

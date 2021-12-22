@@ -1,0 +1,1 @@
+ public void addNodeType(NodeComponent node) { npool.add(0, node); } 

@@ -1,0 +1,1 @@
+ protected Source getSource() throws IOException{ return resolver.getSource(signal); } 

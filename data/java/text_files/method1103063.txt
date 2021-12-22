@@ -1,0 +1,1 @@
+ public CRowMetaData getMetaDefinition() { return this.metaData; } 

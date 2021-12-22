@@ -1,0 +1,1 @@
+private void setNbReqReady(int newValue) { this.nbReqReady = newValue; } 

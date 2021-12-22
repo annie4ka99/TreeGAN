@@ -1,0 +1,1 @@
+ public void setRadius(float r) { this.a = r; this.b = r; } 

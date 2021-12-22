@@ -1,0 +1,1 @@
+ private IPreferenceStore getPreferenceStore() { return Activator.getDefault().getPreferenceStore(); } 

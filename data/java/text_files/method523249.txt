@@ -1,0 +1,1 @@
+public void setOutputDir(String newValue) { this.outputDir = newValue; } 

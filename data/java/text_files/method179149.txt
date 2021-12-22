@@ -1,0 +1,1 @@
+ public void addReplicatedNode(Node n){ replications.add(n); } 

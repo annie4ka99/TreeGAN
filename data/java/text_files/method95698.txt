@@ -1,0 +1,1 @@
+ public void setLogWriter(PrintWriter out) throws SQLException { printer = out; } 

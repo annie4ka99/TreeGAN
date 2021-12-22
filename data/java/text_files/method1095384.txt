@@ -1,0 +1,1 @@
+ public int getQueuedReceiveCount() { return mDetails.get(mCurrentIndex).size(); } 

@@ -1,0 +1,1 @@
+ private void setOrder( String order ){ this.order = order; } 

@@ -1,0 +1,1 @@
+ public void setCountOfFactors(int newCountOfFactors) { countOfFactors = newCountOfFactors; } 

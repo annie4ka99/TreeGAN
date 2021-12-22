@@ -1,0 +1,1 @@
+ public int getColumnPos(String colName) { return Arrays.asList(columnNames).indexOf(colName); } 

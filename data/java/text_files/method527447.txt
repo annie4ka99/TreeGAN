@@ -1,0 +1,1 @@
+ protected void checkActive() { if (export.isAvailable()) setActive(true); else setActive(false); } 

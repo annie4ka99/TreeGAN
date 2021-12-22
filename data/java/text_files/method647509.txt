@@ -1,0 +1,1 @@
+ public void setEnergy(double a_energy) { m_energy = a_energy; } 

@@ -1,0 +1,1 @@
+ public int getReportId() { return reportId; } 

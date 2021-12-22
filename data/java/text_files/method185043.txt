@@ -1,0 +1,1 @@
+ public short getTextContentAsShort(String name) { return getTextContentAsShort(name, 0); } 

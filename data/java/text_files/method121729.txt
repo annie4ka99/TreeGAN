@@ -1,0 +1,1 @@
+ public void setForeground(short foreground) { verifyColor(foreground); _foreground = foreground; } 

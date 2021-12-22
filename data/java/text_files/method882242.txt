@@ -1,0 +1,1 @@
+ public Type getTypeByPath(String[] path) { return getTypeByPath(null, path, 0); } 

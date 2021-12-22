@@ -1,0 +1,1 @@
+ public void swapEndPoints() { setLine(x2, y2, x1, y1); } 

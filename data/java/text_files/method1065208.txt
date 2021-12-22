@@ -1,0 +1,1 @@
+ protected void removeButtonPressed(){ ((SignalEvent)getElement()).setSignal(null); } 

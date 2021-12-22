@@ -1,0 +1,1 @@
+ private DijkstraInfo getDI(NetObject o) { return (DijkstraInfo)o.getUserValue(); } 

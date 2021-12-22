@@ -1,0 +1,1 @@
+ protected Object cloneUserObject(Object userObject) { return userObject; } 

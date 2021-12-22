@@ -1,0 +1,1 @@
+ public void setMano(Mano[] mano) { manos = mano; } 

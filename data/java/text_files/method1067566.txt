@@ -1,0 +1,1 @@
+ public Namespace getNamespace(){ return parent; } 

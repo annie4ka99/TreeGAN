@@ -1,0 +1,1 @@
+ public int getTextureObject() { validateTexID(null, false); return texID; } 

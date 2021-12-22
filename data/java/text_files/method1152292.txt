@@ -1,0 +1,1 @@
+ public MassData clone() { return new MassData(this); } 

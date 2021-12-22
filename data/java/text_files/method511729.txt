@@ -1,0 +1,1 @@
+ public void setDatumInMillis(long datumInMillis) { this.datumInMillis = datumInMillis; } 

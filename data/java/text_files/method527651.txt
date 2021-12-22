@@ -1,0 +1,1 @@
+private void setPageOffset(long newPageOffset) { pageOffset = newPageOffset; } 

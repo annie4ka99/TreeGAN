@@ -1,0 +1,1 @@
+ public void add(AbstractExplainNode child) { children.add(child); } 

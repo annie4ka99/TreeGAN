@@ -1,0 +1,1 @@
+ public void setTextlength(java.lang.Float textlength) { this.textlength = textlength; } 

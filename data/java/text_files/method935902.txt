@@ -1,0 +1,1 @@
+ public SDD1GraphPanelState mouseReleased( MouseEvent e ) { return this; } 

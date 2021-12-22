@@ -1,0 +1,1 @@
+ public void setMessageName(String messageName){ Message_Name = messageName; } 

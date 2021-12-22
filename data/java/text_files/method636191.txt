@@ -1,0 +1,1 @@
+ public boolean removeApplication(ApplicationConfig config){ return applications.remove(config); } 

@@ -1,0 +1,1 @@
+ public int elapsedSeconds() { return (int) ((System.currentTimeMillis() - this.startTime) / 1000); } 

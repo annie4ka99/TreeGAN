@@ -1,0 +1,1 @@
+public void setDocId(String newValue) { this.docId = newValue; } 

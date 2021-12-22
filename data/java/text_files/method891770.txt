@@ -1,0 +1,1 @@
+ public void setLogicalOR(boolean newLogicalOR) { logicalOR = newLogicalOR; } 

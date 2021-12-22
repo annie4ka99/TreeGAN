@@ -1,0 +1,1 @@
+ public int getSelectionIndex() { if (iDialog != null) { return iDialog.indexOfSelection; } else { return -1; } } 

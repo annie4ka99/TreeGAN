@@ -1,0 +1,1 @@
+ public AdhocQueryResponse createAdhocQueryResponse() { return new AdhocQueryResponse(); } 

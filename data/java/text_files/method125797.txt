@@ -1,0 +1,1 @@
+ public String getDateRangeName() { if (dateRangeDef == null) return null; return dateRangeDef.name; } 

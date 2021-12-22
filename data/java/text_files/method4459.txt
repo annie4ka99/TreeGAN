@@ -1,0 +1,1 @@
+ public CaseBase getCaseBase(){ return new CaseBase(this.m_casebase); } 

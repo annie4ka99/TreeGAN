@@ -1,0 +1,1 @@
+ public boolean getResolving() { return bResolving; } 

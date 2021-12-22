@@ -1,0 +1,1 @@
+ public String genPassword() { return genPassword(8); } 

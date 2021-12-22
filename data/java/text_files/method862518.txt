@@ -1,0 +1,1 @@
+ public String direct() { return direct(new StringBuffer()).toString(); } 

@@ -1,0 +1,1 @@
+ public void setTableDataModel(TableDataModel model) { tableDataModel = model; } 

@@ -1,0 +1,1 @@
+ public int getRowAtPoint(Point point) { return table.rowAtPoint(point); } 

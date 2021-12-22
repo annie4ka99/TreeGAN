@@ -1,0 +1,1 @@
+ public boolean getFooter() { return footer; } 

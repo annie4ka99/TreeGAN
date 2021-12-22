@@ -1,0 +1,1 @@
+ public boolean getReturnThis() { return returnThis; } 

@@ -1,0 +1,1 @@
+ public void setMinimumMove(int pixels) { minimumMove = pixels; } 

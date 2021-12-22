@@ -1,0 +1,1 @@
+ public void testSubmit() { create(); entity = service.submit(entity); } 

@@ -1,0 +1,1 @@
+ public String getColumnClassName(int column) throws SQLException { throw new SQLException("getColumnClassName"); } 

@@ -1,0 +1,1 @@
+ public float getSTolerance() { return sTolerance; } 

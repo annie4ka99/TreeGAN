@@ -1,0 +1,1 @@
+ public void addCommand(Command cmd) { animatorCanvas.addCommand(cmd); } 

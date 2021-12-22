@@ -1,0 +1,1 @@
+ public CountryEnum(int country) { this.country = country; } 

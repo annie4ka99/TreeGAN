@@ -1,0 +1,1 @@
+ public AbstractRingPropertyType getExterior() { return exterior; } 

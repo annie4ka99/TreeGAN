@@ -1,0 +1,1 @@
+ public void setSettingsName(String settingsName) { this.settingsName = settingsName; } 

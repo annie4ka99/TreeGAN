@@ -1,0 +1,1 @@
+ public String toString() { if (value.toAny() == null) return "#NULL!"; else return "#TYPE!"; } 

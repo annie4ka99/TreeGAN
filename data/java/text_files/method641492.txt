@@ -1,0 +1,1 @@
+ public int getCreateElementType() { return this.m_createElementType; } 

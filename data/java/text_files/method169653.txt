@@ -1,0 +1,1 @@
+ public void setCupRound(int i) { cupRound = i; } 

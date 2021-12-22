@@ -1,0 +1,1 @@
+ public String getLabelAsString() { return String.valueOf(this.label); } 

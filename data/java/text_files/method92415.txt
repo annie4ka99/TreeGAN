@@ -1,0 +1,1 @@
+ public String getStringFunctions() { return "LENGTH,LOWER,LTRIM,RTRIM,SUBSTR,SUBSTRING,UPPER"; } 

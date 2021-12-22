@@ -1,0 +1,1 @@
+ public String getYearQuarter(){ return "" + this.year + this.quarter; } 

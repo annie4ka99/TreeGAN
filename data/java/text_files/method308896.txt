@@ -1,0 +1,1 @@
+ public ConfirmationPage() { this(i18n.getLabel("ConfirmationPage.subtitle")); } 

@@ -1,0 +1,1 @@
+ public void addExceptionConfig(ExceptionConfig config) { exceptions.put(config.getType(), config); } 

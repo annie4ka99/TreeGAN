@@ -1,0 +1,1 @@
+ public int getPointCount() { return points.size(); } 

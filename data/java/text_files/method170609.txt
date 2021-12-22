@@ -1,0 +1,1 @@
+ public void refresh(int playerId) { this.playerId = playerId; generateData(); this.fireTableDataChanged(); } 

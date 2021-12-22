@@ -1,0 +1,1 @@
+ public GraphNode getGraphNode() { return (GraphNode)this.getModel(); } 

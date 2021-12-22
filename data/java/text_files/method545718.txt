@@ -1,0 +1,1 @@
+ public Rectangle getBoundRect() { return boundRect; } 

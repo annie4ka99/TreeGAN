@@ -1,0 +1,1 @@
+ public GraphCanvas getCanvas() { return canvas; } 

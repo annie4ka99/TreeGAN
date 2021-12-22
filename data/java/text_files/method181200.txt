@@ -1,0 +1,1 @@
+ public void setOptimistic(boolean optimistic) { if (!optimistic) { } this.optimistic = optimistic; } 

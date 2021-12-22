@@ -1,0 +1,1 @@
+ public TranslationsAdapter getTranslations() { return translations; } 

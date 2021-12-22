@@ -1,0 +1,1 @@
+ public void setAvm2swf( File avm2swf ) { this.avm2swf = avm2swf; } 

@@ -1,0 +1,1 @@
+ public String getPartnerLinkName() { return getDetail(0).getPartnerLinkName(); } 

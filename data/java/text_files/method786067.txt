@@ -1,0 +1,1 @@
+ public IntIterator rows() { return new RowIterator(false); } 

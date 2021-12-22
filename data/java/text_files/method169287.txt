@@ -1,0 +1,1 @@
+ public void addMatch(Match match) { matchList.add(match); } 

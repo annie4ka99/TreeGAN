@@ -1,0 +1,1 @@
+ public void updateTotalPane() { m_Totalpane.update(getGraph()); } 

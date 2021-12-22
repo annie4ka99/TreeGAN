@@ -1,0 +1,1 @@
+ public void rotFixedXAxis(double angle) { lastTransform.rotX(angle); updateTransform(); } 

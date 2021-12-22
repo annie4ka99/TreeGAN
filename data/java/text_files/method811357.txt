@@ -1,0 +1,1 @@
+ public void setMaxgroups(java.lang.Long maxgroups) { this.maxgroups = maxgroups; } 

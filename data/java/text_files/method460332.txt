@@ -1,0 +1,1 @@
+ public void setHaveSignature(boolean value) { this.haveSignature = value; } 

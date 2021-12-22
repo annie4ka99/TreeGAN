@@ -1,0 +1,1 @@
+ public int available() throws IOException { return stream.available(); } 

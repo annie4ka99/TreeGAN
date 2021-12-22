@@ -1,0 +1,1 @@
+ public void setIsSelectedForNextGeneration(boolean a_isSelected) { m_isSelectedForNextGeneration = a_isSelected; } 

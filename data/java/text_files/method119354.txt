@@ -1,0 +1,1 @@
+ protected boolean isChildrenSelectable(Object cell) { return childrenSelectable; } 

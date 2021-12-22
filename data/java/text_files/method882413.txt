@@ -1,0 +1,1 @@
+ public boolean canWrite() { return location != null ? (location.canWrite()) : true; } 

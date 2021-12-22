@@ -1,0 +1,1 @@
+ public void append(Text text) { if (text == null) { return; } value += text.getText(); } 

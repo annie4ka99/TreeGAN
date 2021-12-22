@@ -1,0 +1,1 @@
+ public void setCR(String xcr) { cr = xcr.getBytes(); } 

@@ -1,0 +1,1 @@
+private InfoTree getParent() { return parent; } 

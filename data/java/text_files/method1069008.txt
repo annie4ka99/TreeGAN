@@ -1,0 +1,1 @@
+protected Object getClipboardContents() { return Clipboard.getDefault().getContents(); } 

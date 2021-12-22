@@ -1,0 +1,1 @@
+ public float getCatchAngle(){ return this.m_angle; } 

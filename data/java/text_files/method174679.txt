@@ -1,0 +1,1 @@
+ public List getChildren(String name) { return getChildren(name, Namespace.NO_NAMESPACE); } 

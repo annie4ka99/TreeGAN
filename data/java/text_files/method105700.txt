@@ -1,0 +1,1 @@
+ public void setHeartwood(TridasHeartwood value) { this.heartwood = value; } 

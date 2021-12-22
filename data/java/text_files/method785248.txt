@@ -1,0 +1,1 @@
+ public TupleSet getFocusGroup(String group) { return (TupleSet)m_focus.get(group); } 

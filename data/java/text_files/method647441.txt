@@ -1,0 +1,1 @@
+ public void setDoubletteChromosomesAllowed(boolean a_doublettesAllowed) { m_doublettesAllowed = a_doublettesAllowed; } 

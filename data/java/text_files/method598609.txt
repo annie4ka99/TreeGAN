@@ -1,0 +1,1 @@
+ public void zrtpInformEnrollment(String info) { return; } 

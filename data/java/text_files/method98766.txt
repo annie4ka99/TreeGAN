@@ -1,0 +1,1 @@
+ public AbstractFeatureBaseType createAbstractFeatureBaseType() { return new AbstractFeatureBaseType(); } 

@@ -1,0 +1,1 @@
+ public void putBack(Collection collectionOfTiles) { tilesBag.addAll(collectionOfTiles); } 

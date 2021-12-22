@@ -1,0 +1,1 @@
+ public void error(Object message) { log(Level.SEVERE, String.valueOf(message), null); } 

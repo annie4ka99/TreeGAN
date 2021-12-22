@@ -1,0 +1,1 @@
+ public double getDefaultLineWidth() { return m_width; } 

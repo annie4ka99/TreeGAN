@@ -1,0 +1,1 @@
+ public void addReadLock(String lockPath) { locks.add(new ZkReadLock(lockPath)); } 

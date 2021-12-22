@@ -1,0 +1,1 @@
+ public void addRule(IRule rule) { rules.add(rule); } 

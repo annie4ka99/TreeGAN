@@ -1,0 +1,1 @@
+public BpsLog getBpsManagerLog() { return bpsManagerLog; } 

@@ -1,0 +1,1 @@
+ public String trailer(int total) { return null; } 

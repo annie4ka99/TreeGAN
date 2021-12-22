@@ -1,0 +1,1 @@
+ public void setSequence(Sequence seq) { this.seq = seq; } 

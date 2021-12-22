@@ -1,0 +1,1 @@
+ public double getStepT() { return stepT; } 

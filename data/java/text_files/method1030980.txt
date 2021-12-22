@@ -1,0 +1,1 @@
+ public void addRow(ResultSetRow row) throws SQLException { notSupported(); } 

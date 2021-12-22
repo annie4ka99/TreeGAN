@@ -1,0 +1,1 @@
+ public void addSession(final Session session) { sessionList.add(session); } 

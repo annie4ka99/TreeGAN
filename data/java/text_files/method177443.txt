@@ -1,0 +1,1 @@
+ public void addOrClause(Query query) { whereClause.addOrClause(query); } 

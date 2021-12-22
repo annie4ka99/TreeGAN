@@ -1,0 +1,1 @@
+ public void setAppend(boolean isAppend) { append = isAppend; } 

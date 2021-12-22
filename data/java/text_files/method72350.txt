@@ -1,0 +1,1 @@
+ public String getTagline() { return tagline; } 

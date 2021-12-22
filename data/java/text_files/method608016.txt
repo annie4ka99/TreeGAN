@@ -1,0 +1,1 @@
+ public void removeAlias(String aliasName) { synchronized (aliases) { aliases.remove(aliasName); } } 

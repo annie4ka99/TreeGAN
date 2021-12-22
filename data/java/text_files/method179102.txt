@@ -1,0 +1,1 @@
+ public boolean contains(Node v) { if (!v.isHidden()) return nodes.contains(v); return false; } 

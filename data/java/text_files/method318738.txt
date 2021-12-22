@@ -1,0 +1,1 @@
+ public void closeEditDialog(Object dialog) { remove(dialog); refreshFilesTable(); } 

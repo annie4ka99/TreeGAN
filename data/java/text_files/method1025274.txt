@@ -1,0 +1,1 @@
+ public void parse(InputSource input) throws SAXException { this.parse(); } 

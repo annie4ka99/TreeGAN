@@ -1,0 +1,1 @@
+ public long getLoops() { if (systemLoad!=null) return systemLoad.getLoops(); return 0; } 

@@ -1,0 +1,1 @@
+ public Response getAsyncResponse() throws IOException { return _scripted.getAsyncResponse(); } 

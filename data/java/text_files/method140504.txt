@@ -1,0 +1,1 @@
+ private boolean isLatest(Bundle bundle) { return bundle.getVersion().equals(getLatestVersion(bundle)); } 

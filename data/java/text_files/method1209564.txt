@@ -1,0 +1,1 @@
+ public void setBreakOnExceptions(boolean breakOnExceptions) { this.breakOnExceptions = breakOnExceptions; } 

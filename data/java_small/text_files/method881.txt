@@ -1,0 +1,1 @@
+ final public HistoryElement getMovement(int movementNo) { if (movementNo < 0 || movementNo > movementHistory.size() - 1) { return null; } return movementHistory.get(movementNo); } 

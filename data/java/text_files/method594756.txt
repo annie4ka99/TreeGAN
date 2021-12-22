@@ -1,0 +1,1 @@
+ public Hashtable getAttachments() { return attachments; } 

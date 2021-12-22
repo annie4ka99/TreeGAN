@@ -1,0 +1,1 @@
+ protected void jButtonLimpiarDestinoActionPerformed(ActionEvent evt) { jTextAreaDestino.setText(""); } 

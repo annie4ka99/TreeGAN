@@ -1,0 +1,1 @@
+ public String fileName() { return tblname + ".tbl"; } 

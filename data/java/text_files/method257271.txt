@@ -1,0 +1,1 @@
+ public int hashCode() { return new HashCodeBuilder().append(this.id).append(getValue()).toHashCode(); } 

@@ -1,0 +1,1 @@
+ public void setRGB( RGB foreground ) { setForeground( foreground ); } 

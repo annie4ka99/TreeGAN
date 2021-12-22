@@ -1,0 +1,1 @@
+ public boolean hasAtPos( char s[], int pos, char sub[] ) { return super.hasAtPos( s, pos, sub ); } 

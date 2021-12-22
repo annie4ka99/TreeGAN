@@ -1,0 +1,1 @@
+ protected void setFixture(SourceFileRefType fixture) { this.fixture = fixture; } 

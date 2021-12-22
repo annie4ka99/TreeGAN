@@ -1,0 +1,1 @@
+ public void dragSetData(DragSourceEvent event){ event.data=getSelection(); } 

@@ -1,0 +1,1 @@
+ public void setTimeInterval(TimeIntervalLengthType value) { this.timeInterval = value; } 

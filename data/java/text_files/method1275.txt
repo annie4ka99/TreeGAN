@@ -1,0 +1,1 @@
+ public V rd(long inx) { return rd(root, MAX_DEP, inx); } 

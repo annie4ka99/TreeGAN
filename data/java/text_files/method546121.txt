@@ -1,0 +1,1 @@
+ public int getZoomFactorPercent() { return zbconvert(100,0); } 

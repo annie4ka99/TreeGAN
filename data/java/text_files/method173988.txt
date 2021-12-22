@@ -1,0 +1,1 @@
+ public boolean hasRootElement() { return (content.indexOfFirstElement() < 0) ? false : true; } 

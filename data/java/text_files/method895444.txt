@@ -1,0 +1,1 @@
+ public int getAbsolute(int index) { return this.offset + index; } 

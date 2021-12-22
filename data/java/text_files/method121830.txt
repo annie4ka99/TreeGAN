@@ -1,0 +1,1 @@
+ public void setRootPanel(Panel root) { _root = root; _root.setWindow(this); repaint(); } 

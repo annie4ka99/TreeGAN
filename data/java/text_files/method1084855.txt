@@ -1,0 +1,1 @@
+ public void setVirtualDocBase(VFSItem vfsItem) { base = vfsItem; } 

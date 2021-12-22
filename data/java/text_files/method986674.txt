@@ -1,0 +1,1 @@
+ public void glIndexub (byte c) { CC.gl_index ((int)(c & 0xff)); } 

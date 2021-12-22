@@ -1,0 +1,1 @@
+ public NormalTridasLocationType getLocationType() { return locationType; } 

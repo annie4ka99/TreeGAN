@@ -1,0 +1,1 @@
+ public String typename(int index) { return topointer(index).luaGetTypeName().toJavaString(); } 

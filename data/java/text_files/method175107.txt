@@ -1,0 +1,1 @@
+ public boolean containsKey(Object key) { return doGet(key) != null; } 

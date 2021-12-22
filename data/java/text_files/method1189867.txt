@@ -1,0 +1,1 @@
+ public int length(String fldname) { return info.get(fldname).length; } 

@@ -1,0 +1,1 @@
+ protected String getForwardError(){ return this.forwardError; } 

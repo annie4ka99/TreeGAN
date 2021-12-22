@@ -1,0 +1,1 @@
+ public boolean removeTuple(Tuple t) { throw new UnsupportedOperationException(); } 

@@ -1,0 +1,1 @@
+ public void setFirst(String first) { this.first = first; } 

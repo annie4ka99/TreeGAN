@@ -1,0 +1,1 @@
+ public boolean canSetBoolean() { return canSet(boolean.class); } 

@@ -1,0 +1,1 @@
+ public WSIEntity createWSIEntity() { return new WSIEntity(); } 

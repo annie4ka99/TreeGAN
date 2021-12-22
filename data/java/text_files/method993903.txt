@@ -1,0 +1,1 @@
+ public int getNumKnots() { return numKnots; } 

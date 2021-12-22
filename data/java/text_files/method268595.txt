@@ -1,0 +1,1 @@
+ public int getDegrees() { return (int) (value * (180.0d / Math.PI)); } 

@@ -1,0 +1,1 @@
+ public void setUser(UserType value) { this.user = value; } 

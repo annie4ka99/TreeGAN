@@ -1,0 +1,1 @@
+ public LayoutSlice getCurrentSlice() { return (LayoutSlice) layoutSlices.get(currentSlice); } 

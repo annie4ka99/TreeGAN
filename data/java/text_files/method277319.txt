@@ -1,0 +1,1 @@
+ public int getIndexOfFieldName(String string) { return schema.indexOfField(string); } 

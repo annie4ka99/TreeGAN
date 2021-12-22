@@ -1,0 +1,1 @@
+ public void setNameReaction(String name) { nameR = name; } 

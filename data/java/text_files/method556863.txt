@@ -1,0 +1,1 @@
+ public void setAttribute_name(String attribute_name) { this.attribute_name = attribute_name; } 

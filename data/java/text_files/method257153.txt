@@ -1,0 +1,1 @@
+ public int getMarkedLinkRow() { return markedReqRow; } 

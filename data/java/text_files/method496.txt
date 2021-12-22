@@ -1,0 +1,1 @@
+ final public boolean isBoxInactive() { return (positionData & INACTIVE_BOX) > 0; } 

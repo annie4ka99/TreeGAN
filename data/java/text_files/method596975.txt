@@ -1,0 +1,1 @@
+ public Type getLocalType(final int local) { return (Type) localTypes.get(local - firstLocal); } 

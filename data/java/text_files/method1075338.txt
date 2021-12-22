@@ -1,0 +1,1 @@
+ public void setCmCd(int cmCd) { this.cmCd = cmCd; } 

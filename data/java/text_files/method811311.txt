@@ -1,0 +1,1 @@
+ public void setSlower(java.lang.Boolean slower) { this.slower = slower; } 

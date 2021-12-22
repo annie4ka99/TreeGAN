@@ -1,0 +1,1 @@
+ public NumberFormatTypes getNumberFormatType() { return numberFormatType; } 

@@ -1,0 +1,1 @@
+ public void setInterpreter(JavaScriptInterpreter inter) { this.interpreter = inter; } 

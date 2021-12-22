@@ -1,0 +1,1 @@
+ public void nextFile () { setIndex(this.index + 1); } 

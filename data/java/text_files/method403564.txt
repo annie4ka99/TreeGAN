@@ -1,0 +1,1 @@
+ public void setRelentless(boolean relentless) { this.relentless = relentless; } 

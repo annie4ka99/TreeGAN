@@ -1,0 +1,1 @@
+ public AssertionType getAssertion() { return assertion; } 

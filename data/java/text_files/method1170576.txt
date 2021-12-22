@@ -1,0 +1,1 @@
+ public void setSource(Card card) { source = card; } 

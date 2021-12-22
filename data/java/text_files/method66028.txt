@@ -1,0 +1,1 @@
+ public int getMenuVJBType() { return menuVJBType; } 

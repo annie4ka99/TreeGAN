@@ -1,0 +1,1 @@
+ public CodeWord get(int index){ return CbList.get(index); } 

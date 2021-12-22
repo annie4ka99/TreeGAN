@@ -1,0 +1,1 @@
+ public void setMinValue(Object value) { this.minValue = value; } 

@@ -1,0 +1,1 @@
+ public void createPartControl( Composite parent ) { createPartControl( parent, null ); } 

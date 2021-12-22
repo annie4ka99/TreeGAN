@@ -1,0 +1,1 @@
+ public void addCommunity (Community comm) { if (!contains(comm)){ this.add(comm); } } 

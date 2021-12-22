@@ -1,0 +1,1 @@
+ public Object scope() { return scope; } 

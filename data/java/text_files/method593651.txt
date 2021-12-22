@@ -1,0 +1,1 @@
+ public void setHtmlMode(String htmlMode) { this.htmlMode = htmlMode; } 

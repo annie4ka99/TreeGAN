@@ -1,0 +1,1 @@
+ public int getChildCount(int node) { return getOutDegree(node); } 

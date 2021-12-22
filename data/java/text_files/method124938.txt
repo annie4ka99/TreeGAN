@@ -1,0 +1,1 @@
+ public JSCSArray getRowHeaderData() { return getRowHeaderDataTable().getJSCSArray(); } 

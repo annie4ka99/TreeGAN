@@ -1,0 +1,1 @@
+ public int size() { lock.lock(); try { return count; } finally { lock.unlock(); } } 

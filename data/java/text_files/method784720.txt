@@ -1,0 +1,1 @@
+ public KIND getKind() { return kind; } 

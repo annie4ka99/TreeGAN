@@ -1,0 +1,1 @@
+ public void createFriendshipAsync(String id) { createFriendshipAsync(id, new WeiboAdapter()); } 

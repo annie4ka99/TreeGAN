@@ -1,0 +1,1 @@
+ public void rawgeti(int index, int n) { pushlvalue( totable(index).get(n) ); } 

@@ -1,0 +1,1 @@
+ public void tearDownAndWait() { this.tearDown(); while (RUNNING) { Suspender.suspendSeconds(1); } } 

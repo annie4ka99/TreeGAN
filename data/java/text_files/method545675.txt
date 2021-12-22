@@ -1,0 +1,1 @@
+ public int getSmoothingMethod() { return smoothMethod; } 

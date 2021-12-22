@@ -1,0 +1,1 @@
+ public BolName getLeftHand() { if (handType == COMBINED) { return leftHand; } else return null; } 

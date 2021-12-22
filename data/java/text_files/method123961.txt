@@ -1,0 +1,1 @@
+ public String getSymbolNameBetaSubsetRes() { return ecTerm1.getSymbolNameSubsetRes(); } 

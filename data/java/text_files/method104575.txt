@@ -1,0 +1,1 @@
+ public TridasShape getShape() { return shape; } 

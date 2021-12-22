@@ -1,0 +1,1 @@
+ public void setViewDirection(int viewDirection) { this.viewDirection = (byte) viewDirection; } 

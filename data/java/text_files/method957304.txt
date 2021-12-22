@@ -1,0 +1,1 @@
+ public void setEndAngle(AngleType value) { this.endAngle = value; } 

@@ -1,0 +1,1 @@
+ public int getNumberOfStoredBoardPositions() { return count.get(); } 

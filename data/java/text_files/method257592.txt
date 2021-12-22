@@ -1,0 +1,1 @@
+ public void setDestinations(Map destinations) { this.destinations = destinations; } 

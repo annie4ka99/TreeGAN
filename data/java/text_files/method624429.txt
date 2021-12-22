@@ -1,0 +1,1 @@
+ public boolean contains(Identifier id) { return identifier.containsKey(id); } 

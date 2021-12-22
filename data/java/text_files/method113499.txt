@@ -1,0 +1,1 @@
+ public RMINamingInterface getNamingInterfaceDelegate() { return this.delegate; } 

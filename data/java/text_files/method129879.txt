@@ -1,0 +1,1 @@
+ public Component getViewPane() { return (Component) viewPane; } 

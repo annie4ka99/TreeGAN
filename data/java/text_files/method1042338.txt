@@ -1,0 +1,1 @@
+ public Matrix3f multLocal(Matrix3f mat) { return mult(mat, this); } 

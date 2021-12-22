@@ -1,0 +1,1 @@
+ public void setIsServer(boolean _isServer) { isServer = _isServer; } 

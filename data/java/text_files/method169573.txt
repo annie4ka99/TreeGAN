@@ -1,0 +1,1 @@
+ public RatingPanel getRatingPanel() { return ratingPanel; } 

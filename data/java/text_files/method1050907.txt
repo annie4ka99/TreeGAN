@@ -1,0 +1,1 @@
+ public void setRenderingWidth(int width) { renderingWidth = Math.max(50, width); } 

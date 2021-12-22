@@ -1,0 +1,1 @@
+ public int getMKILength() { if (mki != null) { return mki.length; } else { return 0; } } 

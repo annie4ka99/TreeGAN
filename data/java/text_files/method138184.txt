@@ -1,0 +1,1 @@
+ public void addCompressionEnding(String ending) { compression_endings.add(ending.toLowerCase()); } 

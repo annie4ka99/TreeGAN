@@ -1,0 +1,1 @@
+ public Iterator visibleItems() { return items(VisiblePredicate.TRUE); } 

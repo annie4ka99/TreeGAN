@@ -1,0 +1,1 @@
+ public void setContinent(String string) { continent = string; } 

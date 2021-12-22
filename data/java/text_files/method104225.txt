@@ -1,0 +1,1 @@
+ protected JAXBContext getJAXBContext() throws JAXBException { return JAXBContext.newInstance(); } 

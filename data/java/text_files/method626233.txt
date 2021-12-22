@@ -1,0 +1,1 @@
+ public Integer size() { return data.size(); } 

@@ -1,0 +1,1 @@
+ public void visitI2D(I2D o){ stack().pop(); stack().push(Type.DOUBLE); } 

@@ -1,0 +1,1 @@
+ public void start() { running = true; t = new Thread(this); t.start(); } 

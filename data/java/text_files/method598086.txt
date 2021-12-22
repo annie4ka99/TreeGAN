@@ -1,0 +1,1 @@
+ public void nextBytes(byte[] out) { nextBytes(out, 0, out.length); } 

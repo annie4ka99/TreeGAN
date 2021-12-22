@@ -1,0 +1,1 @@
+ public Print getPrint() { if ( print == null ) print = createPrint(); return print; } 

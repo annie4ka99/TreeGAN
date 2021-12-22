@@ -1,0 +1,1 @@
+ public boolean isVVVerbose() { return vvverbose; } 

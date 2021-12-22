@@ -1,0 +1,1 @@
+ public void setDirty(boolean state) { this.isDirty = state; this.editor.editorDirtyStateChanged(); } 

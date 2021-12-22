@@ -1,0 +1,1 @@
+ public void onGraphEvent(GraphEvent evt) { canvas.writer.refreshCluster(); this.canvas.updateAndPaint(); } 

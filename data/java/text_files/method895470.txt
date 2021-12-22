@@ -1,0 +1,1 @@
+ public int getMinimumIndex() { return this.minIndex; } 

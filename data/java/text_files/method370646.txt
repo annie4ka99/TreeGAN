@@ -1,0 +1,1 @@
+ protected String getOutputSuffix() { return "." + JarPackagerUtil.JAR_EXTENSION; } 

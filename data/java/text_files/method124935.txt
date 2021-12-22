@@ -1,0 +1,1 @@
+ public void shutdown() { joxExitEx(); EXIT_STATUS = true; loadedModules.clear(); } 

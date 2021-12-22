@@ -1,0 +1,1 @@
+ public Use getOutputBodyType() { return outputBodyType; } 

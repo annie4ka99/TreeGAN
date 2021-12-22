@@ -1,0 +1,1 @@
+ public boolean canDo(int what) { return (getPermissions() & what) != 0; } 

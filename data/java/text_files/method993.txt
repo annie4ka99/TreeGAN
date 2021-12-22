@@ -1,0 +1,1 @@
+ public void setTakeSolutionAsHistoryVisible(boolean isVisible) { isTakeSolutionAsHistoryEnabled = isVisible; } 

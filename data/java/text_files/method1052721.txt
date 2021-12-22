@@ -1,0 +1,1 @@
+ public void setBalloonBottomOffset(int pixels) { viewOffset = pixels; } 

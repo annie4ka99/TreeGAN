@@ -1,0 +1,1 @@
+ public int getCountNew() { return newList.size(); } 

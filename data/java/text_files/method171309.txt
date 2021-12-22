@@ -1,0 +1,1 @@
+ public void visitF2L(F2L o){ stack().pop(); stack().push(Type.LONG); } 

@@ -1,0 +1,1 @@
+ public boolean isCellEditable(Item item, int column) { return isColumnEditable(column); } 

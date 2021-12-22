@@ -1,0 +1,1 @@
+ public void setApplicationConfig(ModuleConfig moduleConfig) { setModuleConfig(moduleConfig); } 

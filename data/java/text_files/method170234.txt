@@ -1,0 +1,1 @@
+ public LineupPanel getLineup() { return p; } 

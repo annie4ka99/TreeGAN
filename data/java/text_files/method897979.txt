@@ -1,0 +1,1 @@
+ public void setMajorVersion(int majorVersion) { this.version.setMajorVersion(majorVersion); } 

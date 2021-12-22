@@ -1,0 +1,1 @@
+ public void stop (int i){ stopTime[i] = System.currentTimeMillis(); running[i] = false; } 

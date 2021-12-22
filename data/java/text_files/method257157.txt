@@ -1,0 +1,1 @@
+ public boolean isMarked(int row) { return (row == this.markedReqRow); } 

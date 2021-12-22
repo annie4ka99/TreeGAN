@@ -1,0 +1,1 @@
+ public void testApprove() { entity = service.approve(entity); } 

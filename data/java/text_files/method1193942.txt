@@ -1,0 +1,1 @@
+ public void clear() { if (this.barStopedAction != null) { input.removeAction(this.barStopedAction); } } 

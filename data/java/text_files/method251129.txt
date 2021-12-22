@@ -1,0 +1,1 @@
+ public void setCollectionPID(String collectionPID) { this.pid = collectionPID; } 

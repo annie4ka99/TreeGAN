@@ -1,0 +1,1 @@
+ public void setSucesor(JGDXMLFilterChain sucesor) { this.sucesor = sucesor; } 

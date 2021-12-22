@@ -1,0 +1,1 @@
+ public boolean insertContingent(Contingent contingent) { return contingents.add(contingent); } 

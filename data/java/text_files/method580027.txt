@@ -1,0 +1,1 @@
+ public void setMenu( String menuGroup ){ this.menuGroup = menuGroup; } 

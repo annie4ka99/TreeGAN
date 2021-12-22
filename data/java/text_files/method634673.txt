@@ -1,0 +1,1 @@
+ public I_OvComponent getComponent(String id) { return (I_OvComponent) componentsById.get(id); } 

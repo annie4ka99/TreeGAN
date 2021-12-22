@@ -1,0 +1,1 @@
+ public SQLColumnSet getColumns() { return cols; } 

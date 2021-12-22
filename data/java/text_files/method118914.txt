@@ -1,0 +1,1 @@
+ public JGpdMarqueeHandler getMarqueeHandler() { return marqueeHandler; } 

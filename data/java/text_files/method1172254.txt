@@ -1,0 +1,1 @@
+ public void removeUnEquipCommand(Command c) { unEquipCommandList.remove(c); } 

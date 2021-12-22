@@ -1,0 +1,1 @@
+ public void setValuesVariable(TridasVocabulary.ValuesVariable value) { this.valuesVariable = value; } 

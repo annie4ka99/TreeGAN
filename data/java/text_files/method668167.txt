@@ -1,0 +1,1 @@
+ synchronized public void setCommandPrompt(String commandPrompt) { this.commandPrompt = commandPrompt; } 

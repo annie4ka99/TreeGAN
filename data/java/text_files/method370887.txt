@@ -1,0 +1,1 @@
+ public void setDeprecationAware(boolean aware) { fDeprecationAware= aware; } 

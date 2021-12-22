@@ -1,0 +1,1 @@
+ public Matrix3f transpose() { return transposeLocal(); } 

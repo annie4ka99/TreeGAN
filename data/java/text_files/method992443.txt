@@ -1,0 +1,1 @@
+ public void setInput(DataInput dataInput) { din = dataInput; in = null; } 

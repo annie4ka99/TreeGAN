@@ -1,0 +1,1 @@
+ public void setTimeout(int _timeout) { if(timeout < 0) return; timeout = _timeout; } 

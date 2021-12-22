@@ -1,0 +1,1 @@
+ public void commit() { Tracer.getInstance().developerWarning("NO Commit done!"); } 

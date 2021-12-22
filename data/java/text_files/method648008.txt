@@ -1,0 +1,1 @@
+ public Integer getLimitResults() { return toolBar.getLimitResults(); } 

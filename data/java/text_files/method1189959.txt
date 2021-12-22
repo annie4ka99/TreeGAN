@@ -1,0 +1,1 @@
+ public RemoteConnection connect() throws RemoteException { return new RemoteConnectionImpl(); } 

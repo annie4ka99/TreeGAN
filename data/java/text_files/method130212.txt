@@ -1,0 +1,1 @@
+ public PDController (double Kp, double Kd) { this.kp = Kp; this.kd = Kd; } 

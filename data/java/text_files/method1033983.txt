@@ -1,0 +1,1 @@
+ public boolean hasTypedefName() { return hasTypedefName; } 

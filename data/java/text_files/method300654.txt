@@ -1,0 +1,1 @@
+ public String getImageTitle() { return new String( this.strImageTitle ); } 

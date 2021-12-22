@@ -1,0 +1,1 @@
+ public int readVS24() throws IOException { return readVS32(); } 

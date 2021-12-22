@@ -1,0 +1,1 @@
+protected void select() { selectedObjCounter++; setSelectedObj(true); } 

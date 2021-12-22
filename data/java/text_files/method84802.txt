@@ -1,0 +1,1 @@
+ public Connection getConnection() throws SQLException { return getConnection(user, password); } 

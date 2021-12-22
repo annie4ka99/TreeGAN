@@ -1,0 +1,1 @@
+ public CursorBuilder setEndRowInclusive(boolean inclusive) { _endRowInclusive = inclusive; return this; } 

@@ -1,0 +1,1 @@
+ public void setRangeScanner(int i, double range) { rsArray[i] = range; } 

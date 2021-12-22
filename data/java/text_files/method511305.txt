@@ -1,0 +1,1 @@
+ public void addEnv(Environment.Variable var) { envProperties.add(var); } 

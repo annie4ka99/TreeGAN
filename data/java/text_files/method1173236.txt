@@ -1,0 +1,1 @@
+ public void setSorcerySpeed(boolean bSpeed) { bSorcerySpeed = bSpeed; } 

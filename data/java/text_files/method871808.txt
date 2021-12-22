@@ -1,0 +1,1 @@
+ public void setMd5key(java.lang.String md5key) { this.md5key = md5key; } 

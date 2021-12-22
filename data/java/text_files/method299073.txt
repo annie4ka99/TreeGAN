@@ -1,0 +1,1 @@
+ private void addChild(CompartmentModel compartment) { addChild(compartment, null); } 

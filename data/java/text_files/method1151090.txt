@@ -1,0 +1,1 @@
+ public void testGetFirstName() { assertEquals(firstName, user.getFirstName()); } 

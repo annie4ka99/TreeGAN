@@ -1,0 +1,1 @@
+ public boolean storesMixedCaseQuotedIdentifiers() throws SQLException { return !this.conn.lowerCaseTableNames(); } 

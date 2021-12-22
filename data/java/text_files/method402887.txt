@@ -1,0 +1,1 @@
+ public ProjectWriter getProjectWriter() { return writers[this.getIndex()]; } 

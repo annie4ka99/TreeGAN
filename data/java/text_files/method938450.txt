@@ -1,0 +1,1 @@
+ public void setValues(final Object[] values) { dateSelectionModel.setSelectedDates(values); refreshSelection(); } 

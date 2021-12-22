@@ -1,0 +1,1 @@
+ public void setInHeader(boolean inHeader) { this.inHeader = inHeader; } 

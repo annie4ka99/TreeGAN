@@ -1,0 +1,1 @@
+ protected void dispose() { if (context != null) { context.dispose(); context = null; } } 

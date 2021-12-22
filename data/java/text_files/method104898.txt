@@ -1,0 +1,1 @@
+ public void setInterpretation(TridasInterpretation value) { this.interpretation = value; } 

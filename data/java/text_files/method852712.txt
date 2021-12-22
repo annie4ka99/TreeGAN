@@ -1,0 +1,1 @@
+ public void setLost() { Timer timer = Timer.getInstance(); timer.stop(); lost = true; } 

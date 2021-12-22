@@ -1,0 +1,1 @@
+ public void setBufferSize(int bufSize) { __bufferSize = bufSize; } 

@@ -1,0 +1,1 @@
+ public boolean isArtifact() { return type.contains("Artifact"); } 

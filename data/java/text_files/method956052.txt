@@ -1,0 +1,1 @@
+ public void setProcessorVersion(String value) { this.processorVersion = value; } 

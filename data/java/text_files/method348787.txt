@@ -1,0 +1,1 @@
+ public double getXError(){ if (errors[0] == null) { return Double.NaN; } return errors[0]; } 

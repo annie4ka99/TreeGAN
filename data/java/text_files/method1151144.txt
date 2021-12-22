@@ -1,0 +1,1 @@
+ public void testGetCreationTime() { assertEquals(creationTime, user.getCreationTime()); } 

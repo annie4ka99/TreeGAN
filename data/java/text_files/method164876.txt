@@ -1,0 +1,1 @@
+ public void setWriter(Writer writer) { this.writer = writer; } 

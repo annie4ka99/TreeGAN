@@ -1,0 +1,1 @@
+ public DashAction copyThis(){ return new DashAction(this); } 

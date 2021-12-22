@@ -1,0 +1,1 @@
+ public void setSequence(net.sourceforge.emboss.Sequence sequence) { this.sequence = sequence; } 

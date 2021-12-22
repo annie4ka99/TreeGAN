@@ -1,0 +1,1 @@
+ public void emptyBuffer() throws IOException { while (model.getInput().ready()) { model.getInput().read(); } } 

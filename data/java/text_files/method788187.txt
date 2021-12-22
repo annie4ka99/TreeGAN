@@ -1,0 +1,1 @@
+ public void removeControlListener(Control cl) { m_controls.remove(cl); } 

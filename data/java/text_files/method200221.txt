@@ -1,0 +1,1 @@
+ public boolean userCanWrite() { return userPermissions.getWrite(); } 

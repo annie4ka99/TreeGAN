@@ -1,0 +1,1 @@
+ public void printGraph() { ATKGraphicsUtils.printComponent(this,"Print Graph",true,0); } 

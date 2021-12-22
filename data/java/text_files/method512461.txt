@@ -1,0 +1,1 @@
+ public JMethod getJMethod() { return jMethod; } 

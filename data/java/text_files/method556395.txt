@@ -1,0 +1,1 @@
+ public void setMin_value(final String minValue) { this.minValue = minValue; } 

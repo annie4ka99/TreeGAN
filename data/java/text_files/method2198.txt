@@ -1,0 +1,1 @@
+ public int getMissCountNotFound() throws IllegalStateException { checkStatus(); return missCountNotFound; } 

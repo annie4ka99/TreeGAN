@@ -1,0 +1,1 @@
+ public void addMouseWheelSource(Component component) { component.addMouseWheelListener(new MouseWheel()); } 

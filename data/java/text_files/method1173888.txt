@@ -1,0 +1,1 @@
+ public void setCreditsReward(long creditsReward) { this.creditsReward = creditsReward; } 

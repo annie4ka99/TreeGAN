@@ -1,0 +1,1 @@
+ public void setServicePortName(String servicePortName) { this.servicePortName = servicePortName; } 

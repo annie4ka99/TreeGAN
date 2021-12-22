@@ -1,0 +1,1 @@
+ public Ability_Sub getSubAbility() { return this.subAbility; } 

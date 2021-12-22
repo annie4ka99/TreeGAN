@@ -1,0 +1,1 @@
+ public void setLabelVisible(boolean visible) { textLabel.setVisible(visible); } 

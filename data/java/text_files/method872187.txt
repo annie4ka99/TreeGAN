@@ -1,0 +1,1 @@
+ public void setApplication(java.lang.String application) { this.application = application; } 

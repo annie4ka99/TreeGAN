@@ -1,0 +1,1 @@
+ public Rectangle2D getBounds(String group) { return getBounds(group, new Rectangle2D.Double()); } 

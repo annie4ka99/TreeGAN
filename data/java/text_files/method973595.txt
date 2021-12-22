@@ -1,0 +1,1 @@
+ public void pauseApp() { midletPaused = true; } 

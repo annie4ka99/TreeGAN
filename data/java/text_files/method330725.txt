@@ -1,0 +1,1 @@
+ public void removeObserver(PamScrollObserver pamScrollObserver) { observers.remove(pamScrollObserver); } 

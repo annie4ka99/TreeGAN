@@ -1,0 +1,1 @@
+ public void setShowArrow(boolean b) { showArrow = b; repaint(); } 

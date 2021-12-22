@@ -1,0 +1,1 @@
+ protected void setBasePath(final String basePath) { mBasePath = basePath; } 

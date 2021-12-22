@@ -1,0 +1,1 @@
+ public Property getProperty() { return property; } 

@@ -1,0 +1,1 @@
+ public Operator(String name){ setName(name); } 

@@ -1,0 +1,1 @@
+ public void addRssLocation( String location ) { this.vecRssLocations.add( location ); } 

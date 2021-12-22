@@ -1,0 +1,1 @@
+public void setMaxProcess(int newValue) { this.maxProcess = newValue; } 

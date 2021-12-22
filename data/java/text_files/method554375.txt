@@ -1,0 +1,1 @@
+ public String getOption(String key) { String ret = content.get(key); return ret; } 

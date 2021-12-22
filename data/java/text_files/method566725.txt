@@ -1,0 +1,1 @@
+ public void add(final Group g) { if (g == null) { return; } synchronized (this) { add_i(g); } } 

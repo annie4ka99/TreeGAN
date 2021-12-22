@@ -1,0 +1,1 @@
+ public void setSql_deleteTODO(String sql_deleteTODO) { this.sql_deleteTODO = sql_deleteTODO; } 

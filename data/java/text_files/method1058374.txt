@@ -1,0 +1,1 @@
+ public Transfer getTransfer() { return ObjectTransfer.getInstance(); } 

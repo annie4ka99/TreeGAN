@@ -1,0 +1,1 @@
+ public void setSignature(SignedObject signature) { this.signature = signature; } 

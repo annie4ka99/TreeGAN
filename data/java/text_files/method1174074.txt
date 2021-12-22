@@ -1,0 +1,1 @@
+ public boolean hasKeyword(String keyword) { return getKeyword().contains(keyword); } 

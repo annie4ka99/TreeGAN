@@ -1,0 +1,1 @@
+ public void enableFinishButton(boolean enabled) { bottomPane.finishButton().setEnabled(enabled); } 

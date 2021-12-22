@@ -1,0 +1,1 @@
+ public JMenu getDebugMenu() { return getMenu(2); } 

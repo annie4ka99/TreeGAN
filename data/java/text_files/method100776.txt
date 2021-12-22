@@ -1,0 +1,1 @@
+ public int height(Graphics g) { return height; } 

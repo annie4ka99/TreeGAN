@@ -1,0 +1,1 @@
+ static public Hashtable loadFromScratch(){ return NaaraniPlugInManager.searchExtendedPlugin( true ); } 

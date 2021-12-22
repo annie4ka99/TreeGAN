@@ -1,0 +1,1 @@
+ public void visitACONST_NULL(ACONST_NULL o){ stack().push(Type.NULL); } 

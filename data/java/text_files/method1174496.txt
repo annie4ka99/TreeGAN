@@ -1,0 +1,1 @@
+ public SpellAbility_StackInstance peekInstance(int index) { return stack.get(index); } 

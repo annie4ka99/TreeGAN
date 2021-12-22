@@ -1,0 +1,1 @@
+ public short getIntegerIncrement() { return integerIncrement; } 

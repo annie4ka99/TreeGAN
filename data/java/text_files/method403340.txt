@@ -1,0 +1,1 @@
+ public void setMultithreaded(boolean multi) { compilerDef.setMultithreaded(multi); } 

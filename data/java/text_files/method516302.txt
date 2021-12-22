@@ -1,0 +1,1 @@
+public void setCurrentDate(Date newCurrentDate) { currentDate = newCurrentDate; } 

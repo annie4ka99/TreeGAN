@@ -1,0 +1,1 @@
+ public void say(String message){ send("(say " + message + ")"); } 

@@ -1,0 +1,1 @@
+ public int clearRows() { int rowsCleared = 0; sanityCheck(); return rowsCleared; } 

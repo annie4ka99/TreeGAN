@@ -1,0 +1,1 @@
+ public void setLand(String string) { land = string; } 

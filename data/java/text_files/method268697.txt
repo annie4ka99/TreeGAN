@@ -1,0 +1,1 @@
+ public int getDataLength() { return packet[2]; } 

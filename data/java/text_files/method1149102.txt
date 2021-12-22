@@ -1,0 +1,1 @@
+ private String getHostname() { return txtHost.getText(); } 

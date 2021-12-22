@@ -1,0 +1,1 @@
+ public void setCvsRshCommand(String cvsRshCommand) { this.cvsRshCommand = cvsRshCommand; } 

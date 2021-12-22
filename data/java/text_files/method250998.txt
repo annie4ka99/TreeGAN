@@ -1,0 +1,1 @@
+ public void setContributors(List contributors) { this.contributors = contributors; } 

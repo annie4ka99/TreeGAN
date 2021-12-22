@@ -1,0 +1,1 @@
+ public void setCursorName(String name) throws SQLException { checkStatus(); cursorName = name; } 

@@ -1,0 +1,1 @@
+ public void setNextFinishButtonEnabled(boolean newValue) { wizardModel.setNextFinishButtonEnabled(newValue); } 

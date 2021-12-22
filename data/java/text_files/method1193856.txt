@@ -1,0 +1,1 @@
+ private void setUpMusic(){ audioManager.startMusic(); } 

@@ -1,0 +1,1 @@
+ public void setHoursOfService(String value) { this.hoursOfService = value; } 

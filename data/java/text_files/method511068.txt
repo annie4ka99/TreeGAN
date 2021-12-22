@@ -1,0 +1,1 @@
+ protected void run(Runner testRunner, TestResult result) throws Exception { testRunner.runTimed(); } 

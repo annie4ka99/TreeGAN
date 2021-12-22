@@ -1,0 +1,1 @@
+ public void setParent(NamespaceContext parent) { this .parent = parent; } 

@@ -1,0 +1,1 @@
+ public void setInterestIncome(int interestIncome) { this.interestIncome = interestIncome; } 

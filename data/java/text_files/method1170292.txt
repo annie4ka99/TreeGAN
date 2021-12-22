@@ -1,0 +1,1 @@
+ public void setMulliganedToZero(int gameNumber, boolean b) { mulliganedToZero[gameNumber] = b; } 

@@ -1,0 +1,1 @@
+ public void setOperator(String value) { this.operator = value; } 

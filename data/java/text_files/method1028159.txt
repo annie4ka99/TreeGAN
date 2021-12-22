@@ -1,0 +1,1 @@
+ public void setJMXExport(boolean jmxExport) { this.jmxExport = jmxExport; } 

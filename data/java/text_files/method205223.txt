@@ -1,0 +1,1 @@
+ public void setNodes(Node From, Node To) { this.from = From; this.to = To; } 

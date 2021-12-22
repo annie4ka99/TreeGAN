@@ -1,0 +1,1 @@
+ public void setPropertyName(String value) { this.propertyName = value; } 

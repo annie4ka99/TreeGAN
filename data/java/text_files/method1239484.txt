@@ -1,0 +1,1 @@
+ public void setBindingName(String bindingName) { this.bindingName = bindingName; } 

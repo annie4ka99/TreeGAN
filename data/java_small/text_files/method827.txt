@@ -1,0 +1,1 @@
+ private void setInitialBoardPosition() { board = boardInitial.boardElements.clone(); playerPosX = boardInitial.playerPositionX; playerPosY = boardInitial.playerPositionY; } 

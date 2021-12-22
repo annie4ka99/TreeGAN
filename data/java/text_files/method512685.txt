@@ -1,0 +1,1 @@
+ public GeneratedValue getGenValue() { return genValue; } 

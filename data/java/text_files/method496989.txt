@@ -1,0 +1,1 @@
+ public void writeEndTag(String name) { w.write("</"); w.write(name); w.write(">\n"); } 

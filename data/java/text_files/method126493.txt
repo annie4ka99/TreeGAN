@@ -1,0 +1,1 @@
+ public boolean isUpperScope() { return symbolScope == Scope.UPPER; } 

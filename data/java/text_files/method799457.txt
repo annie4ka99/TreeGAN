@@ -1,0 +1,1 @@
+ public void setPageIndex( int pageIndex ) { checkWidget(); this.pageIndex = pageIndex; redraw(); } 

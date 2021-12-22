@@ -1,0 +1,1 @@
+ public JFreeChart getChart() { return this.chartPanel.getChart(); } 

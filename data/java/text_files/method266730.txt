@@ -1,0 +1,1 @@
+ public boolean isStayAlive() { return stayAlive; } 

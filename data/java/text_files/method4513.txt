@@ -1,0 +1,1 @@
+ public float getDashPower(){ return this.m_power; } 

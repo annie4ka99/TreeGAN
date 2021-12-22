@@ -1,0 +1,1 @@
+ public Rule getRowRule() { return rowRule; } 

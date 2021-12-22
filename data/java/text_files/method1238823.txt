@@ -1,0 +1,1 @@
+ public String list(Options opts) throws Exception { processOpts( opts ); return list(); } 

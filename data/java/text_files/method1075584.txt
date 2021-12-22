@@ -1,0 +1,1 @@
+ public String getNewPwd2() { return newPwd2; } 

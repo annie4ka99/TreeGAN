@@ -1,0 +1,1 @@
+ public String getLabel() { return meterData.getLabel(); } 

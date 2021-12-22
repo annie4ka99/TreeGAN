@@ -1,0 +1,1 @@
+ public void setAllowedError (float err) { this.maxError = err; } 

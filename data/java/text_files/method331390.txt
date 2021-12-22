@@ -1,0 +1,1 @@
+ public ConfigurationDialogSettings getConfigurationDialogSettings() { return this.configurationDialogSettings; } 

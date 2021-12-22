@@ -1,0 +1,1 @@
+ public void setAltitude(Double value) { this.altitude = value; } 

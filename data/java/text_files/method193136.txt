@@ -1,0 +1,1 @@
+ public JGDXMLFilterChain getSucesor() { return sucesor; } 

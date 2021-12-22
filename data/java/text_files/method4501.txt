@@ -1,0 +1,1 @@
+ public boolean isGoalie() { return this.m_isGoalie; } 

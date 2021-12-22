@@ -1,0 +1,1 @@
+ public void duplicateTSNCount(int value) { super.setUShort(14, value); } 

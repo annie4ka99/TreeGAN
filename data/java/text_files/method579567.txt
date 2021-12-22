@@ -1,0 +1,1 @@
+ static public void B1_insert( String field, long ID ) throws StopAction{ record.add( field.toLowerCase(), ID ); } 

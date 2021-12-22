@@ -1,0 +1,1 @@
+ public void setModel(ListModel model) { m_data = model; initUI(); } 

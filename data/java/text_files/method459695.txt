@@ -1,0 +1,1 @@
+ public String get(String name) { return (String) map.get(name); } 

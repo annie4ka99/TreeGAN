@@ -1,0 +1,1 @@
+ public void setRecord(PilotDBRecord record) { this.record = record; } 

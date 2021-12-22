@@ -1,0 +1,1 @@
+ public AbstractFile getContainer() { return ((TarFileSystem) getFileSystem()).getContainer(); } 

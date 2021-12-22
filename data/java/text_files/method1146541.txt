@@ -1,0 +1,1 @@
+ public boolean deleteCard(Card card) { return deleteCard(null, card); } 

@@ -1,0 +1,1 @@
+ public void removeForwardConfig(ForwardConfig config) { forwards.remove(config.getName()); } 

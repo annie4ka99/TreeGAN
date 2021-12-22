@@ -1,0 +1,1 @@
+ public void addNotNull(String attribute) { criteria.addElement(new NullCriteria(attribute, true)); } 

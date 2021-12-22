@@ -1,0 +1,1 @@
+ public boolean isSelectionTreeVisible() { if (treeView != null) return treeView.isVisible(); else return false; } 

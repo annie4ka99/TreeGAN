@@ -1,0 +1,1 @@
+ public void setIsMyTurn(boolean b) { isMyTurn = b; } 

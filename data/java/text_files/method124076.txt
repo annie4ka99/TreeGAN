@@ -1,0 +1,1 @@
+ public void setPrecision(int precision) { coeff.setPrecision(precision); } 

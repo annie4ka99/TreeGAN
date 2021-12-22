@@ -1,0 +1,1 @@
+ public void setPosList(PosList value) { this.posList = value; } 

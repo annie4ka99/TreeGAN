@@ -1,0 +1,1 @@
+ public boolean jdoIsNew() { return getPersistencyState().isNew() || getPersistencyState().isNewForwarded(); } 

@@ -1,0 +1,1 @@
+ protected boolean isNamespacePrefixes() { return getFeature(NS_PREFIXES); } 

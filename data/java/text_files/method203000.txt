@@ -1,0 +1,1 @@
+ public boolean isDone() { return (ec != null && ec.done()); } 

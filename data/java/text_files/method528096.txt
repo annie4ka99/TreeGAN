@@ -1,0 +1,1 @@
+ private void setPwd(String newPwd) { pwd = newPwd; } 

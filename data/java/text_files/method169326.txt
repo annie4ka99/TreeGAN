@@ -1,0 +1,1 @@
+ public Team getSelectedTeam() { return (Team) teamCombo.getSelectedItem(); } 

@@ -1,0 +1,1 @@
+ public void setSamlSignature(SamlSignatureType value) { this.samlSignature = value; } 

@@ -1,0 +1,1 @@
+ public NotificationType createNotificationType() { return new NotificationType(); } 

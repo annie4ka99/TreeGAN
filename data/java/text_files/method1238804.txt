@@ -1,0 +1,1 @@
+ public Session getApplicationSession () { return session; } 

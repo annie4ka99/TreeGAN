@@ -1,0 +1,1 @@
+ public void setVerticalAlignment(int yalign) { m_yalign = yalign; } 

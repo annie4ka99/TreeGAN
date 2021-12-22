@@ -1,0 +1,1 @@
+ public ForwardResolution setStatus(int status) { this.status = status; return this; } 

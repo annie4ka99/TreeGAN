@@ -1,0 +1,1 @@
+ public int getColorsUsed() { return colorsUsed; } 

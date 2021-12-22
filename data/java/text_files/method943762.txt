@@ -1,0 +1,1 @@
+ public boolean canTraverseBackwards() { if (this.pathsIterator.hasPrevious()) return true; return false; } 

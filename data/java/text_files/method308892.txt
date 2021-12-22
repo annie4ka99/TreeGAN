@@ -1,0 +1,1 @@
+ public WizardPage getCurrentPage() { return (pos == -1) ? null : pages.get(pos); } 

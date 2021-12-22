@@ -1,0 +1,1 @@
+ public String getId() { if (isMissing()) return ""; return namespace + "#" + localName; } 

@@ -1,0 +1,1 @@
+ public void destroy() { log.info("Destroy MitarbeiterDAO"); } 

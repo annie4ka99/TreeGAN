@@ -1,0 +1,1 @@
+ public void setMethodGen(MethodGen mg){ this.mg = mg; } 

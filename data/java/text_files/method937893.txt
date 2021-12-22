@@ -1,0 +1,1 @@
+ public int getMonth() { return cMonths.getSelectedIndex(); } 

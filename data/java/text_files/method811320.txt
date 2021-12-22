@@ -1,0 +1,1 @@
+ public void setBlocktype_Filled(java.lang.Boolean blocktype_Filled) { this.blocktype_Filled = blocktype_Filled; } 

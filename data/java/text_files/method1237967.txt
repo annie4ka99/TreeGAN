@@ -1,0 +1,1 @@
+ public void addTypeMapping(WSDDTypeMapping mapping) { typeMappings.add(mapping); } 

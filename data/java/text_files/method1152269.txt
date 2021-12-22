@@ -1,0 +1,1 @@
+ public boolean isSensor() { return m_isSensor; } 

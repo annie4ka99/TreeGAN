@@ -1,0 +1,1 @@
+ public void setOsVersion(java.lang.String osVersion) { this.osVersion = osVersion; } 

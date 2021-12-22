@@ -1,0 +1,1 @@
+ public boolean isValid(Composite composite) { return (composite !=null && !composite.isDisposed()); } 

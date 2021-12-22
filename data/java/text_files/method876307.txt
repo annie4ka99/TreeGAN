@@ -1,0 +1,1 @@
+ public long getTotalLength() { return binaryHeader.getLong(16); } 

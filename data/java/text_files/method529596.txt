@@ -1,0 +1,1 @@
+ public DistanceUnit getDistanceUnit() { return distanceUnits[distanceUnit.getSelectedIndex()]; } 

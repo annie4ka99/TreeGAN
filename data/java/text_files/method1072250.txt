@@ -1,0 +1,1 @@
+ protected void setFixture(WhiteboardDiagram fixture) { this.fixture = fixture; } 

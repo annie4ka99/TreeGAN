@@ -1,0 +1,1 @@
+ public void setCode(String code) { this.code = Utils.trim(code); } 

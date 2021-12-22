@@ -1,0 +1,1 @@
+ public void removeLogReaderListener(LogReaderListener l) { listeners.remove(l); } 

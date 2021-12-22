@@ -1,0 +1,1 @@
+ public Adapter createCIfStatementAdapter() { return null; } 

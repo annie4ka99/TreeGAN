@@ -1,0 +1,1 @@
+ public BufferedImage getMaskImage() { return maskImage; } 

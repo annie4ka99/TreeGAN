@@ -1,0 +1,1 @@
+ public MsnUserStatus getUserStatus() { return MsnUserStatus.parseStr(getParam(0)); } 

@@ -1,0 +1,1 @@
+ public StringBuffer getCsAllHostagesRescued() { return csAllHostagesRescued; } 

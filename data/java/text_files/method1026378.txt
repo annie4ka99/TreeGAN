@@ -1,0 +1,1 @@
+ protected double difftime(long t2, long t1) { return (t2 - t1) / 1000.; } 

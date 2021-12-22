@@ -1,0 +1,1 @@
+ protected void startListeningForSelectionChanges() { getSite().getPage().addPostSelectionListener(this); } 

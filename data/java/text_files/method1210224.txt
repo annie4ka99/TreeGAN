@@ -1,0 +1,1 @@
+ public String getAsciiName() { return this.getName().replaceAll("[^a-zA-Z \t\n]", "_"); } 

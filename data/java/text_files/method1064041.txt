@@ -1,0 +1,1 @@
+ public boolean hasCode(){ return !hasStereotype("nocode") && !hasStereotype("dynamicDependency"); } 

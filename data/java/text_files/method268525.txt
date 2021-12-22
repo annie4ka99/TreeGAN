@@ -1,0 +1,1 @@
+ public boolean useCompression() { return this.useCompression; } 

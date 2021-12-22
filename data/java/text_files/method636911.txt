@@ -1,0 +1,1 @@
+ public String getContent() { return m_content; } 

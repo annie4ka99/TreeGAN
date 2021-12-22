@@ -1,0 +1,1 @@
+ public void setCapability(Capability cap) { this.capability = cap; } 

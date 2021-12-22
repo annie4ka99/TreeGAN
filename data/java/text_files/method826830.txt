@@ -1,0 +1,1 @@
+ public void setShowInTimeSlots(boolean show) { this.showInTimeSlots = show; } 

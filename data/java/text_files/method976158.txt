@@ -1,0 +1,1 @@
+ public void setFromProfile(String fromProfile) { this.fromProfile = fromProfile; } 

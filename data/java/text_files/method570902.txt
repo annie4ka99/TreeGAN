@@ -1,0 +1,1 @@
+ public void stateChanged(ChangeEvent e) { _changed = true; hideCalendar(); } 

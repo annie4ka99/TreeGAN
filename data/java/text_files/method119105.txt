@@ -1,0 +1,1 @@
+ public int getIndexOfRoot(Object root) { return roots.indexOf(root); } 

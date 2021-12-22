@@ -1,0 +1,1 @@
+ public void clear() { rootNode.removeAllChildren(); treeModel.reload(); } 

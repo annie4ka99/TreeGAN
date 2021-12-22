@@ -1,0 +1,1 @@
+ public int getPathCount() { return this.paths.size(); } 

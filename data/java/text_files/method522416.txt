@@ -1,0 +1,1 @@
+ public ServiceStatus getStatus() throws ServiceNotAvailableException { try { return getStatus(0); } finally { } } 

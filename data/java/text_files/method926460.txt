@@ -1,0 +1,1 @@
+ public void disableConsoleLogger() { consoleLogger.close(); consoleLogger = null; } 

@@ -1,0 +1,1 @@
+ public boolean isFailed() { return (ec != null && ec.isFailed()); } 

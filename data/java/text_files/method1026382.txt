@@ -1,0 +1,1 @@
+ protected String getenv(String varname) { return System.getProperty(varname); } 

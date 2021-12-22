@@ -1,0 +1,1 @@
+ public void setId3v2PaddingSize(int size) { if (size >= 0) { id3v2PaddingSize = size; } } 

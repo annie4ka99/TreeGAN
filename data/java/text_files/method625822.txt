@@ -1,0 +1,1 @@
+ public String getAccessUri(ServiceDescription sd){ return manager.getAccessUri(sd); } 

@@ -1,0 +1,1 @@
+ public void setSource(TypeModel source) { getModel().setSourceModel(source); } 

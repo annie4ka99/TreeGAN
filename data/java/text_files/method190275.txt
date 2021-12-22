@@ -1,0 +1,1 @@
+ private int getNextPageNumber(long size) { return (int)(size / getFormat().PAGE_SIZE); } 

@@ -1,0 +1,1 @@
+ public int getPerson1Id() { return person1Id; } 

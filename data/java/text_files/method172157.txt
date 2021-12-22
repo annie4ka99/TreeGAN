@@ -1,0 +1,1 @@
+ public void dump(DataOutputStream out) throws IOException { out.writeByte(opcode); out.writeByte(type); } 

@@ -1,0 +1,1 @@
+ public int span() { return end.diff(start) + 1; } 

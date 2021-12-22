@@ -1,0 +1,1 @@
+ public boolean hasPredicates() { return whereClause.hasPredicates(); } 

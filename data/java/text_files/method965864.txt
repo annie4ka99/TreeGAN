@@ -1,0 +1,1 @@
+ public int getHeight() { return rowOrigins[rowOrigins.length-1] - rowOrigins[0]; } 

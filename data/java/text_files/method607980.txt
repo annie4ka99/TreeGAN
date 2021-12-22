@@ -1,0 +1,1 @@
+ public void setWrite(boolean write) { this.allow_write_ = write; } 

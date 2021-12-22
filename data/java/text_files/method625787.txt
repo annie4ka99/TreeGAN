@@ -1,0 +1,1 @@
+ public void getXHTML() throws Exception { xmiHtmlViewer xov = new xmiHtmlViewer(source); } 

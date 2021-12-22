@@ -1,0 +1,1 @@
+public void setBufferId(int newBufferId) { bufferId = newBufferId; } 

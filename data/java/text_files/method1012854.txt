@@ -1,0 +1,1 @@
+ public void setRedBits(int redBits) { this.redBits = redBits; } 

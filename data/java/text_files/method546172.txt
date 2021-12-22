@@ -1,0 +1,1 @@
+ public void setMax(double m) { max = m; updateShape(); } 

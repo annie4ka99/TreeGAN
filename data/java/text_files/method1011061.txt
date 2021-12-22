@@ -1,0 +1,1 @@
+ public void setGLProfile(GLProfile profile) { glProfile=profile; } 

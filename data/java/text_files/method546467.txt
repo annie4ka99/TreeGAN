@@ -1,0 +1,1 @@
+ public void setVerticalOffset(int offset) { vOffset = offset; } 

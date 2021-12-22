@@ -1,0 +1,1 @@
+ public void close() throws SQLException { realClose(true); } 

@@ -1,0 +1,1 @@
+ public LInteger checkinteger(int narg) { return LInteger.valueOf(checkint(narg)); } 

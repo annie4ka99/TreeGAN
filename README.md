@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## Data
 We use simplified Java BNF-grammar placed at [data/java/java_lang.bnf](./data/java/java_lang.bnf)<br />
 Our dataset is placed at [data/java/text_files](./data/java/text_files). It contains 28245 preprocessed java methods selected from [Funcom dataset].<br />
-There is also small subset of this dataset that consists of first 156 methods placed at [data/java_small/text_files](./data/java_small/text_files).
+There is also small dataset placed at [data/java_small/text_files](./data/java_small/text_files) that consists of first 156 methods from original dataset.
 
 ## Usage
 ### Sampling with pretrained model
@@ -55,10 +55,7 @@ Random samples produced by generator after training GAN for 10 epochs:
  public void setTimelpir(int s, int oMB) throws M2SYP_W { }
 ```
 ### Plots
-![Generator pretrain losses](plots/pretrain_gen_loss.png)
-![Generator losses](plots/gen_loss.png)
-![Generator rewards](plots/gen_rewards.png)
-![Discriminator losses](plots/dis_loss.png)
+![plots](./plots/all.png)
 
    [denizetkar]: <https://github.com/denizetkar/TreeGAN>
    [arxiv]: <https://arxiv.org/abs/1808.07582>

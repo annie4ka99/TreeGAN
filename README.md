@@ -30,12 +30,12 @@ python sampling.py [--n=<number of samples>] [--ckpt=<path to checkpoint file>]
 
 ### Training
 Running [main.py](./main.py) will start training with random initial weights.
-- To train model from pre-trained weights use `--pretrained`. It will load weights from checkpoint [models/java.model](./models/java.model)
+- To train model from pre-trained weights use `--pretrained`.<br /> It will load weights from checkpoint [models/java.model](./models/java.model)
 - To train model from specific pre-trained weights checkpoint use `--pretrained --ckpt=<path to checkpoint file>`
 - If you want to use small dataset for fast training use `--small` 
-- To specify path for saving model checkpoint use `--save_dir=<path to directory>`. It will save `java.model` file into specified directory which must exist.
+- To specify path for saving model checkpoint use `--save_dir=<path to directory>`.<br /> It will save `java.model` file into specified directory which must exist.
 By default model is saved to [models/java.model](./models/java.model) or file specified in `--ckpt` argument.
-- To specify path for saving training stats(losses, rewards) use `--stats=<path to directory>`. 
+- To specify path for saving training stats(losses, rewards) use `--stats=<path to directory>`. <br />
 Specified directory must exist. By default stats are saved into [stats](./stats) directory.
 ```sh
 python main.py [--small] [--pretrained [--ckpt=<path to checkpoint file>]] [--save_dir=<path to directory>] [--stats=<path to directory>]

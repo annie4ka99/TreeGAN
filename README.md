@@ -1,8 +1,8 @@
 ## Overview
 Generaive Adversarial Network for Java methods source code synthesis.
 
-This repository is forked from [denizetkar] 
-Work is inspired by paper *TreeGAN: Syntax-Aware Sequence Generation with Generative Adversarial Networks* [[arxiv]]
+This repository is forked from [denizetkar].<br />
+Work is inspired by paper *TreeGAN: Syntax-Aware Sequence Generation with Generative Adversarial Networks* [[arxiv]].
 
 ## Installation
 It's recommended to create new environment. We used Anaconda environment with Python 3.7.
@@ -15,10 +15,9 @@ pip install -r requirements.txt
 ```
 
 ## Data
-We use simplified  placed at [data/java/java_lang.bnf](./data/java/java_lang.bnf)
-Our dataset is placed at [data/java/text_files](./data/java/text_files)
-It contains 28245 preprocessed java methods selected from [Funcom dataset] that fit our Java grammar.
-There is also small subset of this dataset that consists of first 156 methods placed at [data/java_small/text_files](./data/java_small/text_files).
+We use simplified Java BNF-grammar placed at [data/java/java_lang.bnf](./data/java/java_lang.bnf)<br />
+Our dataset is placed at [data/java/text_files](./data/java/text_files). It contains 28245 preprocessed java methods selected from [Funcom dataset].<br />
+There is also small dataset placed at [data/java_small/text_files](./data/java_small/text_files) that consists of first 156 methods from original dataset.
 
 ## Usage
 ### Sampling with pretrained model
@@ -37,7 +36,7 @@ Running [main.py](./main.py) will start training with random initial weights.
 - To specify path for saving model checkpoint use `--save_dir=<path to directory>`. It will save `java.model` file into specified directory which must exist.
 By default model is saved to [models/java.model](./models/java.model) or file specified in `--ckpt` argument.
 - To specify path for saving training stats(losses, rewards) use `--stats=<path to directory>`. 
-Specified directory must exist. By default stats are saved to [stats](./stats) directory.
+Specified directory must exist. By default stats are saved into [stats](./stats) directory.
 ```sh
 python main.py [--small] [--pretrained [--ckpt=<path to checkpoint file>]] [--save_dir=<path to directory>] [--stats=<path to directory>]
 ```
@@ -56,10 +55,7 @@ Random samples produced by generator after training GAN for 10 epochs:
  public void setTimelpir(int s, int oMB) throws M2SYP_W { }
 ```
 ### Plots
-![Generator pretrain losses](plots/pretrain_gen_loss.png)
-![Generator losses](plots/gen_loss.png)
-![Generator rewards](plots/gen_rewards.png)
-![Discriminator losses](plots/dis_loss.png)
+![plots](./plots/all.png)
 
    [denizetkar]: <https://github.com/denizetkar/TreeGAN>
    [arxiv]: <https://arxiv.org/abs/1808.07582>
